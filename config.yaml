@@ -1,0 +1,55 @@
+# ============================================================
+#  CONFIGURACIÓN DEL VIGILANTE DE DESCUENTOS
+#  Puedes editar este archivo directamente en GitHub (icono del lápiz).
+# ============================================================
+
+# Solo te avisa de artículos rebajados MÁS de este porcentaje
+descuento_minimo: 60
+
+# Máximo de ofertas por aviso (las demás llegan en el siguiente)
+max_avisos_por_ejecucion: 15
+
+# Para cada tienda, pega en "urls" la dirección de su sección de
+# rebajas/ofertas de HOMBRE (cópiala de la barra del navegador).
+# Puedes poner varias direcciones por tienda, una por línea con "- ".
+#
+# navegador: true  -> abre la web con un Chrome invisible. Necesario en
+#                     webs que cargan los productos con JavaScript.
+#                     Es más lento, pero lee más webs.
+
+tiendas:
+
+  - nombre: Zara
+    urls:
+      - https://www.zara.com/es/es/hombre-precios-especiales-l806.html
+    navegador: false
+
+  - nombre: Lefties
+    urls:
+      # Pega aquí la sección de rebajas de hombre de lefties.com, p. ej.:
+      # - https://www.lefties.com/es/hombre/...
+    navegador: true
+
+  - nombre: Fifty
+    urls:
+      # Pega aquí la sección de outlet/rebajas de hombre de Fifty
+      # - https://...
+    navegador: true
+
+  - nombre: PcComponentes
+    urls:
+      # Pega aquí su página de ofertas o del outlet
+      # - https://www.pccomponentes.com/...
+    navegador: true
+
+  - nombre: Sevilla FC (tienda oficial)
+    urls:
+      # Pega aquí la sección de ofertas/rebajas de la tienda oficial
+      # - https://...
+    navegador: true
+    # Si la tienda es Shopify (ver guía), quita la "#" de la línea de abajo
+    # y pon la dirección principal de la tienda: así revisa el catálogo entero.
+    # shopify: https://...
+
+# Amazon no está incluido a propósito: tiene millones de artículos.
+# Para Amazon usa Keepa (keepa.com), que avisa de bajadas por porcentaje.
