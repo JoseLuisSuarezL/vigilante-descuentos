@@ -1,0 +1,54 @@
+{
+ "cursores": {},
+ "vistos": {
+  "30e2e64942011a76": {
+   "avisado_precio": 10.0,
+   "descuento": 67,
+   "nombre": "VAQUEROS NEGROS MALAGA CF",
+   "precio": 10.0,
+   "ultima_vez": "2026-10-27T22:54:43.496253"
+  },
+  "603a4ad63c89c996": {
+   "avisado_precio": 14.99,
+   "descuento": 70,
+   "nombre": "CAMISETA BASEBALL AZUL MALAGA CF",
+   "precio": 14.99,
+   "ultima_vez": "2026-10-27T22:54:43.496253"
+  },
+  "7d81129f9f0608d2": {
+   "avisado_precio": 10.0,
+   "descuento": 67,
+   "nombre": "VAQUEROS JOGGER MALAGA CF",
+   "precio": 10.0,
+   "ultima_vez": "2026-10-27T22:54:43.496253"
+  },
+  "be9d1ef42f8466b5": {
+   "avisado_precio": 14.99,
+   "descuento": 70,
+   "nombre": "CAMISETA BASEBALL BLANCA MALAGA CF",
+   "precio": 14.99,
+   "ultima_vez": "2026-10-27T22:54:43.496253"
+  },
+  "d8d2a5fee15fdffa": {
+   "avisado_precio": 19.99,
+   "descuento": 67,
+   "nombre": "HOODIE CELESTE MALAGA CF",
+   "precio": 19.99,
+   "ultima_vez": "2026-10-27T22:54:43.496253"
+  },
+  "fa01c377ef33ebc2": {
+   "avisado_precio": 10.0,
+   "descuento": 60,
+   "nombre": "VAQUEROS SKINNY MALAGA CF",
+   "precio": 10.0,
+   "ultima_vez": "2026-10-27T22:54:43.496253"
+  },
+  "fd18933d8b6c9654": {
+   "avisado_precio": 19.95,
+   "descuento": 60,
+   "nombre": "PANTALÓN RETRO MALAGA CF 2025/26",
+   "precio": 19.95,
+   "ultima_vez": "2026-10-27T22:54:43.496253"
+  }
+ }
+}
