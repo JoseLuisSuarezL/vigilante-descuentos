@@ -120,6 +120,7 @@ tiendas:
   # PULL&BEAR · Igual que Massimo Dutti. Sus fichas pesan mucho, así que el
   # catálogo completo va por turnos pequeños.
   - nombre: Pull&Bear
+    activa: false   # bloquea las visitas automáticas; pon true para probar otra vez
     grupo: Moda Inditex
     inditex:
       web: https://www.pullandbear.com
@@ -164,11 +165,13 @@ tiendas:
       - "https://www.elganso.com/es/precios-especiales/precios-especiales-hombre.html"
 
   # ---------- EL CORTE INGLÉS ----------
+  # DESACTIVADO: su protección anti-robots bloquea las visitas desde GitHub (error 403).
   # Cada departamento: su sección "Descuentos TOP" + el departamento entero.
   # Son miles de productos (12 por página), así que se leen por turnos de 12
   # páginas en cada vuelta: Descuentos TOP se completa en menos de una hora
   # y los departamentos enteros, en unas horas.
   - nombre: El Corte Inglés · Hombre
+    activa: false   # bloquea las visitas automáticas; pon true para probar otra vez
     grupo: El Corte Inglés
     paginadas:
       - https://www.elcorteingles.es/descuentos/moda-hombre/{n}/
@@ -176,6 +179,7 @@ tiendas:
     paginas_por_vez: 12
     paginas_max: 420
   - nombre: El Corte Inglés · Bebés
+    activa: false   # bloquea las visitas automáticas; pon true para probar otra vez
     grupo: El Corte Inglés
     paginadas:
       - https://www.elcorteingles.es/descuentos/bebes/{n}/
@@ -183,6 +187,7 @@ tiendas:
     paginas_por_vez: 12
     paginas_max: 420
   - nombre: El Corte Inglés · Electrónica
+    activa: false   # bloquea las visitas automáticas; pon true para probar otra vez
     grupo: El Corte Inglés
     paginadas:
       - https://www.elcorteingles.es/descuentos/electronica/{n}/
@@ -190,6 +195,7 @@ tiendas:
     paginas_por_vez: 12
     paginas_max: 420
   - nombre: El Corte Inglés · Electrodomésticos
+    activa: false   # bloquea las visitas automáticas; pon true para probar otra vez
     grupo: El Corte Inglés
     paginadas:
       - https://www.elcorteingles.es/descuentos/electrodomesticos/{n}/
@@ -198,30 +204,35 @@ tiendas:
     paginas_max: 420
 
   # ---------- AMAZON ----------
+  # DESACTIVADO: Amazon bloquea las visitas desde GitHub (error 503). Usa Keepa.
   # Búsqueda con el filtro de Amazon "60 % de descuento o más" + "vendido por
   # Amazon" (sin vendedores externos, que inflan el precio recomendado). El
   # descuento real se calcula con el precio tachado y se descartan anuncios.
   # Amazon puede bloquear las visitas desde GitHub: si sale "BLOQUEADA",
   # usa Keepa (keepa.com) para Amazon.
   - nombre: Amazon · Hombre
+    activa: false   # bloquea las visitas automáticas; pon true para probar otra vez
     grupo: Amazon
     paginadas:
       - "https://www.amazon.es/s?i=fashion-mens&rh=p_8%3A60-99%2Cp_6%3AA1AT7YVPFBWXBL&page={n}"
     paginas_por_vez: 4
     paginas_max: 20
   - nombre: Amazon · Bebé
+    activa: false   # bloquea las visitas automáticas; pon true para probar otra vez
     grupo: Amazon
     paginadas:
       - "https://www.amazon.es/s?i=baby&rh=p_8%3A60-99%2Cp_6%3AA1AT7YVPFBWXBL&page={n}"
     paginas_por_vez: 4
     paginas_max: 20
   - nombre: Amazon · Electrónica
+    activa: false   # bloquea las visitas automáticas; pon true para probar otra vez
     grupo: Amazon
     paginadas:
       - "https://www.amazon.es/s?i=electronics&rh=p_8%3A60-99%2Cp_6%3AA1AT7YVPFBWXBL&page={n}"
     paginas_por_vez: 4
     paginas_max: 20
   - nombre: Amazon · Electrodomésticos
+    activa: false   # bloquea las visitas automáticas; pon true para probar otra vez
     grupo: Amazon
     paginadas:
       - "https://www.amazon.es/s?i=appliances&rh=p_8%3A60-99%2Cp_6%3AA1AT7YVPFBWXBL&page={n}"
