@@ -154,7 +154,7 @@ def descargar_con_navegador(url, max_cargas=80, max_segundos=480):
             pass
 
     with sync_playwright() as p:
-        nav = p.chromium.launch(headless=True, args=["--disable-blink-features=AutomationControlled"])
+        nav = p.chromium.launch(headless=True)
         ctx = nav.new_context(
             user_agent=CABECERAS["User-Agent"],
             locale="es-ES",
@@ -408,6 +408,20 @@ def extraer_de_atributos(soup, base_url):
         if antes and ahora and antes > ahora:
             url, nombre = _enlace_y_nombre(item, base_url)
             productos.append({"nombre": nombre, "url": url, "antes": antes, "ahora": ahora})
+    if productos:
+        return productos
+    # 4) Tarjetas ScandiPWA (El Ganso): <del class="ProductPrice-HighPrice"> + .ProductPrice-PriceValue
+    for item in soup.select(".ProductCard, li.ProductCard"):
+        viejo = item.select_one(".ProductPrice-HighPrice")
+        final = item.select_one(".ProductPrice-PriceValue")
+        if not viejo or not final:
+            continue
+        a = precios_en_texto(viejo.get_text(" ", strip=True))
+        b = precios_en_texto(final.get_text(" ", strip=True))
+        antes, ahora = (a[0] if a else None), (b[0] if b else None)
+        if antes and ahora and antes > ahora:
+            url, nombre = _enlace_y_nombre(item, base_url)
+            productos.append({"nombre": nombre, "url": url, "antes": antes, "ahora": ahora})
     return productos
 
 
@@ -462,11 +476,12 @@ def extraer_de_html(soup, base_url):
             tarjeta = padre
         if id(tarjeta) in usados:
             continue
-        # Si la tarjeta enlaza a varios productos distintos, es que mezcla productos
+        # Si el propio bloque de precios enlaza a varios productos distintos,
+        # es que mezcla productos (las tarjetas sí pueden tener un enlace por color)
         enlaces = {urljoin(base_url, a["href"]).split("#")[0].split("?")[0]
-                   for a in ([tarjeta] if tarjeta.name == "a" else []) + tarjeta.find_all("a", href=True)
+                   for a in ([el] if el.name == "a" else []) + el.find_all("a", href=True)
                    if a.get("href") and not a["href"].startswith(("#", "javascript"))}
-        if len(enlaces) > 2:
+        if len(enlaces) > 1:
             continue
         usados.add(id(tarjeta))
         url, nombre = _enlace_y_nombre(tarjeta, base_url)
@@ -556,12 +571,19 @@ def descuento(p):
 
 
 def sin_duplicados(productos, url_base=""):
+    """Quita repetidos: mismo enlace, o mismo nombre y mismos precios (otro color)."""
     unicos, claves = [], set()
     for p in productos:
-        clave = (p["url"] if p["url"] != url_base else "") or p["nombre"].lower()
-        if clave in claves:
+        url = p["url"] if p["url"] != url_base else ""
+        # quita solo los parámetros de color/talla (dwvar_..., color=...), no la búsqueda
+        url_limpia = re.sub(r"([?&])(dwvar_[^=&]*|color|colour|variant)=[^&]*", r"\1", url)
+        url_limpia = re.sub(r"[?&]+$", "", re.sub(r"&{2,}|\?&", lambda m: m.group(0)[0], url_limpia))
+        k1 = url_limpia or p["nombre"].lower()
+        k2 = (p["nombre"].strip().lower(), round(p["antes"], 2), round(p["ahora"], 2))
+        if k1 in claves or k2 in claves:
             continue
-        claves.add(clave)
+        claves.add(k1)
+        claves.add(k2)
         unicos.append(p)
     return unicos
 
@@ -1176,7 +1198,7 @@ def cargar_estado(nombre_tienda):
 
 
 def guardar_estado(nombre_tienda, datos):
-    limite = (dt.datetime.utcnow() - dt.timedelta(days=30)).isoformat()
+    limite = (dt.datetime.now(dt.timezone.utc).replace(tzinfo=None) - dt.timedelta(days=30)).isoformat()
     datos["vistos"] = {k: v for k, v in datos["vistos"].items()
                        if v.get("ultima_vez", "") >= limite}
     os.makedirs(os.path.join(BASE, "estado"), exist_ok=True)
@@ -1375,7 +1397,7 @@ def revisar_tienda(tienda, config, accion):
                         print(f"  Error leyendo {url}: {e2}")
 
     productos = sin_duplicados(productos)
-    ahora_iso = dt.datetime.utcnow().isoformat()
+    ahora_iso = dt.datetime.now(dt.timezone.utc).replace(tzinfo=None).isoformat()
     pendientes = []
     for p in productos:
         d = descuento(p)
@@ -1447,6 +1469,8 @@ def main():
     with open(RUTA_CONFIG, encoding="utf-8") as f:
         config = yaml.safe_load(f)
     tiendas = config.get("tiendas", []) or []
+
+    tiendas = [t for t in tiendas if t.get("activa", True) is not False]
 
     def grupo_de(t):
         return t.get("grupo") or t.get("nombre", "Tienda")
