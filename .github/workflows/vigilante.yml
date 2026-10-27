@@ -19,14 +19,53 @@ on:
 permissions:
   contents: write
 
-concurrency:
-  group: vigilante
-  cancel-in-progress: false
-
 jobs:
-  revisar:
+  # Pruebas de Telegram (solo cuando las eliges a mano)
+  telegram:
+    if: ${{ inputs.accion == 'mensaje_de_prueba' || inputs.accion == 'averiguar_chat_id' }}
     runs-on: ubuntu-latest
-    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install requests beautifulsoup4 pyyaml
+      - name: Revisar tiendas
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          CALLMEBOT_PHONE: ${{ secrets.CALLMEBOT_PHONE }}
+          CALLMEBOT_APIKEY: ${{ secrets.CALLMEBOT_APIKEY }}
+          ACCION: ${{ inputs.accion }}
+        run: python vigilante.py
+
+  # Lee config.yaml y prepara una tarea por tienda
+  preparar:
+    if: ${{ inputs.accion != 'mensaje_de_prueba' && inputs.accion != 'averiguar_chat_id' }}
+    runs-on: ubuntu-latest
+    outputs:
+      tiendas: ${{ steps.lista.outputs.tiendas }}
+    steps:
+      - uses: actions/checkout@v4
+      - id: lista
+        run: |
+          pip install pyyaml requests beautifulsoup4 >/dev/null
+          echo "tiendas=$(python vigilante.py --listar)" >> "$GITHUB_OUTPUT"
+
+  # Revisa todas las tiendas a la vez, cada una por su lado
+  revisar:
+    needs: preparar
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    strategy:
+      fail-fast: false
+      matrix:
+        tienda: ${{ fromJSON(needs.preparar.outputs.tiendas) }}
+    concurrency:
+      group: vigilante-${{ matrix.tienda }}
+      cancel-in-progress: false
+    name: ${{ matrix.tienda }}
     steps:
       - uses: actions/checkout@v4
 
@@ -38,9 +77,9 @@ jobs:
       - name: Instalar dependencias
         run: pip install -r requirements.txt
 
-      - name: Instalar navegador invisible (solo si alguna tienda lo usa)
+      - name: Instalar navegador invisible (solo si alguna tienda del grupo lo usa)
         run: |
-          if grep -Eq "^[[:space:]]*navegador:[[:space:]]*true" config.yaml; then
+          if python vigilante.py --necesita-navegador "${{ matrix.tienda }}"; then
             python -m playwright install --with-deps chromium
           fi
 
@@ -51,18 +90,20 @@ jobs:
           CALLMEBOT_PHONE: ${{ secrets.CALLMEBOT_PHONE }}
           CALLMEBOT_APIKEY: ${{ secrets.CALLMEBOT_APIKEY }}
           ACCION: ${{ inputs.accion || 'normal' }}
-        run: python vigilante.py
+        run: python vigilante.py --tienda "${{ matrix.tienda }}"
 
       - name: Guardar lo ya avisado
         if: always()
         run: |
-          if [ -f vistos.json ]; then
+          if [ -d estado ]; then
             git config user.name "vigilante-bot"
             git config user.email "vigilante-bot@users.noreply.github.com"
-            git add vistos.json
+            git add estado
             if ! git diff --cached --quiet; then
-              git commit -m "Actualizar artículos vistos"
-              git pull --rebase --autostash || true
-              git push || true
+              git commit -m "Estado: ${{ matrix.tienda }}"
+              for i in 1 2 3 4 5; do
+                git pull --rebase --autostash && git push && break
+                sleep $((RANDOM % 10 + 3))
+              done
             fi
           fi
