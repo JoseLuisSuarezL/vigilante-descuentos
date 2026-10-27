@@ -48,10 +48,17 @@ jobs:
       tiendas: ${{ steps.lista.outputs.tiendas }}
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
       - id: lista
         run: |
-          pip install pyyaml requests beautifulsoup4 >/dev/null
-          echo "tiendas=$(python vigilante.py --listar)" >> "$GITHUB_OUTPUT"
+          set -e
+          pip install pyyaml requests beautifulsoup4
+          LISTA=$(python vigilante.py --listar)
+          echo "Grupos de tiendas: $LISTA"
+          echo "tiendas=$LISTA" >> "$GITHUB_OUTPUT"
 
   # Revisa todas las tiendas a la vez, cada una por su lado
   revisar:
