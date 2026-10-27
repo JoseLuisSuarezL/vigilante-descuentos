@@ -1,0 +1,105 @@
+{
+ "cursores": {
+  "https://pedrodelhierro.com/on/demandware.store/Sites-PDH-Site/es_ES/Search-UpdateGrid?cgid=men&pmin=0%2c01&start={inicio}&sz=120": 9
+ },
+ "vistos": {
+  "1df9d1d628ad582f": {
+   "avisado_precio": 15.99,
+   "descuento": 60,
+   "nombre": "Polo piqué de rayas",
+   "precio": 15.99,
+   "ultima_vez": "2026-10-27T22:54:24.340419"
+  },
+  "1edc159d9376f99b": {
+   "avisado_precio": 19.99,
+   "descuento": 64,
+   "nombre": "Polo punto manga corta algodón estructura",
+   "precio": 19.99,
+   "ultima_vez": "2026-10-27T22:54:24.340419"
+  },
+  "1fb97f116b7b98c5": {
+   "avisado_precio": 15.99,
+   "descuento": 68,
+   "nombre": "Polo de estructura",
+   "precio": 15.99,
+   "ultima_vez": "2026-10-27T22:54:24.340419"
+  },
+  "3f91822839d59475": {
+   "avisado_precio": 19.99,
+   "descuento": 60,
+   "nombre": "Polo estructura otomán",
+   "precio": 19.99,
+   "ultima_vez": "2026-10-27T22:54:24.340419"
+  },
+  "432b0922030bf8ee": {
+   "avisado_precio": 15.99,
+   "descuento": 60,
+   "nombre": "Polo piqué tips",
+   "precio": 15.99,
+   "ultima_vez": "2026-10-27T22:54:24.340419"
+  },
+  "573b8c321fb83a79": {
+   "avisado_precio": 29.99,
+   "descuento": 67,
+   "nombre": "Polo puño fantasía",
+   "precio": 29.99,
+   "ultima_vez": "2026-10-27T22:54:24.340419"
+  },
+  "8bc917b078dea1a8": {
+   "avisado_precio": 39.95,
+   "descuento": 60,
+   "nombre": "Polo estructura manga larga",
+   "precio": 39.95,
+   "ultima_vez": "2026-10-27T22:54:24.340419"
+  },
+  "a13b30b98943d88e": {
+   "avisado_precio": 29.99,
+   "descuento": 67,
+   "nombre": "Sudadera logo cuello caja",
+   "precio": 29.99,
+   "ultima_vez": "2026-10-27T22:54:24.340419"
+  },
+  "b6425c2ac6a3c995": {
+   "avisado_precio": 15.99,
+   "descuento": 60,
+   "nombre": "Camiseta básica",
+   "precio": 15.99,
+   "ultima_vez": "2026-10-27T22:54:24.340419"
+  },
+  "b7aa946481036507": {
+   "avisado_precio": 39.95,
+   "descuento": 60,
+   "nombre": "Chino estructura ligero slim",
+   "precio": 39.95,
+   "ultima_vez": "2026-10-27T22:54:24.340419"
+  },
+  "b86f7fc20cec075f": {
+   "avisado_precio": 29.99,
+   "descuento": 62,
+   "nombre": "Polo básico piqué",
+   "precio": 29.99,
+   "ultima_vez": "2026-10-27T22:54:24.340419"
+  },
+  "b8d238fa2ccdb64f": {
+   "avisado_precio": 29.9,
+   "descuento": 63,
+   "nombre": "Chino ligero popelín regular",
+   "precio": 29.9,
+   "ultima_vez": "2026-10-27T22:54:24.340419"
+  },
+  "cae9c7224407ffca": {
+   "avisado_precio": 39.99,
+   "descuento": 69,
+   "nombre": "Sobrecamisa lisa tencel lino",
+   "precio": 39.99,
+   "ultima_vez": "2026-10-27T22:54:24.340419"
+  },
+  "e8d51e6c3fcea42e": {
+   "avisado_precio": 15.99,
+   "descuento": 60,
+   "nombre": "Polo oxford rayas",
+   "precio": 15.99,
+   "ultima_vez": "2026-10-27T22:54:24.340419"
+  }
+ }
+}
