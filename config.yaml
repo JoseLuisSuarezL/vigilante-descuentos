@@ -1,55 +1,68 @@
-# ============================================================
-#  CONFIGURACIÓN DEL VIGILANTE DE DESCUENTOS
-#  Puedes editar este archivo directamente en GitHub (icono del lápiz).
-# ============================================================
+name: Vigilar descuentos
 
-# Solo te avisa de artículos rebajados MÁS de este porcentaje
-descuento_minimo: 60
+on:
+  schedule:
+    # Cada 15 minutos (GitHub puede retrasarlo unos minutos en horas punta)
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+    inputs:
+      accion:
+        description: "¿Qué quieres hacer?"
+        type: choice
+        default: normal
+        options:
+          - normal
+          - prueba_sin_enviar
+          - mensaje_de_prueba
+          - averiguar_chat_id
 
-# Máximo de ofertas por aviso (las demás llegan en el siguiente)
-max_avisos_por_ejecucion: 15
+permissions:
+  contents: write
 
-# Para cada tienda, pega en "urls" la dirección de su sección de
-# rebajas/ofertas de HOMBRE (cópiala de la barra del navegador).
-# Puedes poner varias direcciones por tienda, una por línea con "- ".
-#
-# navegador: true  -> abre la web con un Chrome invisible. Necesario en
-#                     webs que cargan los productos con JavaScript.
-#                     Es más lento, pero lee más webs.
+concurrency:
+  group: vigilante
+  cancel-in-progress: false
 
-tiendas:
+jobs:
+  revisar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
 
-  - nombre: Zara
-    urls:
-      - https://www.zara.com/es/es/hombre-precios-especiales-l806.html
-    navegador: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
 
-  - nombre: Lefties
-    urls:
-      # Pega aquí la sección de rebajas de hombre de lefties.com, p. ej.:
-      # - https://www.lefties.com/es/hombre/...
-    navegador: true
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
 
-  - nombre: Fifty
-    urls:
-      # Pega aquí la sección de outlet/rebajas de hombre de Fifty
-      # - https://...
-    navegador: true
+      - name: Instalar navegador invisible (solo si alguna tienda lo usa)
+        run: |
+          if grep -Eq "^[[:space:]]*navegador:[[:space:]]*true" config.yaml; then
+            python -m playwright install --with-deps chromium
+          fi
 
-  - nombre: PcComponentes
-    urls:
-      # Pega aquí su página de ofertas o del outlet
-      # - https://www.pccomponentes.com/...
-    navegador: true
+      - name: Revisar tiendas
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          CALLMEBOT_PHONE: ${{ secrets.CALLMEBOT_PHONE }}
+          CALLMEBOT_APIKEY: ${{ secrets.CALLMEBOT_APIKEY }}
+          ACCION: ${{ inputs.accion || 'normal' }}
+        run: python vigilante.py
 
-  - nombre: Sevilla FC (tienda oficial)
-    urls:
-      # Pega aquí la sección de ofertas/rebajas de la tienda oficial
-      # - https://...
-    navegador: true
-    # Si la tienda es Shopify (ver guía), quita la "#" de la línea de abajo
-    # y pon la dirección principal de la tienda: así revisa el catálogo entero.
-    # shopify: https://...
-
-# Amazon no está incluido a propósito: tiene millones de artículos.
-# Para Amazon usa Keepa (keepa.com), que avisa de bajadas por porcentaje.
+      - name: Guardar lo ya avisado
+        if: always()
+        run: |
+          if [ -f vistos.json ]; then
+            git config user.name "vigilante-bot"
+            git config user.email "vigilante-bot@users.noreply.github.com"
+            git add vistos.json
+            if ! git diff --cached --quiet; then
+              git commit -m "Actualizar artículos vistos"
+              git pull --rebase --autostash || true
+              git push || true
+            fi
+          fi
