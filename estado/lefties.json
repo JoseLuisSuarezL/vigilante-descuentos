@@ -1,4 +1,12 @@
 {
- "cursores": {},
+ "acumulado": {
+  "top": [],
+  "total": 0
+ },
+ "cursores": {
+  "inditex:https://www.lefties.com:hombre": 0
+ },
+ "fase_inicial": false,
+ "version_filtro": 2,
  "vistos": {}
 }
