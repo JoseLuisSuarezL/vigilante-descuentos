@@ -4,10 +4,10 @@
   "total": 0
  },
  "cursores": {
-  "https://myspringfield.com/on/demandware.store/Sites-SPF-Site/es_ES/Search-UpdateGrid?cgid=men&pmin=0%2c01&start={inicio}&sz=120": 31
+  "https://myspringfield.com/on/demandware.store/Sites-SPF-Site/es_ES/Search-UpdateGrid?cgid=men&pmin=0%2c01&start={inicio}&sz=120": 41
  },
  "fase_inicial": false,
- "ultima_revision": "2026-10-28T17:32:53.974362",
+ "ultima_revision": "2026-10-28T17:46:49.238030",
  "version_filtro": 2,
  "vistos": {
   "0011e4953f9712bb": {
@@ -731,7 +731,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "097605434ba152d6": {
    "avisado_precio": null,
@@ -777,7 +777,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "0a3735d936f6777f": {
    "avisado_precio": null,
@@ -1403,7 +1403,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "1131573abdeb64f3": {
    "avisado_precio": null,
@@ -1857,7 +1857,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "18754382cbd6464f": {
    "avisado_precio": null,
@@ -3137,7 +3137,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "275f8e49d182cba6": {
    "avisado_precio": null,
@@ -3588,7 +3588,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "2eb4ccc1e9824c6a": {
    "avisado_precio": null,
@@ -3760,7 +3760,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "32ba9b7e7d24f1e7": {
    "avisado_precio": 14.99,
@@ -4353,7 +4353,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "392ae90ca543abd4": {
    "avisado_precio": null,
@@ -4683,7 +4683,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "3c376c5e23c3d1b3": {
    "avisado_precio": null,
@@ -4983,7 +4983,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "3e69e018532175da": {
    "avisado_precio": null,
@@ -5115,7 +5115,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "3ed704638910ec32": {
    "avisado_precio": null,
@@ -5357,7 +5357,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "40950caccff2b40e": {
    "avisado_precio": null,
@@ -5596,7 +5596,7 @@
    "descuento": 84,
    "nombre": "Gorro con viscosa",
    "precio": 7.99,
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "445e95a37695fda9": {
    "avisado_precio": null,
@@ -6436,7 +6436,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "4bd546fde1fe34d3": {
    "avisado_precio": null,
@@ -6624,14 +6624,14 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "4ceb500ff85220a1": {
    "avisado_precio": null,
    "descuento": 70,
    "nombre": "Cinturón cinta ajustable",
    "precio": 14.99,
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "4dca23607ee44f65": {
    "avisado_precio": 5.99,
@@ -6835,14 +6835,14 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "4e988b5bfdade6d6": {
    "avisado_precio": null,
    "descuento": 74,
    "nombre": "Gorro de punto",
    "precio": 12.99,
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "4f192e1ce33c61a1": {
    "avisado_precio": null,
@@ -7152,7 +7152,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "5533b2a312a4aedd": {
    "avisado_precio": null,
@@ -7323,7 +7323,7 @@
    "descuento": 73,
    "nombre": "Camiseta stickers",
    "precio": 5.99,
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "58618dbe6e10f5af": {
    "avisado_precio": null,
@@ -7930,7 +7930,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "602149a396c82412": {
    "avisado_precio": null,
@@ -7999,7 +7999,7 @@
    "descuento": 68,
    "nombre": "Camisa algodón lino cuadros manga corta",
    "precio": 25.9,
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "60ddb3cd45439cf6": {
    "avisado_precio": 5.99,
@@ -8101,7 +8101,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "6109288f97c22b44": {
    "avisado_precio": null,
@@ -8257,7 +8257,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "61e2ff1079d7daa1": {
    "avisado_precio": 12.99,
@@ -8792,7 +8792,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "65047f567d61e431": {
    "avisado_precio": null,
@@ -8931,7 +8931,7 @@
    "descuento": 70,
    "nombre": "Cinturón 1 piel",
    "precio": 14.99,
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "661e4d2fafc13061": {
    "avisado_precio": 19.99,
@@ -9021,7 +9021,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "6647beae0b343d92": {
    "avisado_precio": 17.99,
@@ -9129,7 +9129,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "67199aa53d49b4e6": {
    "avisado_precio": null,
@@ -9472,7 +9472,7 @@
    "descuento": 74,
    "nombre": "Guantes con acrílico",
    "precio": 12.99,
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "6a9f1ee61517e259": {
    "avisado_precio": null,
@@ -9891,7 +9891,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "6c86202e411e16ee": {
    "avisado_precio": null,
@@ -10399,7 +10399,7 @@
    "descuento": 60,
    "nombre": "Set de gorro y guantes",
    "precio": 19.99,
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "742085145eb9d725": {
    "avisado_precio": null,
@@ -11087,7 +11087,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "79184e88b45a13fb": {
    "avisado_precio": 14.99,
@@ -12340,7 +12340,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "84006d318809b202": {
    "avisado_precio": 9.99,
@@ -12788,7 +12788,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "881a07c8d5cf4fb6": {
    "avisado_precio": null,
@@ -13166,7 +13166,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "8b028309b777e9c8": {
    "avisado_precio": null,
@@ -13386,7 +13386,7 @@
    "descuento": 64,
    "nombre": "Riñonera",
    "precio": 17.99,
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "8fa8b7454e7c2ea3": {
    "avisado_precio": 5.99,
@@ -13488,7 +13488,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "9059eb064318d81b": {
    "avisado_precio": null,
@@ -14010,7 +14010,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "95493ce110cf0437": {
    "avisado_precio": null,
@@ -14374,7 +14374,7 @@
    "descuento": 60,
    "nombre": "Bufanda con acrílico",
    "precio": 19.99,
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "9b70790742f40dc0": {
    "avisado_precio": null,
@@ -14388,7 +14388,7 @@
    "descuento": 74,
    "nombre": "Gorro de punto con poliéster",
    "precio": 12.99,
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "9eb059f29ffe4886": {
    "avisado_precio": null,
@@ -14736,7 +14736,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "9fdd4a45eccd4dd4": {
    "avisado_precio": null,
@@ -15063,7 +15063,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "a20a849adeef3c57": {
    "avisado_precio": 14.99,
@@ -16205,7 +16205,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "abb88c483da0675b": {
    "avisado_precio": 9.99,
@@ -16535,7 +16535,7 @@
    "descuento": 64,
    "nombre": "Bolso bandolera",
    "precio": 17.99,
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "b046bd1121f3d5f7": {
    "avisado_precio": null,
@@ -16908,7 +16908,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "b31b6db7378bfb5a": {
    "avisado_precio": null,
@@ -17174,7 +17174,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "b59b8984c0f0ad13": {
    "avisado_precio": null,
@@ -18353,7 +18353,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "be031a383712d782": {
    "avisado_precio": 7.99,
@@ -18611,7 +18611,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "bfa232a556218547": {
    "avisado_precio": 5.99,
@@ -18713,7 +18713,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "bfa7a06a64fb5830": {
    "avisado_precio": null,
@@ -19621,7 +19621,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "c8f1864ba51db6e4": {
    "avisado_precio": null,
@@ -20074,7 +20074,7 @@
    "descuento": 70,
    "nombre": "Gorra básica con bordado",
    "precio": 14.99,
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "cba1d18651b42bce": {
    "avisado_precio": null,
@@ -20150,7 +20150,7 @@
    "descuento": 80,
    "nombre": "Gorro de punto con acrílico",
    "precio": 9.99,
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "cd20494295211a80": {
    "avisado_precio": null,
@@ -21419,7 +21419,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "d7559fd98b8e824b": {
    "avisado_precio": null,
@@ -21683,7 +21683,7 @@
    "descuento": 60,
    "nombre": "Cinturón efecto piel",
    "precio": 19.99,
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "dc693495e2a9b868": {
    "avisado_precio": 9.99,
@@ -21777,7 +21777,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "de2520e0079f407f": {
    "avisado_precio": null,
@@ -21941,7 +21941,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "e0d62b3158022287": {
    "avisado_precio": 19.99,
@@ -22043,7 +22043,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "e29cd79e84d7c193": {
    "avisado_precio": 15.99,
@@ -22145,7 +22145,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "e3604f027b8308d8": {
    "avisado_precio": null,
@@ -22549,7 +22549,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "e7cbedddc143b576": {
    "avisado_precio": null,
@@ -22602,7 +22602,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "e9edb313fdad5f1a": {
    "avisado_precio": null,
@@ -23349,7 +23349,7 @@
    "descuento": 80,
    "nombre": "Gorro de punto logo",
    "precio": 9.99,
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "ee7848921d77d8dd": {
    "avisado_precio": null,
@@ -23688,7 +23688,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "f0830aff20f69f24": {
    "avisado_precio": null,
@@ -24406,7 +24406,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "f592f5eacda6795d": {
    "avisado_precio": null,
@@ -25226,7 +25226,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "fa68cbb3b1a2104e": {
    "avisado_precio": null,
@@ -25376,7 +25376,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T17:32:31.749297"
+   "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "fecfb8fc1f02b492": {
    "avisado_precio": null,
