@@ -4,10 +4,10 @@
   "total": 0
  },
  "cursores": {
-  "https://myspringfield.com/on/demandware.store/Sites-SPF-Site/es_ES/Search-UpdateGrid?cgid=men&pmin=0%2c01&start={inicio}&sz=120": 1
+  "https://myspringfield.com/on/demandware.store/Sites-SPF-Site/es_ES/Search-UpdateGrid?cgid=men&pmin=0%2c01&start={inicio}&sz=120": 11
  },
  "fase_inicial": false,
- "ultima_revision": "2026-10-28T18:32:06.949568",
+ "ultima_revision": "2026-10-28T18:47:23.949694",
  "version_filtro": 2,
  "vistos": {
   "0011e4953f9712bb": {
@@ -116,7 +116,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "00d934e77aed8b35": {
    "avisado_precio": null,
@@ -186,7 +186,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "012b7ecb190341c7": {
    "avisado_precio": null,
@@ -255,10 +255,10 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "027ad2021b2348bf": {
-   "avisado_precio": null,
+   "avisado_precio": 5.99,
    "descuento": 73,
    "nombre": "Camiseta Sidonie",
    "precio": 5.99,
@@ -341,7 +341,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "04900f5621c0f2db": {
    "avisado_precio": null,
@@ -543,7 +543,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "0822c0ed6d12a1aa": {
    "avisado_precio": null,
@@ -637,7 +637,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "0907f51678e5e81c": {
    "avisado_precio": 5.99,
@@ -731,7 +731,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "097605434ba152d6": {
    "avisado_precio": null,
@@ -777,7 +777,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "0a3735d936f6777f": {
    "avisado_precio": null,
@@ -936,7 +936,7 @@
    "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "0cafec864849d9e4": {
-   "avisado_precio": null,
+   "avisado_precio": 5.99,
    "descuento": 70,
    "nombre": "Camiseta the bravest",
    "precio": 5.99,
@@ -1035,7 +1035,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "0d975c0d29d4e599": {
    "avisado_precio": 12.99,
@@ -1403,10 +1403,10 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "1131573abdeb64f3": {
-   "avisado_precio": null,
+   "avisado_precio": 5.99,
    "descuento": 70,
    "nombre": "Camiseta panadero piqué textura",
    "precio": 5.99,
@@ -1505,7 +1505,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "12f108df3d46d00e": {
    "avisado_precio": null,
@@ -1575,7 +1575,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "148d1cf6548a172e": {
    "avisado_precio": null,
@@ -1677,7 +1677,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "154d5ac613a0b4a2": {
    "avisado_precio": 10.99,
@@ -1857,7 +1857,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "18754382cbd6464f": {
    "avisado_precio": null,
@@ -1927,7 +1927,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "1971a379aef82a06": {
    "avisado_precio": null,
@@ -1989,7 +1989,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "1a5ac326bc6b2f7d": {
    "avisado_precio": null,
@@ -2091,7 +2091,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "1ce2a9b945c42eed": {
    "avisado_precio": null,
@@ -2105,7 +2105,7 @@
    "descuento": 68,
    "nombre": "Camiseta Queen Football",
    "precio": 7.99,
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "1f54914966db0061": {
    "avisado_precio": null,
@@ -2191,7 +2191,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "1fc3d937cc171ab4": {
    "avisado_precio": null,
@@ -2277,7 +2277,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "1ff63dbf0025cc93": {
    "avisado_precio": null,
@@ -2339,7 +2339,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "219b2b0c75595046": {
    "avisado_precio": 19.99,
@@ -2519,7 +2519,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "23064a845ad6ee2f": {
    "avisado_precio": null,
@@ -2589,7 +2589,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "23d305e04e8fa7a9": {
    "avisado_precio": null,
@@ -2839,7 +2839,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "2559e7620bd74bb4": {
    "avisado_precio": null,
@@ -3043,7 +3043,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "26d0fa09f84f6067": {
    "avisado_precio": 9.99,
@@ -3137,7 +3137,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "275f8e49d182cba6": {
    "avisado_precio": null,
@@ -3199,14 +3199,77 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "287458fd4067258d": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Camiseta la marea",
    "precio": 7.99,
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "tallas": [
+    [
+     "60",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     false
+    ],
+    [
+     "XL",
+     false
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "XXXL",
+     false
+    ],
+    [
+     "60",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T18:46:46.473060",
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "28a72d7726cf578d": {
    "avisado_precio": 5.99,
@@ -3370,7 +3433,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "2aa021a3ce1d4d21": {
    "avisado_precio": 5.99,
@@ -3588,7 +3651,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "2eb4ccc1e9824c6a": {
    "avisado_precio": null,
@@ -3690,7 +3753,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "2f19e07be6c953ee": {
    "avisado_precio": null,
@@ -3760,7 +3823,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "32ba9b7e7d24f1e7": {
    "avisado_precio": 14.99,
@@ -3845,7 +3908,54 @@
    "descuento": 60,
    "nombre": "Camiseta logo Springfield collage",
    "precio": 7.99,
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "tallas": [
+    [
+     "60",
+     true
+    ],
+    [
+     "XS",
+     false
+    ],
+    [
+     "S",
+     false
+    ],
+    [
+     "M",
+     false
+    ],
+    [
+     "L",
+     false
+    ],
+    [
+     "XL",
+     false
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     false
+    ],
+    [
+     "60",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T18:46:46.473060",
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "3556c5ff2ff4c08b": {
    "avisado_precio": null,
@@ -3907,7 +4017,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "35e637cd73e4da93": {
    "avisado_precio": null,
@@ -3993,7 +4103,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "36249cb3e57babb8": {
    "avisado_precio": 5.99,
@@ -4095,7 +4205,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "3744b93875f8d641": {
    "avisado_precio": null,
@@ -4251,7 +4361,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "3845763cd1e481e5": {
    "avisado_precio": 9.99,
@@ -4353,7 +4463,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "392ae90ca543abd4": {
    "avisado_precio": null,
@@ -4447,7 +4557,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "398e5c8f5e73e151": {
    "avisado_precio": null,
@@ -4501,7 +4611,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "39b8a2179beec5b3": {
    "avisado_precio": null,
@@ -4563,7 +4673,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "3a35e39244c75ac2": {
    "avisado_precio": 50.0,
@@ -4683,7 +4793,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "3c376c5e23c3d1b3": {
    "avisado_precio": null,
@@ -4785,7 +4895,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "3c9eca61e4ff9776": {
    "avisado_precio": 14.99,
@@ -5115,7 +5225,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "3ed704638910ec32": {
    "avisado_precio": null,
@@ -5193,7 +5303,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "404054fbd84b60f8": {
    "avisado_precio": null,
@@ -5255,7 +5365,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "404348ac698597ee": {
    "avisado_precio": 5.99,
@@ -5357,14 +5467,85 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "40950caccff2b40e": {
    "avisado_precio": null,
    "descuento": 64,
    "nombre": "Camiseta manga corta logo",
    "precio": 17.99,
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "tallas": [
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "5XL",
+     true
+    ],
+    [
+     "5XL",
+     true
+    ],
+    [
+     "5XL",
+     true
+    ],
+    [
+     "6XL",
+     true
+    ],
+    [
+     "6XL",
+     true
+    ],
+    [
+     "6XL",
+     true
+    ],
+    [
+     "01",
+     true
+    ],
+    [
+     "01",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T18:46:46.473060",
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "40b10ff46571d8f0": {
    "avisado_precio": null,
@@ -5433,7 +5614,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "435b2225bf84137a": {
    "avisado_precio": null,
@@ -5495,7 +5676,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "43e17449eda8bdd7": {
    "avisado_precio": null,
@@ -5589,7 +5770,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "4448f4d3fc9f767b": {
    "avisado_precio": null,
@@ -5603,7 +5784,102 @@
    "descuento": 60,
    "nombre": "Camisa oxford rayas",
    "precio": 15.99,
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "tallas": [
+    [
+     "60",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "60",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T18:46:46.473060",
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "446ff857cbdc8fc7": {
    "avisado_precio": null,
@@ -5657,7 +5933,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "46f113852b609d03": {
    "avisado_precio": null,
@@ -5766,7 +6042,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "48866de0962e0c92": {
    "avisado_precio": null,
@@ -5852,7 +6128,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "4887269889f42d3d": {
    "avisado_precio": 12.99,
@@ -5960,7 +6236,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "49054dcb6e2acc5d": {
    "avisado_precio": 9.99,
@@ -6156,7 +6432,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "4969bfca8d1bf8fa": {
    "avisado_precio": null,
@@ -6257,7 +6533,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "4ae4f1a9ec42b77c": {
    "avisado_precio": null,
@@ -6366,7 +6642,70 @@
    "descuento": 60,
    "nombre": "Camiseta bordado étnico",
    "precio": 7.99,
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "tallas": [
+    [
+     "60",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     false
+    ],
+    [
+     "XL",
+     false
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "XXXL",
+     false
+    ],
+    [
+     "60",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T18:46:46.473060",
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "4b48581da0f3e1f6": {
    "avisado_precio": 5.99,
@@ -6436,7 +6775,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "4bd546fde1fe34d3": {
    "avisado_precio": null,
@@ -6522,7 +6861,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "4c8f664bf6b6c0fb": {
    "avisado_precio": 5.99,
@@ -6624,7 +6963,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "4ceb500ff85220a1": {
    "avisado_precio": null,
@@ -6733,7 +7072,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "4de5ffb2f9cddd45": {
    "avisado_precio": 5.99,
@@ -6835,7 +7174,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "4e988b5bfdade6d6": {
    "avisado_precio": null,
@@ -6849,7 +7188,7 @@
    "descuento": 73,
    "nombre": "Camiseta bronwn stickers",
    "precio": 5.99,
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "4f5f2e0a38e3a893": {
    "avisado_precio": 7.99,
@@ -6927,14 +7266,93 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "4f7af5e4b591fbf6": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Camiseta cortes",
    "precio": 5.99,
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "tallas": [
+    [
+     "60",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     false
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     false
+    ],
+    [
+     "60",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T18:46:46.473060",
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "518aa79bcece7f3f": {
    "avisado_precio": null,
@@ -6996,7 +7414,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "526fc610fb0cb0df": {
    "avisado_precio": 17.99,
@@ -7152,7 +7570,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "5533b2a312a4aedd": {
    "avisado_precio": null,
@@ -7238,7 +7656,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "56be508496f145e9": {
    "avisado_precio": null,
@@ -7323,7 +7741,7 @@
    "descuento": 73,
    "nombre": "Camiseta stickers",
    "precio": 5.99,
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "58618dbe6e10f5af": {
    "avisado_precio": null,
@@ -7377,7 +7795,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "592725fd3f43895a": {
    "avisado_precio": 14.99,
@@ -7541,7 +7959,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "5c3035d1c008088f": {
    "avisado_precio": null,
@@ -7611,14 +8029,85 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "5cbf4168b46078b8": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Blazer relaxed fit",
    "precio": 39.99,
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "tallas": [
+    [
+     "60",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     false
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "XXXL",
+     false
+    ],
+    [
+     "60",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T18:46:46.473060",
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "5d7a8aa57ee3b745": {
    "avisado_precio": null,
@@ -7688,7 +8177,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "5e232052a566b82b": {
    "avisado_precio": 9.99,
@@ -7930,7 +8419,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "602149a396c82412": {
    "avisado_precio": null,
@@ -7999,7 +8488,7 @@
    "descuento": 68,
    "nombre": "Camisa algodón lino cuadros manga corta",
    "precio": 25.9,
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "60ddb3cd45439cf6": {
    "avisado_precio": 5.99,
@@ -8101,7 +8590,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "6109288f97c22b44": {
    "avisado_precio": null,
@@ -8257,7 +8746,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "61e2ff1079d7daa1": {
    "avisado_precio": 12.99,
@@ -8421,7 +8910,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "62416a06432074b0": {
    "avisado_precio": null,
@@ -8557,7 +9046,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "6337da523d2294e0": {
    "avisado_precio": null,
@@ -8618,7 +9107,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "643f659810327a1b": {
    "avisado_precio": null,
@@ -8726,7 +9215,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "6463ed1ff789f88e": {
    "avisado_precio": 17.99,
@@ -8826,7 +9315,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "65047f567d61e431": {
    "avisado_precio": null,
@@ -8880,7 +9369,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "653468649074c799": {
    "avisado_precio": null,
@@ -8958,7 +9447,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "654b770a105f22bf": {
    "avisado_precio": null,
@@ -9163,17 +9652,104 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "67199aa53d49b4e6": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Camiseta bloque color",
    "precio": 5.99,
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "tallas": [
+    [
+     "60",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     false
+    ],
+    [
+     "60",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T18:46:46.473060",
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "68f76dbaeddcb8e2": {
-   "avisado_precio": null,
+   "avisado_precio": 15.98,
    "descuento": 72,
    "nombre": "null",
    "precio": 15.98,
@@ -9492,7 +10068,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "693f72ba57a2ecb5": {
    "avisado_precio": null,
@@ -9675,10 +10251,81 @@
    "descuento": 60,
    "nombre": "Camiseta bloques color",
    "precio": 5.99,
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "tallas": [
+    [
+     "60",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     false
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "XXXL",
+     false
+    ],
+    [
+     "60",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T18:46:46.473060",
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "6b39b58385267bce": {
-   "avisado_precio": null,
+   "avisado_precio": 9.99,
    "descuento": 71,
    "nombre": "Camisa manga corta estampada",
    "precio": 9.99,
@@ -9777,7 +10424,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "6b7345252ca295d0": {
    "avisado_precio": 17.99,
@@ -9925,7 +10572,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "6c86202e411e16ee": {
    "avisado_precio": null,
@@ -9995,7 +10642,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "6dcef28ca0dd59a6": {
    "avisado_precio": 17.99,
@@ -10143,7 +10790,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "6ece577caa09737b": {
    "avisado_precio": 50.0,
@@ -10535,7 +11182,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "742af3755b7c61ec": {
    "avisado_precio": null,
@@ -10597,7 +11244,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "74d9c13525c2d827": {
    "avisado_precio": 29.9,
@@ -10753,7 +11400,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "76e7d3f763108ac5": {
    "avisado_precio": null,
@@ -10831,7 +11478,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "773bdfdf8aefc6ad": {
    "avisado_precio": null,
@@ -10917,7 +11564,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "77a535caed565731": {
    "avisado_precio": 5.99,
@@ -11121,7 +11768,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "79184e88b45a13fb": {
    "avisado_precio": 14.99,
@@ -11269,7 +11916,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "792fb960b56729d1": {
    "avisado_precio": null,
@@ -11362,7 +12009,94 @@
    "descuento": 60,
    "nombre": "Camiseta Aop étnica",
    "precio": 5.99,
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "tallas": [
+    [
+     "60",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     false
+    ],
+    [
+     "60",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T18:46:46.473060",
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "7bff6319470b072e": {
    "avisado_precio": 5.99,
@@ -11448,7 +12182,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "7c25f14438ea8b4e": {
    "avisado_precio": 12.99,
@@ -11536,7 +12270,7 @@
    "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "7c5dad729e09da26": {
-   "avisado_precio": null,
+   "avisado_precio": 9.99,
    "descuento": 71,
    "nombre": "Camisa bowling estampada",
    "precio": 9.99,
@@ -11627,7 +12361,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "7c83e0841760952f": {
    "avisado_precio": 5.99,
@@ -11799,7 +12533,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "7c98d5d53b5de6c7": {
    "avisado_precio": 17.99,
@@ -11939,7 +12673,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "7d9a59171ba5863b": {
    "avisado_precio": 9.99,
@@ -12029,7 +12763,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "813696a0492dc4a7": {
    "avisado_precio": null,
@@ -12117,7 +12851,7 @@
    "ultima_vez": "2026-10-28T17:17:10.917381"
   },
   "817cb1325b6dab39": {
-   "avisado_precio": null,
+   "avisado_precio": 9.99,
    "descuento": 73,
    "nombre": "Bermuda relaxed fit",
    "precio": 9.99,
@@ -12204,14 +12938,85 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "81e016600cc1552b": {
    "avisado_precio": null,
    "descuento": 64,
    "nombre": "Camiseta algodón manga larga",
    "precio": 17.99,
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "tallas": [
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "01",
+     true
+    ],
+    [
+     "01",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T18:46:46.473060",
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "83174aff6d265347": {
    "avisado_precio": 9.99,
@@ -12320,7 +13125,86 @@
    "descuento": 60,
    "nombre": "Camiseta básica Aop",
    "precio": 5.99,
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "tallas": [
+    [
+     "60",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     false
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     false
+    ],
+    [
+     "60",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T18:46:46.473060",
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "839a09a912933428": {
    "avisado_precio": null,
@@ -12374,7 +13258,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "84006d318809b202": {
    "avisado_precio": 9.99,
@@ -12502,7 +13386,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "8488cc046f17071d": {
    "avisado_precio": null,
@@ -12588,7 +13472,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "84d3ea871f88da04": {
    "avisado_precio": null,
@@ -12658,7 +13542,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "857b7ea84e05897f": {
    "avisado_precio": 7.99,
@@ -12744,7 +13628,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "87aa9f00326d1145": {
    "avisado_precio": 25.9,
@@ -12822,7 +13706,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "881a07c8d5cf4fb6": {
    "avisado_precio": null,
@@ -12915,7 +13799,7 @@
    "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "883a0793ab4acf04": {
-   "avisado_precio": null,
+   "avisado_precio": 5.99,
    "descuento": 70,
    "nombre": "Camiseta doble interlock",
    "precio": 5.99,
@@ -13014,14 +13898,85 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "8924d884deaa349d": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Pantalón jogger regular",
    "precio": 19.99,
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "tallas": [
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "01",
+     true
+    ],
+    [
+     "01",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T18:46:46.473060",
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "89cc88513800e259": {
    "avisado_precio": 12.99,
@@ -13106,7 +14061,54 @@
    "descuento": 60,
    "nombre": "Camiseta básica slim fit",
    "precio": 5.99,
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "tallas": [
+    [
+     "60",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     false
+    ],
+    [
+     "M",
+     false
+    ],
+    [
+     "L",
+     false
+    ],
+    [
+     "XL",
+     false
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "XXXL",
+     false
+    ],
+    [
+     "60",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T18:46:46.473060",
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "8abe9d01ee314bdb": {
    "avisado_precio": 9.99,
@@ -13200,7 +14202,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "8b028309b777e9c8": {
    "avisado_precio": null,
@@ -13254,7 +14256,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "8b4187625932615d": {
    "avisado_precio": null,
@@ -13413,7 +14415,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "8c41285f106a2fe7": {
    "avisado_precio": null,
@@ -13522,7 +14524,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "9059eb064318d81b": {
    "avisado_precio": null,
@@ -13600,7 +14602,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "91486f2aef615a5d": {
    "avisado_precio": null,
@@ -13693,14 +14695,109 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "91e82c78c65f4f6f": {
    "avisado_precio": null,
    "descuento": 63,
    "nombre": "Cazadora vaquera bordado en espalda",
    "precio": 29.99,
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "tallas": [
+    [
+     "63",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "63",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T18:46:46.473060",
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "91ff27c3bd71d0eb": {
    "avisado_precio": null,
@@ -13786,7 +14883,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "924e37c2fd8adcf1": {
    "avisado_precio": 15.99,
@@ -14044,7 +15141,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "95493ce110cf0437": {
    "avisado_precio": null,
@@ -14121,7 +15218,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "9795b25f9d626731": {
    "avisado_precio": null,
@@ -14175,7 +15272,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "997b7ebafc73c0ad": {
    "avisado_precio": 19.99,
@@ -14310,7 +15407,7 @@
    "ultima_vez": "2026-10-28T17:17:10.917381"
   },
   "9a50521312f93cb2": {
-   "avisado_precio": null,
+   "avisado_precio": 9.99,
    "descuento": 70,
    "nombre": "Polo estructura vertical",
    "precio": 9.99,
@@ -14401,7 +15498,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "9af4693e4700c39f": {
    "avisado_precio": null,
@@ -14415,7 +15512,54 @@
    "descuento": 60,
    "nombre": "Camiseta Rbel nativa",
    "precio": 7.99,
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "tallas": [
+    [
+     "60",
+     true
+    ],
+    [
+     "XS",
+     false
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     false
+    ],
+    [
+     "L",
+     false
+    ],
+    [
+     "XL",
+     false
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "XXXL",
+     false
+    ],
+    [
+     "60",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T18:46:46.473060",
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "9c401cd8f01927a8": {
    "avisado_precio": null,
@@ -14524,7 +15668,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "9f0773846fa17ae9": {
    "avisado_precio": 50.0,
@@ -14770,7 +15914,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "9fdd4a45eccd4dd4": {
    "avisado_precio": null,
@@ -14832,7 +15976,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "a0364b824f0ec4d2": {
    "avisado_precio": 9.99,
@@ -15019,7 +16163,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "a194049b547e7b6d": {
    "avisado_precio": 25.9,
@@ -15097,7 +16241,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "a20a849adeef3c57": {
    "avisado_precio": 14.99,
@@ -15439,7 +16583,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "a4dc0889f4df1a6d": {
    "avisado_precio": 19.99,
@@ -15705,7 +16849,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "a5b8312eebf68cf2": {
    "avisado_precio": null,
@@ -15767,7 +16911,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "a5da3c00c290559e": {
    "avisado_precio": null,
@@ -15955,10 +17099,10 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "a9015f24c821af37": {
-   "avisado_precio": null,
+   "avisado_precio": 5.99,
    "descuento": 70,
    "nombre": "Camiseta sun bites",
    "precio": 5.99,
@@ -16041,7 +17185,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "ab79406372be92fb": {
    "avisado_precio": null,
@@ -16149,7 +17293,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "abb7ce2e4c427054": {
    "avisado_precio": 9.99,
@@ -16239,7 +17383,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "abb88c483da0675b": {
    "avisado_precio": 9.99,
@@ -16324,7 +17468,78 @@
    "descuento": 60,
    "nombre": "Camiseta básica pico slim fit",
    "precio": 5.99,
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "tallas": [
+    [
+     "60",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     false
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "XXXL",
+     false
+    ],
+    [
+     "60",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T18:46:46.473060",
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "af56d119d9fb0015": {
    "avisado_precio": null,
@@ -16426,7 +17641,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "af81fedd91727780": {
    "avisado_precio": 17.99,
@@ -16654,7 +17869,114 @@
    "descuento": 60,
    "nombre": "Pantalón ligero lino straight fit",
    "precio": 15.99,
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "tallas": [
+    [
+     "60",
+     true
+    ],
+    [
+     "36",
+     true
+    ],
+    [
+     "36",
+     true
+    ],
+    [
+     "36",
+     true
+    ],
+    [
+     "38",
+     true
+    ],
+    [
+     "38",
+     true
+    ],
+    [
+     "38",
+     true
+    ],
+    [
+     "40",
+     true
+    ],
+    [
+     "40",
+     true
+    ],
+    [
+     "40",
+     true
+    ],
+    [
+     "42",
+     true
+    ],
+    [
+     "42",
+     true
+    ],
+    [
+     "42",
+     true
+    ],
+    [
+     "44",
+     true
+    ],
+    [
+     "44",
+     true
+    ],
+    [
+     "44",
+     true
+    ],
+    [
+     "46",
+     true
+    ],
+    [
+     "46",
+     true
+    ],
+    [
+     "46",
+     true
+    ],
+    [
+     "48",
+     true
+    ],
+    [
+     "48",
+     true
+    ],
+    [
+     "48",
+     true
+    ],
+    [
+     "50",
+     true
+    ],
+    [
+     "50",
+     true
+    ],
+    [
+     "50",
+     true
+    ],
+    [
+     "60",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T18:46:46.473060",
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "b0cc81bc51934d7c": {
    "avisado_precio": null,
@@ -16732,7 +18054,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "b0fcdeb1c10b5531": {
    "avisado_precio": 19.99,
@@ -16840,7 +18162,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "b2aae4bde6ed8336": {
    "avisado_precio": 9.99,
@@ -16942,7 +18264,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "b31b6db7378bfb5a": {
    "avisado_precio": null,
@@ -17012,7 +18334,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "b3944e2065442d68": {
    "avisado_precio": null,
@@ -17114,7 +18436,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "b463957a6f0588ed": {
    "avisado_precio": 12.99,
@@ -17208,7 +18530,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "b59b8984c0f0ad13": {
    "avisado_precio": null,
@@ -17310,7 +18632,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "b5a57950200d730f": {
    "avisado_precio": 7.99,
@@ -17466,7 +18788,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "b65127511f9e5d6b": {
    "avisado_precio": null,
@@ -17630,10 +18952,10 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "b729f4b7f4cfc0b9": {
-   "avisado_precio": null,
+   "avisado_precio": 5.99,
    "descuento": 70,
    "nombre": "Camiseta Japan Sport",
    "precio": 5.99,
@@ -17732,7 +19054,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "b8812ac91a9218a8": {
    "avisado_precio": 19.99,
@@ -18027,7 +19349,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "ba0b5fdeed079b11": {
    "avisado_precio": 7.99,
@@ -18129,7 +19451,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "ba6bca8f73a20ed0": {
    "avisado_precio": 14.99,
@@ -18363,7 +19685,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "bdddc5a6ed7324f8": {
    "avisado_precio": 5.99,
@@ -18465,7 +19787,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "be031a383712d782": {
    "avisado_precio": 7.99,
@@ -18559,7 +19881,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "be5d46ff4b7565f1": {
    "avisado_precio": null,
@@ -18629,7 +19951,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "befeaa9500c09946": {
    "avisado_precio": 9.99,
@@ -18723,7 +20045,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "bfa232a556218547": {
    "avisado_precio": 5.99,
@@ -18825,7 +20147,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "bfa7a06a64fb5830": {
    "avisado_precio": null,
@@ -18903,7 +20225,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "c00c16e1d25f9ba6": {
    "avisado_precio": null,
@@ -18973,7 +20295,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "c01fae1fe7cf2251": {
    "avisado_precio": null,
@@ -19065,7 +20387,82 @@
    "descuento": 63,
    "nombre": "Cazadora algodón lavada",
    "precio": 29.99,
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "tallas": [
+    [
+     "63",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     false
+    ],
+    [
+     "63",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T18:46:46.473060",
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "c303901bde2b3fc1": {
    "avisado_precio": null,
@@ -19119,7 +20516,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "c38eb37a7c99e441": {
    "avisado_precio": null,
@@ -19213,7 +20610,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "c396cd72dea46bc7": {
    "avisado_precio": null,
@@ -19299,7 +20696,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "c446d64963e18fb3": {
    "avisado_precio": null,
@@ -19463,7 +20860,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "c6a736d25c447609": {
    "avisado_precio": null,
@@ -19541,7 +20938,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "c76da8831cb69a71": {
    "avisado_precio": null,
@@ -19643,7 +21040,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "c8745949ddd3a5a8": {
    "avisado_precio": 12.99,
@@ -19733,7 +21130,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "c8f1864ba51db6e4": {
    "avisado_precio": null,
@@ -19819,7 +21216,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "c8f493065ece7218": {
    "avisado_precio": 10.99,
@@ -20179,7 +21576,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "cb9f8b5d96a7a2ed": {
    "avisado_precio": null,
@@ -20255,7 +21652,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "cc7f36d69ffdcf8d": {
    "avisado_precio": null,
@@ -20265,7 +21662,7 @@
    "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "cd20494295211a80": {
-   "avisado_precio": null,
+   "avisado_precio": 19.98,
    "descuento": 72,
    "nombre": "Conjunto de camiseta y bermuda",
    "precio": 19.98,
@@ -20544,7 +21941,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "cde14cfc82e08583": {
    "avisado_precio": 9.99,
@@ -20696,7 +22093,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "cfbb6fe70d41aca0": {
    "avisado_precio": null,
@@ -20758,7 +22155,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "cfe8c0a0f345b4a1": {
    "avisado_precio": 14.99,
@@ -21050,7 +22447,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "d28da7859215bfb5": {
    "avisado_precio": null,
@@ -21151,10 +22548,10 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "d3eb5fdc327d9e16": {
-   "avisado_precio": null,
+   "avisado_precio": 9.99,
    "descuento": 71,
    "nombre": "Camisa manga corta lino rayon estampada",
    "precio": 9.99,
@@ -21253,7 +22650,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "d3ee28694bb9e2e7": {
    "avisado_precio": 9.99,
@@ -21531,10 +22928,10 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "d7559fd98b8e824b": {
-   "avisado_precio": null,
+   "avisado_precio": 5.99,
    "descuento": 73,
    "nombre": "Camiseta take me to the paradise",
    "precio": 5.99,
@@ -21601,7 +22998,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "d82f0fbffd482768": {
    "avisado_precio": null,
@@ -21611,7 +23008,7 @@
    "ultima_vez": "2026-10-28T18:02:33.760941"
   },
   "d97d43e281d870ed": {
-   "avisado_precio": null,
+   "avisado_precio": 5.99,
    "descuento": 73,
    "nombre": "Camiseta fútbol piezas",
    "precio": 5.99,
@@ -21686,7 +23083,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "da6ac3cc48a191ca": {
    "avisado_precio": 5.99,
@@ -21967,7 +23364,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "de2520e0079f407f": {
    "avisado_precio": null,
@@ -22029,7 +23426,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "de72cd49c5e404b8": {
    "avisado_precio": 5.99,
@@ -22131,7 +23528,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "e0d62b3158022287": {
    "avisado_precio": 19.99,
@@ -22233,7 +23630,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "e29cd79e84d7c193": {
    "avisado_precio": 15.99,
@@ -22335,7 +23732,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "e3604f027b8308d8": {
    "avisado_precio": 50.0,
@@ -22545,7 +23942,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "e45c786530fe4e72": {
    "avisado_precio": null,
@@ -22607,7 +24004,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "e5b2764836d8fa54": {
    "avisado_precio": null,
@@ -22693,7 +24090,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "e5d92a6b7fc529f8": {
    "avisado_precio": 19.9,
@@ -22739,7 +24136,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "e7cbedddc143b576": {
    "avisado_precio": null,
@@ -22792,7 +24189,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "e9edb313fdad5f1a": {
    "avisado_precio": null,
@@ -22894,7 +24291,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "eaa39d487937cd2e": {
    "avisado_precio": null,
@@ -23158,14 +24555,109 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "eb382514a013d1ba": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Blazer algodón",
    "precio": 39.99,
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "tallas": [
+    [
+     "60",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "60",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T18:46:46.473060",
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "ebfde154220924a8": {
    "avisado_precio": 5.99,
@@ -23259,7 +24751,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "ec9e32f4e425687b": {
    "avisado_precio": null,
@@ -23345,7 +24837,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "ece0352c609cb522": {
    "avisado_precio": 19.99,
@@ -23532,7 +25024,78 @@
    "descuento": 64,
    "nombre": "Camisa slim de sarga",
    "precio": 17.99,
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "tallas": [
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "01",
+     true
+    ],
+    [
+     "01",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T18:46:46.473060",
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "ee14a4631f7b09a4": {
    "avisado_precio": null,
@@ -23546,7 +25109,78 @@
    "descuento": 60,
    "nombre": "Camiseta parches",
    "precio": 7.99,
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "tallas": [
+    [
+     "60",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     false
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "XXXL",
+     false
+    ],
+    [
+     "60",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T18:46:46.473060",
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "ee84752a1c9da9fb": {
    "avisado_precio": null,
@@ -23624,7 +25258,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "ef007f5f7ef99b88": {
    "avisado_precio": 9.99,
@@ -23776,7 +25410,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "f06f8727d11fa698": {
    "avisado_precio": 5.99,
@@ -23878,7 +25512,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "f0830aff20f69f24": {
    "avisado_precio": null,
@@ -23932,7 +25566,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "f0c74167a9f37b49": {
    "avisado_precio": null,
@@ -24326,7 +25960,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "f43f8ec7ef27ccb7": {
    "avisado_precio": 50.0,
@@ -24596,7 +26230,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "f592f5eacda6795d": {
    "avisado_precio": null,
@@ -24658,7 +26292,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "f621a1b16aa3904b": {
    "avisado_precio": 19.99,
@@ -24830,7 +26464,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "f7c9cef9af1f8779": {
    "avisado_precio": null,
@@ -24932,7 +26566,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "f887213272d77afc": {
    "avisado_precio": null,
@@ -25026,7 +26660,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "f9040857383cef91": {
    "avisado_precio": null,
@@ -25096,7 +26730,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "f9373856c4a592a2": {
    "avisado_precio": null,
@@ -25174,7 +26808,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "f958c3f34c893f6b": {
    "avisado_precio": 8.99,
@@ -25314,7 +26948,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:02:28.264787",
-   "ultima_vez": "2026-10-28T17:02:28.264787"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "fa2164d2b8917f39": {
    "avisado_precio": 5.99,
@@ -25416,7 +27050,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "fa68cbb3b1a2104e": {
    "avisado_precio": null,
@@ -25566,7 +27200,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:32:06.946836"
+   "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "fecfb8fc1f02b492": {
    "avisado_precio": null,
