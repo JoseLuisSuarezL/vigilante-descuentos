@@ -4,10 +4,10 @@
   "total": 0
  },
  "cursores": {
-  "https://myspringfield.com/on/demandware.store/Sites-SPF-Site/es_ES/Search-UpdateGrid?cgid=men&pmin=0%2c01&start={inicio}&sz=120": 11
+  "https://myspringfield.com/on/demandware.store/Sites-SPF-Site/es_ES/Search-UpdateGrid?cgid=men&pmin=0%2c01&start={inicio}&sz=120": 21
  },
  "fase_inicial": false,
- "ultima_revision": "2026-10-28T18:47:23.949694",
+ "ultima_revision": "2026-10-28T19:02:41.600580",
  "version_filtro": 2,
  "vistos": {
   "0011e4953f9712bb": {
@@ -465,7 +465,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:17:10.917381",
-   "ultima_vez": "2026-10-28T17:17:10.917381"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "065cb384193f7d59": {
    "avisado_precio": null,
@@ -731,7 +731,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "097605434ba152d6": {
    "avisado_precio": null,
@@ -777,7 +777,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "0a3735d936f6777f": {
    "avisado_precio": null,
@@ -1403,7 +1403,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "1131573abdeb64f3": {
    "avisado_precio": 5.99,
@@ -1857,7 +1857,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "18754382cbd6464f": {
    "avisado_precio": null,
@@ -2592,7 +2592,7 @@
    "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "23d305e04e8fa7a9": {
-   "avisado_precio": null,
+   "avisado_precio": 17.99,
    "descuento": 64,
    "nombre": "Camisa slim de sarga",
    "precio": 17.99,
@@ -2667,7 +2667,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:17:10.917381",
-   "ultima_vez": "2026-10-28T17:17:10.917381"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "24e596f303ba8ce8": {
    "avisado_precio": 19.99,
@@ -3137,7 +3137,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "275f8e49d182cba6": {
    "avisado_precio": null,
@@ -3651,7 +3651,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "2eb4ccc1e9824c6a": {
    "avisado_precio": null,
@@ -3823,7 +3823,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "32ba9b7e7d24f1e7": {
    "avisado_precio": 14.99,
@@ -3901,7 +3901,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:17:10.917381",
-   "ultima_vez": "2026-10-28T17:17:10.917381"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "350703dd4b619312": {
    "avisado_precio": null,
@@ -4463,7 +4463,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "392ae90ca543abd4": {
    "avisado_precio": null,
@@ -4715,7 +4715,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:17:10.917381",
-   "ultima_vez": "2026-10-28T17:17:10.917381"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "3b21e381fd316189": {
    "avisado_precio": 19.9,
@@ -4793,7 +4793,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "3c376c5e23c3d1b3": {
    "avisado_precio": null,
@@ -5225,7 +5225,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "3ed704638910ec32": {
    "avisado_precio": null,
@@ -5467,7 +5467,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "40950caccff2b40e": {
    "avisado_precio": null,
@@ -6775,7 +6775,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "4bd546fde1fe34d3": {
    "avisado_precio": null,
@@ -6963,7 +6963,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "4ceb500ff85220a1": {
    "avisado_precio": null,
@@ -7174,7 +7174,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "4e988b5bfdade6d6": {
    "avisado_precio": null,
@@ -7570,7 +7570,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "5533b2a312a4aedd": {
    "avisado_precio": null,
@@ -7741,7 +7741,7 @@
    "descuento": 73,
    "nombre": "Camiseta stickers",
    "precio": 5.99,
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "58618dbe6e10f5af": {
    "avisado_precio": null,
@@ -7873,7 +7873,89 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:17:10.917381",
-   "ultima_vez": "2026-10-28T17:17:10.917381"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
+  },
+  "5a4fc1c5e6223ee9": {
+   "avisado_precio": 14.99,
+   "descuento": 70,
+   "nombre": "Camiseta regular bordada",
+   "precio": 14.99,
+   "tallas": [
+    [
+     "XS",
+     false
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "01",
+     true
+    ],
+    [
+     "01",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T19:02:33.209874",
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "5aaf9885970c2510": {
    "avisado_precio": null,
@@ -8419,7 +8501,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "602149a396c82412": {
    "avisado_precio": null,
@@ -8488,7 +8570,7 @@
    "descuento": 68,
    "nombre": "Camisa algodón lino cuadros manga corta",
    "precio": 25.9,
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "60ddb3cd45439cf6": {
    "avisado_precio": 5.99,
@@ -8590,10 +8672,10 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "6109288f97c22b44": {
-   "avisado_precio": null,
+   "avisado_precio": 19.99,
    "descuento": 60,
    "nombre": "Camiseta slim manga corta",
    "precio": 19.99,
@@ -8644,7 +8726,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:17:10.917381",
-   "ultima_vez": "2026-10-28T17:17:10.917381"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "6113fc614314ed7e": {
    "avisado_precio": 5.99,
@@ -8746,7 +8828,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "61e2ff1079d7daa1": {
    "avisado_precio": 12.99,
@@ -9315,7 +9397,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "65047f567d61e431": {
    "avisado_precio": null,
@@ -9652,7 +9734,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "67199aa53d49b4e6": {
    "avisado_precio": null,
@@ -10572,7 +10654,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "6c86202e411e16ee": {
    "avisado_precio": null,
@@ -11768,7 +11850,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "79184e88b45a13fb": {
    "avisado_precio": 14.99,
@@ -12260,7 +12342,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:17:10.917381",
-   "ultima_vez": "2026-10-28T17:17:10.917381"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "7c558b91606a4655": {
    "avisado_precio": null,
@@ -13258,7 +13340,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "84006d318809b202": {
    "avisado_precio": 9.99,
@@ -13706,7 +13788,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "881a07c8d5cf4fb6": {
    "avisado_precio": null,
@@ -14202,7 +14284,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "8b028309b777e9c8": {
    "avisado_precio": null,
@@ -14524,7 +14606,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "9059eb064318d81b": {
    "avisado_precio": null,
@@ -15141,7 +15223,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "95493ce110cf0437": {
    "avisado_precio": null,
@@ -15404,7 +15486,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:17:10.917381",
-   "ultima_vez": "2026-10-28T17:17:10.917381"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "9a50521312f93cb2": {
    "avisado_precio": 9.99,
@@ -15848,7 +15930,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:17:10.917381",
-   "ultima_vez": "2026-10-28T17:17:10.917381"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "9f7b7c77e1320642": {
    "avisado_precio": null,
@@ -15914,7 +15996,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "9fdd4a45eccd4dd4": {
    "avisado_precio": null,
@@ -16241,7 +16323,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "a20a849adeef3c57": {
    "avisado_precio": 14.99,
@@ -17188,7 +17270,7 @@
    "ultima_vez": "2026-10-28T18:46:46.473060"
   },
   "ab79406372be92fb": {
-   "avisado_precio": null,
+   "avisado_precio": 19.99,
    "descuento": 60,
    "nombre": "Camiseta manga corta logo",
    "precio": 19.99,
@@ -17239,7 +17321,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:17:10.917381",
-   "ultima_vez": "2026-10-28T17:17:10.917381"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "abb25c5cdf291d1e": {
    "avisado_precio": null,
@@ -17383,7 +17465,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "abb88c483da0675b": {
    "avisado_precio": 9.99,
@@ -18264,7 +18346,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "b31b6db7378bfb5a": {
    "avisado_precio": null,
@@ -18530,7 +18612,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "b59b8984c0f0ad13": {
    "avisado_precio": null,
@@ -18710,7 +18792,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:17:10.917381",
-   "ultima_vez": "2026-10-28T17:17:10.917381"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "b5e4878124bf3897": {
    "avisado_precio": 7.99,
@@ -19529,7 +19611,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:17:10.917381",
-   "ultima_vez": "2026-10-28T17:17:10.917381"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "baf9837fa3c6c27a": {
    "avisado_precio": 17.99,
@@ -19583,7 +19665,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:17:10.917381",
-   "ultima_vez": "2026-10-28T17:17:10.917381"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "bd3b5c80ea9372d3": {
    "avisado_precio": 5.99,
@@ -19787,7 +19869,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "be031a383712d782": {
    "avisado_precio": 7.99,
@@ -20045,7 +20127,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "bfa232a556218547": {
    "avisado_precio": 5.99,
@@ -20147,7 +20229,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "bfa7a06a64fb5830": {
    "avisado_precio": null,
@@ -21130,7 +21212,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "c8f1864ba51db6e4": {
    "avisado_precio": null,
@@ -22209,7 +22291,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:17:10.917381",
-   "ultima_vez": "2026-10-28T17:17:10.917381"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "d03246b253cf7d2f": {
    "avisado_precio": null,
@@ -22752,7 +22834,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:17:10.917381",
-   "ultima_vez": "2026-10-28T17:17:10.917381"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "d463f9da9e73f160": {
    "avisado_precio": 11.99,
@@ -22928,7 +23010,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "d7559fd98b8e824b": {
    "avisado_precio": 5.99,
@@ -23364,7 +23446,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "de2520e0079f407f": {
    "avisado_precio": null,
@@ -23528,7 +23610,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "e0d62b3158022287": {
    "avisado_precio": 19.99,
@@ -23630,7 +23712,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "e29cd79e84d7c193": {
    "avisado_precio": 15.99,
@@ -23732,7 +23814,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "e3604f027b8308d8": {
    "avisado_precio": 50.0,
@@ -24136,7 +24218,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "e7cbedddc143b576": {
    "avisado_precio": null,
@@ -24189,7 +24271,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "e9edb313fdad5f1a": {
    "avisado_precio": null,
@@ -24493,7 +24575,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:17:10.917381",
-   "ultima_vez": "2026-10-28T17:17:10.917381"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "eabfcf4ad842caee": {
    "avisado_precio": null,
@@ -25017,7 +25099,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:17:10.917381",
-   "ultima_vez": "2026-10-28T17:17:10.917381"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "ed7c9635a55b2a47": {
    "avisado_precio": null,
@@ -25512,7 +25594,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "f0830aff20f69f24": {
    "avisado_precio": null,
@@ -25858,7 +25940,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:17:10.917381",
-   "ultima_vez": "2026-10-28T17:17:10.917381"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "f2d8d36eca57788c": {
    "avisado_precio": 5.99,
@@ -26230,7 +26312,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "f592f5eacda6795d": {
    "avisado_precio": null,
@@ -27050,7 +27132,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "fa68cbb3b1a2104e": {
    "avisado_precio": null,
@@ -27200,10 +27282,10 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:46:46.473060"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   },
   "fecfb8fc1f02b492": {
-   "avisado_precio": null,
+   "avisado_precio": 19.99,
    "descuento": 60,
    "nombre": "Pantalón jogger regular",
    "precio": 19.99,
@@ -27278,7 +27360,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T17:17:10.917381",
-   "ultima_vez": "2026-10-28T17:17:10.917381"
+   "ultima_vez": "2026-10-28T19:02:33.209874"
   }
  }
 }
