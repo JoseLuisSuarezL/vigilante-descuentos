@@ -526,16 +526,28 @@ def _shopify_productos(lista, base, filtro=None):
         if filtro and filtro.lower() not in texto:
             continue
         mejor = None
+        # ¿Qué opción es la talla? (Talla / Size / Taglia…); si no hay, se miran todas
+        nombres_op = [str(o.get("name", "") if isinstance(o, dict) else o).lower()
+                      for o in (p.get("options") or [])]
+        idx = [i for i, n in enumerate(nombres_op)
+               if re.search(r"talla|size|taglia|taille|tama|gr(ö|oe)sse|maat", n)]
+        tallas = []
         for v in p.get("variants", []):
             antes = numero(v.get("compare_at_price") or "")
             ahora = numero(v.get("price") or "")
             if antes and ahora and antes > ahora:
+                valores = [v.get(f"option{i + 1}") for i in (idx or range(3))]
+                for val in valores:
+                    if val and parece_talla(val):
+                        tallas.append([str(val), v.get("available")])
                 cand = {"nombre": p.get("title", "(sin nombre)"),
                         "url": f"{base}/products/{p.get('handle', '')}",
                         "antes": antes, "ahora": ahora}
                 if mejor is None or descuento(cand) > descuento(mejor):
                     mejor = cand
         if mejor:
+            mejor["tallas"] = tallas
+            mejor["tipo"] = str(p.get("product_type") or "")
             productos.append(mejor)
     return productos
 
@@ -814,9 +826,18 @@ def extraer_woo(base):
             antes = numero(pr.get("regular_price") or "")
             ahora = numero(pr.get("sale_price") or pr.get("price") or "")
             if antes and ahora and antes > ahora:
-                productos.append({"nombre": p.get("name") or "(sin nombre)",
-                                  "url": p.get("permalink") or base,
-                                  "antes": antes / 10 ** dec, "ahora": ahora / 10 ** dec})
+                art = {"nombre": p.get("name") or "(sin nombre)",
+                       "url": p.get("permalink") or base,
+                       "antes": antes / 10 ** dec, "ahora": ahora / 10 ** dec,
+                       "tipo": " ".join(c.get("name", "") for c in p.get("categories") or [])}
+                attrs = p.get("attributes")
+                if isinstance(attrs, list) and attrs:
+                    disp = None if p.get("is_in_stock", True) else False
+                    art["tallas"] = [[t.get("name", ""), disp]
+                                     for a in attrs
+                                     if re.search(r"talla|size|taglia", f"{a.get('name', '')} {a.get('taxonomy', '')}", re.I)
+                                     for t in a.get("terms") or [] if parece_talla(t.get("name", ""))]
+                productos.append(art)
         if len(lista) < 100:
             break
         pagina += 1
@@ -1148,14 +1169,19 @@ def extraer_inditex(conf, estado_tienda):
         for p in r.json().get("products") or []:
             leidos += 1
             mejor = None
+            tallas = []
             for b in p.get("bundleProductSummaries") or [p]:
                 for col in (b.get("detail") or {}).get("colors") or []:
                     for s in col.get("sizes") or []:
                         ahora = numero(s.get("price") or "")
                         antes = numero(s.get("oldPrice") or "")
                         if ahora and antes and antes > ahora:
+                            if s.get("name"):
+                                tallas.append([str(s["name"]), _disponible(s)])
                             if mejor is None or ahora / antes < mejor["ahora"] / mejor["antes"]:
                                 mejor = {"antes": antes / 100, "ahora": ahora / 100}
+            if mejor and tallas:
+                mejor["tallas"] = tallas
             if mejor:
                 slug_p = re.sub(r"-l\d+$", "", p.get("productUrl") or "producto")
                 mejor.update(nombre=p.get("name") or "(sin nombre)",
@@ -1168,6 +1194,388 @@ def extraer_inditex(conf, estado_tienda):
     maximo = max((descuento(p) for p in productos), default=0)
     print(f"    -> {len(productos)} artículos rebajados (máximo descuento visto: {maximo} %)")
     return productos
+
+
+# ---------------------------------------------------------------------------
+# Filtro de ropa y tallas (solo ropa de hombre adulto en talla XL o mayor,
+# o pantalón de la 48 en adelante)
+# ---------------------------------------------------------------------------
+
+INICIO = time.time()
+
+NO_ES_ROPA = re.compile(
+    r"\b(gorras?|gorros?|caps?|hats?|beanies?|snapbacks?|viseras?|cappell\w*|berrett\w*|bucket|"
+    r"pins?|chapas?|badges?|spill\w*|insignias?|escudos? bordados?|bufandas?|scarf|scarves|sciarp\w*|"
+    r"guantes|gloves?|guanti|calcetines|socks?|calze|calzini|calzettoni|medias|"
+    r"cintur[oó]n(?:es)?|belts?|cinture?|mochilas?|backpacks?|bags?|bolsas?|bolsos?|borse?|borsa|zaino|"
+    r"ri[ñn]oneras?|neceser|zapatillas|zapatos|sneakers?|botas|boots?|scarpe|shoes?|trainers?|"
+    r"mocasines|chanclas|sliders?|ciabatte|sandal\w*|espinilleras|shin\s?pads?|"
+    r"bal[oó]n(?:es)?|balls?|pallon\w*|footballs?|toallas?|towels?|mascarillas?|masks?|bandanas?|"
+    r"pulseras?|bracelets?|llaveros?|keyrings?|portachiavi|tazas?|mugs?|tazz\w*|peluches?|plush|"
+    r"p[oó]sters?|banderas?|flags?|bandier\w*|stickers?|pegatinas?|botellas?|bottles?|borracc\w*|"
+    r"fundas?|phone\s?cases?|relojes?|watch(?:es)?|gafas|sunglasses|gift\s?cards?|tarjetas?\s+regalo|"
+    r"carta\s+regalo|perfumes?|colonias?|fragrances?|eau\s+de|carteras?|wallets?|paraguas|umbrellas?|"
+    r"ombrell\w*|cuadernos?|notebooks?|lanyards?|figuras?|mu[ñn]ec\w*|juguetes?|toys?|puzzles?|"
+    r"libros?|books?|dvd|vinilos?|cojin(?:es)?|cushions?|mantas?|blankets?|coperta|l[aá]minas?|"
+    r"framed|cuadros?|calendari\w*|cromos?|baberos?|bibs?|chupetes?|tirantes|corbatas?|ties|cravatt\w*|"
+    r"pajaritas?|bow\s?ties?|pa[ñn]uelos?|fulares?|collares?|necklaces?|anillos?|rings?|pendientes|"
+    r"earrings?|gemelos|cufflinks|vouchers?|entradas?|tickets?|abonos?)\b",
+    re.IGNORECASE)
+NO_ES_HOMBRE_ADULTO = re.compile(
+    r"\b(ni[ñn][oa]s?|infantil(?:es)?|junior|juniors|kids?|kid's|youth|baby|babies|beb[eé]s?|"
+    r"bambin[oi]|bimb[oi]|ragazz[oi]|toddlers?|infants?|mini\s?kits?|mujer(?:es)?|women'?s?|woman|"
+    r"womens|ladies|lady|donna|femenin[oa]|girls?|boys?|chicas?|juvenil(?:es)?|enfants?|femme)\b",
+    re.IGNORECASE)
+
+TIPO_PANTALON = re.compile(
+    r"\b(pantal\w*|vaquer\w*|jeans?|chinos?|bermudas?|shorts|short(?!\s*-?\s*sleeve)|joggers?|"
+    r"trousers?|pants|pantaloni\w*|cargos?|ba[ñn]adores?|swim\s?shorts?|swimshorts|calzonas?)\b",
+    re.IGNORECASE)
+TIPO_SASTRE = re.compile(
+    r"\b(americanas?|blazers?|trajes?|suits?|giacc\w*|chaquetas?|abrigos?|coats?|gabardinas?|"
+    r"cappott\w*|chaqu[eé]s?|smokings?|tuxedos?)\b", re.IGNORECASE)
+TIPO_CAMISA = re.compile(r"\b(camisas?|shirts?|camici\w*|chemises?)\b", re.IGNORECASE)
+
+_PALABRAS_TALLA_INFANTIL = re.compile(
+    r"A[ÑN]OS?|ANNI|YEARS?|YRS?|\d\s?Y\b|MESES|MONTHS?|\bM\d|KIDS?|JUNIOR|JR\b|YOUTH|BABY|INFANT|"
+    r"NI[ÑN]O|BAMBINO|WOMEN|WOMAN|MUJER|DONNA|LADIES|GIRL|BOY", re.IGNORECASE)
+_LETRA = r"(?:X{0,6}S|M|L|X{1,6}L|[1-9]XL|[2-9]X)"
+_TALLA_SUELTA = re.compile(
+    rf"^(?:{_LETRA}|W?\d{{2}}(?:[.,]5)?(?:\s?[/X]\s?L?\d{{2}})?)"
+    rf"(?:\s*[/\-]\s*(?:{_LETRA}|\d{{2}}))?"
+    r"(?:\s*\([^)]{0,20}\))?(?:\s+(?:TALL|LONG|LARGO|REGULAR|REG|SHORT|CORTO|SLIM|R|T|L))?$")
+
+
+def _norm_talla(t):
+    t = re.sub(r"\s+", " ", str(t).upper().strip())
+    t = re.sub(r"\b(TALLA|TALLE|SIZE|TAGLIA|TAILLE|GR(?:Ö|OE)SSE|EUR?|ES|ESP|IT|UK|FR|INT|"
+               r"MENS|MEN'S|MEN|ADULTS?|ADULTOS?|HOMBRE|UOMO)\b[:.]?", " ", t)
+    t = re.sub(r"\bEXTRA[\s-]*LARGE\b", "XL", t)
+    t = re.sub(r"\b(X{1,5})[\s-]*LARGE\b", r"\1L", t)
+    t = re.sub(r"\b([2-6])\s?X[\s-]*LARGE\b", r"\1XL", t)
+    t = re.sub(r"\bLARGE\b", "L", t)
+    t = re.sub(r"\bMEDIUM\b", "M", t)
+    t = re.sub(r"\bSMALL\b", "S", t)
+    t = re.sub(r"\b([1-9]) XL\b", r"\1XL", t)
+    return re.sub(r"\s+", " ", t).strip(" :-")
+
+
+def parece_talla(texto):
+    if texto is None or isinstance(texto, bool):
+        return False
+    t = str(texto).strip()
+    if not t or len(t) > 24:
+        return False
+    return bool(_TALLA_SUELTA.match(_norm_talla(t)))
+
+
+def tipo_prenda(texto):
+    if TIPO_PANTALON.search(texto or ""):
+        return "pantalon"
+    if TIPO_SASTRE.search(texto or ""):
+        return "sastre"
+    if TIPO_CAMISA.search(texto or "") and not re.search(r"\b(t-?shirts?|camisetas?|tee)\b", texto or "", re.I):
+        return "camisa"
+    return "otro"
+
+
+def talla_grande(talla, tipo, conf, moneda="€"):
+    """¿Esta talla es XL o mayor (o 48+ en pantalones…)?"""
+    bruto = str(talla)
+    if _PALABRAS_TALLA_INFANTIL.search(bruto.upper()):
+        return False
+    t = _norm_talla(bruto)
+    t = re.sub(r"\s*\([^)]*\)", "", t)          # "XL (54)" -> "XL"
+    libras = moneda in ("£", "GBP")
+    for parte in re.split(r"\s*(?:/|\||,|;|\bA\b|\bTO\b)\s*|\s-\s|-(?=[XL0-9])", t):
+        parte = parte.strip()
+        if not parte:
+            continue
+        if re.match(r"^(?:X{1,6}L|[1-9]XL|[2-9]X|XLT|X{2,6}LT)\b", parte):
+            return True
+        m = re.match(r"^(W)?\s?(\d{2})(?:[.,]5)?(?:\s?[/X]\s?L?\d{2})?(?:\s?[RSLT])?$", parte)
+        if not m:
+            continue
+        n = int(m.group(2))
+        pulgadas = bool(m.group(1)) or bool(re.search(r"\d{2}\s?[/X]\s?L?\d{2}", parte)) or libras
+        if tipo == "pantalon":
+            minimo = int(conf.get("pantalon_desde", 48))
+            if (pulgadas and 26 <= n <= 54 and n >= minimo - 10) or (not pulgadas and minimo <= n <= 70):
+                return True
+        elif tipo == "sastre":
+            minimo = int(conf.get("americana_desde", 54))
+            if (libras and 34 <= n <= 60 and n >= minimo - 10) or (not libras and minimo <= n <= 70):
+                return True
+        elif tipo == "camisa":
+            minimo = int(conf.get("camisa_cuello_desde", 43))
+            if minimo <= n <= 52:
+                return True
+    return False
+
+
+_CLAVES_TALLA = {"size", "talla", "taglia", "taille", "sizename", "sizelabel", "size_name", "size_label",
+                 "sizevalue", "size_value", "tamaño", "tamano", "groesse", "größe", "sizecode", "talla_nombre"}
+_CLAVES_EN_LISTA = ("name", "value", "label", "title", "public_title", "option1", "option2", "option3",
+                    "displayvalue", "display_value", "description", "code", "id_talla")
+_LISTAS_TALLAS = {"sizes", "tallas", "taglie", "variants", "variations", "skus", "hasvariant",
+                  "availablesizes", "sizelist", "size_list", "sizeoptions", "size_options"}
+_LISTAS_GENERICAS = {"offers", "options", "items", "values", "children"}
+_CLAVES_SI_NO = {"available", "isavailable", "instock", "in_stock", "isbuyable", "buyable", "purchasable",
+                 "is_in_stock", "orderable", "is_purchasable", "selectable", "enabled"}
+_CLAVES_ESTADO = {"availability", "availabilitystatus", "stockstatus", "stock_status", "visibilityvalue",
+                  "inventorystatus", "availability_status", "status", "stockstate"}
+_CLAVES_CANTIDAD = {"stock", "quantity", "qty", "inventory_quantity", "stocklevel", "availablequantity",
+                    "ats", "available_quantity"}
+
+
+def _disponible(d, prof=0):
+    """True / False / None (no se sabe) a partir de un objeto de talla o variante."""
+    if not isinstance(d, dict) or prof > 2:
+        return None
+    for k, v in d.items():
+        kl = str(k).lower()
+        if kl in _CLAVES_SI_NO and isinstance(v, bool):
+            return v
+        if kl in _CLAVES_ESTADO and isinstance(v, str) and v.strip():
+            s = v.lower()
+            if re.search(r"out|sold|agot|unavail|no_?stock|nostock|coming|back_?soon|hide|discontinu|"
+                         r"preorder|disabled|false", s):
+                return False
+            if re.search(r"in_?stock|instock|low|limited|show|available|disponible|true|enabled", s):
+                return True
+        if kl in _CLAVES_CANTIDAD and isinstance(v, (int, float)) and not isinstance(v, bool):
+            return v > 0
+    for k in ("offers", "offer", "stock", "inventory", "product"):
+        if isinstance(d.get(k), dict):
+            r = _disponible(d[k], prof + 1)
+            if r is not None:
+                return r
+    return None
+
+
+def tallas_en_json(obj, salida, en_lista=False, prof=0):
+    """Busca tallas (y si quedan) dentro de cualquier JSON de una ficha de producto."""
+    if prof > 30:
+        return
+    if isinstance(obj, dict):
+        talla = None
+        for k, v in obj.items():
+            if str(k).lower() in _CLAVES_TALLA and isinstance(v, (str, int)) and parece_talla(v):
+                talla = str(v)
+                break
+        if talla is None and en_lista:
+            for k, v in obj.items():
+                # en listas genéricas solo valen tallas con letras (no números sueltos)
+                if (str(k).lower() in _CLAVES_EN_LISTA and isinstance(v, (str, int)) and parece_talla(v)
+                        and (en_lista == 2 or re.search(r"[A-Za-z]", str(v)))):
+                    talla = str(v)
+                    break
+        if talla is not None:
+            salida.append((talla, _disponible(obj)))
+        for k, v in obj.items():
+            kl = str(k).lower()
+            if isinstance(v, list):
+                nivel = 2 if (kl in _LISTAS_TALLAS or kl.endswith("sizes")) else (1 if kl in _LISTAS_GENERICAS else 0)
+                tallas_en_json(v, salida, nivel, prof + 1)
+            elif isinstance(v, dict):
+                tallas_en_json(v, salida, False, prof + 1)
+            elif kl in ("availablesizes", "tallasdisponibles", "sizes") and isinstance(v, str):
+                for t in re.split(r"[,|;]", v):
+                    if parece_talla(t):
+                        salida.append((t.strip(), True))
+    elif isinstance(obj, list):
+        for x in obj:
+            if isinstance(x, str) and en_lista and parece_talla(x) and (en_lista == 2 or re.search(r"[A-Za-z]", x)):
+                salida.append((x, None))
+            else:
+                tallas_en_json(x, salida, en_lista, prof + 1)
+
+
+_CLASE_AGOTADA = re.compile(r"unselectable|unavailable|not-available|disabled|out-?of-?stock|sold-?out|"
+                            r"agotad|no-?stock|nostock|is-disabled|inactive|crossed|strike", re.IGNORECASE)
+_ZONA_TALLAS = ('[class*="size" i], [class*="talla" i], [class*="taglia" i], [id*="size" i], '
+                '[id*="talla" i], [data-attr="size"], [data-attr*="talla"], [data-attr*="size"], '
+                'select[name*="size" i], select[name*="talla" i], [aria-label*="talla" i], '
+                '[aria-label*="size" i]')
+
+
+def tallas_en_html(soup):
+    salida = []
+    try:
+        zonas = soup.select(_ZONA_TALLAS)
+    except Exception:
+        zonas = []
+    vistos = set()
+    for z in zonas[:300]:
+        for el in [z] + z.find_all(["button", "a", "li", "option", "label", "span", "input", "div"], limit=80):
+            if id(el) in vistos:
+                continue
+            vistos.add(id(el))
+            valor = None
+            for attr in ("data-attr-value", "data-size", "data-talla", "data-value", "data-size-name",
+                         "data-label", "title", "value"):
+                if el.get(attr) and parece_talla(el.get(attr)):
+                    valor = el.get(attr)
+                    break
+            if valor is None:
+                texto = el.get_text(" ", strip=True)
+                if texto and len(texto) <= 24 and parece_talla(texto):
+                    valor = texto
+            if valor is None:
+                continue
+            clases = " ".join(el.get("class") or []) + " " + " ".join(
+                (el.parent.get("class") or []) if el.parent and el.name in ("span", "input") else [])
+            def _marcada(e, cl):
+                return (e.has_attr("disabled") or str(e.get("aria-disabled", "")).lower() == "true"
+                        or str(e.get("data-available", "")).lower() == "false"
+                        or bool(_CLASE_AGOTADA.search(cl)))
+            agotada = _marcada(el, clases) or any(
+                _marcada(h, " ".join(h.get("class") or []))
+                for h in el.find_all(["button", "a", "input", "span", "label"], limit=6))
+            salida.append((valor, not agotada))
+    return salida
+
+
+def _jsons_de_html(soup):
+    decoder = json.JSONDecoder()
+    for s in soup.find_all("script"):
+        texto = s.string or s.get_text() or ""
+        if len(texto) < 30:
+            continue
+        if "json" in (s.get("type") or "").lower():
+            try:
+                yield json.loads(texto)
+            except Exception:
+                pass
+            continue
+        for m in re.finditer(r"=\s*([\[{])", texto):
+            try:
+                obj, _ = decoder.raw_decode(texto[m.start(1):])
+                if isinstance(obj, (dict, list)):
+                    yield obj
+            except Exception:
+                continue
+
+
+def tallas_de_ficha(url, navegador=False):
+    """
+    Abre la ficha del producto y devuelve [(talla, disponible), ...],
+    o None si no se ha podido leer la página.
+    """
+    limpia = url.split("#")[0]
+    tallas = []
+    # Tiendas Shopify: la ficha en formato datos (.js) trae todas las variantes
+    if "/products/" in limpia:
+        try:
+            r = requests.get(limpia.split("?")[0].rstrip("/") + ".js",
+                             headers=dict(CABECERAS, Accept="application/json"), timeout=25)
+            if r.status_code == 200 and r.text.lstrip().startswith("{"):
+                tallas_en_json(r.json(), tallas)
+                if tallas:
+                    return tallas
+        except Exception:
+            pass
+    # Zara: la ficha en formato datos
+    if "zara.com" in limpia:
+        sep = "&" if "?" in limpia else "?"
+        try:
+            r = requests.get(limpia + sep + "ajax=true",
+                             headers=dict(CABECERAS, Accept="application/json"), timeout=25)
+            if r.status_code == 200 and r.text.lstrip()[:1] in "{[":
+                tallas_en_json(r.json(), tallas)
+                if tallas:
+                    return tallas
+        except Exception:
+            pass
+    jsons = []
+    try:
+        if navegador:
+            estado, html, jsons = descargar_con_navegador(limpia, max_cargas=0, max_segundos=40)
+        else:
+            estado, html = descargar(limpia)
+    except Exception:
+        return None
+    if es_bloqueo(estado, html) or estado >= 400:
+        return None
+    if html.lstrip()[:1] in "{[":
+        try:
+            jsons = list(jsons) + [json.loads(html)]
+        except Exception:
+            pass
+    soup = BeautifulSoup(html, "html.parser")
+    for j in list(jsons) + list(_jsons_de_html(soup)):
+        tallas_en_json(j, tallas)
+    if not tallas:
+        tallas = tallas_en_html(soup)
+    return tallas
+
+
+def conf_tallas(config, tienda):
+    conf = dict(config.get("tallas") or {})
+    if not conf or conf.get("activo", True) is False:
+        return None
+    if tienda.get("tallas") is False:
+        return None
+    if isinstance(tienda.get("tallas"), dict):
+        conf.update(tienda["tallas"])
+    return conf
+
+
+def filtrar_por_talla(pendientes, tienda, conf, vistos, moneda, ahora_iso):
+    """
+    Se queda solo con la ropa de hombre adulto disponible en talla grande.
+    Devuelve (aprobados, aplazados, estadísticas).
+    """
+    navegador = bool(tienda.get("navegador", False))
+    presupuesto = int(conf.get("fichas_por_vez", 12 if navegador else 40))
+    limite_seg = float(conf.get("minutos_max_por_tarea", 17)) * 60
+    horas_cache = float(conf.get("horas_para_revisar_otra_vez", 24))
+    si_no_se_sabe = str(conf.get("si_no_se_sabe", "descartar")).lower()
+    hace = (dt.datetime.fromisoformat(ahora_iso) - dt.timedelta(hours=horas_cache)).isoformat()
+    st = {"no_ropa": 0, "sin_talla": 0, "desconocido": 0, "ok": 0, "fichas": 0, "aplazados": 0}
+    aprobados, aplazados = [], []
+    for d, k, p in pendientes:
+        texto = f"{p['nombre']} {p.get('tipo', '')}"
+        if NO_ES_ROPA.search(texto) or NO_ES_HOMBRE_ADULTO.search(texto):
+            st["no_ropa"] += 1
+            continue
+        reg = vistos.get(k, {})
+        tallas = p.get("tallas")
+        de_la_lista = tallas is not None          # la tienda ya dio las tallas al leer el catálogo
+        if tallas is None:
+            if reg.get("tallas_revisado", "") >= hace and "tallas" in reg:
+                tallas = reg["tallas"]
+            elif presupuesto > 0 and time.time() - INICIO < limite_seg:
+                presupuesto -= 1
+                st["fichas"] += 1
+                tallas = tallas_de_ficha(p["url"], navegador)
+                tallas = [list(t) for t in tallas] if tallas is not None else None
+                reg["tallas"] = tallas
+                reg["tallas_revisado"] = ahora_iso
+                time.sleep(0.4)
+            else:
+                st["aplazados"] += 1
+                aplazados.append((d, k, p))
+                continue
+        tipo = tipo_prenda(texto)
+        if de_la_lista and not tallas:
+            st["sin_talla"] += 1                    # sin tallas de ropa (talla única, accesorio…)
+            continue
+        if not tallas:
+            st["desconocido"] += 1
+            if si_no_se_sabe == "avisar":
+                p["tallas_ok"] = ["sin comprobar"]
+                aprobados.append((d, k, p))
+            continue
+        grandes = list(dict.fromkeys(
+            _norm_talla(t) for t, disp in tallas if disp is not False and talla_grande(t, tipo, conf, moneda)))
+        if grandes:
+            st["ok"] += 1
+            p["tallas_ok"] = grandes
+            aprobados.append((d, k, p))
+        else:
+            st["sin_talla"] += 1
+    return aprobados, aplazados, st
 
 
 def clave_de(tienda, p):
@@ -1316,6 +1724,17 @@ def revisar_tienda(tienda, config, accion):
     primera_vez = not os.path.exists(ruta_estado(nombre_tienda))
     estado = cargar_estado(nombre_tienda)
     vistos = estado["vistos"]
+    filtro = conf_tallas(config, tienda)
+    version = 2 if filtro else 1
+    if estado.get("version_filtro", 1) != version:
+        # El filtro de tallas es nuevo para esta tienda: se empieza de cero
+        # (un resumen inicial solo con lo que hay en tu talla)
+        primera_vez = True
+        estado["vistos"] = vistos = {}
+        estado["version_filtro"] = version
+    if primera_vez:
+        estado["fase_inicial"] = True
+        estado["acumulado"] = {"total": 0, "top": []}
     productos = []
 
     if shopify:
@@ -1404,7 +1823,8 @@ def revisar_tienda(tienda, config, accion):
         if d < minimo:
             continue
         k = clave_de(nombre_tienda, p)
-        ya_avisado = vistos.get(k, {}).get("avisado_precio")
+        previo = vistos.get(k, {})
+        ya_avisado = previo.get("avisado_precio")
         nuevo = ya_avisado is None or p["ahora"] < ya_avisado * 0.98
         vistos[k] = {
             "nombre": p["nombre"],
@@ -1413,31 +1833,70 @@ def revisar_tienda(tienda, config, accion):
             "avisado_precio": ya_avisado,
             "ultima_vez": ahora_iso,
         }
+        for campo in ("tallas", "tallas_revisado"):
+            if campo in previo:
+                vistos[k][campo] = previo[campo]
         if nuevo:
             pendientes.append((d, k, p))
 
     pendientes.sort(key=lambda x: -x[0])
     print(f"\n  Artículos nuevos con descuento de {minimo:.0f} % o más: {len(pendientes)}")
 
-    resumen_inicial = (primera_vez and bool(config.get("resumen_primera_vez", True))
-                       and len(pendientes) > 5)
-    if resumen_inicial:
-        # Primera revisión de esta tienda: un solo mensaje resumen en vez de decenas
+    aplazados = []
+    if filtro:
+        pendientes, aplazados, st = filtrar_por_talla(pendientes, tienda, filtro, vistos, moneda, ahora_iso)
+        print(f"  Filtro de ropa y tallas: {st['ok']} en tu talla · {st['sin_talla']} sin talla grande "
+              f"disponible · {st['no_ropa']} no son ropa de hombre · {st['desconocido']} sin poder ver "
+              f"las tallas · {st['fichas']} fichas abiertas · {st['aplazados']} para la próxima vuelta")
+        if st["desconocido"] and not st["ok"] and not st["sin_talla"]:
+            print("  AVISO: no he podido leer las tallas de esta tienda (pásale este registro a Claude).")
+
+    def texto_tallas(p):
+        return f"\nTallas: {', '.join(p['tallas_ok'])}" if p.get("tallas_ok") else ""
+
+    def linea_corta(d, p):
+        return (f"🔥 -{d}% {p['nombre']}\n{formato_euros(p['antes'], centimos, moneda)} → "
+                f"{formato_euros(p['ahora'], centimos, moneda)}{texto_tallas(p)}\n{p['url']}")
+
+    en_fase_inicial = bool(estado.get("fase_inicial")) and bool(config.get("resumen_primera_vez", True))
+    resumen_inicial = False
+    a_enviar = []
+    if en_fase_inicial:
+        # Primera revisión de esta tienda: todo va a un único resumen, que se manda
+        # cuando se han comprobado todas las tallas (puede tardar unas vueltas)
+        acum = estado.setdefault("acumulado", {"total": 0, "top": []})
+        acum["total"] += len(pendientes)
+        acum["top"] = sorted(acum["top"] + [[d, linea_corta(d, p)] for d, _, p in pendientes],
+                             key=lambda x: -x[0])[:5]
         a_enviar = pendientes
-        top = pendientes[:5]
-        lineas = [f"🆕 {nombre_tienda}: ahora mismo hay {len(pendientes)} artículos rebajados un "
-                  f"{minimo:.0f} % o más. Los 5 mejores:"]
-        lineas += [f"🔥 -{d}% {p['nombre']}\n{formato_euros(p['antes'], centimos, moneda)} → "
-                   f"{formato_euros(p['ahora'], centimos, moneda)}\n{p['url']}" for d, _, p in top]
-        lineas.append("A partir de ahora solo te avisaré de las ofertas nuevas de esta tienda.")
+        lineas = []
+        if aplazados:
+            print(f"  Primera revisión: llevo {acum['total']} artículos en tu talla; faltan "
+                  f"{len(aplazados)} por comprobar. El resumen llegará cuando termine.")
+            if accion == "prueba_sin_enviar":
+                print("\n--- MODO PRUEBA: lo encontrado hasta ahora ---\n")
+                print("\n\n".join(t for _, t in acum["top"]) or "(nada todavía)")
+        else:
+            estado["fase_inicial"] = False
+            resumen_inicial = True
+            if acum["total"]:
+                art = "artículo" if acum["total"] == 1 else "artículos"
+                lineas = [f"🆕 {nombre_tienda}: ahora mismo hay {acum['total']} {art} "
+                          + ("de ropa en tu talla " if filtro else "")
+                          + f"rebajados un {minimo:.0f} % o más."
+                          + (" Los 5 mejores:" if acum["total"] > 5 else "")]
+                lineas += [t for _, t in acum["top"]]
+                lineas.append("A partir de ahora solo te avisaré de las ofertas nuevas de esta tienda.")
+            estado["acumulado"] = {"total": 0, "top": []}
     else:
         a_enviar = pendientes[:max_avisos]
         lineas = [
             f"🔥 -{d}% · {nombre_tienda}\n{p['nombre']}\n"
-            f"{formato_euros(p['antes'], centimos, moneda)} → {formato_euros(p['ahora'], centimos, moneda)}\n{p['url']}"
+            f"{formato_euros(p['antes'], centimos, moneda)} → {formato_euros(p['ahora'], centimos, moneda)}"
+            f"{texto_tallas(p)}\n{p['url']}"
             for d, _, p in a_enviar
         ]
-    if not resumen_inicial and len(pendientes) > max_avisos:
+    if not en_fase_inicial and len(pendientes) > max_avisos:
         lineas.append(f"…y {len(pendientes) - max_avisos} ofertas más de {nombre_tienda}. "
                       "Te llegarán en el próximo aviso.")
 
@@ -1457,6 +1916,10 @@ def revisar_tienda(tienda, config, accion):
         if todo_ok:
             for _, k, p in a_enviar:
                 vistos[k]["avisado_precio"] = p["ahora"]
+    if accion != "prueba_sin_enviar" and en_fase_inicial and not lineas:
+        # Durante la primera revisión lo encontrado se guarda para el resumen final
+        for _, k, p in a_enviar:
+            vistos[k]["avisado_precio"] = p["ahora"]
 
     if accion != "prueba_sin_enviar":
         guardar_estado(nombre_tienda, estado)
