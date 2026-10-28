@@ -1,0 +1,430 @@
+# ============================================================
+#  CONFIGURACIÓN DEL VIGILANTE DE DESCUENTOS
+#  Puedes editar este archivo directamente en GitHub (icono del lápiz).
+#  Lo más habitual es cambiar solo "descuento_minimo".
+# ============================================================
+
+# Te avisa de artículos rebajados este porcentaje o más
+descuento_minimo: 60
+
+# Máximo de ofertas por aviso y tienda (las demás llegan en el siguiente)
+max_avisos_por_ejecucion: 15
+
+# La primera vez que se revisa una tienda, si ya tiene muchas ofertas, te
+# manda UN resumen (las 5 mejores) en vez de decenas de mensajes.
+resumen_primera_vez: true
+
+# Minutos que puede durar cada tarea de GitHub (el límite de GitHub es 25).
+# Si no da tiempo a todo, lo que falte se revisa en la siguiente vuelta.
+minutos_max_por_tarea: 19
+
+# FILTRO DE ROPA Y TALLAS (se aplica a todas las tiendas de ropa y clubes)
+# Solo te avisa de ROPA DE HOMBRE ADULTO que quede disponible en talla
+# XL o mayor (XL, XXL, 3XL…). Descarta gorras, pines, bufandas, calcetines,
+# calzado, balones, tazas… y la ropa de mujer y de niño.
+# En tiendas sin ropa (PcComponentes…) va desactivado con "tallas: false".
+tallas:
+  activo: true
+  pantalon_desde: 48        # pantalones, vaqueros, bermudas (en pulgadas: W38 o más)
+  americana_desde: 54       # americanas, trajes y abrigos con talla de número (54 = XL)
+  camisa_cuello_desde: 43   # camisas con talla de cuello (43 = XL)
+  # Si no se pueden ver las tallas de un artículo: descartar | avisar
+  si_no_se_sabe: descartar
+
+# Cada tienda se revisa en paralelo y por separado, cada 15 minutos.
+# Las formas de leer cada web se han elegido tras analizarlas una a una.
+
+tiendas:
+
+  # ZARA · Catálogo completo de HOMBRE (≈3.000 artículos, una sola consulta)
+  # + secciones de ofertas (Special Prices, Rebajas, Black Friday…), que se
+  # detectan solas en cada temporada.
+  - nombre: Zara
+    zara:
+      web: https://www.zara.com
+      ruta: es/es
+      seccion: HOMBRE
+
+  # FIFTY · Todo hombre (≈3.400 artículos), leído en bloques de 120.
+  - nombre: Fifty
+    paginadas:
+      - https://fiftyoutlet.com/on/demandware.store/Sites-FF-Site/es_ES/Search-UpdateGrid?cgid=man&pmin=0%2c01&start={inicio}&sz=120
+    por_pagina: 120
+    paginas_max: 60
+
+  # PCCOMPONENTES · Ofertas TOP y Últimas unidades ordenadas por descuento
+  # (en cada vuelta) + las 520 categorías de la tienda, ordenadas por
+  # descuento, por turnos (vuelta completa cada hora y media aprox.).
+  - nombre: PcComponentes
+    tallas: false
+    paginadas:
+      - https://www.pccomponentes.com/campanas/ofertas-especiales?sort=discount&page={n}
+      - https://www.pccomponentes.com/campanas/ultimas-unidades?sort=discount&page={n}
+    ordenado_por_descuento: true
+    paginas_max: 60
+    categorias:
+      sitemap: https://www.pccomponentes.com/sitemap/sitemap_categories.xml
+      patron: "/categorias/[^/]+$"
+      sufijo: "?sort=discount&page={n}"
+      por_vez: 90
+
+  # LEFTIES · Catálogo de HOMBRE (≈4.000 artículos). Las secciones de
+  # ofertas (Promoción, Rebajas…) se revisan enteras siempre; el resto del
+  # catálogo, por turnos de 250 artículos.
+  - nombre: Lefties
+    inditex:
+      web: https://www.lefties.com
+      store: 94009000
+      catalogo: 90009053
+      seccion: hombre
+      por_vez: 250
+
+  # SEVILLA FC · Catálogo completo de la tienda oficial (≈1.400 artículos)
+  # + colecciones de ofertas.
+  - nombre: Sevilla FC
+    shopify: https://shop.sevillafc.es
+    colecciones:
+      - outlet
+      - ultimas-unidades-25-26
+      - descuentos-en-productos-seleccionados
+      - promociones
+
+  # SILBON · Todo hombre (ropa, calzado, complementos) + rebajas, outlet y
+  # Black Friday de hombre (se llenan en temporada).
+  - nombre: Silbon
+    shopify: https://www.silbonshop.com
+    solo_colecciones: true
+    colecciones:
+      - ver-todo-ropa-hombre
+      - todo-calzado-hombre
+      - todo-complementos-hombre
+      - rebajas-ver-todo-hombre
+      - segundas-rebajas-hasta50-hombre
+      - black-friday-ver-todo-hombre
+
+  # SCALPERS · Todo hombre (≈2.500 artículos) + rebajas, outlet, flash sale,
+  # mid season sale, últimas unidades y marcas invitadas de hombre.
+  - nombre: Scalpers
+    shopify: https://scalperscompany.com
+    solo_colecciones: true
+    colecciones:
+      - hombre-todo-1131
+      - hombre-rebajas-1501
+      - hombre-rebajas-hasta-70-1524
+      - hombre-ultimas-unidades-1599
+      - hombre-flash-sale-1600
+      - hombre-mid-season-sale-1573
+      - invited-brands-hombre-rebajas-ver-todo-5622
+      - invited-brands-hombre-the-outlet-5526
+      - invited-brands-hombre-outlet-5592
+      - invited-brands-hombre-nueva-coleccion-ropa-ver-todo-5012
+      - invited-brands-hombre-nueva-coleccion-calzado-ver-todo-5007
+      - invited-brands-hombre-nueva-coleccion-accesorios-ver-todo-5002
+
+
+  # ---------- MÁS MODA HOMBRE ----------
+  # MASSIMO DUTTI · Catálogo de hombre (API de Inditex). Las secciones de
+  # ofertas (Special Prices, Rebajas…) se revisan enteras siempre; el resto,
+  # por turnos.
+  - nombre: Massimo Dutti
+    grupo: Moda Inditex
+    inditex:
+      web: https://www.massimodutti.com
+      store: 34009450
+      catalogo: 30359536
+      seccion: hombre
+      por_vez: 150
+
+  # PULL&BEAR · Igual que Massimo Dutti. Sus fichas pesan mucho, así que el
+  # catálogo completo va por turnos pequeños.
+  - nombre: Pull&Bear
+    activa: false   # bloquea las visitas automáticas; pon true para probar otra vez
+    grupo: Moda Inditex
+    inditex:
+      web: https://www.pullandbear.com
+      store: 24009400
+      catalogo: 20309459
+      seccion: hombre
+      por_vez: 40
+      patron_ofertas: "promo|rebaj|oferta|special|sale|black|outlet|liquid"
+
+  # SPRINGFIELD y PEDRO DEL HIERRO · Mismo sistema que Fifty: todo hombre por
+  # bloques de 120 (por turnos) + secciones de ofertas de hombre de la portada.
+  - nombre: Springfield
+    grupo: Moda Tendam
+    auto: https://myspringfield.com/es/es/hombre
+    filtro_secciones: "/hombre/"
+    navegador: false
+    paginadas:
+      - https://myspringfield.com/on/demandware.store/Sites-SPF-Site/es_ES/Search-UpdateGrid?cgid=men&pmin=0%2c01&start={inicio}&sz=120
+    por_pagina: 120
+    paginas_por_vez: 10
+    paginas_max: 80
+  - nombre: Pedro del Hierro
+    grupo: Moda Tendam
+    auto: https://pedrodelhierro.com/es/es/hombre
+    filtro_secciones: "/hombre/"
+    navegador: false
+    paginadas:
+      - https://pedrodelhierro.com/on/demandware.store/Sites-PDH-Site/es_ES/Search-UpdateGrid?cgid=men&pmin=0%2c01&start={inicio}&sz=120
+    por_pagina: 120
+    paginas_por_vez: 8
+    paginas_max: 40
+
+  # EL GANSO · Rebajas y precios especiales de hombre. Tiene un cortafuegos
+  # que exige navegador; si en la prueba sale "BLOQUEADA", no se puede leer.
+  - nombre: El Ganso
+    grupo: Moda Tendam
+    auto: https://www.elganso.com/es/
+    filtro_secciones: "hombre|zapatillas"
+    navegador: true
+    urls:
+      - "https://www.elganso.com/es/mid-season-sale/hombre.html"
+      - "https://www.elganso.com/es/precios-especiales/precios-especiales-hombre.html"
+
+  # ---------- EL CORTE INGLÉS ----------
+  # DESACTIVADO: su protección anti-robots bloquea las visitas desde GitHub (error 403).
+  # Cada departamento: su sección "Descuentos TOP" + el departamento entero.
+  # Son miles de productos (12 por página), así que se leen por turnos de 12
+  # páginas en cada vuelta: Descuentos TOP se completa en menos de una hora
+  # y los departamentos enteros, en unas horas.
+  - nombre: El Corte Inglés · Hombre
+    activa: false   # bloquea las visitas automáticas; pon true para probar otra vez
+    grupo: El Corte Inglés
+    paginadas:
+      - https://www.elcorteingles.es/descuentos/moda-hombre/{n}/
+      - https://www.elcorteingles.es/moda-hombre/{n}/
+    paginas_por_vez: 12
+    paginas_max: 420
+  - nombre: El Corte Inglés · Bebés
+    activa: false   # bloquea las visitas automáticas; pon true para probar otra vez
+    tallas: false
+    grupo: El Corte Inglés
+    paginadas:
+      - https://www.elcorteingles.es/descuentos/bebes/{n}/
+      - https://www.elcorteingles.es/bebes/{n}/
+    paginas_por_vez: 12
+    paginas_max: 420
+  - nombre: El Corte Inglés · Electrónica
+    activa: false   # bloquea las visitas automáticas; pon true para probar otra vez
+    tallas: false
+    grupo: El Corte Inglés
+    paginadas:
+      - https://www.elcorteingles.es/descuentos/electronica/{n}/
+      - https://www.elcorteingles.es/electronica/{n}/
+    paginas_por_vez: 12
+    paginas_max: 420
+  - nombre: El Corte Inglés · Electrodomésticos
+    activa: false   # bloquea las visitas automáticas; pon true para probar otra vez
+    tallas: false
+    grupo: El Corte Inglés
+    paginadas:
+      - https://www.elcorteingles.es/descuentos/electrodomesticos/{n}/
+      - https://www.elcorteingles.es/electrodomesticos/{n}/
+    paginas_por_vez: 12
+    paginas_max: 420
+
+  # ---------- AMAZON ----------
+  # DESACTIVADO: Amazon bloquea las visitas desde GitHub (error 503). Usa Keepa.
+  # Búsqueda con el filtro de Amazon "60 % de descuento o más" + "vendido por
+  # Amazon" (sin vendedores externos, que inflan el precio recomendado). El
+  # descuento real se calcula con el precio tachado y se descartan anuncios.
+  # Amazon puede bloquear las visitas desde GitHub: si sale "BLOQUEADA",
+  # usa Keepa (keepa.com) para Amazon.
+  - nombre: Amazon · Hombre
+    activa: false   # bloquea las visitas automáticas; pon true para probar otra vez
+    grupo: Amazon
+    paginadas:
+      - "https://www.amazon.es/s?i=fashion-mens&rh=p_8%3A60-99%2Cp_6%3AA1AT7YVPFBWXBL&page={n}"
+    paginas_por_vez: 4
+    paginas_max: 20
+  - nombre: Amazon · Bebé
+    activa: false   # bloquea las visitas automáticas; pon true para probar otra vez
+    tallas: false
+    grupo: Amazon
+    paginadas:
+      - "https://www.amazon.es/s?i=baby&rh=p_8%3A60-99%2Cp_6%3AA1AT7YVPFBWXBL&page={n}"
+    paginas_por_vez: 4
+    paginas_max: 20
+  - nombre: Amazon · Electrónica
+    activa: false   # bloquea las visitas automáticas; pon true para probar otra vez
+    tallas: false
+    grupo: Amazon
+    paginadas:
+      - "https://www.amazon.es/s?i=electronics&rh=p_8%3A60-99%2Cp_6%3AA1AT7YVPFBWXBL&page={n}"
+    paginas_por_vez: 4
+    paginas_max: 20
+  - nombre: Amazon · Electrodomésticos
+    activa: false   # bloquea las visitas automáticas; pon true para probar otra vez
+    tallas: false
+    grupo: Amazon
+    paginadas:
+      - "https://www.amazon.es/s?i=appliances&rh=p_8%3A60-99%2Cp_6%3AA1AT7YVPFBWXBL&page={n}"
+      - "https://www.amazon.es/s?i=kitchen&rh=p_8%3A60-99%2Cp_6%3AA1AT7YVPFBWXBL&page={n}"
+    paginas_por_vez: 4
+    paginas_max: 20
+
+  # ==========================================================
+  #  TIENDAS DE CLUBES · LaLiga, Premier League y Serie A
+  #  "grupo": se revisan juntas en una misma tarea de GitHub.
+  #  "auto":  busca solas las secciones de ofertas de la portada
+  #           (Sale, Outlet, Rebajas, Saldi…) y recorre sus páginas.
+  # ==========================================================
+
+  # ---------- LaLiga · Shopify / API (catálogo completo) ----------
+  - {nombre: Athletic Club, grupo: LaLiga 1, shopify: https://shop.athletic-club.eus}
+  - {nombre: Racing de Santander, grupo: LaLiga 1, shopify: https://tienda.realracingclub.es}
+  - {nombre: Levante UD, grupo: LaLiga 1, shopify: https://tienda.levanteud.com}
+  - {nombre: Villarreal CF, grupo: LaLiga 1, shopify: https://shop.villarrealcf.es}
+  - {nombre: RC Celta, grupo: LaLiga 1, shopify: https://tenda.celta.gal}
+  - {nombre: Deportivo Alavés, grupo: LaLiga 1, shopify: https://www.baskoniaalavesstore.com}
+  - {nombre: RC Deportivo, grupo: LaLiga 1, shopify: https://deportienda.es}
+  - {nombre: Elche CF, grupo: LaLiga 1, woo: https://tienda.elchecf.es}
+
+  # ---------- LaLiga · secciones de ofertas ----------
+  - nombre: Valencia CF
+    grupo: LaLiga 2
+    auto: https://shop.valenciacf.com/es/
+    urls:
+      - "https://shop.valenciacf.com/es/outlet"
+  - nombre: CA Osasuna
+    grupo: LaLiga 2
+    auto: https://tienda.osasuna.es/es/
+    urls:
+      - "https://tienda.osasuna.es/es/catalog/category/view/s/sale/id/67/"
+  - nombre: Getafe CF
+    grupo: LaLiga 2
+    auto: https://tienda.getafecf.com/index.php/
+  - nombre: Málaga CF
+    grupo: LaLiga 2
+    auto: https://www.tiendamalagacf.com/es/
+    urls:
+      - "https://www.tiendamalagacf.com/es/productos-rebajados"
+      - "https://www.tiendamalagacf.com/es/67-outlet"
+  - nombre: Real Sociedad
+    grupo: LaLiga 2
+    auto: https://rsstore.realsociedad.eus/es/
+    urls:
+      - "https://rsstore.realsociedad.eus/es/f/outlet"
+  - nombre: RCD Espanyol
+    grupo: LaLiga 2
+    auto: https://shop.rcdespanyol.com/es/
+    urls:
+      - "https://shop.rcdespanyol.com/es/index.php?controller=prices-drop"
+  - nombre: Rayo Vallecano
+    activa: false   # bloquea las visitas automáticas (antibots)
+    grupo: LaLiga 2
+    urls:
+      - "https://umbro.es/rayo-vallecano"
+
+  # ---------- Premier League · Shopify (catálogo completo) ----------
+  - {nombre: Nottingham Forest, grupo: Premier 1, moneda: "£", shopify: https://shop.nottinghamforest.co.uk}
+  - {nombre: Ipswich Town, grupo: Premier 1, moneda: "£", shopify: https://shop.itfc.co.uk}
+  - {nombre: Newcastle United, grupo: Premier 1, moneda: "£", shopify: https://shop.newcastleunited.com}
+  - {nombre: Crystal Palace, grupo: Premier 1, moneda: "£", shopify: https://shop.cpfc.co.uk}
+  - {nombre: AFC Bournemouth, grupo: Premier 1, moneda: "£", shopify: https://superstore.afcb.co.uk}
+
+  # ---------- Premier League · secciones de ofertas (con navegador si hace falta) ----------
+  - nombre: Fulham
+    grupo: Premier 2
+    moneda: "£"
+    auto: https://shop.fulhamfc.com/
+    urls:
+      - "https://shop.fulhamfc.com/sale/"
+  - nombre: Coventry City
+    grupo: Premier 2
+    moneda: "£"
+    auto: https://www.ccfcstore.com/
+    urls:
+      - "https://www.ccfcstore.com/sale/"
+  - nombre: Hull City
+    grupo: Premier 2
+    moneda: "£"
+    auto: https://www.tigerleisure.com/
+    urls:
+      - "https://www.tigerleisure.com/sale/"
+  - nombre: Arsenal
+    activa: false   # bloquea las visitas automáticas (antibots)
+    grupo: Premier 2
+    moneda: "£"
+    auto: https://arsenaldirect.arsenal.com/
+    urls:
+      - "https://arsenaldirect.arsenal.com/Offers/Sale/c/sale"
+  - {nombre: Brentford, grupo: Premier 2, moneda: "£", auto: https://shop.brentfordfc.com/}
+  - {nombre: Brighton, grupo: Premier 2, moneda: "£", auto: https://shop.brightonandhovealbion.com/}
+
+  # ---------- Premier League · tiendas de Fanatics ----------
+  # Tienen protección antibots: es posible que no se puedan leer desde
+  # GitHub. Si en la prueba salen "BLOQUEADA", no hay nada que hacer con ellas.
+  - nombre: Aston Villa
+    activa: false   # bloquea las visitas automáticas (antibots)
+    grupo: Premier 3
+    moneda: "£"
+    auto: https://shop.avfc.co.uk/en/
+    urls:
+      - "https://shop.avfc.co.uk/en/aston-villa-sale-items/t-19216482+os-89+z-974396-3508662150"
+  - nombre: Chelsea
+    activa: false   # bloquea las visitas automáticas (antibots)
+    grupo: Premier 3
+    moneda: "£"
+    auto: https://store.chelseafc.com/en/
+    urls:
+      - "https://store.chelseafc.com/en/chelsea-sale-items/t-10776268+os-01+z-995381-4129328151"
+  - nombre: Everton
+    activa: false   # bloquea las visitas automáticas (antibots)
+    grupo: Premier 3
+    moneda: "£"
+    auto: https://store.evertonfc.com/en/
+    urls:
+      - "https://store.evertonfc.com/en/everton-sale-items/t-19094521+os-90+z-969011-3243213889"
+  - nombre: Leeds United
+    activa: false   # bloquea las visitas automáticas (antibots)
+    grupo: Premier 3
+    moneda: "£"
+    auto: https://shop.leedsunited.com/en/
+    urls:
+      - "https://shop.leedsunited.com/en/leeds-united-sale-items/t-21516707+os-12+z-965972-2990833273"
+  - {nombre: Manchester City, grupo: Premier 3, moneda: "£", auto: https://shop.mancity.com/}
+  - {nombre: Manchester United, grupo: Premier 3, moneda: "£", auto: https://store.manutd.com/}
+  - {nombre: Liverpool, grupo: Premier 3, moneda: "£", auto: https://store.liverpoolfc.com/}
+  - {nombre: Tottenham Hotspur, grupo: Premier 3, moneda: "£", auto: https://shop.tottenhamhotspur.com/}
+  - {nombre: Sunderland, grupo: Premier 3, moneda: "£", auto: https://www.safcstore.com/}
+
+  # ---------- Serie A · Shopify / API (catálogo completo) ----------
+  - {nombre: Napoli, grupo: Serie A 1, shopify: https://store.sscnapoli.it}
+  - {nombre: Como, grupo: Serie A 1, shopify: https://shop.comofootball.com}
+  - {nombre: AS Roma, grupo: Serie A 1, shopify: https://store.asroma.com}
+  - {nombre: AC Milan, grupo: Serie A 1, shopify: https://store.acmilan.com}
+  - {nombre: Venezia, grupo: Serie A 1, shopify: https://shop.veneziafc.it}
+  - {nombre: Parma, grupo: Serie A 1, shopify: https://shop.parmacalcio1913.com}
+  - {nombre: Cagliari, grupo: Serie A 1, woo: https://store.cagliaricalcio.com}
+  - {nombre: Frosinone, grupo: Serie A 1, woo: https://store.frosinonecalcio.com}
+
+  # ---------- Serie A · secciones de ofertas ----------
+  - {nombre: Juventus, grupo: Serie A 2, auto: https://store.juventus.com/es}
+  - nombre: Inter
+    grupo: Serie A 2
+    auto: https://store.inter.it/es
+    urls:
+      - "https://store.inter.it/es/promotions"
+  - {nombre: Atalanta, grupo: Serie A 2, auto: https://store.atalanta.it/es}
+  - {nombre: Bologna, grupo: Serie A 2, auto: https://www.bolognafcstore.com/es}
+  - {nombre: Fiorentina, grupo: Serie A 2, auto: https://www.fiorentinastore.com/es}
+  - {nombre: Lazio, grupo: Serie A 2, auto: https://www.laziostylestore.com/es}
+  - nombre: Torino
+    grupo: Serie A 3
+    auto: https://torinofcstore.com/it/
+    urls:
+      - "https://torinofcstore.com/it/142-saldi"
+      - "https://torinofcstore.com/it/index.php?controller=prices-drop"
+  - nombre: Sassuolo
+    grupo: Serie A 3
+    auto: https://store.sassuolocalcio.it/it/
+    urls:
+      - "https://store.sassuolocalcio.it/it/82-summer-sale"
+      - "https://store.sassuolocalcio.it/it/index.php?controller=prices-drop"
+  - {nombre: Lecce, grupo: Serie A 3, auto: https://www.usleccestore.it/}
+  - {nombre: Monza, grupo: Serie A 3, auto: https://shop.acmonza.com/}
+  - {nombre: Genoa, grupo: Serie A 3, auto: https://store.genoacfc.it/}
+  # Udinese no tiene tienda online propia (solo vende en Amazon).
+
