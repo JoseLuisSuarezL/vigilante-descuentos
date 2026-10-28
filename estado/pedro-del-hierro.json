@@ -4,12 +4,126 @@
   "total": 0
  },
  "cursores": {
-  "https://pedrodelhierro.com/on/demandware.store/Sites-PDH-Site/es_ES/Search-UpdateGrid?cgid=men&pmin=0%2c01&start={inicio}&sz=120": 9
+  "https://pedrodelhierro.com/on/demandware.store/Sites-PDH-Site/es_ES/Search-UpdateGrid?cgid=men&pmin=0%2c01&start={inicio}&sz=120": 17
  },
  "fase_inicial": false,
- "ultima_revision": "2026-10-28T16:10:23.058102",
+ "ultima_revision": "2026-10-28T16:19:20.221807",
  "version_filtro": 2,
  "vistos": {
+  "006b3237fc27851a": {
+   "avisado_precio": 25.99,
+   "descuento": 71,
+   "nombre": "Bermuda 5 bolsillos regular",
+   "precio": 25.99,
+   "tallas": [
+    [
+     "71",
+     true
+    ],
+    [
+     "38",
+     false
+    ],
+    [
+     "38",
+     false
+    ],
+    [
+     "38",
+     true
+    ],
+    [
+     "40",
+     true
+    ],
+    [
+     "40",
+     true
+    ],
+    [
+     "40",
+     true
+    ],
+    [
+     "42",
+     true
+    ],
+    [
+     "42",
+     true
+    ],
+    [
+     "42",
+     true
+    ],
+    [
+     "44",
+     true
+    ],
+    [
+     "44",
+     true
+    ],
+    [
+     "44",
+     true
+    ],
+    [
+     "46",
+     true
+    ],
+    [
+     "46",
+     true
+    ],
+    [
+     "46",
+     true
+    ],
+    [
+     "48",
+     true
+    ],
+    [
+     "48",
+     true
+    ],
+    [
+     "48",
+     true
+    ],
+    [
+     "50",
+     true
+    ],
+    [
+     "50",
+     true
+    ],
+    [
+     "50",
+     true
+    ],
+    [
+     "52",
+     false
+    ],
+    [
+     "52",
+     false
+    ],
+    [
+     "52",
+     true
+    ],
+    [
+     "71",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:18:47.274599",
+   "ultima_vez": "2026-10-28T16:18:47.274599"
+  },
   "021bf42725344103": {
    "avisado_precio": 19.95,
    "descuento": 60,
@@ -99,6 +213,186 @@
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
    "ultima_vez": "2026-10-28T08:34:04.294111"
+  },
+  "0278fe3980bdb8b1": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Polo estructura otomán",
+   "precio": 19.99,
+   "tallas": [
+    [
+     "60",
+     true
+    ],
+    [
+     "S",
+     false
+    ],
+    [
+     "S",
+     false
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "60",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:18:47.274599",
+   "ultima_vez": "2026-10-28T16:18:47.274599"
+  },
+  "168611bd8265c346": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Camiseta punto manga corta algodón rayas",
+   "precio": 15.99,
+   "tallas": [
+    [
+     "60",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "60",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:18:47.274599",
+   "ultima_vez": "2026-10-28T16:18:47.274599"
   },
   "1df9d1d628ad582f": {
    "avisado_precio": 15.99,
@@ -280,6 +574,13 @@
    "tallas_revisado": "2026-10-28T08:34:04.294111",
    "ultima_vez": "2026-10-28T08:34:04.294111"
   },
+  "322c5a3d33a49da6": {
+   "avisado_precio": null,
+   "descuento": 75,
+   "nombre": "Gorra PdH Madring",
+   "precio": 9.99,
+   "ultima_vez": "2026-10-28T16:18:47.274599"
+  },
   "36fcca3894eab83a": {
    "avisado_precio": 29.99,
    "descuento": 62,
@@ -447,6 +748,84 @@
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
    "ultima_vez": "2026-10-28T08:34:04.294111"
+  },
+  "3c0fd46d81260e49": {
+   "avisado_precio": 25.9,
+   "descuento": 68,
+   "nombre": "Camisa algodón lino rayas manga larga",
+   "precio": 25.9,
+   "tallas": [
+    [
+     "68",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "68",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:18:47.274599",
+   "ultima_vez": "2026-10-28T16:18:47.274599"
   },
   "3f91822839d59475": {
    "avisado_precio": 19.99,
@@ -808,6 +1187,174 @@
    "tallas_revisado": "2026-10-28T08:34:04.294111",
    "ultima_vez": "2026-10-28T08:34:04.294111"
   },
+  "4575081529efb896": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Polo piqué de rayas",
+   "precio": 15.99,
+   "tallas": [
+    [
+     "60",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "60",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:18:47.274599",
+   "ultima_vez": "2026-10-28T16:18:47.274599"
+  },
+  "47781685abae2cda": {
+   "avisado_precio": 11.99,
+   "descuento": 74,
+   "nombre": "Polo básico piqué lavado",
+   "precio": 11.99,
+   "tallas": [
+    [
+     "74",
+     true
+    ],
+    [
+     "S",
+     false
+    ],
+    [
+     "S",
+     false
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     false
+    ],
+    [
+     "M",
+     false
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     false
+    ],
+    [
+     "XL",
+     false
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "74",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:18:47.274599",
+   "ultima_vez": "2026-10-28T16:18:47.274599"
+  },
   "497c0583a939a7c6": {
    "avisado_precio": 39.95,
    "descuento": 60,
@@ -898,6 +1445,84 @@
    "tallas_revisado": "2026-10-28T08:34:04.294111",
    "ultima_vez": "2026-10-28T08:34:04.294111"
   },
+  "528cde2409485110": {
+   "avisado_precio": 19.9,
+   "descuento": 72,
+   "nombre": "Bermuda ligera popelín regular",
+   "precio": 19.9,
+   "tallas": [
+    [
+     "72",
+     true
+    ],
+    [
+     "S",
+     false
+    ],
+    [
+     "S",
+     false
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     false
+    ],
+    [
+     "M",
+     false
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     false
+    ],
+    [
+     "L",
+     false
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     false
+    ],
+    [
+     "XL",
+     false
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "72",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:18:47.274599",
+   "ultima_vez": "2026-10-28T16:18:47.274599"
+  },
   "573b8c321fb83a79": {
    "avisado_precio": 29.99,
    "descuento": 67,
@@ -986,7 +1611,163 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-28T16:10:07.820031"
+   "ultima_vez": "2026-10-28T16:18:47.274599"
+  },
+  "5a450ee902deeb9f": {
+   "avisado_precio": 15.9,
+   "descuento": 73,
+   "nombre": "Bañador estampado étnico OOTO",
+   "precio": 15.9,
+   "tallas": [
+    [
+     "73",
+     true
+    ],
+    [
+     "S",
+     false
+    ],
+    [
+     "S",
+     false
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     false
+    ],
+    [
+     "M",
+     false
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     false
+    ],
+    [
+     "XL",
+     false
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "73",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:18:47.274599",
+   "ultima_vez": "2026-10-28T16:18:47.274599"
+  },
+  "5e626a17f60339ac": {
+   "avisado_precio": 25.9,
+   "descuento": 68,
+   "nombre": "Camisa algodón lino lisa manga larga",
+   "precio": 25.9,
+   "tallas": [
+    [
+     "68",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "68",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:18:47.274599",
+   "ultima_vez": "2026-10-28T16:18:47.274599"
   },
   "5f9e3303a742c38b": {
    "avisado_precio": 25.99,
@@ -1306,6 +2087,84 @@
    "tallas_revisado": "2026-10-28T16:10:07.820031",
    "ultima_vez": "2026-10-28T16:10:07.820031"
   },
+  "6a30c2f1bcadc294": {
+   "avisado_precio": 11.9,
+   "descuento": 74,
+   "nombre": "Polo piqué cuello en V",
+   "precio": 11.9,
+   "tallas": [
+    [
+     "74",
+     true
+    ],
+    [
+     "S",
+     false
+    ],
+    [
+     "S",
+     false
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     false
+    ],
+    [
+     "M",
+     false
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     false
+    ],
+    [
+     "L",
+     false
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "74",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:18:47.274599",
+   "ultima_vez": "2026-10-28T16:18:47.274599"
+  },
   "7ad7c578b41dfe9f": {
    "avisado_precio": 29.9,
    "descuento": 63,
@@ -1382,7 +2241,133 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-28T16:10:07.820031"
+   "ultima_vez": "2026-10-28T16:18:47.274599"
+  },
+  "889cbf1e3363b507": {
+   "avisado_precio": 15.99,
+   "descuento": 73,
+   "nombre": "Bermuda básica regular",
+   "precio": 15.99,
+   "tallas": [
+    [
+     "73",
+     true
+    ],
+    [
+     "38",
+     true
+    ],
+    [
+     "38",
+     true
+    ],
+    [
+     "38",
+     true
+    ],
+    [
+     "40",
+     true
+    ],
+    [
+     "40",
+     true
+    ],
+    [
+     "40",
+     true
+    ],
+    [
+     "42",
+     true
+    ],
+    [
+     "42",
+     true
+    ],
+    [
+     "42",
+     true
+    ],
+    [
+     "44",
+     true
+    ],
+    [
+     "44",
+     true
+    ],
+    [
+     "44",
+     true
+    ],
+    [
+     "46",
+     true
+    ],
+    [
+     "46",
+     true
+    ],
+    [
+     "46",
+     true
+    ],
+    [
+     "48",
+     true
+    ],
+    [
+     "48",
+     true
+    ],
+    [
+     "48",
+     true
+    ],
+    [
+     "50",
+     true
+    ],
+    [
+     "50",
+     true
+    ],
+    [
+     "50",
+     true
+    ],
+    [
+     "52",
+     false
+    ],
+    [
+     "52",
+     false
+    ],
+    [
+     "52",
+     true
+    ],
+    [
+     "54",
+     false
+    ],
+    [
+     "54",
+     false
+    ],
+    [
+     "54",
+     true
+    ],
+    [
+     "73",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:18:47.274599",
+   "ultima_vez": "2026-10-28T16:18:47.274599"
   },
   "8bc917b078dea1a8": {
    "avisado_precio": 39.95,
@@ -1472,7 +2457,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-28T16:10:07.820031"
+   "ultima_vez": "2026-10-28T16:18:47.274599"
   },
   "8c5ab4cd4c9bd2fb": {
    "avisado_precio": 29.99,
@@ -1654,6 +2639,84 @@
    "tallas_revisado": "2026-10-28T08:34:04.294111",
    "ultima_vez": "2026-10-28T08:34:04.294111"
   },
+  "9ba9a86bdd1eb08f": {
+   "avisado_precio": 25.9,
+   "descuento": 68,
+   "nombre": "Camisa algodón lino lisa manga corta",
+   "precio": 25.9,
+   "tallas": [
+    [
+     "68",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "68",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:18:47.274599",
+   "ultima_vez": "2026-10-28T16:18:47.274599"
+  },
   "9bd043d5358ca7e8": {
    "avisado_precio": 19.95,
    "descuento": 60,
@@ -1832,7 +2895,175 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-28T16:10:07.820031"
+   "ultima_vez": "2026-10-28T16:18:47.274599"
+  },
+  "a3e9ab3c1b7f4f6f": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Polo oxford rayas",
+   "precio": 15.99,
+   "tallas": [
+    [
+     "60",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "60",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:18:47.274599",
+   "ultima_vez": "2026-10-28T16:18:47.274599"
+  },
+  "a86380351ea14f27": {
+   "avisado_precio": 15.99,
+   "descuento": 76,
+   "nombre": "Bermuda ligera regular",
+   "precio": 15.99,
+   "tallas": [
+    [
+     "76",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     false
+    ],
+    [
+     "L",
+     false
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "76",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:18:47.274599",
+   "ultima_vez": "2026-10-28T16:18:47.274599"
   },
   "aa6a3c31371bf867": {
    "avisado_precio": 15.99,
@@ -2012,7 +3243,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-28T16:10:07.820031"
+   "ultima_vez": "2026-10-28T16:18:47.274599"
   },
   "b7aa946481036507": {
    "avisado_precio": 39.95,
@@ -2216,7 +3447,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-28T16:10:07.820031"
+   "ultima_vez": "2026-10-28T16:18:47.274599"
   },
   "b9682d839d971f10": {
    "avisado_precio": 25.99,
@@ -2397,6 +3628,96 @@
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
    "ultima_vez": "2026-10-28T08:34:04.294111"
+  },
+  "c2918890b1ea1b00": {
+   "avisado_precio": 19.99,
+   "descuento": 64,
+   "nombre": "Camisa punto manga corta algodón botones",
+   "precio": 19.99,
+   "tallas": [
+    [
+     "64",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "64",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:18:47.274599",
+   "ultima_vez": "2026-10-28T16:18:47.274599"
   },
   "c72f1bfcddb553f6": {
    "avisado_precio": 15.99,
@@ -3174,6 +4495,198 @@
    "tallas_revisado": "2026-10-28T08:34:04.294111",
    "ultima_vez": "2026-10-28T08:34:04.294111"
   },
+  "e2fc6c315f83e15b": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Zapatilla deportiva textil",
+   "precio": 39.95,
+   "tallas": [
+    [
+     "60",
+     true
+    ],
+    [
+     "40",
+     true
+    ],
+    [
+     "40",
+     true
+    ],
+    [
+     "40",
+     true
+    ],
+    [
+     "41",
+     true
+    ],
+    [
+     "41",
+     true
+    ],
+    [
+     "41",
+     true
+    ],
+    [
+     "42",
+     true
+    ],
+    [
+     "42",
+     true
+    ],
+    [
+     "42",
+     true
+    ],
+    [
+     "43",
+     true
+    ],
+    [
+     "43",
+     true
+    ],
+    [
+     "43",
+     true
+    ],
+    [
+     "44",
+     true
+    ],
+    [
+     "44",
+     true
+    ],
+    [
+     "44",
+     true
+    ],
+    [
+     "45",
+     false
+    ],
+    [
+     "45",
+     false
+    ],
+    [
+     "45",
+     true
+    ],
+    [
+     "46",
+     false
+    ],
+    [
+     "46",
+     false
+    ],
+    [
+     "46",
+     true
+    ],
+    [
+     "60",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:18:47.274599",
+   "ultima_vez": "2026-10-28T16:18:47.274599"
+  },
+  "e776167469bdd7d6": {
+   "avisado_precio": 19.9,
+   "descuento": 67,
+   "nombre": "Jersey polo manga corta torzal",
+   "precio": 19.9,
+   "tallas": [
+    [
+     "67",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "67",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:18:47.274599",
+   "ultima_vez": "2026-10-28T16:18:47.274599"
+  },
   "e8d51e6c3fcea42e": {
    "avisado_precio": 15.99,
    "descuento": 60,
@@ -3264,6 +4777,324 @@
    "tallas_revisado": "2026-10-28T16:10:07.820031",
    "ultima_vez": "2026-10-28T16:10:07.820031"
   },
+  "ebb00aa694f2420c": {
+   "avisado_precio": 15.99,
+   "descuento": 76,
+   "nombre": "Bermuda print regular",
+   "precio": 15.99,
+   "tallas": [
+    [
+     "76",
+     true
+    ],
+    [
+     "38",
+     true
+    ],
+    [
+     "38",
+     true
+    ],
+    [
+     "38",
+     true
+    ],
+    [
+     "40",
+     true
+    ],
+    [
+     "40",
+     true
+    ],
+    [
+     "40",
+     true
+    ],
+    [
+     "42",
+     true
+    ],
+    [
+     "42",
+     true
+    ],
+    [
+     "42",
+     true
+    ],
+    [
+     "44",
+     true
+    ],
+    [
+     "44",
+     true
+    ],
+    [
+     "44",
+     true
+    ],
+    [
+     "46",
+     true
+    ],
+    [
+     "46",
+     true
+    ],
+    [
+     "46",
+     true
+    ],
+    [
+     "48",
+     true
+    ],
+    [
+     "48",
+     true
+    ],
+    [
+     "48",
+     true
+    ],
+    [
+     "50",
+     true
+    ],
+    [
+     "50",
+     true
+    ],
+    [
+     "50",
+     true
+    ],
+    [
+     "52",
+     false
+    ],
+    [
+     "52",
+     false
+    ],
+    [
+     "52",
+     true
+    ],
+    [
+     "54",
+     false
+    ],
+    [
+     "54",
+     false
+    ],
+    [
+     "54",
+     true
+    ],
+    [
+     "76",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:18:47.274599",
+   "ultima_vez": "2026-10-28T16:18:47.274599"
+  },
+  "f50b9a5c14885c92": {
+   "avisado_precio": 15.99,
+   "descuento": 68,
+   "nombre": "Polo de estructura",
+   "precio": 15.99,
+   "tallas": [
+    [
+     "68",
+     true
+    ],
+    [
+     "S",
+     false
+    ],
+    [
+     "S",
+     false
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "68",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:18:47.274599",
+   "ultima_vez": "2026-10-28T16:18:47.274599"
+  },
+  "f72126f04df41a0c": {
+   "avisado_precio": 19.9,
+   "descuento": 72,
+   "nombre": "Bermuda básica regular",
+   "precio": 19.9,
+   "tallas": [
+    [
+     "72",
+     true
+    ],
+    [
+     "38",
+     true
+    ],
+    [
+     "38",
+     true
+    ],
+    [
+     "38",
+     true
+    ],
+    [
+     "40",
+     true
+    ],
+    [
+     "40",
+     true
+    ],
+    [
+     "40",
+     true
+    ],
+    [
+     "42",
+     true
+    ],
+    [
+     "42",
+     true
+    ],
+    [
+     "42",
+     true
+    ],
+    [
+     "44",
+     false
+    ],
+    [
+     "44",
+     false
+    ],
+    [
+     "44",
+     true
+    ],
+    [
+     "46",
+     false
+    ],
+    [
+     "46",
+     false
+    ],
+    [
+     "46",
+     true
+    ],
+    [
+     "48",
+     false
+    ],
+    [
+     "48",
+     false
+    ],
+    [
+     "48",
+     true
+    ],
+    [
+     "50",
+     true
+    ],
+    [
+     "50",
+     true
+    ],
+    [
+     "50",
+     true
+    ],
+    [
+     "72",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:18:47.274599",
+   "ultima_vez": "2026-10-28T16:18:47.274599"
+  },
   "fd2ee802d438f3be": {
    "avisado_precio": 19.99,
    "descuento": 75,
@@ -3341,6 +5172,13 @@
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
    "ultima_vez": "2026-10-28T08:34:04.294111"
+  },
+  "fe85135dfa929d52": {
+   "avisado_precio": null,
+   "descuento": 68,
+   "nombre": "Camisa algodón lino cuadros manga corta",
+   "precio": 25.9,
+   "ultima_vez": "2026-10-28T16:18:47.274599"
   }
  }
 }

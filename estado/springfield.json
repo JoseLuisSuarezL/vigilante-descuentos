@@ -4,10 +4,10 @@
   "total": 0
  },
  "cursores": {
-  "https://myspringfield.com/on/demandware.store/Sites-SPF-Site/es_ES/Search-UpdateGrid?cgid=men&pmin=0%2c01&start={inicio}&sz=120": 41
+  "https://myspringfield.com/on/demandware.store/Sites-SPF-Site/es_ES/Search-UpdateGrid?cgid=men&pmin=0%2c01&start={inicio}&sz=120": 51
  },
  "fase_inicial": false,
- "ultima_revision": "2026-10-28T16:09:28.772037",
+ "ultima_revision": "2026-10-28T16:17:55.826073",
  "version_filtro": 2,
  "vistos": {
   "0011e4953f9712bb": {
@@ -16,6 +16,13 @@
    "nombre": "Bañador básico liso logo",
    "precio": 19.99,
    "ultima_vez": "2026-10-28T08:32:34.284097"
+  },
+  "012b7ecb190341c7": {
+   "avisado_precio": null,
+   "descuento": 80,
+   "nombre": "Pack 3 calcetines algodón canalé",
+   "precio": 9.99,
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "04900f5621c0f2db": {
    "avisado_precio": null,
@@ -155,7 +162,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "097605434ba152d6": {
    "avisado_precio": null,
@@ -201,7 +208,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "105f184672d1a596": {
    "avisado_precio": null,
@@ -310,7 +317,85 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
+  },
+  "154d5ac613a0b4a2": {
+   "avisado_precio": 10.99,
+   "descuento": 78,
+   "nombre": "Camiseta relaxed manga corta",
+   "precio": 10.99,
+   "tallas": [
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "01",
+     true
+    ],
+    [
+     "01",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:17:07.517242",
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "155c7a720ee6387f": {
    "avisado_precio": 5.99,
@@ -412,7 +497,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "1ce2a9b945c42eed": {
    "avisado_precio": null,
@@ -420,6 +505,162 @@
    "nombre": "Camiseta básica tejido piqué",
    "precio": 9.99,
    "ultima_vez": "2026-10-28T08:32:34.284097"
+  },
+  "219b2b0c75595046": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Jersey relaxed cuello redondo",
+   "precio": 19.99,
+   "tallas": [
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "01",
+     true
+    ],
+    [
+     "01",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:17:07.517242",
+   "ultima_vez": "2026-10-28T16:17:07.517242"
+  },
+  "24e596f303ba8ce8": {
+   "avisado_precio": 19.99,
+   "descuento": 60,
+   "nombre": "Bóxer trunk con algodón",
+   "precio": 19.99,
+   "tallas": [
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "01",
+     true
+    ],
+    [
+     "01",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:17:07.517242",
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "26d0fa09f84f6067": {
    "avisado_precio": 9.99,
@@ -513,7 +754,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "2aa021a3ce1d4d21": {
    "avisado_precio": 5.99,
@@ -617,6 +858,60 @@
    "tallas_revisado": "2026-10-28T08:32:34.284097",
    "ultima_vez": "2026-10-28T08:32:34.284097"
   },
+  "2b692907918801cb": {
+   "avisado_precio": 19.99,
+   "descuento": 60,
+   "nombre": "Set interior con algodón",
+   "precio": 19.99,
+   "tallas": [
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "01",
+     true
+    ],
+    [
+     "01",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:17:07.517242",
+   "ultima_vez": "2026-10-28T16:17:07.517242"
+  },
   "2bfd1b05074939be": {
    "avisado_precio": 25.9,
    "descuento": 68,
@@ -677,7 +972,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "2f19e07be6c953ee": {
    "avisado_precio": null,
@@ -747,7 +1042,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "36249cb3e57babb8": {
    "avisado_precio": 5.99,
@@ -951,7 +1246,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "3b21e381fd316189": {
    "avisado_precio": 19.9,
@@ -1029,7 +1324,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "3d2f018a9bd00f4a": {
    "avisado_precio": null,
@@ -1281,7 +1576,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "404348ac698597ee": {
    "avisado_precio": 5.99,
@@ -1383,7 +1678,14 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
+  },
+  "40b10ff46571d8f0": {
+   "avisado_precio": null,
+   "descuento": 80,
+   "nombre": "Calcetines con algodón",
+   "precio": 9.99,
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "4448f4d3fc9f767b": {
    "avisado_precio": null,
@@ -1391,6 +1693,13 @@
    "nombre": "Gorro con viscosa",
    "precio": 7.99,
    "ultima_vez": "2026-10-28T16:08:57.698806"
+  },
+  "46f113852b609d03": {
+   "avisado_precio": null,
+   "descuento": 92,
+   "nombre": "Calcetines con algodón",
+   "precio": 3.99,
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "4887269889f42d3d": {
    "avisado_precio": 12.99,
@@ -1437,6 +1746,13 @@
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
    "ultima_vez": "2026-10-28T08:32:34.284097"
+  },
+  "4969bfca8d1bf8fa": {
+   "avisado_precio": null,
+   "descuento": 80,
+   "nombre": "Pack 3 calcetines algodón",
+   "precio": 9.99,
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "4b48581da0f3e1f6": {
    "avisado_precio": 5.99,
@@ -1506,7 +1822,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "4c8f664bf6b6c0fb": {
    "avisado_precio": 5.99,
@@ -1608,7 +1924,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "4ceb500ff85220a1": {
    "avisado_precio": null,
@@ -1717,7 +2033,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "4e988b5bfdade6d6": {
    "avisado_precio": null,
@@ -1826,14 +2142,14 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "57ae75352d31ff18": {
    "avisado_precio": null,
    "descuento": 73,
    "nombre": "Camiseta stickers",
    "precio": 5.99,
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "5e232052a566b82b": {
    "avisado_precio": null,
@@ -1926,14 +2242,14 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "6029ed47c789e958": {
    "avisado_precio": null,
    "descuento": 68,
    "nombre": "Camisa algodón lino cuadros manga corta",
    "precio": 25.9,
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "60ddb3cd45439cf6": {
    "avisado_precio": 5.99,
@@ -2035,7 +2351,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "6113fc614314ed7e": {
    "avisado_precio": 5.99,
@@ -2137,7 +2453,92 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
+  },
+  "61e2ff1079d7daa1": {
+   "avisado_precio": 12.99,
+   "descuento": 74,
+   "nombre": "Camiseta regular manga corta",
+   "precio": 12.99,
+   "tallas": [
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "01",
+     true
+    ],
+    [
+     "01",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:17:07.517242",
+   "ultima_vez": "2026-10-28T16:17:07.517242"
+  },
+  "6337da523d2294e0": {
+   "avisado_precio": null,
+   "descuento": 80,
+   "nombre": "Calcetines con algodón calaveras",
+   "precio": 9.99,
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "643f659810327a1b": {
    "avisado_precio": null,
@@ -2183,7 +2584,61 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
+  },
+  "6463ed1ff789f88e": {
+   "avisado_precio": 17.99,
+   "descuento": 64,
+   "nombre": "Camiseta regular manga corta",
+   "precio": 17.99,
+   "tallas": [
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "4XL",
+     true
+    ],
+    [
+     "4XL",
+     true
+    ],
+    [
+     "4XL",
+     true
+    ],
+    [
+     "01",
+     true
+    ],
+    [
+     "01",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:17:07.517242",
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "64d83becc487a6ec": {
    "avisado_precio": 11.9,
@@ -2229,7 +2684,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "654b770a105f22bf": {
    "avisado_precio": null,
@@ -2395,7 +2850,14 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
+  },
+  "693f72ba57a2ecb5": {
+   "avisado_precio": null,
+   "descuento": 70,
+   "nombre": "Gorra JJ studio",
+   "precio": 15.0,
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "6a2814e255b5f9be": {
    "avisado_precio": null,
@@ -2503,7 +2965,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "6dcef28ca0dd59a6": {
    "avisado_precio": null,
@@ -2518,6 +2980,47 @@
    "nombre": "Camiseta cortes",
    "precio": 5.99,
    "ultima_vez": "2026-10-28T08:32:34.284097"
+  },
+  "721574c0746efdb1": {
+   "avisado_precio": null,
+   "descuento": 75,
+   "nombre": "Calcetín pinkie deportivo",
+   "precio": 1.99,
+   "tallas": [
+    [
+     "75",
+     true
+    ],
+    [
+     "39-42",
+     true
+    ],
+    [
+     "39-42",
+     true
+    ],
+    [
+     "39-42",
+     true
+    ],
+    [
+     "43-46",
+     false
+    ],
+    [
+     "75",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:17:07.517242",
+   "ultima_vez": "2026-10-28T16:17:07.517242"
+  },
+  "73d03e5947d232e3": {
+   "avisado_precio": null,
+   "descuento": 70,
+   "nombre": "Cinturón lona ajustable",
+   "precio": 14.99,
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "73f9893a881d11d9": {
    "avisado_precio": null,
@@ -2728,7 +3231,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "79184e88b45a13fb": {
    "avisado_precio": 14.99,
@@ -2776,6 +3279,92 @@
    "tallas_revisado": "2026-10-28T08:32:34.284097",
    "ultima_vez": "2026-10-28T08:32:34.284097"
   },
+  "792fb960b56729d1": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Zapatilla deportiva textil",
+   "precio": 39.95,
+   "tallas": [
+    [
+     "60",
+     true
+    ],
+    [
+     "40",
+     true
+    ],
+    [
+     "40",
+     true
+    ],
+    [
+     "40",
+     true
+    ],
+    [
+     "41",
+     true
+    ],
+    [
+     "41",
+     true
+    ],
+    [
+     "41",
+     true
+    ],
+    [
+     "42",
+     true
+    ],
+    [
+     "42",
+     true
+    ],
+    [
+     "42",
+     true
+    ],
+    [
+     "43",
+     true
+    ],
+    [
+     "43",
+     true
+    ],
+    [
+     "43",
+     true
+    ],
+    [
+     "44",
+     true
+    ],
+    [
+     "44",
+     true
+    ],
+    [
+     "44",
+     true
+    ],
+    [
+     "45",
+     false
+    ],
+    [
+     "46",
+     false
+    ],
+    [
+     "60",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:17:07.517242",
+   "ultima_vez": "2026-10-28T16:17:07.517242"
+  },
   "7c558b91606a4655": {
    "avisado_precio": null,
    "descuento": 67,
@@ -2789,6 +3378,13 @@
    "nombre": "Camiseta estampada manga corta",
    "precio": 17.99,
    "ultima_vez": "2026-10-28T08:32:34.284097"
+  },
+  "813696a0492dc4a7": {
+   "avisado_precio": null,
+   "descuento": 80,
+   "nombre": "Calcetines con algodón pack 3",
+   "precio": 9.99,
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "83174aff6d265347": {
    "avisado_precio": 9.99,
@@ -2944,7 +3540,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "84006d318809b202": {
    "avisado_precio": 9.99,
@@ -3096,7 +3692,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "8abe9d01ee314bdb": {
    "avisado_precio": 9.99,
@@ -3190,7 +3786,14 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
+  },
+  "8b4187625932615d": {
+   "avisado_precio": null,
+   "descuento": 80,
+   "nombre": "Pack 3 calcetines deportivos",
+   "precio": 10.0,
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "8c41285f106a2fe7": {
    "avisado_precio": null,
@@ -3299,7 +3902,14 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
+  },
+  "91486f2aef615a5d": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Gafas de sol de montura superior",
+   "precio": 20.0,
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "95164fc77144c7a9": {
    "avisado_precio": 19.9,
@@ -3389,7 +3999,92 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
+  },
+  "95493ce110cf0437": {
+   "avisado_precio": null,
+   "descuento": 80,
+   "nombre": "Pack 3 calcetines viscosa",
+   "precio": 9.99,
+   "ultima_vez": "2026-10-28T16:17:07.517242"
+  },
+  "997b7ebafc73c0ad": {
+   "avisado_precio": 19.99,
+   "descuento": 60,
+   "nombre": "Jersey relaxed cuello alto cremallera",
+   "precio": 19.99,
+   "tallas": [
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "01",
+     true
+    ],
+    [
+     "01",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:17:07.517242",
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "9af4693e4700c39f": {
    "avisado_precio": null,
@@ -3469,7 +4164,14 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
+  },
+  "a0510ce6cc518cfe": {
+   "avisado_precio": null,
+   "descuento": 80,
+   "nombre": "Calcetines tenis algodón",
+   "precio": 9.99,
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "a194049b547e7b6d": {
    "avisado_precio": 25.9,
@@ -3547,7 +4249,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "a38ca1607b9a8de2": {
    "avisado_precio": null,
@@ -3562,6 +4264,84 @@
    "nombre": "Sobrecamisa algodón",
    "precio": 19.99,
    "ultima_vez": "2026-10-28T08:32:34.284097"
+  },
+  "a4dc53d7e18efea7": {
+   "avisado_precio": 11.99,
+   "descuento": 76,
+   "nombre": "Camiseta regular manga larga",
+   "precio": 11.99,
+   "tallas": [
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "01",
+     true
+    ],
+    [
+     "01",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:17:07.517242",
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "a5a45e7312136bb4": {
    "avisado_precio": 5.99,
@@ -3753,7 +4533,85 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
+  },
+  "abb88c483da0675b": {
+   "avisado_precio": 9.99,
+   "descuento": 80,
+   "nombre": "Camiseta regular manga corta",
+   "precio": 9.99,
+   "tallas": [
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "01",
+     true
+    ],
+    [
+     "01",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:17:07.517242",
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "af81fedd91727780": {
    "avisado_precio": null,
@@ -3762,12 +4620,144 @@
    "precio": 17.99,
    "ultima_vez": "2026-10-28T08:32:34.284097"
   },
+  "af83e4527c8a755d": {
+   "avisado_precio": 50.0,
+   "descuento": 62,
+   "nombre": "Parka impermeable con capucha",
+   "precio": 50.0,
+   "tallas": [
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "01",
+     true
+    ],
+    [
+     "01",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:17:07.517242",
+   "ultima_vez": "2026-10-28T16:17:07.517242"
+  },
   "afbc6fdb67b35352": {
    "avisado_precio": null,
    "descuento": 64,
    "nombre": "Bolso bandolera",
    "precio": 17.99,
    "ultima_vez": "2026-10-28T16:08:57.698806"
+  },
+  "b0fcdeb1c10b5531": {
+   "avisado_precio": 19.99,
+   "descuento": 60,
+   "nombre": "Set interior con algodón Navidad",
+   "precio": 19.99,
+   "tallas": [
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "01",
+     true
+    ],
+    [
+     "01",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:17:07.517242",
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "b2aae4bde6ed8336": {
    "avisado_precio": 9.99,
@@ -3869,7 +4859,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "b463957a6f0588ed": {
    "avisado_precio": 12.99,
@@ -3963,7 +4953,92 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
+  },
+  "b90b9d43e79c0081": {
+   "avisado_precio": null,
+   "descuento": 80,
+   "nombre": "Pack calcetines algodón canalé",
+   "precio": 9.99,
+   "ultima_vez": "2026-10-28T16:17:07.517242"
+  },
+  "b93e16b9698f9a9e": {
+   "avisado_precio": 19.99,
+   "descuento": 60,
+   "nombre": "Camiseta loose manga larga",
+   "precio": 19.99,
+   "tallas": [
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "01",
+     true
+    ],
+    [
+     "01",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:17:07.517242",
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "bdddc5a6ed7324f8": {
    "avisado_precio": 5.99,
@@ -4065,7 +5140,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "befeaa9500c09946": {
    "avisado_precio": 9.99,
@@ -4159,7 +5234,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "bfa232a556218547": {
    "avisado_precio": 5.99,
@@ -4261,7 +5336,14 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
+  },
+  "c01fae1fe7cf2251": {
+   "avisado_precio": null,
+   "descuento": 80,
+   "nombre": "Calcetines con algodón Navidad",
+   "precio": 9.99,
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "c8745949ddd3a5a8": {
    "avisado_precio": 12.99,
@@ -4351,7 +5433,109 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
+  },
+  "caaa4b5d73477222": {
+   "avisado_precio": 9.99,
+   "descuento": 71,
+   "nombre": "Camisa manga corta viscosa estampada",
+   "precio": 9.99,
+   "tallas": [
+    [
+     "71",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "71",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:17:07.517242",
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "cb9f8b5d96a7a2ed": {
    "avisado_precio": null,
@@ -4360,12 +5544,72 @@
    "precio": 14.99,
    "ultima_vez": "2026-10-28T16:08:57.698806"
   },
+  "cba1d18651b42bce": {
+   "avisado_precio": null,
+   "descuento": 80,
+   "nombre": "Pack 3 calcetines",
+   "precio": 10.0,
+   "ultima_vez": "2026-10-28T16:17:07.517242"
+  },
   "cc7f36d69ffdcf8d": {
    "avisado_precio": null,
    "descuento": 80,
    "nombre": "Gorro de punto con acrílico",
    "precio": 9.99,
    "ultima_vez": "2026-10-28T16:08:57.698806"
+  },
+  "d06424421942796d": {
+   "avisado_precio": 18.0,
+   "descuento": 64,
+   "nombre": "Pack de 2 boxers",
+   "precio": 18.0,
+   "tallas": [
+    [
+     "S",
+     false
+    ],
+    [
+     "M",
+     false
+    ],
+    [
+     "L",
+     false
+    ],
+    [
+     "XL",
+     false
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "01",
+     true
+    ],
+    [
+     "01",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:17:07.517242",
+   "ultima_vez": "2026-10-28T16:17:07.517242"
+  },
+  "d28da7859215bfb5": {
+   "avisado_precio": null,
+   "descuento": 70,
+   "nombre": "Cinturón 1 piel",
+   "precio": 14.99,
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "d60e82aa3e23b40d": {
    "avisado_precio": null,
@@ -4471,7 +5715,14 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
+  },
+  "d82f0fbffd482768": {
+   "avisado_precio": null,
+   "descuento": 74,
+   "nombre": "Pack 5 calcetines deportivos",
+   "precio": 12.99,
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "dbbb74c4a2cdd07e": {
    "avisado_precio": null,
@@ -4572,7 +5823,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "de72cd49c5e404b8": {
    "avisado_precio": 5.99,
@@ -4674,7 +5925,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "e0d62b3158022287": {
    "avisado_precio": 19.99,
@@ -4776,7 +6027,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "e29cd79e84d7c193": {
    "avisado_precio": 15.99,
@@ -4878,7 +6129,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "e5d92a6b7fc529f8": {
    "avisado_precio": 19.9,
@@ -4924,7 +6175,14 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
+  },
+  "e7cbedddc143b576": {
+   "avisado_precio": null,
+   "descuento": 64,
+   "nombre": "Gorro punto con lana",
+   "precio": 17.99,
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "e9d6210768e76c28": {
    "avisado_precio": null,
@@ -4970,7 +6228,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "ee14a4631f7b09a4": {
    "avisado_precio": null,
@@ -5079,7 +6337,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "f0c74167a9f37b49": {
    "avisado_precio": null,
@@ -5305,7 +6563,85 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
+  },
+  "f621a1b16aa3904b": {
+   "avisado_precio": 19.99,
+   "descuento": 60,
+   "nombre": "Jersey relaxed de cuello alto",
+   "precio": 19.99,
+   "tallas": [
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "01",
+     true
+    ],
+    [
+     "01",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:17:07.517242",
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "fa2164d2b8917f39": {
    "avisado_precio": 5.99,
@@ -5407,7 +6743,99 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
+  },
+  "fa68cbb3b1a2104e": {
+   "avisado_precio": null,
+   "descuento": 80,
+   "nombre": "Calcetines rayas algodón",
+   "precio": 9.99,
+   "ultima_vez": "2026-10-28T16:17:07.517242"
+  },
+  "fca7934cb12459ee": {
+   "avisado_precio": null,
+   "descuento": 70,
+   "nombre": "Calcetines tenis algodón",
+   "precio": 14.99,
+   "ultima_vez": "2026-10-28T16:17:07.517242"
+  },
+  "fcd72a967fd791c2": {
+   "avisado_precio": 14.99,
+   "descuento": 70,
+   "nombre": "Camiseta regular manga corta",
+   "precio": 14.99,
+   "tallas": [
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "01",
+     true
+    ],
+    [
+     "01",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:17:07.517242",
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "fde641af6d32c7ab": {
    "avisado_precio": null,
@@ -5465,7 +6893,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T16:08:57.698806"
+   "ultima_vez": "2026-10-28T16:17:07.517242"
   }
  }
 }
