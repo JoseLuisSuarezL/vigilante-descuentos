@@ -1,12 +1,20 @@
 {
+ "acumulado": {
+  "top": [],
+  "total": 0
+ },
  "cursores": {},
+ "fase_inicial": false,
+ "version_filtro": 2,
  "vistos": {
   "7c3865a1b8681c01": {
-   "avisado_precio": 10.0,
+   "avisado_precio": null,
    "descuento": 67,
    "nombre": "Under",
    "precio": 10.0,
-   "ultima_vez": "2026-10-28T02:18:23.978436"
+   "tallas": [],
+   "tallas_revisado": "2026-10-28T08:47:53.071636",
+   "ultima_vez": "2026-10-28T08:47:53.071636"
   }
  }
 }

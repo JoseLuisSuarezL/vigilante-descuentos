@@ -1,103 +1,769 @@
 {
+ "acumulado": {
+  "top": [],
+  "total": 0
+ },
  "cursores": {},
+ "fase_inicial": false,
+ "version_filtro": 2,
  "vistos": {
   "59f3526ac3f858ee": {
    "avisado_precio": 25.0,
    "descuento": 60,
    "nombre": "25/26 Mens Golf Crew Sweatshirt",
    "precio": 25.0,
-   "ultima_vez": "2026-10-28T02:09:47.954733"
+   "tallas": [
+    [
+     "SMALL",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "SMALL",
+     true
+    ],
+    [
+     "MEDIUM",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "MEDIUM",
+     true
+    ],
+    [
+     "L LARGE",
+     true
+    ],
+    [
+     "LARGE",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "LARGE",
+     true
+    ],
+    [
+     "XLARGE",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XLARGE",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "3XL",
+     false
+    ],
+    [
+     "3XL",
+     false
+    ],
+    [
+     "3XL",
+     false
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:38:57.358296",
+   "ultima_vez": "2026-10-28T08:38:57.358296"
   },
   "674b4b0358e9c2a9": {
-   "avisado_precio": 20.0,
+   "avisado_precio": null,
    "descuento": 65,
    "nombre": "(sin nombre)",
    "precio": 20.0,
-   "ultima_vez": "2026-10-28T02:09:47.954733"
+   "tallas": [],
+   "tallas_revisado": "2026-10-28T08:38:57.358296",
+   "ultima_vez": "2026-10-28T08:38:57.358296"
   },
   "6b0f7145cd249021": {
-   "avisado_precio": 30.0,
+   "avisado_precio": null,
    "descuento": 80,
    "nombre": "25/26 Women's Full Zip Z.N.E Hoody",
    "precio": 30.0,
-   "ultima_vez": "2026-10-28T02:09:47.954733"
+   "ultima_vez": "2026-10-28T08:38:57.358296"
   },
   "82903ea382795a45": {
    "avisado_precio": 30.0,
    "descuento": 80,
    "nombre": "25/26 Full Zip Z.N.E Hoody",
    "precio": 30.0,
-   "ultima_vez": "2026-10-28T02:09:47.954733"
+   "tallas": [
+    [
+     "XS",
+     false
+    ],
+    [
+     "XS",
+     false
+    ],
+    [
+     "XS",
+     false
+    ],
+    [
+     "S",
+     false
+    ],
+    [
+     "S",
+     false
+    ],
+    [
+     "S",
+     false
+    ],
+    [
+     "M",
+     false
+    ],
+    [
+     "M",
+     false
+    ],
+    [
+     "M",
+     false
+    ],
+    [
+     "L L",
+     false
+    ],
+    [
+     "L",
+     false
+    ],
+    [
+     "L",
+     false
+    ],
+    [
+     "L",
+     false
+    ],
+    [
+     "XL",
+     false
+    ],
+    [
+     "XL",
+     false
+    ],
+    [
+     "XL",
+     false
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "3XL",
+     true
+    ],
+    [
+     "3XL",
+     true
+    ],
+    [
+     "3XL",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:38:57.358296",
+   "ultima_vez": "2026-10-28T08:38:57.358296"
   },
   "85bcb6c9492aed9e": {
    "avisado_precio": 35.0,
    "descuento": 65,
    "nombre": "Adult Lightweight Hooded Padded Jacket",
    "precio": 35.0,
-   "ultima_vez": "2026-10-28T02:09:47.954733"
+   "tallas": [
+    [
+     "SMALL",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "SMALL",
+     true
+    ],
+    [
+     "MEDIUM",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "MEDIUM",
+     true
+    ],
+    [
+     "L LARGE",
+     false
+    ],
+    [
+     "LARGE",
+     false
+    ],
+    [
+     "L",
+     false
+    ],
+    [
+     "LARGE",
+     false
+    ],
+    [
+     "XLARGE",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XLARGE",
+     true
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "3XL",
+     true
+    ],
+    [
+     "3XL",
+     true
+    ],
+    [
+     "3XL",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:38:57.358296",
+   "ultima_vez": "2026-10-28T08:38:57.358296"
   },
   "87564560ae0ce12e": {
-   "avisado_precio": 35.0,
+   "avisado_precio": null,
    "descuento": 75,
    "nombre": "25/26 Womens Z.N.E Full Zip Hoody",
    "precio": 35.0,
-   "ultima_vez": "2026-10-28T02:09:47.954733"
+   "ultima_vez": "2026-10-28T08:38:57.358296"
   },
   "91b7601bb30c122e": {
    "avisado_precio": 20.0,
    "descuento": 60,
    "nombre": "25/26 Mens Tiro Track Jacket",
    "precio": 20.0,
-   "ultima_vez": "2026-10-28T02:09:47.954733"
+   "tallas": [
+    [
+     "SMALL",
+     false
+    ],
+    [
+     "S",
+     false
+    ],
+    [
+     "SMALL",
+     false
+    ],
+    [
+     "MEDIUM",
+     false
+    ],
+    [
+     "M",
+     false
+    ],
+    [
+     "MEDIUM",
+     false
+    ],
+    [
+     "L LARGE",
+     false
+    ],
+    [
+     "LARGE",
+     false
+    ],
+    [
+     "L",
+     false
+    ],
+    [
+     "LARGE",
+     false
+    ],
+    [
+     "XLARGE",
+     false
+    ],
+    [
+     "XL",
+     false
+    ],
+    [
+     "XLARGE",
+     false
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:38:57.358296",
+   "ultima_vez": "2026-10-28T08:38:57.358296"
   },
   "9493f10ff90dbc3b": {
    "avisado_precio": 15.0,
    "descuento": 70,
    "nombre": "25/26 Lifestyle Knitted Zip Thru Jumper",
    "precio": 15.0,
-   "ultima_vez": "2026-10-28T02:09:47.954733"
+   "tallas": [
+    [
+     "SMALL",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "SMALL",
+     true
+    ],
+    [
+     "MEDIUM",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "MEDIUM",
+     true
+    ],
+    [
+     "L LARGE",
+     true
+    ],
+    [
+     "LARGE",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "LARGE",
+     true
+    ],
+    [
+     "XLARGE",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XLARGE",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "3XL",
+     true
+    ],
+    [
+     "3XL",
+     true
+    ],
+    [
+     "3XL",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:38:57.358296",
+   "ultima_vez": "2026-10-28T08:38:57.358296"
   },
   "9da5ea68b5bb0337": {
-   "avisado_precio": 60.0,
+   "avisado_precio": null,
    "descuento": 90,
    "nombre": "(sin nombre)",
    "precio": 60.0,
-   "ultima_vez": "2026-10-28T02:09:47.954733"
+   "tallas": [],
+   "tallas_revisado": "2026-10-28T08:38:57.358296",
+   "ultima_vez": "2026-10-28T08:38:57.358296"
   },
   "a5d93c454bfbc977": {
-   "avisado_precio": 20.0,
+   "avisado_precio": null,
    "descuento": 65,
    "nombre": "25/26 Tiro25 Women's All Weather Jacket",
    "precio": 20.0,
-   "ultima_vez": "2026-10-28T02:09:47.954733"
+   "ultima_vez": "2026-10-28T08:38:57.358296"
   },
   "a62c6138a366800c": {
    "avisado_precio": 20.0,
    "descuento": 65,
    "nombre": "25/26 Tiro25 All Weather Jacket",
    "precio": 20.0,
-   "ultima_vez": "2026-10-28T02:09:47.954733"
+   "tallas": [
+    [
+     "XS",
+     false
+    ],
+    [
+     "XS",
+     false
+    ],
+    [
+     "XS",
+     false
+    ],
+    [
+     "S",
+     false
+    ],
+    [
+     "S",
+     false
+    ],
+    [
+     "S",
+     false
+    ],
+    [
+     "M",
+     false
+    ],
+    [
+     "M",
+     false
+    ],
+    [
+     "M",
+     false
+    ],
+    [
+     "L L",
+     false
+    ],
+    [
+     "L",
+     false
+    ],
+    [
+     "L",
+     false
+    ],
+    [
+     "L",
+     false
+    ],
+    [
+     "XL",
+     false
+    ],
+    [
+     "XL",
+     false
+    ],
+    [
+     "XL",
+     false
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "3XL",
+     true
+    ],
+    [
+     "3XL",
+     true
+    ],
+    [
+     "3XL",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:38:57.358296",
+   "ultima_vez": "2026-10-28T08:38:57.358296"
   },
   "b729efffcc790b0a": {
-   "avisado_precio": 35.0,
+   "avisado_precio": null,
    "descuento": 65,
    "nombre": "25/26 Womens Z.N.E Full Zip Track Top",
    "precio": 35.0,
-   "ultima_vez": "2026-10-28T02:09:47.954733"
+   "ultima_vez": "2026-10-28T08:38:57.358296"
   },
   "cd1126c8662f0a5d": {
    "avisado_precio": 60.0,
    "descuento": 90,
    "nombre": "25/26 Winter Jacket",
    "precio": 60.0,
-   "ultima_vez": "2026-10-28T02:09:47.954733"
+   "tallas": [
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "3XL",
+     true
+    ],
+    [
+     "3XL",
+     true
+    ],
+    [
+     "3XL",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:38:57.358296",
+   "ultima_vez": "2026-10-28T08:38:57.358296"
   },
   "f324fbcc4b8f9bda": {
    "avisado_precio": 35.0,
    "descuento": 75,
    "nombre": "25/26 Mens Z.N.E Full Zip Hoody",
    "precio": 35.0,
-   "ultima_vez": "2026-10-28T02:09:47.954733"
+   "tallas": [
+    [
+     "SMALL",
+     false
+    ],
+    [
+     "S",
+     false
+    ],
+    [
+     "SMALL",
+     false
+    ],
+    [
+     "MEDIUM",
+     false
+    ],
+    [
+     "M",
+     false
+    ],
+    [
+     "MEDIUM",
+     false
+    ],
+    [
+     "L LARGE",
+     false
+    ],
+    [
+     "LARGE",
+     false
+    ],
+    [
+     "L",
+     false
+    ],
+    [
+     "LARGE",
+     false
+    ],
+    [
+     "XLARGE",
+     false
+    ],
+    [
+     "XL",
+     false
+    ],
+    [
+     "XLARGE",
+     false
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "3XL",
+     true
+    ],
+    [
+     "3XL",
+     true
+    ],
+    [
+     "3XL",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:38:57.358296",
+   "ultima_vez": "2026-10-28T08:38:57.358296"
   }
  }
 }

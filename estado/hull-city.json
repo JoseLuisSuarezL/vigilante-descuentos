@@ -1,4 +1,10 @@
 {
+ "acumulado": {
+  "top": [],
+  "total": 0
+ },
  "cursores": {},
+ "fase_inicial": false,
+ "version_filtro": 2,
  "vistos": {}
 }
