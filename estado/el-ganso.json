@@ -5,9 +5,63 @@
  },
  "cursores": {},
  "fase_inicial": false,
- "ultima_revision": "2026-10-28T21:48:37.292741",
+ "ultima_revision": "2026-10-28T22:04:25.611433",
  "version_filtro": 2,
  "vistos": {
+  "0f9529a713b15a7c": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Sobrecamisa Azul",
+   "precio": 39.9,
+   "tallas": [
+    [
+     "12",
+     null
+    ],
+    [
+     "12",
+     null
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T22:03:04.627321",
+   "ultima_vez": "2026-10-28T22:03:04.627321"
+  },
+  "13d976647de46854": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Americana Lino Garment Dyed Beige",
+   "precio": 71.9,
+   "tallas": [
+    [
+     "12",
+     null
+    ],
+    [
+     "12",
+     null
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T22:03:04.627321",
+   "ultima_vez": "2026-10-28T22:03:04.627321"
+  },
+  "189053d3d13da29a": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Americana Lino Garment Dyed Tostado",
+   "precio": 71.9,
+   "tallas": [
+    [
+     "12",
+     null
+    ],
+    [
+     "12",
+     null
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T22:03:04.627321",
+   "ultima_vez": "2026-10-28T22:03:04.627321"
+  },
   "213cfe8ac3b158fa": {
    "avisado_precio": null,
    "descuento": 60,
@@ -24,7 +78,43 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:35:01.802421",
-   "ultima_vez": "2026-10-28T21:48:37.292432"
+   "ultima_vez": "2026-10-28T22:03:04.627321"
+  },
+  "3eb0c0ba68048a25": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Sobrecamisa Marino",
+   "precio": 39.9,
+   "tallas": [
+    [
+     "12",
+     null
+    ],
+    [
+     "12",
+     null
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T22:03:04.627321",
+   "ultima_vez": "2026-10-28T22:03:04.627321"
+  },
+  "a536e59d01b9498d": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Bañador Liso Gris",
+   "precio": 23.9,
+   "tallas": [
+    [
+     "12",
+     null
+    ],
+    [
+     "12",
+     null
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T22:03:04.627321",
+   "ultima_vez": "2026-10-28T22:03:04.627321"
   },
   "b2c557b57148aa46": {
    "avisado_precio": null,
@@ -42,7 +132,61 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:35:01.802421",
-   "ultima_vez": "2026-10-28T21:48:37.292432"
+   "ultima_vez": "2026-10-28T22:03:04.627321"
+  },
+  "c6bfe82de6ef7bad": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Sahariana Lino Marino",
+   "precio": 59.9,
+   "tallas": [
+    [
+     "12",
+     null
+    ],
+    [
+     "12",
+     null
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T22:03:04.627321",
+   "ultima_vez": "2026-10-28T22:03:04.627321"
+  },
+  "d96242f754c94ef7": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Sahariana Lino Beige",
+   "precio": 59.9,
+   "tallas": [
+    [
+     "12",
+     null
+    ],
+    [
+     "12",
+     null
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T22:03:04.627321",
+   "ultima_vez": "2026-10-28T22:03:04.627321"
+  },
+  "edcf989ec2faf263": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Bañador Liso Naranja",
+   "precio": 23.9,
+   "tallas": [
+    [
+     "12",
+     null
+    ],
+    [
+     "12",
+     null
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T22:03:04.627321",
+   "ultima_vez": "2026-10-28T22:03:04.627321"
   }
  }
 }
