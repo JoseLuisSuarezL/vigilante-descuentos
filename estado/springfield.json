@@ -4,10 +4,10 @@
   "total": 0
  },
  "cursores": {
-  "https://myspringfield.com/on/demandware.store/Sites-SPF-Site/es_ES/Search-UpdateGrid?cgid=men&pmin=0%2c01&start={inicio}&sz=120": 51
+  "https://myspringfield.com/on/demandware.store/Sites-SPF-Site/es_ES/Search-UpdateGrid?cgid=men&pmin=0%2c01&start={inicio}&sz=120": 61
  },
  "fase_inicial": false,
- "ultima_revision": "2026-10-28T18:02:44.029297",
+ "ultima_revision": "2026-10-28T18:17:28.974372",
  "version_filtro": 2,
  "vistos": {
   "0011e4953f9712bb": {
@@ -731,7 +731,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "097605434ba152d6": {
    "avisado_precio": null,
@@ -777,7 +777,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "0a3735d936f6777f": {
    "avisado_precio": null,
@@ -855,7 +855,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:32:37.406115",
-   "ultima_vez": "2026-10-28T16:32:37.406115"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "0c9a0ad43b925345": {
    "avisado_precio": 9.99,
@@ -933,7 +933,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:32:37.406115",
-   "ultima_vez": "2026-10-28T16:32:37.406115"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "0cafec864849d9e4": {
    "avisado_precio": null,
@@ -1113,7 +1113,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:32:37.406115",
-   "ultima_vez": "2026-10-28T16:32:37.406115"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "0e0f8082ff7add4e": {
    "avisado_precio": 5.99,
@@ -1215,7 +1215,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:32:37.406115",
-   "ultima_vez": "2026-10-28T16:32:37.406115"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "105f184672d1a596": {
    "avisado_precio": 9.99,
@@ -1403,7 +1403,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "1131573abdeb64f3": {
    "avisado_precio": null,
@@ -1857,7 +1857,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "18754382cbd6464f": {
    "avisado_precio": null,
@@ -3137,7 +3137,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "275f8e49d182cba6": {
    "avisado_precio": null,
@@ -3308,7 +3308,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:32:37.406115",
-   "ultima_vez": "2026-10-28T16:32:37.406115"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "29344aadb7931c7d": {
    "avisado_precio": null,
@@ -3588,7 +3588,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "2eb4ccc1e9824c6a": {
    "avisado_precio": null,
@@ -3760,7 +3760,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "32ba9b7e7d24f1e7": {
    "avisado_precio": 14.99,
@@ -4353,7 +4353,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "392ae90ca543abd4": {
    "avisado_precio": null,
@@ -4683,7 +4683,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "3c376c5e23c3d1b3": {
    "avisado_precio": null,
@@ -4863,7 +4863,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:32:37.406115",
-   "ultima_vez": "2026-10-28T16:32:37.406115"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "3d2f018a9bd00f4a": {
    "avisado_precio": null,
@@ -5115,7 +5115,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "3ed704638910ec32": {
    "avisado_precio": null,
@@ -5357,7 +5357,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "40950caccff2b40e": {
    "avisado_precio": null,
@@ -6054,7 +6054,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:32:37.406115",
-   "ultima_vez": "2026-10-28T16:32:37.406115"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "494bcf85a7359aca": {
    "avisado_precio": null,
@@ -6436,7 +6436,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "4bd546fde1fe34d3": {
    "avisado_precio": null,
@@ -6624,7 +6624,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "4ceb500ff85220a1": {
    "avisado_precio": null,
@@ -6835,7 +6835,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "4e988b5bfdade6d6": {
    "avisado_precio": null,
@@ -6999,7 +6999,7 @@
    "ultima_vez": "2026-10-28T17:02:28.264787"
   },
   "526fc610fb0cb0df": {
-   "avisado_precio": null,
+   "avisado_precio": 17.99,
    "descuento": 64,
    "nombre": "Camiseta relaxed manga corta",
    "precio": 17.99,
@@ -7050,7 +7050,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:32:37.406115",
-   "ultima_vez": "2026-10-28T16:32:37.406115"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "54c0cb39a801c00a": {
    "avisado_precio": 9.99,
@@ -7152,7 +7152,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "5533b2a312a4aedd": {
    "avisado_precio": null,
@@ -7316,14 +7316,14 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:32:37.406115",
-   "ultima_vez": "2026-10-28T16:32:37.406115"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "57ae75352d31ff18": {
    "avisado_precio": null,
    "descuento": 73,
    "nombre": "Camiseta stickers",
    "precio": 5.99,
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "58618dbe6e10f5af": {
    "avisado_precio": null,
@@ -7769,7 +7769,7 @@
    "ultima_vez": "2026-10-28T17:32:31.749297"
   },
   "5e263dc2329eb436": {
-   "avisado_precio": null,
+   "avisado_precio": 50.0,
    "descuento": 67,
    "nombre": "Abrigo impermeable con nylon",
    "precio": 50.0,
@@ -7844,7 +7844,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:32:37.406115",
-   "ultima_vez": "2026-10-28T16:32:37.406115"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "5f9790d450021f5e": {
    "avisado_precio": 5.99,
@@ -7930,7 +7930,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "602149a396c82412": {
    "avisado_precio": null,
@@ -7992,14 +7992,14 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:32:37.406115",
-   "ultima_vez": "2026-10-28T16:32:37.406115"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "6029ed47c789e958": {
    "avisado_precio": null,
    "descuento": 68,
    "nombre": "Camisa algodón lino cuadros manga corta",
    "precio": 25.9,
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "60ddb3cd45439cf6": {
    "avisado_precio": 5.99,
@@ -8101,7 +8101,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "6109288f97c22b44": {
    "avisado_precio": null,
@@ -8257,7 +8257,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "61e2ff1079d7daa1": {
    "avisado_precio": 12.99,
@@ -8826,7 +8826,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "65047f567d61e431": {
    "avisado_precio": null,
@@ -9163,7 +9163,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "67199aa53d49b4e6": {
    "avisado_precio": null,
@@ -9780,7 +9780,7 @@
    "ultima_vez": "2026-10-28T17:02:28.264787"
   },
   "6b7345252ca295d0": {
-   "avisado_precio": null,
+   "avisado_precio": 17.99,
    "descuento": 64,
    "nombre": "Camiseta regular manga corta",
    "precio": 17.99,
@@ -9831,7 +9831,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:32:37.406115",
-   "ultima_vez": "2026-10-28T16:32:37.406115"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "6bbad7d7e946eef1": {
    "avisado_precio": 15.99,
@@ -9925,7 +9925,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "6c86202e411e16ee": {
    "avisado_precio": null,
@@ -10146,7 +10146,7 @@
    "ultima_vez": "2026-10-28T17:02:28.264787"
   },
   "6ece577caa09737b": {
-   "avisado_precio": null,
+   "avisado_precio": 50.0,
    "descuento": 67,
    "nombre": "Parka larga",
    "precio": 50.0,
@@ -10221,7 +10221,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:32:37.406115",
-   "ultima_vez": "2026-10-28T16:32:37.406115"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "6fdd77a2803b6960": {
    "avisado_precio": 5.99,
@@ -10344,7 +10344,7 @@
    "ultima_vez": "2026-10-28T16:17:07.517242"
   },
   "725602c0e0c8794b": {
-   "avisado_precio": null,
+   "avisado_precio": 50.0,
    "descuento": 62,
    "nombre": "Cazadora larga con capucha",
    "precio": 50.0,
@@ -10419,7 +10419,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:32:37.406115",
-   "ultima_vez": "2026-10-28T16:32:37.406115"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "73d03e5947d232e3": {
    "avisado_precio": null,
@@ -10600,7 +10600,7 @@
    "ultima_vez": "2026-10-28T17:02:28.264787"
   },
   "74d9c13525c2d827": {
-   "avisado_precio": null,
+   "avisado_precio": 29.9,
    "descuento": 63,
    "nombre": "Chino ligero popelín regular",
    "precio": 29.9,
@@ -10675,7 +10675,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:32:37.406115",
-   "ultima_vez": "2026-10-28T16:32:37.406115"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "76161591839b0e90": {
    "avisado_precio": 12.99,
@@ -11121,7 +11121,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "79184e88b45a13fb": {
    "avisado_precio": 14.99,
@@ -11729,7 +11729,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:32:37.406115",
-   "ultima_vez": "2026-10-28T16:32:37.406115"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "7c906d556e6738e7": {
    "avisado_precio": null,
@@ -12374,7 +12374,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "84006d318809b202": {
    "avisado_precio": 9.99,
@@ -12822,7 +12822,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "881a07c8d5cf4fb6": {
    "avisado_precio": null,
@@ -12912,7 +12912,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:32:37.406115",
-   "ultima_vez": "2026-10-28T16:32:37.406115"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "883a0793ab4acf04": {
    "avisado_precio": null,
@@ -13099,7 +13099,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:32:37.406115",
-   "ultima_vez": "2026-10-28T16:32:37.406115"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "8a328cd04b24b883": {
    "avisado_precio": null,
@@ -13200,7 +13200,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "8b028309b777e9c8": {
    "avisado_precio": null,
@@ -13264,7 +13264,7 @@
    "ultima_vez": "2026-10-28T18:02:33.760941"
   },
   "8b5284356e65c59f": {
-   "avisado_precio": null,
+   "avisado_precio": 9.99,
    "descuento": 62,
    "nombre": "Camiseta básica tejido piqué",
    "precio": 9.99,
@@ -13351,7 +13351,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:32:37.406115",
-   "ultima_vez": "2026-10-28T16:32:37.406115"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "8b7f12f65082cfc7": {
    "avisado_precio": null,
@@ -13522,7 +13522,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "9059eb064318d81b": {
    "avisado_precio": null,
@@ -13954,7 +13954,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:32:37.406115",
-   "ultima_vez": "2026-10-28T16:32:37.406115"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "95164fc77144c7a9": {
    "avisado_precio": 19.9,
@@ -14044,7 +14044,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "95493ce110cf0437": {
    "avisado_precio": null,
@@ -14527,7 +14527,7 @@
    "ultima_vez": "2026-10-28T17:02:28.264787"
   },
   "9f0773846fa17ae9": {
-   "avisado_precio": null,
+   "avisado_precio": 50.0,
    "descuento": 67,
    "nombre": "Abrigo corto con lana",
    "precio": 50.0,
@@ -14602,7 +14602,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:32:37.406115",
-   "ultima_vez": "2026-10-28T16:32:37.406115"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "9f7026b24efc9653": {
    "avisado_precio": 9.99,
@@ -14770,7 +14770,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "9fdd4a45eccd4dd4": {
    "avisado_precio": null,
@@ -14835,7 +14835,7 @@
    "ultima_vez": "2026-10-28T17:02:28.264787"
   },
   "a0364b824f0ec4d2": {
-   "avisado_precio": null,
+   "avisado_precio": 9.99,
    "descuento": 67,
    "nombre": "Polo tejido técnico slim fit",
    "precio": 9.99,
@@ -14910,7 +14910,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:32:37.406115",
-   "ultima_vez": "2026-10-28T16:32:37.406115"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "a0510ce6cc518cfe": {
    "avisado_precio": null,
@@ -15097,7 +15097,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "a20a849adeef3c57": {
    "avisado_precio": 14.99,
@@ -15167,7 +15167,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:32:37.406115",
-   "ultima_vez": "2026-10-28T16:32:37.406115"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "a38ca1607b9a8de2": {
    "avisado_precio": null,
@@ -16239,7 +16239,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "abb88c483da0675b": {
    "avisado_precio": 9.99,
@@ -16572,7 +16572,7 @@
    "ultima_vez": "2026-10-28T17:46:49.236092"
   },
   "b046bd1121f3d5f7": {
-   "avisado_precio": null,
+   "avisado_precio": 50.0,
    "descuento": 62,
    "nombre": "Parka impermeable con capucha",
    "precio": 50.0,
@@ -16647,7 +16647,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:32:37.406115",
-   "ultima_vez": "2026-10-28T16:32:37.406115"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "b0bbae96959c2416": {
    "avisado_precio": null,
@@ -16942,7 +16942,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "b31b6db7378bfb5a": {
    "avisado_precio": null,
@@ -17208,7 +17208,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "b59b8984c0f0ad13": {
    "avisado_precio": null,
@@ -17528,7 +17528,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:32:37.406115",
-   "ultima_vez": "2026-10-28T16:32:37.406115"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "b717384d6ee9d0f4": {
    "avisado_precio": null,
@@ -17735,7 +17735,7 @@
    "ultima_vez": "2026-10-28T17:02:28.264787"
   },
   "b8812ac91a9218a8": {
-   "avisado_precio": null,
+   "avisado_precio": 19.99,
    "descuento": 60,
    "nombre": "Camiseta loose manga corta",
    "precio": 19.99,
@@ -17810,7 +17810,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:32:37.406115",
-   "ultima_vez": "2026-10-28T16:32:37.406115"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "b8e5a816cecf2450": {
    "avisado_precio": 19.99,
@@ -18465,7 +18465,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "be031a383712d782": {
    "avisado_precio": 7.99,
@@ -18723,7 +18723,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "bfa232a556218547": {
    "avisado_precio": 5.99,
@@ -18825,7 +18825,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "bfa7a06a64fb5830": {
    "avisado_precio": null,
@@ -19377,7 +19377,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:32:37.406115",
-   "ultima_vez": "2026-10-28T16:32:37.406115"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "c5fb1674cf8a9065": {
    "avisado_precio": 5.99,
@@ -19733,7 +19733,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "c8f1864ba51db6e4": {
    "avisado_precio": null,
@@ -19897,10 +19897,10 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:32:37.406115",
-   "ultima_vez": "2026-10-28T16:32:37.406115"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "c9b45d51a79d6b27": {
-   "avisado_precio": null,
+   "avisado_precio": 50.0,
    "descuento": 67,
    "nombre": "Abrigo cuello alto con lana",
    "precio": 50.0,
@@ -19975,7 +19975,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:32:37.406115",
-   "ultima_vez": "2026-10-28T16:32:37.406115"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "caaa4b5d73477222": {
    "avisado_precio": 9.99,
@@ -20902,7 +20902,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:32:37.406115",
-   "ultima_vez": "2026-10-28T16:32:37.406115"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "d06424421942796d": {
    "avisado_precio": 18.0,
@@ -21425,7 +21425,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:32:37.406115",
-   "ultima_vez": "2026-10-28T16:32:37.406115"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "d60e82aa3e23b40d": {
    "avisado_precio": null,
@@ -21531,7 +21531,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "d7559fd98b8e824b": {
    "avisado_precio": null,
@@ -21788,7 +21788,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:32:37.406115",
-   "ultima_vez": "2026-10-28T16:32:37.406115"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "db751f7a5ea82078": {
    "avisado_precio": 19.99,
@@ -21967,7 +21967,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "de2520e0079f407f": {
    "avisado_precio": null,
@@ -22131,7 +22131,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "e0d62b3158022287": {
    "avisado_precio": 19.99,
@@ -22233,7 +22233,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "e29cd79e84d7c193": {
    "avisado_precio": 15.99,
@@ -22335,10 +22335,10 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "e3604f027b8308d8": {
-   "avisado_precio": null,
+   "avisado_precio": 50.0,
    "descuento": 67,
    "nombre": "Abrigo con lana largo rodilla",
    "precio": 50.0,
@@ -22413,7 +22413,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:32:37.406115",
-   "ultima_vez": "2026-10-28T16:32:37.406115"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "e38836aff010e725": {
    "avisado_precio": null,
@@ -22491,7 +22491,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:32:37.406115",
-   "ultima_vez": "2026-10-28T16:32:37.406115"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "e3fd443c908ee79d": {
    "avisado_precio": null,
@@ -22739,7 +22739,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "e7cbedddc143b576": {
    "avisado_precio": null,
@@ -22792,7 +22792,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:08:57.698806",
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "e9edb313fdad5f1a": {
    "avisado_precio": null,
@@ -23627,7 +23627,7 @@
    "ultima_vez": "2026-10-28T17:02:28.264787"
   },
   "ef007f5f7ef99b88": {
-   "avisado_precio": null,
+   "avisado_precio": 9.99,
    "descuento": 62,
    "nombre": "Camiseta básica",
    "precio": 9.99,
@@ -23714,7 +23714,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:32:37.406115",
-   "ultima_vez": "2026-10-28T16:32:37.406115"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "ef25a6843539b327": {
    "avisado_precio": null,
@@ -23878,7 +23878,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "f0830aff20f69f24": {
    "avisado_precio": null,
@@ -24329,7 +24329,7 @@
    "ultima_vez": "2026-10-28T17:02:28.264787"
   },
   "f43f8ec7ef27ccb7": {
-   "avisado_precio": null,
+   "avisado_precio": 50.0,
    "descuento": 62,
    "nombre": "Americana slim con lana",
    "precio": 50.0,
@@ -24416,7 +24416,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:32:37.406115",
-   "ultima_vez": "2026-10-28T16:32:37.406115"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "f4ad85425b089ffa": {
    "avisado_precio": 14.99,
@@ -24494,7 +24494,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:32:37.406115",
-   "ultima_vez": "2026-10-28T16:32:37.406115"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "f5297b4ca37cd9c0": {
    "avisado_precio": 5.99,
@@ -24596,7 +24596,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "f592f5eacda6795d": {
    "avisado_precio": null,
@@ -25252,7 +25252,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:32:37.406115",
-   "ultima_vez": "2026-10-28T16:32:37.406115"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "fa11d85907aeccfe": {
    "avisado_precio": null,
@@ -25416,7 +25416,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "fa68cbb3b1a2104e": {
    "avisado_precio": null,
@@ -25566,7 +25566,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T18:02:33.760941"
+   "ultima_vez": "2026-10-28T18:17:15.128202"
   },
   "fecfb8fc1f02b492": {
    "avisado_precio": null,
