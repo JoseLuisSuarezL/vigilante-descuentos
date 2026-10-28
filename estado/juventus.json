@@ -1,250 +1,275 @@
 {
+ "acumulado": {
+  "top": [],
+  "total": 0
+ },
  "cursores": {},
+ "fase_inicial": false,
+ "version_filtro": 2,
  "vistos": {
   "005098c44d9fda42": {
-   "avisado_precio": 39.0,
+   "avisado_precio": null,
    "descuento": 74,
    "nombre": "JUVENTUS ICON CARGO PANTS",
    "precio": 39.0,
-   "ultima_vez": "2026-10-28T02:09:02.024427"
+   "tallas": null,
+   "tallas_revisado": "2026-10-28T08:38:07.111300",
+   "ultima_vez": "2026-10-28T08:38:07.111300"
   },
   "05a8f0f7323e1d8e": {
-   "avisado_precio": 5.5,
+   "avisado_precio": null,
    "descuento": 72,
    "nombre": "JUVENTUS WHITE TANK TOP - WOMAN",
    "precio": 5.5,
-   "ultima_vez": "2026-10-28T02:09:02.024427"
+   "ultima_vez": "2026-10-28T08:38:07.111300"
   },
   "06bc5cdf622b2485": {
-   "avisado_precio": 26.0,
+   "avisado_precio": null,
    "descuento": 60,
    "nombre": "JUVENTUS TRAINING PANTS 2022/23 - WOMEN",
    "precio": 26.0,
-   "ultima_vez": "2026-10-28T02:09:02.024427"
+   "ultima_vez": "2026-10-28T08:38:07.111300"
   },
   "0955a2a46664bbcd": {
-   "avisado_precio": 24.0,
+   "avisado_precio": null,
    "descuento": 60,
    "nombre": "JUVENTUS WHITE TRAINING PANTS 2023/24 - KIDS",
    "precio": 24.0,
-   "ultima_vez": "2026-10-28T02:09:02.024427"
+   "ultima_vez": "2026-10-28T08:38:07.111300"
   },
   "0979ffb16109a3f5": {
-   "avisado_precio": 40.0,
+   "avisado_precio": null,
    "descuento": 60,
    "nombre": "JUVENTUS SS AWAY JERSEY 2023/24 - WOMEN",
    "precio": 40.0,
-   "ultima_vez": "2026-10-28T02:09:02.024427"
+   "ultima_vez": "2026-10-28T08:38:07.111300"
   },
   "2cea985a3e9bd42c": {
-   "avisado_precio": 5.0,
+   "avisado_precio": null,
    "descuento": 75,
    "nombre": "JUVENTUS BLUE TANK TOP - WOMAN",
    "precio": 5.0,
-   "ultima_vez": "2026-10-28T02:09:02.024427"
+   "ultima_vez": "2026-10-28T08:38:07.111300"
   },
   "2d27a56a72e55a0f": {
-   "avisado_precio": 22.0,
+   "avisado_precio": null,
    "descuento": 60,
    "nombre": "JUVENTUS BLACK PREMATCH PANTS 2023/24 - KIDS",
    "precio": 22.0,
-   "ultima_vez": "2026-10-28T02:09:02.024427"
+   "ultima_vez": "2026-10-28T08:38:07.111300"
   },
   "31e6051a6ebb0433": {
-   "avisado_precio": 24.0,
+   "avisado_precio": null,
    "descuento": 60,
    "nombre": "JUVENTUS BLACK ESSENTIAL PANTS",
    "precio": 24.0,
-   "ultima_vez": "2026-10-28T02:09:02.024427"
+   "tallas": null,
+   "tallas_revisado": "2026-10-28T08:38:07.111300",
+   "ultima_vez": "2026-10-28T08:38:07.111300"
   },
   "37b3025e1592d604": {
-   "avisado_precio": 10.0,
+   "avisado_precio": null,
    "descuento": 71,
    "nombre": "JUVENTUS BLACK SHORTS",
    "precio": 10.0,
-   "ultima_vez": "2026-10-28T02:09:02.024427"
+   "tallas": null,
+   "tallas_revisado": "2026-10-28T08:38:07.111300",
+   "ultima_vez": "2026-10-28T08:38:07.111300"
   },
   "490a8aed5c05e3d9": {
-   "avisado_precio": 9.0,
+   "avisado_precio": null,
    "descuento": 64,
    "nombre": "Originally: ( )",
    "precio": 9.0,
-   "ultima_vez": "2026-10-28T02:09:02.024427"
+   "tallas": null,
+   "tallas_revisado": "2026-10-28T08:38:07.111300",
+   "ultima_vez": "2026-10-28T08:38:07.111300"
   },
   "4a0b3359b86574cd": {
-   "avisado_precio": 24.0,
+   "avisado_precio": null,
    "descuento": 60,
    "nombre": "JUVENTUS ICON S23 SHORTS",
    "precio": 24.0,
-   "ultima_vez": "2026-10-28T02:09:02.024427"
+   "tallas": null,
+   "tallas_revisado": "2026-10-28T08:38:07.111300",
+   "ultima_vez": "2026-10-28T08:38:07.111300"
   },
   "5306861bbabc3bb0": {
-   "avisado_precio": 24.0,
+   "avisado_precio": null,
    "descuento": 60,
    "nombre": "JUVENTUS BLUE NAVY ESSENTIAL PANTS",
    "precio": 24.0,
-   "ultima_vez": "2026-10-28T02:09:02.024427"
+   "tallas": null,
+   "tallas_revisado": "2026-10-28T08:38:07.111300",
+   "ultima_vez": "2026-10-28T08:38:07.111300"
   },
   "53f850851121044d": {
-   "avisado_precio": 54.99,
+   "avisado_precio": null,
    "descuento": 62,
    "nombre": "JUVENTUS PERSEVERANCE SKATEBOARD",
    "precio": 54.99,
-   "ultima_vez": "2026-10-28T02:09:02.024427"
+   "tallas": null,
+   "tallas_revisado": "2026-10-28T08:38:07.111300",
+   "ultima_vez": "2026-10-28T08:38:07.111300"
   },
   "5b0dc3517078fd85": {
-   "avisado_precio": 14.0,
+   "avisado_precio": null,
    "descuento": 60,
    "nombre": "JUVENTUS BERMUDA",
    "precio": 14.0,
-   "ultima_vez": "2026-10-28T02:09:02.024427"
+   "tallas": null,
+   "tallas_revisado": "2026-10-28T08:38:07.111300",
+   "ultima_vez": "2026-10-28T08:38:07.111300"
   },
   "6031b83f3382e8e3": {
-   "avisado_precio": 24.0,
+   "avisado_precio": null,
    "descuento": 60,
    "nombre": "JUVENTUS BLACK TRAINING PANTS 2022/23 - KIDS",
    "precio": 24.0,
-   "ultima_vez": "2026-10-28T02:09:02.024427"
+   "ultima_vez": "2026-10-28T08:38:07.111300"
   },
   "66ceb631e9e3125d": {
-   "avisado_precio": 54.99,
+   "avisado_precio": null,
    "descuento": 62,
    "nombre": "JUVENTUS AMBITION SKATEBOARD",
    "precio": 54.99,
-   "ultima_vez": "2026-10-28T02:09:02.024427"
+   "tallas": null,
+   "tallas_revisado": "2026-10-28T08:38:07.111300",
+   "ultima_vez": "2026-10-28T08:38:07.111300"
   },
   "7c13c6abb07ff177": {
-   "avisado_precio": 19.0,
+   "avisado_precio": null,
    "descuento": 62,
    "nombre": "JUVENTUS FUXIA ESSENTIAL SWIMSUIT - WOMAN",
    "precio": 19.0,
-   "ultima_vez": "2026-10-28T02:09:02.024427"
+   "ultima_vez": "2026-10-28T08:38:07.111300"
   },
   "7c89628b0a6c1e7b": {
-   "avisado_precio": 16.0,
+   "avisado_precio": null,
    "descuento": 60,
    "nombre": "JUVENTUS WHITE TRAINING SHORTS 2023/24 - KIDS",
    "precio": 16.0,
-   "ultima_vez": "2026-10-28T02:09:02.024427"
+   "ultima_vez": "2026-10-28T08:38:07.111300"
   },
   "8660c88ce0881b9b": {
-   "avisado_precio": 6.0,
+   "avisado_precio": null,
    "descuento": 70,
    "nombre": "JUVENTUS BLACK SHORTS - KIDS",
    "precio": 6.0,
-   "ultima_vez": "2026-10-28T02:09:02.024427"
+   "ultima_vez": "2026-10-28T08:38:07.111300"
   },
   "877cfb4ee3f898d6": {
-   "avisado_precio": 45.9,
+   "avisado_precio": null,
    "descuento": 60,
    "nombre": "JUVENTUS LOGO CHEVALIER RING",
    "precio": 45.9,
-   "ultima_vez": "2026-10-28T02:09:02.024427"
+   "ultima_vez": "2026-10-28T08:38:07.111300"
   },
   "a058d2f94c91f268": {
-   "avisado_precio": 7.0,
+   "avisado_precio": null,
    "descuento": 80,
    "nombre": "JUVENTUS HOME SHORTS 2021/22 - KIDS",
    "precio": 7.0,
-   "ultima_vez": "2026-10-28T02:09:02.024427"
+   "ultima_vez": "2026-10-28T08:38:07.111300"
   },
   "a0b2758599dc288d": {
-   "avisado_precio": 8.0,
+   "avisado_precio": null,
    "descuento": 68,
    "nombre": "JUVENTUS BLACK GRAPHIC SHORTS",
    "precio": 8.0,
-   "ultima_vez": "2026-10-28T02:09:02.024427"
+   "tallas": null,
+   "tallas_revisado": "2026-10-28T08:38:07.111300",
+   "ultima_vez": "2026-10-28T08:38:07.111300"
   },
   "ad7ac278bbb4681b": {
-   "avisado_precio": 7.5,
+   "avisado_precio": null,
    "descuento": 70,
    "nombre": "JUVENTUS BLACK SPORT PANTS - KIDS",
    "precio": 7.5,
-   "ultima_vez": "2026-10-28T02:09:02.024427"
+   "ultima_vez": "2026-10-28T08:38:07.111300"
   },
   "d57cd6e90ca59267": {
-   "avisado_precio": 20.0,
+   "avisado_precio": null,
    "descuento": 60,
    "nombre": "JUVENTUS PINK ESSENTIAL POLO",
    "precio": 20.0,
-   "ultima_vez": "2026-10-28T02:09:02.024427"
+   "tallas": null,
+   "tallas_revisado": "2026-10-28T08:38:07.111300",
+   "ultima_vez": "2026-10-28T08:38:07.111300"
   },
   "d9ac9d558bfc8b0e": {
-   "avisado_precio": 24.0,
+   "avisado_precio": null,
    "descuento": 60,
    "nombre": "JUVENTUS BLUE TRAINING PANTS 2022/23 - KIDS",
    "precio": 24.0,
-   "ultima_vez": "2026-10-28T02:09:02.024427"
+   "ultima_vez": "2026-10-28T08:38:07.111300"
   },
   "db8c4845af3f1c99": {
-   "avisado_precio": 12.0,
+   "avisado_precio": null,
    "descuento": 66,
    "nombre": "JUVENTUS BLACK PANTS",
    "precio": 12.0,
-   "ultima_vez": "2026-10-28T02:09:02.024427"
+   "tallas": null,
+   "tallas_revisado": "2026-10-28T08:38:07.111300",
+   "ultima_vez": "2026-10-28T08:38:07.111300"
   },
   "e2d2b0a25d91f21a": {
-   "avisado_precio": 40.0,
+   "avisado_precio": null,
    "descuento": 60,
    "nombre": "JUVENTUS SS THIRD JERSEY 2023/24 - WOMEN",
    "precio": 40.0,
-   "ultima_vez": "2026-10-28T02:09:02.024427"
+   "ultima_vez": "2026-10-28T08:38:07.111300"
   },
   "e3d26125c542a12f": {
-   "avisado_precio": 15.0,
+   "avisado_precio": null,
    "descuento": 70,
    "nombre": "JUVENTUS TRAINING PANTS 2020/21 - KIDS",
    "precio": 15.0,
-   "ultima_vez": "2026-10-28T02:09:02.024427"
+   "ultima_vez": "2026-10-28T08:38:07.111300"
   },
   "eb56001ba2ef7544": {
-   "avisado_precio": 26.0,
+   "avisado_precio": null,
    "descuento": 60,
    "nombre": "JUVENTUS WHITE TRAINING PANTS 2023/24 - WOMEN",
    "precio": 26.0,
-   "ultima_vez": "2026-10-28T02:09:02.024427"
+   "ultima_vez": "2026-10-28T08:38:07.111300"
   },
   "ed95399d32e20985": {
-   "avisado_precio": 30.0,
+   "avisado_precio": null,
    "descuento": 60,
    "nombre": "JUVENTUS SS AWAY JERSEY 2023/24 - KIDS",
    "precio": 30.0,
-   "ultima_vez": "2026-10-28T02:09:02.024427"
+   "ultima_vez": "2026-10-28T08:38:07.111300"
   },
   "ede967f890ce23c2": {
-   "avisado_precio": 26.0,
+   "avisado_precio": null,
    "descuento": 60,
    "nombre": "JUVENTUS UCL TRAINING PANTS 2022/23 - KIDS",
    "precio": 26.0,
-   "ultima_vez": "2026-10-28T02:09:02.024427"
+   "ultima_vez": "2026-10-28T08:38:07.111300"
   },
   "ef3afa08ddcaf530": {
-   "avisado_precio": 5.0,
+   "avisado_precio": null,
    "descuento": 67,
    "nombre": "JUVENTUS BLACK GRAPHIC T-SHIRT - KIDS",
    "precio": 5.0,
-   "ultima_vez": "2026-10-28T02:09:02.024427"
+   "ultima_vez": "2026-10-28T08:38:07.111300"
   },
   "f38cee379d274c93": {
-   "avisado_precio": 6.0,
+   "avisado_precio": null,
    "descuento": 70,
    "nombre": "JUVENTUS GRAPHIC SHORTS - KIDS",
    "precio": 6.0,
-   "ultima_vez": "2026-10-28T02:09:02.024427"
+   "ultima_vez": "2026-10-28T08:38:07.111300"
   },
   "f526ae9bf439d4cc": {
-   "avisado_precio": 8.0,
+   "avisado_precio": null,
    "descuento": 68,
    "nombre": "JUVENTUS BLACK LOGO SHORTS",
    "precio": 8.0,
-   "ultima_vez": "2026-10-28T02:09:02.024427"
-  },
-  "fb93818440ac05c8": {
-   "avisado_precio": 15.0,
-   "descuento": 70,
-   "nombre": "JUVENTUS PRESENTIATION PANTS 2020/21 - KIDS",
-   "precio": 15.0,
-   "ultima_vez": "2026-10-28T02:09:02.024427"
+   "tallas": null,
+   "tallas_revisado": "2026-10-28T08:38:07.111300",
+   "ultima_vez": "2026-10-28T08:38:07.111300"
   }
  }
 }

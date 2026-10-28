@@ -1,19 +1,25 @@
 {
+ "acumulado": {
+  "top": [],
+  "total": 0
+ },
  "cursores": {},
+ "fase_inicial": true,
+ "version_filtro": 2,
  "vistos": {
   "beb2834cf54052d1": {
-   "avisado_precio": 22.0,
+   "avisado_precio": null,
    "descuento": 61,
    "nombre": "BOLOGNA FC WHITE AND BLUE FAN SWEATSHIRT 2023/24 - LITTLE KIDS",
    "precio": 22.0,
-   "ultima_vez": "2026-10-28T02:20:12.520691"
+   "ultima_vez": "2026-10-28T08:49:32.237851"
   },
   "fd0a13c9ef182779": {
-   "avisado_precio": 10.0,
+   "avisado_precio": null,
    "descuento": 66,
    "nombre": "BOLOGNA FC CHE SITUAZIONE T-SHIRT",
    "precio": 10.0,
-   "ultima_vez": "2026-10-28T02:20:12.520691"
+   "ultima_vez": "2026-10-28T08:49:32.237851"
   }
  }
 }
