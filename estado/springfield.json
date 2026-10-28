@@ -1,33 +1,13 @@
 {
  "acumulado": {
-  "top": [
-   [
-    75,
-    "🔥 -75% Camisa tipo lino rayas\n39,99 € → 9,99 €\nTallas: XL, XXL, XXXL\nhttps://myspringfield.com/es/es/hombre/camisas/camisa-tipo-lino-rayas/0274077.html?dwvar_0274077_color=51"
-   ],
-   [
-    74,
-    "🔥 -74% Camiseta manga corta print\n50,00 € → 12,99 €\nTallas: XXL, XXXL\nhttps://myspringfield.com/es/es/hombre/camisetas/camiseta-manga-corta-print/0214203.html?dwvar_0214203_color=99"
-   ],
-   [
-    73,
-    "🔥 -73% Bermuda técnica wide & relaxed fit\n36,99 € → 9,99 €\nTallas: XL, XXL\nhttps://myspringfield.com/es/es/hombre/pantalones/bermudas/bermuda-tecnica-wide-relaxed-fit/0434254.html?dwvar_0434254_color=55"
-   ],
-   [
-    73,
-    "🔥 -73% Camiseta Kodak\n21,99 € → 5,99 €\nTallas: XL, XXL, XXXL\nhttps://myspringfield.com/es/es/hombre/camisetas/camiseta-kodak/1454592.html?dwvar_1454592_color=97"
-   ],
-   [
-    73,
-    "🔥 -73% Camiseta F1 Atlassian Williams\n21,99 € → 5,99 €\nTallas: XL, XXL, XXXL\nhttps://myspringfield.com/es/es/hombre/camisetas/camiseta-f1-atlassian-williams/1454590.html?dwvar_1454590_color=99"
-   ]
-  ],
-  "total": 30
+  "top": [],
+  "total": 0
  },
  "cursores": {
-  "https://myspringfield.com/on/demandware.store/Sites-SPF-Site/es_ES/Search-UpdateGrid?cgid=men&pmin=0%2c01&start={inicio}&sz=120": 31
+  "https://myspringfield.com/on/demandware.store/Sites-SPF-Site/es_ES/Search-UpdateGrid?cgid=men&pmin=0%2c01&start={inicio}&sz=120": 41
  },
- "fase_inicial": true,
+ "fase_inicial": false,
+ "ultima_revision": "2026-10-28T16:09:28.772037",
  "version_filtro": 2,
  "vistos": {
   "0011e4953f9712bb": {
@@ -175,7 +155,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T08:32:34.284097"
+   "ultima_vez": "2026-10-28T16:08:57.698806"
   },
   "097605434ba152d6": {
    "avisado_precio": null,
@@ -221,7 +201,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T08:32:34.284097"
+   "ultima_vez": "2026-10-28T16:08:57.698806"
   },
   "105f184672d1a596": {
    "avisado_precio": null,
@@ -330,7 +310,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T08:32:34.284097"
+   "ultima_vez": "2026-10-28T16:08:57.698806"
   },
   "155c7a720ee6387f": {
    "avisado_precio": 5.99,
@@ -432,7 +412,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T08:32:34.284097"
+   "ultima_vez": "2026-10-28T16:08:57.698806"
   },
   "1ce2a9b945c42eed": {
    "avisado_precio": null,
@@ -442,11 +422,98 @@
    "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "26d0fa09f84f6067": {
-   "avisado_precio": null,
+   "avisado_precio": 9.99,
    "descuento": 67,
    "nombre": "Camisa manga corta bowling estampada",
    "precio": 9.99,
-   "ultima_vez": "2026-10-28T08:32:34.284097"
+   "tallas": [
+    [
+     "67",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "67",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:08:57.698806",
+   "ultima_vez": "2026-10-28T16:08:57.698806"
   },
   "2aa021a3ce1d4d21": {
    "avisado_precio": 5.99,
@@ -551,11 +618,66 @@
    "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "2bfd1b05074939be": {
-   "avisado_precio": null,
+   "avisado_precio": 25.9,
    "descuento": 68,
    "nombre": "Camisa algodón lino lisa manga corta",
    "precio": 25.9,
-   "ultima_vez": "2026-10-28T08:32:34.284097"
+   "tallas": [
+    [
+     "68",
+     true
+    ],
+    [
+     "S",
+     false
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "68",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:08:57.698806",
+   "ultima_vez": "2026-10-28T16:08:57.698806"
   },
   "2f19e07be6c953ee": {
    "avisado_precio": null,
@@ -625,7 +747,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T08:32:34.284097"
+   "ultima_vez": "2026-10-28T16:08:57.698806"
   },
   "36249cb3e57babb8": {
    "avisado_precio": 5.99,
@@ -729,6 +851,108 @@
    "tallas_revisado": "2026-10-28T08:32:34.284097",
    "ultima_vez": "2026-10-28T08:32:34.284097"
   },
+  "3845763cd1e481e5": {
+   "avisado_precio": 9.99,
+   "descuento": 67,
+   "nombre": "Polo piqué cuello mao slim fit",
+   "precio": 9.99,
+   "tallas": [
+    [
+     "67",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "67",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:08:57.698806",
+   "ultima_vez": "2026-10-28T16:08:57.698806"
+  },
   "3b21e381fd316189": {
    "avisado_precio": 19.9,
    "descuento": 72,
@@ -805,7 +1029,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T08:32:34.284097"
+   "ultima_vez": "2026-10-28T16:08:57.698806"
   },
   "3d2f018a9bd00f4a": {
    "avisado_precio": null,
@@ -884,6 +1108,48 @@
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
    "ultima_vez": "2026-10-28T08:32:34.284097"
+  },
+  "3e199c6cada63dec": {
+   "avisado_precio": null,
+   "descuento": 75,
+   "nombre": "Calcetín pinkie deportivo",
+   "precio": 1.99,
+   "tallas": [
+    [
+     "75",
+     true
+    ],
+    [
+     "39-42",
+     true
+    ],
+    [
+     "39-42",
+     true
+    ],
+    [
+     "39-42",
+     true
+    ],
+    [
+     "43-46",
+     true
+    ],
+    [
+     "43-46",
+     true
+    ],
+    [
+     "43-46",
+     true
+    ],
+    [
+     "75",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:08:57.698806",
+   "ultima_vez": "2026-10-28T16:08:57.698806"
   },
   "3e69e018532175da": {
    "avisado_precio": null,
@@ -1015,7 +1281,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T08:32:34.284097"
+   "ultima_vez": "2026-10-28T16:08:57.698806"
   },
   "404348ac698597ee": {
    "avisado_precio": 5.99,
@@ -1117,7 +1383,14 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T08:32:34.284097"
+   "ultima_vez": "2026-10-28T16:08:57.698806"
+  },
+  "4448f4d3fc9f767b": {
+   "avisado_precio": null,
+   "descuento": 84,
+   "nombre": "Gorro con viscosa",
+   "precio": 7.99,
+   "ultima_vez": "2026-10-28T16:08:57.698806"
   },
   "4887269889f42d3d": {
    "avisado_precio": 12.99,
@@ -1233,7 +1506,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T08:32:34.284097"
+   "ultima_vez": "2026-10-28T16:08:57.698806"
   },
   "4c8f664bf6b6c0fb": {
    "avisado_precio": 5.99,
@@ -1335,7 +1608,14 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T08:32:34.284097"
+   "ultima_vez": "2026-10-28T16:08:57.698806"
+  },
+  "4ceb500ff85220a1": {
+   "avisado_precio": null,
+   "descuento": 70,
+   "nombre": "Cinturón cinta ajustable",
+   "precio": 14.99,
+   "ultima_vez": "2026-10-28T16:08:57.698806"
   },
   "4de5ffb2f9cddd45": {
    "avisado_precio": 5.99,
@@ -1437,21 +1717,123 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T08:32:34.284097"
+   "ultima_vez": "2026-10-28T16:08:57.698806"
+  },
+  "4e988b5bfdade6d6": {
+   "avisado_precio": null,
+   "descuento": 74,
+   "nombre": "Gorro de punto",
+   "precio": 12.99,
+   "ultima_vez": "2026-10-28T16:08:57.698806"
   },
   "54c0cb39a801c00a": {
-   "avisado_precio": null,
+   "avisado_precio": 9.99,
    "descuento": 67,
    "nombre": "Polo cuello resort estructura regular fit",
    "precio": 9.99,
-   "ultima_vez": "2026-10-28T08:32:34.284097"
+   "tallas": [
+    [
+     "67",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "67",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:08:57.698806",
+   "ultima_vez": "2026-10-28T16:08:57.698806"
   },
   "57ae75352d31ff18": {
    "avisado_precio": null,
    "descuento": 73,
    "nombre": "Camiseta stickers",
    "precio": 5.99,
-   "ultima_vez": "2026-10-28T08:32:34.284097"
+   "ultima_vez": "2026-10-28T16:08:57.698806"
   },
   "5e232052a566b82b": {
    "avisado_precio": null,
@@ -1544,14 +1926,14 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T08:32:34.284097"
+   "ultima_vez": "2026-10-28T16:08:57.698806"
   },
   "6029ed47c789e958": {
    "avisado_precio": null,
    "descuento": 68,
    "nombre": "Camisa algodón lino cuadros manga corta",
    "precio": 25.9,
-   "ultima_vez": "2026-10-28T08:32:34.284097"
+   "ultima_vez": "2026-10-28T16:08:57.698806"
   },
   "60ddb3cd45439cf6": {
    "avisado_precio": 5.99,
@@ -1653,7 +2035,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T08:32:34.284097"
+   "ultima_vez": "2026-10-28T16:08:57.698806"
   },
   "6113fc614314ed7e": {
    "avisado_precio": 5.99,
@@ -1755,7 +2137,196 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T08:32:34.284097"
+   "ultima_vez": "2026-10-28T16:08:57.698806"
+  },
+  "643f659810327a1b": {
+   "avisado_precio": null,
+   "descuento": 82,
+   "nombre": "Jersey polo liso manga corta",
+   "precio": 11.9,
+   "tallas": [
+    [
+     "82",
+     true
+    ],
+    [
+     "S",
+     false
+    ],
+    [
+     "M",
+     false
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     false
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "82",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:08:57.698806",
+   "ultima_vez": "2026-10-28T16:08:57.698806"
+  },
+  "64d83becc487a6ec": {
+   "avisado_precio": 11.9,
+   "descuento": 74,
+   "nombre": "Polo piqué cuello en V",
+   "precio": 11.9,
+   "tallas": [
+    [
+     "74",
+     true
+    ],
+    [
+     "S",
+     false
+    ],
+    [
+     "M",
+     false
+    ],
+    [
+     "L",
+     false
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "74",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:08:57.698806",
+   "ultima_vez": "2026-10-28T16:08:57.698806"
+  },
+  "654b770a105f22bf": {
+   "avisado_precio": null,
+   "descuento": 70,
+   "nombre": "Cinturón 1 piel",
+   "precio": 14.99,
+   "ultima_vez": "2026-10-28T16:08:57.698806"
+  },
+  "661e4d2fafc13061": {
+   "avisado_precio": 19.99,
+   "descuento": 64,
+   "nombre": "Camisa punto manga corta algodón botones",
+   "precio": 19.99,
+   "tallas": [
+    [
+     "64",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "64",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:08:57.698806",
+   "ultima_vez": "2026-10-28T16:08:57.698806"
   },
   "6647beae0b343d92": {
    "avisado_precio": null,
@@ -1824,7 +2395,14 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T08:32:34.284097"
+   "ultima_vez": "2026-10-28T16:08:57.698806"
+  },
+  "6a2814e255b5f9be": {
+   "avisado_precio": null,
+   "descuento": 74,
+   "nombre": "Guantes con acrílico",
+   "precio": 12.99,
+   "ultima_vez": "2026-10-28T16:08:57.698806"
   },
   "6a9f1ee61517e259": {
    "avisado_precio": null,
@@ -1834,11 +2412,98 @@
    "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "6bbad7d7e946eef1": {
-   "avisado_precio": null,
+   "avisado_precio": 15.99,
    "descuento": 60,
    "nombre": "Jersey estructura efecto doble",
    "precio": 15.99,
-   "ultima_vez": "2026-10-28T08:32:34.284097"
+   "tallas": [
+    [
+     "60",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     false
+    ],
+    [
+     "60",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:08:57.698806",
+   "ultima_vez": "2026-10-28T16:08:57.698806"
   },
   "6dcef28ca0dd59a6": {
    "avisado_precio": null,
@@ -1853,6 +2518,13 @@
    "nombre": "Camiseta cortes",
    "precio": 5.99,
    "ultima_vez": "2026-10-28T08:32:34.284097"
+  },
+  "73f9893a881d11d9": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Set de gorro y guantes",
+   "precio": 19.99,
+   "ultima_vez": "2026-10-28T16:08:57.698806"
   },
   "77a535caed565731": {
    "avisado_precio": 5.99,
@@ -1957,11 +2629,106 @@
    "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "786cfdaba04d9ef4": {
-   "avisado_precio": null,
+   "avisado_precio": 12.99,
    "descuento": 68,
    "nombre": "Camisa tipo lino",
    "precio": 12.99,
-   "ultima_vez": "2026-10-28T08:32:34.284097"
+   "tallas": [
+    [
+     "68",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "68",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:08:57.698806",
+   "ultima_vez": "2026-10-28T16:08:57.698806"
   },
   "79184e88b45a13fb": {
    "avisado_precio": 14.99,
@@ -2130,7 +2897,54 @@
    "descuento": 67,
    "nombre": "Camisa manga corta vuelta",
    "precio": 9.99,
-   "ultima_vez": "2026-10-28T08:32:34.284097"
+   "tallas": [
+    [
+     "67",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     false
+    ],
+    [
+     "M",
+     false
+    ],
+    [
+     "L",
+     false
+    ],
+    [
+     "XL",
+     false
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "XXXL",
+     false
+    ],
+    [
+     "67",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:08:57.698806",
+   "ultima_vez": "2026-10-28T16:08:57.698806"
   },
   "84006d318809b202": {
    "avisado_precio": 9.99,
@@ -2207,18 +3021,183 @@
    "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "87aa9f00326d1145": {
-   "avisado_precio": null,
+   "avisado_precio": 25.9,
    "descuento": 68,
    "nombre": "Camisa algodón lino lisa manga larga",
    "precio": 25.9,
-   "ultima_vez": "2026-10-28T08:32:34.284097"
+   "tallas": [
+    [
+     "68",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "68",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:08:57.698806",
+   "ultima_vez": "2026-10-28T16:08:57.698806"
   },
   "8abe9d01ee314bdb": {
-   "avisado_precio": null,
+   "avisado_precio": 9.99,
    "descuento": 67,
    "nombre": "Polo estructura cremallera",
    "precio": 9.99,
-   "ultima_vez": "2026-10-28T08:32:34.284097"
+   "tallas": [
+    [
+     "67",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     false
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "67",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:08:57.698806",
+   "ultima_vez": "2026-10-28T16:08:57.698806"
+  },
+  "8c41285f106a2fe7": {
+   "avisado_precio": null,
+   "descuento": 64,
+   "nombre": "Riñonera",
+   "precio": 17.99,
+   "ultima_vez": "2026-10-28T16:08:57.698806"
   },
   "8fa8b7454e7c2ea3": {
    "avisado_precio": 5.99,
@@ -2320,14 +3299,111 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T08:32:34.284097"
+   "ultima_vez": "2026-10-28T16:08:57.698806"
   },
   "95164fc77144c7a9": {
-   "avisado_precio": null,
+   "avisado_precio": 19.9,
    "descuento": 67,
    "nombre": "Jersey polo manga corta torzal",
    "precio": 19.9,
-   "ultima_vez": "2026-10-28T08:32:34.284097"
+   "tallas": [
+    [
+     "67",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "67",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:08:57.698806",
+   "ultima_vez": "2026-10-28T16:08:57.698806"
+  },
+  "9af4693e4700c39f": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Bufanda con acrílico",
+   "precio": 19.99,
+   "ultima_vez": "2026-10-28T16:08:57.698806"
+  },
+  "9c401cd8f01927a8": {
+   "avisado_precio": null,
+   "descuento": 74,
+   "nombre": "Gorro de punto con poliéster",
+   "precio": 12.99,
+   "ultima_vez": "2026-10-28T16:08:57.698806"
   },
   "9f7b7c77e1320642": {
    "avisado_precio": null,
@@ -2393,14 +3469,85 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T08:32:34.284097"
+   "ultima_vez": "2026-10-28T16:08:57.698806"
   },
   "a194049b547e7b6d": {
-   "avisado_precio": null,
+   "avisado_precio": 25.9,
    "descuento": 68,
    "nombre": "Camisa algodón lino rayas manga larga",
    "precio": 25.9,
-   "ultima_vez": "2026-10-28T08:32:34.284097"
+   "tallas": [
+    [
+     "68",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "68",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:08:57.698806",
+   "ultima_vez": "2026-10-28T16:08:57.698806"
   },
   "a38ca1607b9a8de2": {
    "avisado_precio": null,
@@ -2606,7 +3753,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T08:32:34.284097"
+   "ultima_vez": "2026-10-28T16:08:57.698806"
   },
   "af81fedd91727780": {
    "avisado_precio": null,
@@ -2615,12 +3762,208 @@
    "precio": 17.99,
    "ultima_vez": "2026-10-28T08:32:34.284097"
   },
-  "b463957a6f0588ed": {
+  "afbc6fdb67b35352": {
    "avisado_precio": null,
+   "descuento": 64,
+   "nombre": "Bolso bandolera",
+   "precio": 17.99,
+   "ultima_vez": "2026-10-28T16:08:57.698806"
+  },
+  "b2aae4bde6ed8336": {
+   "avisado_precio": 9.99,
+   "descuento": 75,
+   "nombre": "Camisa tipo lino rayas",
+   "precio": 9.99,
+   "tallas": [
+    [
+     "75",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "75",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:08:57.698806",
+   "ultima_vez": "2026-10-28T16:08:57.698806"
+  },
+  "b463957a6f0588ed": {
+   "avisado_precio": 12.99,
    "descuento": 68,
    "nombre": "Camisa piqué",
    "precio": 12.99,
-   "ultima_vez": "2026-10-28T08:32:34.284097"
+   "tallas": [
+    [
+     "68",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "68",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:08:57.698806",
+   "ultima_vez": "2026-10-28T16:08:57.698806"
   },
   "bdddc5a6ed7324f8": {
    "avisado_precio": 5.99,
@@ -2722,14 +4065,101 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T08:32:34.284097"
+   "ultima_vez": "2026-10-28T16:08:57.698806"
   },
   "befeaa9500c09946": {
-   "avisado_precio": null,
+   "avisado_precio": 9.99,
    "descuento": 67,
    "nombre": "Polo piqué contrastes slim fit",
    "precio": 9.99,
-   "ultima_vez": "2026-10-28T08:32:34.284097"
+   "tallas": [
+    [
+     "67",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     false
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "67",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:08:57.698806",
+   "ultima_vez": "2026-10-28T16:08:57.698806"
   },
   "bfa232a556218547": {
    "avisado_precio": 5.99,
@@ -2831,14 +4261,111 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T08:32:34.284097"
+   "ultima_vez": "2026-10-28T16:08:57.698806"
   },
   "c8745949ddd3a5a8": {
-   "avisado_precio": null,
+   "avisado_precio": 12.99,
    "descuento": 64,
    "nombre": "Camiseta básica",
    "precio": 12.99,
-   "ultima_vez": "2026-10-28T08:32:34.284097"
+   "tallas": [
+    [
+     "64",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "64",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:08:57.698806",
+   "ultima_vez": "2026-10-28T16:08:57.698806"
+  },
+  "cb9f8b5d96a7a2ed": {
+   "avisado_precio": null,
+   "descuento": 70,
+   "nombre": "Gorra básica con bordado",
+   "precio": 14.99,
+   "ultima_vez": "2026-10-28T16:08:57.698806"
+  },
+  "cc7f36d69ffdcf8d": {
+   "avisado_precio": null,
+   "descuento": 80,
+   "nombre": "Gorro de punto con acrílico",
+   "precio": 9.99,
+   "ultima_vez": "2026-10-28T16:08:57.698806"
   },
   "d60e82aa3e23b40d": {
    "avisado_precio": null,
@@ -2944,14 +4471,108 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T08:32:34.284097"
+   "ultima_vez": "2026-10-28T16:08:57.698806"
+  },
+  "dbbb74c4a2cdd07e": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Cinturón efecto piel",
+   "precio": 19.99,
+   "ultima_vez": "2026-10-28T16:08:57.698806"
   },
   "dc693495e2a9b868": {
-   "avisado_precio": null,
+   "avisado_precio": 9.99,
    "descuento": 67,
    "nombre": "Polo jersey microraya slim fit",
    "precio": 9.99,
-   "ultima_vez": "2026-10-28T08:32:34.284097"
+   "tallas": [
+    [
+     "67",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     false
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "67",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:08:57.698806",
+   "ultima_vez": "2026-10-28T16:08:57.698806"
   },
   "de72cd49c5e404b8": {
    "avisado_precio": 5.99,
@@ -3053,21 +4674,211 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T08:32:34.284097"
+   "ultima_vez": "2026-10-28T16:08:57.698806"
   },
   "e0d62b3158022287": {
-   "avisado_precio": null,
+   "avisado_precio": 19.99,
    "descuento": 60,
    "nombre": "Sobrecamisa bolsillos lavada",
    "precio": 19.99,
-   "ultima_vez": "2026-10-28T08:32:34.284097"
+   "tallas": [
+    [
+     "60",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "60",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:08:57.698806",
+   "ultima_vez": "2026-10-28T16:08:57.698806"
   },
   "e29cd79e84d7c193": {
-   "avisado_precio": null,
+   "avisado_precio": 15.99,
    "descuento": 64,
    "nombre": "Sobrecamisa oxford viscosa",
    "precio": 15.99,
-   "ultima_vez": "2026-10-28T08:32:34.284097"
+   "tallas": [
+    [
+     "64",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "64",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:08:57.698806",
+   "ultima_vez": "2026-10-28T16:08:57.698806"
   },
   "e5d92a6b7fc529f8": {
    "avisado_precio": 19.9,
@@ -3113,7 +4924,60 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T08:32:34.284097"
+   "ultima_vez": "2026-10-28T16:08:57.698806"
+  },
+  "e9d6210768e76c28": {
+   "avisado_precio": null,
+   "descuento": 73,
+   "nombre": "Bañador estampado étnico OOTO",
+   "precio": 15.9,
+   "tallas": [
+    [
+     "73",
+     true
+    ],
+    [
+     "S",
+     false
+    ],
+    [
+     "M",
+     false
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     false
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "73",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:08:57.698806",
+   "ultima_vez": "2026-10-28T16:08:57.698806"
+  },
+  "ee14a4631f7b09a4": {
+   "avisado_precio": null,
+   "descuento": 80,
+   "nombre": "Gorro de punto logo",
+   "precio": 9.99,
+   "ultima_vez": "2026-10-28T16:08:57.698806"
   },
   "f06f8727d11fa698": {
    "avisado_precio": 5.99,
@@ -3215,7 +5079,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T08:32:34.284097"
+   "ultima_vez": "2026-10-28T16:08:57.698806"
   },
   "f0c74167a9f37b49": {
    "avisado_precio": null,
@@ -3441,7 +5305,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T08:32:34.284097"
+   "ultima_vez": "2026-10-28T16:08:57.698806"
   },
   "fa2164d2b8917f39": {
    "avisado_precio": 5.99,
@@ -3543,7 +5407,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T08:32:34.284097"
+   "ultima_vez": "2026-10-28T16:08:57.698806"
   },
   "fde641af6d32c7ab": {
    "avisado_precio": null,
@@ -3601,7 +5465,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:32:34.284097",
-   "ultima_vez": "2026-10-28T08:32:34.284097"
+   "ultima_vez": "2026-10-28T16:08:57.698806"
   }
  }
 }

@@ -4,9 +4,10 @@
   "total": 0
  },
  "cursores": {
-  "https://pedrodelhierro.com/on/demandware.store/Sites-PDH-Site/es_ES/Search-UpdateGrid?cgid=men&pmin=0%2c01&start={inicio}&sz=120": 1
+  "https://pedrodelhierro.com/on/demandware.store/Sites-PDH-Site/es_ES/Search-UpdateGrid?cgid=men&pmin=0%2c01&start={inicio}&sz=120": 9
  },
  "fase_inicial": false,
+ "ultima_revision": "2026-10-28T16:10:23.058102",
  "version_filtro": 2,
  "vistos": {
   "021bf42725344103": {
@@ -98,6 +99,96 @@
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
    "ultima_vez": "2026-10-28T08:34:04.294111"
+  },
+  "1df9d1d628ad582f": {
+   "avisado_precio": 15.99,
+   "descuento": 60,
+   "nombre": "Polo piqué de rayas",
+   "precio": 15.99,
+   "tallas": [
+    [
+     "60",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "60",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:10:07.820031",
+   "ultima_vez": "2026-10-28T16:10:07.820031"
   },
   "2706a0573965378a": {
    "avisado_precio": 29.99,
@@ -357,6 +448,96 @@
    "tallas_revisado": "2026-10-28T08:34:04.294111",
    "ultima_vez": "2026-10-28T08:34:04.294111"
   },
+  "3f91822839d59475": {
+   "avisado_precio": 19.99,
+   "descuento": 60,
+   "nombre": "Polo estructura otomán",
+   "precio": 19.99,
+   "tallas": [
+    [
+     "60",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "60",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:10:07.820031",
+   "ultima_vez": "2026-10-28T16:10:07.820031"
+  },
   "41a623d844a4264e": {
    "avisado_precio": 29.99,
    "descuento": 67,
@@ -446,6 +627,96 @@
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
    "ultima_vez": "2026-10-28T08:34:04.294111"
+  },
+  "432b0922030bf8ee": {
+   "avisado_precio": 15.99,
+   "descuento": 60,
+   "nombre": "Polo piqué tips",
+   "precio": 15.99,
+   "tallas": [
+    [
+     "60",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "60",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:10:07.820031",
+   "ultima_vez": "2026-10-28T16:10:07.820031"
   },
   "453d1ba0785caae6": {
    "avisado_precio": 19.99,
@@ -715,7 +986,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-28T08:34:04.294111"
+   "ultima_vez": "2026-10-28T16:10:07.820031"
   },
   "5f9e3303a742c38b": {
    "avisado_precio": 25.99,
@@ -945,6 +1216,96 @@
    "tallas_revisado": "2026-10-28T08:34:04.294111",
    "ultima_vez": "2026-10-28T08:34:04.294111"
   },
+  "6262807032b27820": {
+   "avisado_precio": 19.99,
+   "descuento": 64,
+   "nombre": "Polo punto manga corta algodón estructura",
+   "precio": 19.99,
+   "tallas": [
+    [
+     "64",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "64",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:10:07.820031",
+   "ultima_vez": "2026-10-28T16:10:07.820031"
+  },
   "7ad7c578b41dfe9f": {
    "avisado_precio": 29.9,
    "descuento": 63,
@@ -1021,7 +1382,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-28T08:34:04.294111"
+   "ultima_vez": "2026-10-28T16:10:07.820031"
   },
   "8bc917b078dea1a8": {
    "avisado_precio": 39.95,
@@ -1111,7 +1472,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-28T08:34:04.294111"
+   "ultima_vez": "2026-10-28T16:10:07.820031"
   },
   "8c5ab4cd4c9bd2fb": {
    "avisado_precio": 29.99,
@@ -1471,7 +1832,97 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-28T08:34:04.294111"
+   "ultima_vez": "2026-10-28T16:10:07.820031"
+  },
+  "aa6a3c31371bf867": {
+   "avisado_precio": 15.99,
+   "descuento": 60,
+   "nombre": "Camiseta punto manga corta algodón rayas",
+   "precio": 15.99,
+   "tallas": [
+    [
+     "60",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "60",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:10:07.820031",
+   "ultima_vez": "2026-10-28T16:10:07.820031"
   },
   "b6425c2ac6a3c995": {
    "avisado_precio": 15.99,
@@ -1561,7 +2012,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-28T08:34:04.294111"
+   "ultima_vez": "2026-10-28T16:10:07.820031"
   },
   "b7aa946481036507": {
    "avisado_precio": 39.95,
@@ -1765,7 +2216,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-28T08:34:04.294111"
+   "ultima_vez": "2026-10-28T16:10:07.820031"
   },
   "b9682d839d971f10": {
    "avisado_precio": 25.99,
@@ -1947,6 +2398,96 @@
    "tallas_revisado": "2026-10-28T08:34:04.294111",
    "ultima_vez": "2026-10-28T08:34:04.294111"
   },
+  "c72f1bfcddb553f6": {
+   "avisado_precio": 15.99,
+   "descuento": 68,
+   "nombre": "Polo de estructura",
+   "precio": 15.99,
+   "tallas": [
+    [
+     "68",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "68",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:10:07.820031",
+   "ultima_vez": "2026-10-28T16:10:07.820031"
+  },
   "ca961fec0b41b1d6": {
    "avisado_precio": 6.99,
    "descuento": 81,
@@ -2036,6 +2577,96 @@
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
    "ultima_vez": "2026-10-28T08:34:04.294111"
+  },
+  "cae9c7224407ffca": {
+   "avisado_precio": 39.99,
+   "descuento": 69,
+   "nombre": "Sobrecamisa lisa tencel lino",
+   "precio": 39.99,
+   "tallas": [
+    [
+     "69",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "69",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:10:07.820031",
+   "ultima_vez": "2026-10-28T16:10:07.820031"
   },
   "cbe9433f711bcc72": {
    "avisado_precio": 29.99,
@@ -2542,6 +3173,96 @@
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
    "ultima_vez": "2026-10-28T08:34:04.294111"
+  },
+  "e8d51e6c3fcea42e": {
+   "avisado_precio": 15.99,
+   "descuento": 60,
+   "nombre": "Polo oxford rayas",
+   "precio": 15.99,
+   "tallas": [
+    [
+     "60",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "60",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T16:10:07.820031",
+   "ultima_vez": "2026-10-28T16:10:07.820031"
   },
   "fd2ee802d438f3be": {
    "avisado_precio": 19.99,
