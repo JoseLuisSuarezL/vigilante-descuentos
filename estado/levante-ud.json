@@ -5,7 +5,7 @@
  },
  "cursores": {},
  "fase_inicial": false,
- "ultima_revision": "2026-10-28T19:46:02.989098",
+ "ultima_revision": "2026-10-28T20:01:20.061478",
  "version_filtro": 2,
  "vistos": {
   "572a0059e967f91a": {
@@ -13,28 +13,28 @@
    "descuento": 80,
    "nombre": "Jaqueta de Xandall Adult 23/24 del Levante UD",
    "precio": 17.0,
-   "ultima_vez": "2026-10-28T19:46:02.988815"
+   "ultima_vez": "2026-10-28T20:01:20.061202"
   },
   "77fde1a086a0349e": {
    "avisado_precio": null,
    "descuento": 80,
    "nombre": "Pantaló Entrenament Curt Junior 23/24 del Levante UD",
    "precio": 7.0,
-   "ultima_vez": "2026-10-28T19:46:02.988815"
+   "ultima_vez": "2026-10-28T20:01:20.061202"
   },
   "b72365f9592e5fda": {
    "avisado_precio": null,
    "descuento": 80,
    "nombre": "Jaqueta de Xandall Júnior 23/24 del Levante UD",
    "precio": 16.0,
-   "ultima_vez": "2026-10-28T19:46:02.988815"
+   "ultima_vez": "2026-10-28T20:01:20.061202"
   },
   "d59632baececa8ed": {
    "avisado_precio": null,
    "descuento": 62,
    "nombre": "Pantaló Entrenament Tècnic Curt Adult 25/26 del Levante UD",
    "precio": 15.0,
-   "ultima_vez": "2026-10-28T19:46:02.988815"
+   "ultima_vez": "2026-10-28T20:01:20.061202"
   }
  }
 }
