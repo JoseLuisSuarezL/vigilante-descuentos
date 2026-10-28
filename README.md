@@ -154,6 +154,10 @@ GitHub retrasa las tareas programadas cuando tiene mucho tráfico. Lo normal es 
 Me ha llegado un email de GitHub diciendo que ha desactivado el workflow.
 GitHub pausa las tareas programadas de los repositorios públicos tras 60 días sin
 actividad. Entra en Actions y pulsa Enable workflow.
+GitHub no revisa cada 15 minutos, sino cada varias horas. ¿Por qué?
+GitHub no garantiza los horarios programados: en horas de mucho uso los retrasa o
+se los salta. La solución es que una web gratuita (cron-job.org) le dé "al botón"
+cada 15 minutos. Los pasos están en la Parte 7.
 ¿Me avisa de cualquier cosa rebajada?
 No. Hay un filtro de ropa y tallas (al principio de config.yaml, apartado `tallas`):
 Solo ropa de hombre adulto: descarta gorras, pines, bufandas, calcetines,
@@ -214,3 +218,29 @@ sería demasiado pesado y las tiendas acabarían bloqueando las visitas.
 Sí. Cuando CallMeBot vuelva a tener plazas, consigue tu clave y crea los secretos
 `CALLMEBOT_PHONE` (tu móvil con prefijo, p. ej. `+34600111222`) y `CALLMEBOT_APIKEY`.
 Después borra los dos secretos de Telegram. El programa usará WhatsApp automáticamente.
+
+Parte 7 · Revisión de verdad cada 15 minutos (cron-job.org)
+7.1. Crear una llave para GitHub
+En GitHub, pulsa tu foto (arriba a la derecha) → Settings.
+Abajo del todo a la izquierda: Developer settings → Personal access tokens →
+Fine-grained tokens → Generate new token.
+Token name: `vigilante`. Expiration: la más larga que te deje.
+Repository access: Only select repositories → elige `vigilante-descuentos`.
+Permissions → Repository permissions → Actions → Read and write.
+Generate token y copia el código (empieza por `github_pat_`). Solo se ve una vez.
+7.2. Programar el aviso en cron-job.org
+Entra en https://cron-job.org, crea una cuenta gratis y pulsa Create cronjob.
+Title: `Vigilante`.
+URL: `https://api.github.com/repos/TU_USUARIO/vigilante-descuentos/actions/workflows/vigilante.yml/dispatches`
+(cambia TU_USUARIO por tu usuario de GitHub).
+Execution schedule: Every 15 minutes.
+Pestaña Advanced:
+Request method: `POST`
+Headers (añade cuatro):
+`Accept` = `application/vnd.github+json`
+`Authorization` = `Bearer ` + tu código (con un espacio tras Bearer)
+`X-GitHub-Api-Version` = `2022-11-28`
+`Content-Type` = `application/json`
+Request body: `{"ref":"main","inputs":{"accion":"normal"}}`
+Create. Pulsa Test run: si la respuesta es 204, está bien. En GitHub →
+Actions verás aparecer una ejecución nueva.
