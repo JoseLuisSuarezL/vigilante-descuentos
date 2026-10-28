@@ -1,8 +1,29 @@
 {
  "cursores": {
-  "https://pedrodelhierro.com/on/demandware.store/Sites-PDH-Site/es_ES/Search-UpdateGrid?cgid=men&pmin=0%2c01&start={inicio}&sz=120": 9
+  "https://pedrodelhierro.com/on/demandware.store/Sites-PDH-Site/es_ES/Search-UpdateGrid?cgid=men&pmin=0%2c01&start={inicio}&sz=120": 17
  },
  "vistos": {
+  "006b3237fc27851a": {
+   "avisado_precio": 25.99,
+   "descuento": 71,
+   "nombre": "Bermuda 5 bolsillos regular",
+   "precio": 25.99,
+   "ultima_vez": "2026-10-28T02:04:30.138056"
+  },
+  "0278fe3980bdb8b1": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Polo estructura otomán",
+   "precio": 19.99,
+   "ultima_vez": "2026-10-28T02:04:30.138056"
+  },
+  "168611bd8265c346": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Camiseta punto manga corta algodón rayas",
+   "precio": 15.99,
+   "ultima_vez": "2026-10-28T02:04:30.138056"
+  },
   "1df9d1d628ad582f": {
    "avisado_precio": 15.99,
    "descuento": 60,
@@ -24,6 +45,20 @@
    "precio": 15.99,
    "ultima_vez": "2026-10-27T22:54:24.340419"
   },
+  "322c5a3d33a49da6": {
+   "avisado_precio": 9.99,
+   "descuento": 75,
+   "nombre": "Gorra PdH Madring",
+   "precio": 9.99,
+   "ultima_vez": "2026-10-28T02:04:30.138056"
+  },
+  "3c0fd46d81260e49": {
+   "avisado_precio": 25.9,
+   "descuento": 68,
+   "nombre": "Camisa algodón lino rayas manga larga",
+   "precio": 25.9,
+   "ultima_vez": "2026-10-28T02:04:30.138056"
+  },
   "3f91822839d59475": {
    "avisado_precio": 19.99,
    "descuento": 60,
@@ -38,47 +73,110 @@
    "precio": 15.99,
    "ultima_vez": "2026-10-27T22:54:24.340419"
   },
+  "44b44a05ff2f4944": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Zapatilla deportiva textil",
+   "precio": 39.95,
+   "ultima_vez": "2026-10-28T02:04:30.138056"
+  },
+  "4575081529efb896": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Polo piqué de rayas",
+   "precio": 15.99,
+   "ultima_vez": "2026-10-28T02:04:30.138056"
+  },
+  "528cde2409485110": {
+   "avisado_precio": 19.9,
+   "descuento": 72,
+   "nombre": "Bermuda ligera popelín regular",
+   "precio": 19.9,
+   "ultima_vez": "2026-10-28T02:04:30.138056"
+  },
   "573b8c321fb83a79": {
    "avisado_precio": 29.99,
    "descuento": 67,
    "nombre": "Polo puño fantasía",
    "precio": 29.99,
-   "ultima_vez": "2026-10-27T22:54:24.340419"
+   "ultima_vez": "2026-10-28T02:04:30.138056"
+  },
+  "5e626a17f60339ac": {
+   "avisado_precio": 25.9,
+   "descuento": 68,
+   "nombre": "Camisa algodón lino lisa manga larga",
+   "precio": 25.9,
+   "ultima_vez": "2026-10-28T02:04:30.138056"
+  },
+  "7ad7c578b41dfe9f": {
+   "avisado_precio": 29.9,
+   "descuento": 63,
+   "nombre": "Chino ligero popelín regular",
+   "precio": 29.9,
+   "ultima_vez": "2026-10-28T02:04:30.138056"
+  },
+  "889cbf1e3363b507": {
+   "avisado_precio": 15.99,
+   "descuento": 73,
+   "nombre": "Bermuda básica regular",
+   "precio": 15.99,
+   "ultima_vez": "2026-10-28T02:04:30.138056"
   },
   "8bc917b078dea1a8": {
    "avisado_precio": 39.95,
    "descuento": 60,
    "nombre": "Polo estructura manga larga",
    "precio": 39.95,
-   "ultima_vez": "2026-10-27T22:54:24.340419"
+   "ultima_vez": "2026-10-28T02:04:30.138056"
+  },
+  "9ba9a86bdd1eb08f": {
+   "avisado_precio": 25.9,
+   "descuento": 68,
+   "nombre": "Camisa algodón lino lisa manga corta",
+   "precio": 25.9,
+   "ultima_vez": "2026-10-28T02:04:30.138056"
   },
   "a13b30b98943d88e": {
    "avisado_precio": 29.99,
    "descuento": 67,
    "nombre": "Sudadera logo cuello caja",
    "precio": 29.99,
-   "ultima_vez": "2026-10-27T22:54:24.340419"
+   "ultima_vez": "2026-10-28T02:04:30.138056"
+  },
+  "a3e9ab3c1b7f4f6f": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Polo oxford rayas",
+   "precio": 15.99,
+   "ultima_vez": "2026-10-28T02:04:30.138056"
+  },
+  "a86380351ea14f27": {
+   "avisado_precio": 15.99,
+   "descuento": 76,
+   "nombre": "Bermuda ligera regular",
+   "precio": 15.99,
+   "ultima_vez": "2026-10-28T02:04:30.138056"
   },
   "b6425c2ac6a3c995": {
    "avisado_precio": 15.99,
    "descuento": 60,
    "nombre": "Camiseta básica",
    "precio": 15.99,
-   "ultima_vez": "2026-10-27T22:54:24.340419"
+   "ultima_vez": "2026-10-28T02:04:30.138056"
   },
   "b7aa946481036507": {
    "avisado_precio": 39.95,
    "descuento": 60,
    "nombre": "Chino estructura ligero slim",
    "precio": 39.95,
-   "ultima_vez": "2026-10-27T22:54:24.340419"
+   "ultima_vez": "2026-10-28T02:04:30.138056"
   },
   "b86f7fc20cec075f": {
    "avisado_precio": 29.99,
    "descuento": 62,
    "nombre": "Polo básico piqué",
    "precio": 29.99,
-   "ultima_vez": "2026-10-27T22:54:24.340419"
+   "ultima_vez": "2026-10-28T02:04:30.138056"
   },
   "b8d238fa2ccdb64f": {
    "avisado_precio": 29.9,
@@ -87,6 +185,13 @@
    "precio": 29.9,
    "ultima_vez": "2026-10-27T22:54:24.340419"
   },
+  "c2918890b1ea1b00": {
+   "avisado_precio": 19.99,
+   "descuento": 64,
+   "nombre": "Camisa punto manga corta algodón botones",
+   "precio": 19.99,
+   "ultima_vez": "2026-10-28T02:04:30.138056"
+  },
   "cae9c7224407ffca": {
    "avisado_precio": 39.99,
    "descuento": 69,
@@ -94,12 +199,47 @@
    "precio": 39.99,
    "ultima_vez": "2026-10-27T22:54:24.340419"
   },
+  "e776167469bdd7d6": {
+   "avisado_precio": 19.9,
+   "descuento": 67,
+   "nombre": "Jersey polo manga corta torzal",
+   "precio": 19.9,
+   "ultima_vez": "2026-10-28T02:04:30.138056"
+  },
   "e8d51e6c3fcea42e": {
    "avisado_precio": 15.99,
    "descuento": 60,
    "nombre": "Polo oxford rayas",
    "precio": 15.99,
    "ultima_vez": "2026-10-27T22:54:24.340419"
+  },
+  "ebb00aa694f2420c": {
+   "avisado_precio": 15.99,
+   "descuento": 76,
+   "nombre": "Bermuda print regular",
+   "precio": 15.99,
+   "ultima_vez": "2026-10-28T02:04:30.138056"
+  },
+  "f50b9a5c14885c92": {
+   "avisado_precio": 15.99,
+   "descuento": 68,
+   "nombre": "Polo de estructura",
+   "precio": 15.99,
+   "ultima_vez": "2026-10-28T02:04:30.138056"
+  },
+  "f72126f04df41a0c": {
+   "avisado_precio": 19.9,
+   "descuento": 72,
+   "nombre": "Bermuda básica regular",
+   "precio": 19.9,
+   "ultima_vez": "2026-10-28T02:04:30.138056"
+  },
+  "fe85135dfa929d52": {
+   "avisado_precio": 25.9,
+   "descuento": 68,
+   "nombre": "Camisa algodón lino cuadros manga corta",
+   "precio": 25.9,
+   "ultima_vez": "2026-10-28T02:04:30.138056"
   }
  }
 }

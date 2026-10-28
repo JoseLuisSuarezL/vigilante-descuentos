@@ -1,6 +1,6 @@
 {
  "cursores": {
-  "https://myspringfield.com/on/demandware.store/Sites-SPF-Site/es_ES/Search-UpdateGrid?cgid=men&pmin=0%2c01&start={inicio}&sz=120": 11
+  "https://myspringfield.com/on/demandware.store/Sites-SPF-Site/es_ES/Search-UpdateGrid?cgid=men&pmin=0%2c01&start={inicio}&sz=120": 21
  },
  "vistos": {
   "00904c568ad9f033": {
@@ -31,6 +31,13 @@
    "precio": 5.99,
    "ultima_vez": "2026-10-27T22:53:39.280716"
   },
+  "0641701c5a0d3f06": {
+   "avisado_precio": 17.99,
+   "descuento": 64,
+   "nombre": "Camiseta manga corta logo",
+   "precio": 17.99,
+   "ultima_vez": "2026-10-28T02:03:24.150170"
+  },
   "0822c0ed6d12a1aa": {
    "avisado_precio": 5.99,
    "descuento": 70,
@@ -43,7 +50,7 @@
    "descuento": 70,
    "nombre": "Camiseta surf- garage",
    "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "0cafec864849d9e4": {
    "avisado_precio": 5.99,
@@ -57,7 +64,7 @@
    "descuento": 70,
    "nombre": "Camiseta creative colective",
    "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "1131573abdeb64f3": {
    "avisado_precio": 5.99,
@@ -85,7 +92,7 @@
    "descuento": 70,
    "nombre": "Camiseta haciendo el agosto",
    "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "18754382cbd6464f": {
    "avisado_precio": 5.99,
@@ -120,7 +127,7 @@
    "descuento": 67,
    "nombre": "Polo básico Springfield regular fit",
    "precio": 9.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "1fc3d937cc171ab4": {
    "avisado_precio": 9.99,
@@ -176,7 +183,7 @@
    "descuento": 67,
    "nombre": "Camisa manga corta bowling estampada",
    "precio": 9.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "275f8e49d182cba6": {
    "avisado_precio": 5.99,
@@ -211,7 +218,7 @@
    "descuento": 68,
    "nombre": "Camisa algodón lino lisa manga corta",
    "precio": 25.9,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "2e35e20051450ee7": {
    "avisado_precio": 9.99,
@@ -232,7 +239,14 @@
    "descuento": 70,
    "nombre": "Camiseta sumo",
    "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
+  },
+  "32ba9b7e7d24f1e7": {
+   "avisado_precio": 14.99,
+   "descuento": 70,
+   "nombre": "Camiseta algodón manga corta",
+   "precio": 14.99,
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "350703dd4b619312": {
    "avisado_precio": 7.99,
@@ -253,7 +267,7 @@
    "descuento": 70,
    "nombre": "Camiseta smart",
    "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "3744b93875f8d641": {
    "avisado_precio": 5.99,
@@ -297,12 +311,19 @@
    "precio": 5.99,
    "ultima_vez": "2026-10-27T22:53:39.280716"
   },
+  "3a35e39244c75ac2": {
+   "avisado_precio": 50.0,
+   "descuento": 69,
+   "nombre": "Traje americana y pantalón",
+   "precio": 50.0,
+   "ultima_vez": "2026-10-28T02:03:24.150170"
+  },
   "3b21e381fd316189": {
    "avisado_precio": 19.9,
    "descuento": 72,
    "nombre": "Bermuda básica regular",
    "precio": 19.9,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "3c376c5e23c3d1b3": {
    "avisado_precio": 5.99,
@@ -323,7 +344,7 @@
    "descuento": 70,
    "nombre": "Camiseta fear the noodle",
    "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "3ed704638910ec32": {
    "avisado_precio": 5.99,
@@ -344,7 +365,7 @@
    "descuento": 70,
    "nombre": "Camiseta crossroad",
    "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "40950caccff2b40e": {
    "avisado_precio": 17.99,
@@ -435,7 +456,7 @@
    "descuento": 70,
    "nombre": "Camiseta bici fuji",
    "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "4bd546fde1fe34d3": {
    "avisado_precio": 5.99,
@@ -449,7 +470,7 @@
    "descuento": 70,
    "nombre": "Camiseta waffle doble",
    "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "4dca23607ee44f65": {
    "avisado_precio": 5.99,
@@ -463,7 +484,7 @@
    "descuento": 73,
    "nombre": "Camiseta Kodak",
    "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "4f192e1ce33c61a1": {
    "avisado_precio": 5.99,
@@ -498,7 +519,7 @@
    "descuento": 67,
    "nombre": "Polo cuello resort estructura regular fit",
    "precio": 9.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "5533b2a312a4aedd": {
    "avisado_precio": 5.99,
@@ -512,7 +533,7 @@
    "descuento": 73,
    "nombre": "Camiseta stickers",
    "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "58618dbe6e10f5af": {
    "avisado_precio": 5.99,
@@ -520,6 +541,13 @@
    "nombre": "Camiseta KUMI Sol",
    "precio": 5.99,
    "ultima_vez": "2026-10-27T22:53:39.280716"
+  },
+  "592725fd3f43895a": {
+   "avisado_precio": 14.99,
+   "descuento": 70,
+   "nombre": "Camiseta relaxed logo",
+   "precio": 14.99,
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "5aaf9885970c2510": {
    "avisado_precio": 5.99,
@@ -554,28 +582,35 @@
    "descuento": 70,
    "nombre": "Camiseta ethnic red",
    "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "6029ed47c789e958": {
    "avisado_precio": 25.9,
    "descuento": 68,
    "nombre": "Camisa algodón lino cuadros manga corta",
    "precio": 25.9,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "60ddb3cd45439cf6": {
    "avisado_precio": 5.99,
    "descuento": 70,
    "nombre": "Camiseta Pacífico",
    "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
+  },
+  "6109288f97c22b44": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Camiseta slim manga corta",
+   "precio": 19.99,
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "6113fc614314ed7e": {
    "avisado_precio": 5.99,
    "descuento": 70,
    "nombre": "Camiseta textura",
    "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "61f744248914307e": {
    "avisado_precio": 5.99,
@@ -624,7 +659,7 @@
    "descuento": 73,
    "nombre": "Camiseta Batman Signal",
    "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "68f76dbaeddcb8e2": {
    "avisado_precio": 15.98,
@@ -652,7 +687,7 @@
    "descuento": 60,
    "nombre": "Jersey estructura efecto doble",
    "precio": 15.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "6c86202e411e16ee": {
    "avisado_precio": 7.99,
@@ -717,6 +752,13 @@
    "precio": 5.99,
    "ultima_vez": "2026-10-27T22:53:39.280716"
   },
+  "7c25f14438ea8b4e": {
+   "avisado_precio": 12.99,
+   "descuento": 74,
+   "nombre": "Camiseta manga corta vintage",
+   "precio": 12.99,
+   "ultima_vez": "2026-10-28T02:03:24.150170"
+  },
   "7c52477feec4c6db": {
    "avisado_precio": 15.99,
    "descuento": 60,
@@ -752,6 +794,13 @@
    "precio": 9.99,
    "ultima_vez": "2026-10-27T22:53:39.280716"
   },
+  "816e87f947da0b36": {
+   "avisado_precio": 14.99,
+   "descuento": 70,
+   "nombre": "Camiseta regular bordada",
+   "precio": 14.99,
+   "ultima_vez": "2026-10-28T02:03:24.150170"
+  },
   "817cb1325b6dab39": {
    "avisado_precio": 9.99,
    "descuento": 73,
@@ -771,7 +820,7 @@
    "descuento": 75,
    "nombre": "Camisa tipo lino rayas",
    "precio": 9.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "83241e3efb9fc280": {
    "avisado_precio": 5.99,
@@ -785,7 +834,7 @@
    "descuento": 67,
    "nombre": "Camisa manga corta vuelta",
    "precio": 9.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "845a9aa9b0c7ee70": {
    "avisado_precio": 5.99,
@@ -820,14 +869,21 @@
    "descuento": 68,
    "nombre": "Camisa algodón lino lisa manga larga",
    "precio": 25.9,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "883a0793ab4acf04": {
    "avisado_precio": 5.99,
    "descuento": 70,
    "nombre": "Camiseta doble interlock",
    "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
+  },
+  "8924d884deaa349d": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Pantalón jogger regular",
+   "precio": 19.99,
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "8a328cd04b24b883": {
    "avisado_precio": 5.99,
@@ -841,7 +897,7 @@
    "descuento": 67,
    "nombre": "Polo estructura cremallera",
    "precio": 9.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "8b028309b777e9c8": {
    "avisado_precio": 5.99,
@@ -862,7 +918,7 @@
    "descuento": 70,
    "nombre": "Camiseta aspecto técnico",
    "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "9059eb064318d81b": {
    "avisado_precio": 7.99,
@@ -911,7 +967,7 @@
    "descuento": 67,
    "nombre": "Jersey polo manga corta torzal",
    "precio": 19.9,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "967f6f112f019a59": {
    "avisado_precio": 5.99,
@@ -926,6 +982,20 @@
    "nombre": "Polo estructura moulinee",
    "precio": 9.99,
    "ultima_vez": "2026-10-27T22:53:39.280716"
+  },
+  "97cde0237f768c70": {
+   "avisado_precio": 17.99,
+   "descuento": 64,
+   "nombre": "Camiseta algodón manga larga",
+   "precio": 17.99,
+   "ultima_vez": "2026-10-28T02:03:24.150170"
+  },
+  "99bcceb41165da79": {
+   "avisado_precio": 17.99,
+   "descuento": 64,
+   "nombre": "Camiseta de manga corta",
+   "precio": 17.99,
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "9a50521312f93cb2": {
    "avisado_precio": 9.99,
@@ -948,12 +1018,19 @@
    "precio": 5.99,
    "ultima_vez": "2026-10-27T22:53:39.280716"
   },
+  "9f7026b24efc9653": {
+   "avisado_precio": 9.99,
+   "descuento": 67,
+   "nombre": "Polo estructura slim fit",
+   "precio": 9.99,
+   "ultima_vez": "2026-10-28T02:03:24.150170"
+  },
   "9f7b7c77e1320642": {
    "avisado_precio": 9.99,
    "descuento": 73,
    "nombre": "Bermuda comfort fit",
    "precio": 9.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "9fdd4a45eccd4dd4": {
    "avisado_precio": 9.99,
@@ -974,14 +1051,14 @@
    "descuento": 68,
    "nombre": "Camisa algodón lino rayas manga larga",
    "precio": 25.9,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "a47703959817ba1b": {
    "avisado_precio": 5.99,
    "descuento": 70,
    "nombre": "Camiseta fuji",
    "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "a5a45e7312136bb4": {
    "avisado_precio": 5.99,
@@ -1018,6 +1095,13 @@
    "precio": 5.99,
    "ultima_vez": "2026-10-27T22:53:39.280716"
   },
+  "ab79406372be92fb": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Camiseta manga corta logo",
+   "precio": 19.99,
+   "ultima_vez": "2026-10-28T02:03:24.150170"
+  },
   "abb25c5cdf291d1e": {
    "avisado_precio": 5.99,
    "descuento": 67,
@@ -1030,7 +1114,7 @@
    "descuento": 73,
    "nombre": "Bermuda técnica wide & relaxed fit",
    "precio": 9.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "ac7ff3e1079b47ad": {
    "avisado_precio": 5.99,
@@ -1079,7 +1163,7 @@
    "descuento": 68,
    "nombre": "Camisa tipo lino",
    "precio": 12.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "b31b6db7378bfb5a": {
    "avisado_precio": 7.99,
@@ -1100,7 +1184,7 @@
    "descuento": 68,
    "nombre": "Camisa piqué",
    "precio": 12.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "b59b8984c0f0ad13": {
    "avisado_precio": 5.99,
@@ -1108,6 +1192,13 @@
    "nombre": "Camiseta elevation",
    "precio": 5.99,
    "ultima_vez": "2026-10-27T22:53:39.280716"
+  },
+  "b5a57950200d730f": {
+   "avisado_precio": 7.99,
+   "descuento": 84,
+   "nombre": "Camiseta manga corta regular",
+   "precio": 7.99,
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "b5e4878124bf3897": {
    "avisado_precio": 7.99,
@@ -1144,6 +1235,20 @@
    "precio": 7.99,
    "ultima_vez": "2026-10-27T22:53:39.280716"
   },
+  "ba6bca8f73a20ed0": {
+   "avisado_precio": 14.99,
+   "descuento": 70,
+   "nombre": "Camiseta print manga corta",
+   "precio": 14.99,
+   "ultima_vez": "2026-10-28T02:03:24.150170"
+  },
+  "baf9837fa3c6c27a": {
+   "avisado_precio": 17.99,
+   "descuento": 64,
+   "nombre": "Camiseta manga corta estampada",
+   "precio": 17.99,
+   "ultima_vez": "2026-10-28T02:03:24.150170"
+  },
   "bd3b5c80ea9372d3": {
    "avisado_precio": 5.99,
    "descuento": 76,
@@ -1156,7 +1261,7 @@
    "descuento": 70,
    "nombre": "Camiseta texto japo",
    "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "be031a383712d782": {
    "avisado_precio": 7.99,
@@ -1177,14 +1282,14 @@
    "descuento": 67,
    "nombre": "Polo piqué contrastes slim fit",
    "precio": 9.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "bfa232a556218547": {
    "avisado_precio": 5.99,
    "descuento": 73,
    "nombre": "Camiseta F1 Atlassian Williams",
    "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "bfa7a06a64fb5830": {
    "avisado_precio": 5.99,
@@ -1205,7 +1310,7 @@
    "descuento": 67,
    "nombre": "Polo piqué cuello mao slim fit",
    "precio": 9.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "c303901bde2b3fc1": {
    "avisado_precio": 5.99,
@@ -1254,7 +1359,7 @@
    "descuento": 64,
    "nombre": "Camiseta básica",
    "precio": 12.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "c8f1864ba51db6e4": {
    "avisado_precio": 9.99,
@@ -1291,6 +1396,13 @@
    "precio": 5.99,
    "ultima_vez": "2026-10-27T22:53:39.280716"
   },
+  "cfe8c0a0f345b4a1": {
+   "avisado_precio": 14.99,
+   "descuento": 70,
+   "nombre": "Camiseta manga corta logo",
+   "precio": 14.99,
+   "ultima_vez": "2026-10-28T02:03:24.150170"
+  },
   "d26f2a542964fd2c": {
    "avisado_precio": 5.99,
    "descuento": 70,
@@ -1312,12 +1424,19 @@
    "precio": 9.99,
    "ultima_vez": "2026-10-27T22:53:39.280716"
   },
+  "d3ee28694bb9e2e7": {
+   "avisado_precio": 9.99,
+   "descuento": 71,
+   "nombre": "Camisa bowling manga corta bordado",
+   "precio": 9.99,
+   "ultima_vez": "2026-10-28T02:03:24.150170"
+  },
   "d60e82aa3e23b40d": {
    "avisado_precio": 9.99,
    "descuento": 73,
    "nombre": "Bermuda vaquera baggy fit",
    "precio": 9.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "d7559fd98b8e824b": {
    "avisado_precio": 5.99,
@@ -1338,7 +1457,7 @@
    "descuento": 67,
    "nombre": "Polo jersey microraya slim fit",
    "precio": 9.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "de2520e0079f407f": {
    "avisado_precio": 5.99,
@@ -1352,21 +1471,21 @@
    "descuento": 70,
    "nombre": "Camiseta private security",
    "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "e0d62b3158022287": {
    "avisado_precio": 19.99,
    "descuento": 60,
    "nombre": "Sobrecamisa bolsillos lavada",
    "precio": 19.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "e29cd79e84d7c193": {
    "avisado_precio": 15.99,
    "descuento": 64,
    "nombre": "Sobrecamisa oxford viscosa",
    "precio": 15.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "e3fd443c908ee79d": {
    "avisado_precio": 5.99,
@@ -1394,7 +1513,14 @@
    "descuento": 72,
    "nombre": "Bermuda ligera popelín regular",
    "precio": 19.9,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
+  },
+  "eaa39d487937cd2e": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Pantalón vaquero regular",
+   "precio": 19.99,
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "eabfcf4ad842caee": {
    "avisado_precio": 9.99,
@@ -1402,6 +1528,13 @@
    "nombre": "Cárdigan hojas",
    "precio": 9.99,
    "ultima_vez": "2026-10-27T22:53:39.280716"
+  },
+  "eb382514a013d1ba": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Blazer algodón",
+   "precio": 39.99,
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "ebfde154220924a8": {
    "avisado_precio": 5.99,
@@ -1423,6 +1556,13 @@
    "nombre": "Camiseta Hot Wheels California Speedway",
    "precio": 5.99,
    "ultima_vez": "2026-10-27T22:53:39.280716"
+  },
+  "ed7c9635a55b2a47": {
+   "avisado_precio": null,
+   "descuento": 64,
+   "nombre": "Camisa slim de sarga",
+   "precio": 17.99,
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "ee7848921d77d8dd": {
    "avisado_precio": 7.99,
@@ -1450,7 +1590,7 @@
    "descuento": 70,
    "nombre": "Camiseta ¡qué calor!",
    "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "f0830aff20f69f24": {
    "avisado_precio": 5.99,
@@ -1466,6 +1606,13 @@
    "precio": 14.99,
    "ultima_vez": "2026-10-27T22:53:39.280716"
   },
+  "f27ea83a2016a64f": {
+   "avisado_precio": 17.99,
+   "descuento": 64,
+   "nombre": "Camiseta estampada manga corta",
+   "precio": 17.99,
+   "ultima_vez": "2026-10-28T02:03:24.150170"
+  },
   "f2d8d36eca57788c": {
    "avisado_precio": 5.99,
    "descuento": 73,
@@ -1478,7 +1625,7 @@
    "descuento": 70,
    "nombre": "Camiseta my vice",
    "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "f592f5eacda6795d": {
    "avisado_precio": 7.99,
@@ -1534,14 +1681,14 @@
    "descuento": 70,
    "nombre": "Camiseta business class",
    "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   },
   "fde641af6d32c7ab": {
    "avisado_precio": 9.99,
    "descuento": 73,
    "nombre": "Bermuda vaquera ultra ligera slim fit",
    "precio": 9.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T02:03:24.150170"
   }
  }
 }
