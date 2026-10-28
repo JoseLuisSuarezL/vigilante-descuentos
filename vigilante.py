@@ -37,6 +37,15 @@ from bs4 import BeautifulSoup
 BASE = os.path.dirname(os.path.abspath(__file__))
 RUTA_CONFIG = os.path.join(BASE, "config.yaml")
 
+# Cada tarea de GitHub tiene 25 minutos. Se deja de leer páginas nuevas antes,
+# para que dé tiempo a guardar y avisar (lo pendiente sigue en la próxima vuelta).
+INICIO = time.time()
+LIMITE_SEG = 19 * 60
+
+
+def tiempo_restante():
+    return LIMITE_SEG - (time.time() - INICIO)
+
 
 CABECERAS = {
     "User-Agent": (
@@ -142,6 +151,7 @@ def descargar_con_navegador(url, max_cargas=80, max_segundos=480):
 
     jsons = []
     inicio = time.time()
+    max_segundos = max(15, min(max_segundos, tiempo_restante() - 60))
 
     def al_recibir(resp):
         try:
@@ -710,6 +720,10 @@ def analizar_paginado(plantilla, usar_navegador, estado_tienda, paginas_max, pag
     leidas = 0
     n = inicio
     while leidas < paginas_por_vez:
+        if tiempo_restante() < 90:
+            print(f"    Sin tiempo en esta vuelta: la próxima continúa en la página {n}.")
+            cursores[plantilla] = n
+            return productos, leidas
         url = plantilla.replace("{n}", str(n)).replace("{inicio}", str((n - 1) * por_pagina))
         try:
             encontrados, estado = analizar_url(url, usar_navegador)
@@ -921,7 +935,7 @@ def leer_seccion(url, navegador, max_paginas=15, max_cargas=60):
     """Lee una sección (y sus páginas siguientes). Devuelve (productos, info)."""
     productos, n, actual = [], 1, url
     bloqueada = False
-    while actual and n <= max_paginas:
+    while actual and n <= max_paginas and tiempo_restante() > 90:
         try:
             estado, html = descargar(actual)
         except Exception as e:
@@ -941,7 +955,7 @@ def leer_seccion(url, navegador, max_paginas=15, max_cargas=60):
         actual, n = sig, n + 1
         if actual:
             time.sleep(1.2)
-    if (not productos) and navegador:
+    if (not productos) and navegador and tiempo_restante() > 90:
         try:
             estado, html, jsons = descargar_con_navegador(url, max_cargas=max_cargas)
             if es_bloqueo(estado, html):
@@ -985,6 +999,9 @@ def revisar_auto(tienda, navegador):
         return []
     productos = []
     for u in secciones:
+        if tiempo_restante() < 90:
+            print("  Sin tiempo en esta vuelta: el resto de secciones, en la próxima.")
+            break
         encontrados, info = leer_seccion(u, navegador, int(tienda.get("paginas_max", 15)))
         maximo = max((descuento(p) for p in encontrados), default=0)
         estado_txt = " · BLOQUEADA por antibots" if info["bloqueada"] else ""
@@ -1200,8 +1217,6 @@ def extraer_inditex(conf, estado_tienda):
 # Filtro de ropa y tallas (solo ropa de hombre adulto en talla XL o mayor,
 # o pantalón de la 48 en adelante)
 # ---------------------------------------------------------------------------
-
-INICIO = time.time()
 
 NO_ES_ROPA = re.compile(
     r"\b(gorras?|gorros?|caps?|hats?|beanies?|snapbacks?|viseras?|cappell\w*|berrett\w*|bucket|"
@@ -1527,8 +1542,7 @@ def filtrar_por_talla(pendientes, tienda, conf, vistos, moneda, ahora_iso):
     Devuelve (aprobados, aplazados, estadísticas).
     """
     navegador = bool(tienda.get("navegador", False))
-    presupuesto = int(conf.get("fichas_por_vez", 12 if navegador else 40))
-    limite_seg = float(conf.get("minutos_max_por_tarea", 17)) * 60
+    presupuesto = int(conf.get("fichas_por_vez", 15 if navegador else 150))
     horas_cache = float(conf.get("horas_para_revisar_otra_vez", 24))
     si_no_se_sabe = str(conf.get("si_no_se_sabe", "descartar")).lower()
     hace = (dt.datetime.fromisoformat(ahora_iso) - dt.timedelta(hours=horas_cache)).isoformat()
@@ -1545,7 +1559,7 @@ def filtrar_por_talla(pendientes, tienda, conf, vistos, moneda, ahora_iso):
         if tallas is None:
             if reg.get("tallas_revisado", "") >= hace and "tallas" in reg:
                 tallas = reg["tallas"]
-            elif presupuesto > 0 and time.time() - INICIO < limite_seg:
+            elif presupuesto > 0 and tiempo_restante() > 60:
                 presupuesto -= 1
                 st["fichas"] += 1
                 tallas = tallas_de_ficha(p["url"], navegador)
@@ -1606,6 +1620,7 @@ def cargar_estado(nombre_tienda):
 
 
 def guardar_estado(nombre_tienda, datos):
+    datos["ultima_revision"] = dt.datetime.now(dt.timezone.utc).replace(tzinfo=None).isoformat()
     limite = (dt.datetime.now(dt.timezone.utc).replace(tzinfo=None) - dt.timedelta(days=30)).isoformat()
     datos["vistos"] = {k: v for k, v in datos["vistos"].items()
                        if v.get("ultima_vez", "") >= limite}
@@ -1755,6 +1770,9 @@ def revisar_tienda(tienda, config, accion):
         urls = []  # en modo automático las urls ya se han leído ahí
 
     for url in urls:
+        if tiempo_restante() < 90:
+            print("  Sin tiempo en esta vuelta: el resto de direcciones, en la próxima.")
+            break
         try:
             encontrados, _ = analizar_url(url, navegador, int(tienda.get("max_cargas", 80)))
             maximo = max((descuento(p) for p in encontrados), default=0)
@@ -1883,7 +1901,7 @@ def revisar_tienda(tienda, config, accion):
                 art = "artículo" if acum["total"] == 1 else "artículos"
                 lineas = [f"🆕 {nombre_tienda}: ahora mismo hay {acum['total']} {art} "
                           + ("de ropa en tu talla " if filtro else "")
-                          + f"rebajados un {minimo:.0f} % o más."
+                          + ("rebajado" if acum["total"] == 1 else "rebajados") + f" un {minimo:.0f} % o más."
                           + (" Los 5 mejores:" if acum["total"] > 5 else "")]
                 lineas += [t for _, t in acum["top"]]
                 lineas.append("A partir de ahora solo te avisaré de las ofertas nuevas de esta tienda.")
@@ -1962,8 +1980,15 @@ def main():
     if args[:1] == ["--tienda"] and len(args) > 1:
         solo = args[1]
 
-    for tienda in tiendas:
-        if solo and solo not in (tienda.get("nombre"), grupo_de(tienda)):
+    global LIMITE_SEG
+    LIMITE_SEG = float(config.get("minutos_max_por_tarea", 19)) * 60
+    elegidas = [t for t in tiendas if not solo or solo in (t.get("nombre"), grupo_de(t))]
+    # Primero las que llevan más tiempo sin revisarse; si se acaba el tiempo,
+    # las que se queden sin revisar irán las primeras en la próxima vuelta.
+    elegidas.sort(key=lambda t: cargar_estado(t.get("nombre", "Tienda")).get("ultima_revision", ""))
+    for tienda in elegidas:
+        if tiempo_restante() < 120:
+            print(f"\n== {tienda.get('nombre')}: sin tiempo en esta vuelta, va la primera en la próxima.")
             continue
         try:
             revisar_tienda(tienda, config, accion)
