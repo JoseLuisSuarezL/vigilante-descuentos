@@ -1,1694 +1,3607 @@
 {
- "cursores": {
-  "https://myspringfield.com/on/demandware.store/Sites-SPF-Site/es_ES/Search-UpdateGrid?cgid=men&pmin=0%2c01&start={inicio}&sz=120": 21
+ "acumulado": {
+  "top": [
+   [
+    75,
+    "🔥 -75% Camisa tipo lino rayas\n39,99 € → 9,99 €\nTallas: XL, XXL, XXXL\nhttps://myspringfield.com/es/es/hombre/camisas/camisa-tipo-lino-rayas/0274077.html?dwvar_0274077_color=51"
+   ],
+   [
+    74,
+    "🔥 -74% Camiseta manga corta print\n50,00 € → 12,99 €\nTallas: XXL, XXXL\nhttps://myspringfield.com/es/es/hombre/camisetas/camiseta-manga-corta-print/0214203.html?dwvar_0214203_color=99"
+   ],
+   [
+    73,
+    "🔥 -73% Bermuda técnica wide & relaxed fit\n36,99 € → 9,99 €\nTallas: XL, XXL\nhttps://myspringfield.com/es/es/hombre/pantalones/bermudas/bermuda-tecnica-wide-relaxed-fit/0434254.html?dwvar_0434254_color=55"
+   ],
+   [
+    73,
+    "🔥 -73% Camiseta Kodak\n21,99 € → 5,99 €\nTallas: XL, XXL, XXXL\nhttps://myspringfield.com/es/es/hombre/camisetas/camiseta-kodak/1454592.html?dwvar_1454592_color=97"
+   ],
+   [
+    73,
+    "🔥 -73% Camiseta F1 Atlassian Williams\n21,99 € → 5,99 €\nTallas: XL, XXL, XXXL\nhttps://myspringfield.com/es/es/hombre/camisetas/camiseta-f1-atlassian-williams/1454590.html?dwvar_1454590_color=99"
+   ]
+  ],
+  "total": 30
  },
+ "cursores": {
+  "https://myspringfield.com/on/demandware.store/Sites-SPF-Site/es_ES/Search-UpdateGrid?cgid=men&pmin=0%2c01&start={inicio}&sz=120": 31
+ },
+ "fase_inicial": true,
+ "version_filtro": 2,
  "vistos": {
-  "00904c568ad9f033": {
-   "avisado_precio": 5.99,
-   "descuento": 67,
-   "nombre": "Camiseta Springfield",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+  "0011e4953f9712bb": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Bañador básico liso logo",
+   "precio": 19.99,
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
-  "00d934e77aed8b35": {
-   "avisado_precio": 7.99,
-   "descuento": 73,
-   "nombre": "Polo piqué cremallera regular fit",
-   "precio": 7.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "0253d10cfc6d136e": {
-   "avisado_precio": 5.99,
-   "descuento": 74,
-   "nombre": "Camiseta Popeye",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "027ad2021b2348bf": {
-   "avisado_precio": 5.99,
-   "descuento": 73,
-   "nombre": "Camiseta Sidonie",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "0641701c5a0d3f06": {
-   "avisado_precio": 17.99,
-   "descuento": 64,
-   "nombre": "Camiseta manga corta logo",
-   "precio": 17.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
-  },
-  "0822c0ed6d12a1aa": {
-   "avisado_precio": 5.99,
-   "descuento": 70,
-   "nombre": "Camiseta Arcane",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+  "04900f5621c0f2db": {
+   "avisado_precio": null,
+   "descuento": 80,
+   "nombre": "Camiseta estándar fit",
+   "precio": 9.99,
+   "tallas": [
+    [
+     "S",
+     false
+    ],
+    [
+     "M",
+     false
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     false
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "01",
+     true
+    ],
+    [
+     "01",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:32:34.284097",
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "0907f51678e5e81c": {
    "avisado_precio": 5.99,
    "descuento": 70,
    "nombre": "Camiseta surf- garage",
    "precio": 5.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
+   "tallas": [
+    [
+     "70",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     false
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "70",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:32:34.284097",
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
-  "0cafec864849d9e4": {
-   "avisado_precio": 5.99,
-   "descuento": 70,
-   "nombre": "Camiseta the bravest",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+  "097605434ba152d6": {
+   "avisado_precio": null,
+   "descuento": 74,
+   "nombre": "Polo básico piqué lavado",
+   "precio": 11.99,
+   "tallas": [
+    [
+     "74",
+     true
+    ],
+    [
+     "S",
+     false
+    ],
+    [
+     "M",
+     false
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     false
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "74",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:32:34.284097",
+   "ultima_vez": "2026-10-28T08:32:34.284097"
+  },
+  "105f184672d1a596": {
+   "avisado_precio": null,
+   "descuento": 67,
+   "nombre": "Polo básico estructura",
+   "precio": 9.99,
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "10bf731568e506be": {
    "avisado_precio": 5.99,
    "descuento": 70,
    "nombre": "Camiseta creative colective",
    "precio": 5.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
-  },
-  "1131573abdeb64f3": {
-   "avisado_precio": 5.99,
-   "descuento": 70,
-   "nombre": "Camiseta panadero piqué textura",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "12f108df3d46d00e": {
-   "avisado_precio": 7.99,
-   "descuento": 76,
-   "nombre": "Polo piqué mangas bloques contraste regular fit",
-   "precio": 7.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "148d1cf6548a172e": {
-   "avisado_precio": 5.99,
-   "descuento": 67,
-   "nombre": "Camiseta voyage",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "tallas": [
+    [
+     "70",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "70",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:32:34.284097",
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "155c7a720ee6387f": {
    "avisado_precio": 5.99,
    "descuento": 70,
    "nombre": "Camiseta haciendo el agosto",
    "precio": 5.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
+   "tallas": [
+    [
+     "70",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "70",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:32:34.284097",
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
-  "18754382cbd6464f": {
-   "avisado_precio": 5.99,
-   "descuento": 70,
-   "nombre": "Camiseta mar salá",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "1971a379aef82a06": {
-   "avisado_precio": 7.99,
-   "descuento": 73,
-   "nombre": "Polo piqué mao bloque color slim fit",
-   "precio": 7.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "1a5ac326bc6b2f7d": {
-   "avisado_precio": 5.99,
-   "descuento": 70,
-   "nombre": "Camiseta race on custom",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "1ea4ed20caf564bf": {
-   "avisado_precio": 7.99,
-   "descuento": 68,
-   "nombre": "Camiseta Queen Football",
-   "precio": 7.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "1f54914966db0061": {
-   "avisado_precio": 9.99,
-   "descuento": 67,
-   "nombre": "Polo básico Springfield regular fit",
+  "1ce2a9b945c42eed": {
+   "avisado_precio": null,
+   "descuento": 62,
+   "nombre": "Camiseta básica tejido piqué",
    "precio": 9.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
-  },
-  "1fc3d937cc171ab4": {
-   "avisado_precio": 9.99,
-   "descuento": 70,
-   "nombre": "Cárdigan estructura",
-   "precio": 9.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "1ff63dbf0025cc93": {
-   "avisado_precio": 9.99,
-   "descuento": 71,
-   "nombre": "Camisa oxford manga corta",
-   "precio": 9.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "22525bd6ea563ab6": {
-   "avisado_precio": 5.99,
-   "descuento": 70,
-   "nombre": "Camiseta paella",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "23064a845ad6ee2f": {
-   "avisado_precio": 5.99,
-   "descuento": 70,
-   "nombre": "Camiseta KUMI Ola",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "251a6c651e47fa29": {
-   "avisado_precio": 7.99,
-   "descuento": 76,
-   "nombre": "Polo camisero estructura regular fit",
-   "precio": 7.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "2559e7620bd74bb4": {
-   "avisado_precio": 5.99,
-   "descuento": 67,
-   "nombre": "Camiseta energy",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "26be10b9b42a2af7": {
-   "avisado_precio": 5.99,
-   "descuento": 67,
-   "nombre": "Camiseta lux",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "26d0fa09f84f6067": {
-   "avisado_precio": 9.99,
+   "avisado_precio": null,
    "descuento": 67,
    "nombre": "Camisa manga corta bowling estampada",
    "precio": 9.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
-  "275f8e49d182cba6": {
+  "2aa021a3ce1d4d21": {
    "avisado_precio": 5.99,
    "descuento": 70,
-   "nombre": "Camiseta Chiringuito Aura Caparica",
+   "nombre": "Camiseta doble interlock",
    "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "287458fd4067258d": {
-   "avisado_precio": 7.99,
-   "descuento": 60,
-   "nombre": "Camiseta la marea",
-   "precio": 7.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "29344aadb7931c7d": {
-   "avisado_precio": 5.99,
-   "descuento": 70,
-   "nombre": "Camiseta rombo rayas",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "293ce5c16a65cf83": {
-   "avisado_precio": 29.99,
-   "descuento": 63,
-   "nombre": "Cazadora algodón lavada",
-   "precio": 29.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "tallas": [
+    [
+     "70",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "70",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:32:34.284097",
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "2bfd1b05074939be": {
-   "avisado_precio": 25.9,
+   "avisado_precio": null,
    "descuento": 68,
    "nombre": "Camisa algodón lino lisa manga corta",
    "precio": 25.9,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
-  },
-  "2e35e20051450ee7": {
-   "avisado_precio": 9.99,
-   "descuento": 67,
-   "nombre": "Polo estructura regular fit",
-   "precio": 9.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "2eb4ccc1e9824c6a": {
-   "avisado_precio": 5.99,
-   "descuento": 70,
-   "nombre": "Camiseta burgers",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "2f19e07be6c953ee": {
-   "avisado_precio": 5.99,
+   "avisado_precio": null,
    "descuento": 70,
    "nombre": "Camiseta sumo",
    "precio": 5.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
-  },
-  "32ba9b7e7d24f1e7": {
-   "avisado_precio": 14.99,
-   "descuento": 70,
-   "nombre": "Camiseta algodón manga corta",
-   "precio": 14.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
-  },
-  "350703dd4b619312": {
-   "avisado_precio": 7.99,
-   "descuento": 60,
-   "nombre": "Camiseta logo Springfield collage",
-   "precio": 7.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "3556c5ff2ff4c08b": {
-   "avisado_precio": 5.99,
-   "descuento": 70,
-   "nombre": "Camiseta undefined",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "tallas": [
+    [
+     "70",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     false
+    ],
+    [
+     "XL",
+     false
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "XXXL",
+     false
+    ],
+    [
+     "70",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:32:34.284097",
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "36249cb3e57babb8": {
    "avisado_precio": 5.99,
    "descuento": 70,
    "nombre": "Camiseta smart",
    "precio": 5.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
-  },
-  "3744b93875f8d641": {
-   "avisado_precio": 5.99,
-   "descuento": 67,
-   "nombre": "Camiseta salvaje",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "3770eeb550e8795e": {
-   "avisado_precio": 5.99,
-   "descuento": 67,
-   "nombre": "Camiseta sombrilla",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "392ae90ca543abd4": {
-   "avisado_precio": 5.99,
-   "descuento": 67,
-   "nombre": "Camiseta logos vigoré",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "396cab23c5b9b239": {
-   "avisado_precio": 17.99,
-   "descuento": 64,
-   "nombre": "Camisa slim de sarga",
-   "precio": 17.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "398e5c8f5e73e151": {
-   "avisado_precio": 5.99,
-   "descuento": 73,
-   "nombre": "Camiseta Black Crowes Sho Nuff",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "39b8a2179beec5b3": {
-   "avisado_precio": 5.99,
-   "descuento": 67,
-   "nombre": "Camiseta logo sport",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "3a35e39244c75ac2": {
-   "avisado_precio": 50.0,
-   "descuento": 69,
-   "nombre": "Traje americana y pantalón",
-   "precio": 50.0,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
+   "tallas": [
+    [
+     "70",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "70",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:32:34.284097",
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "3b21e381fd316189": {
    "avisado_precio": 19.9,
    "descuento": 72,
    "nombre": "Bermuda básica regular",
    "precio": 19.9,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
+   "tallas": [
+    [
+     "72",
+     true
+    ],
+    [
+     "38",
+     true
+    ],
+    [
+     "38",
+     true
+    ],
+    [
+     "38",
+     true
+    ],
+    [
+     "40",
+     true
+    ],
+    [
+     "40",
+     true
+    ],
+    [
+     "40",
+     true
+    ],
+    [
+     "42",
+     true
+    ],
+    [
+     "42",
+     true
+    ],
+    [
+     "42",
+     true
+    ],
+    [
+     "44",
+     false
+    ],
+    [
+     "46",
+     false
+    ],
+    [
+     "48",
+     false
+    ],
+    [
+     "50",
+     true
+    ],
+    [
+     "50",
+     true
+    ],
+    [
+     "50",
+     true
+    ],
+    [
+     "72",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:32:34.284097",
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
-  "3c376c5e23c3d1b3": {
-   "avisado_precio": 5.99,
-   "descuento": 70,
-   "nombre": "Camiseta hot & tasty",
+  "3d2f018a9bd00f4a": {
+   "avisado_precio": null,
+   "descuento": 73,
+   "nombre": "Camiseta Mickey F1 M28",
    "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "tallas": [
+    [
+     "73",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     false
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "XXXL",
+     false
+    ],
+    [
+     "73",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:32:34.284097",
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
-  "3c5a9c4d8c0fa2d7": {
-   "avisado_precio": 19.99,
-   "descuento": 60,
-   "nombre": "Pantalón jogger regular",
-   "precio": 19.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+  "3e69e018532175da": {
+   "avisado_precio": null,
+   "descuento": 70,
+   "nombre": "Camiseta regular fit Skull",
+   "precio": 14.99,
+   "tallas": [
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     false
+    ],
+    [
+     "L",
+     false
+    ],
+    [
+     "XL",
+     false
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "01",
+     true
+    ],
+    [
+     "01",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:32:34.284097",
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "3eb0cfbf9bb99f14": {
    "avisado_precio": 5.99,
    "descuento": 70,
    "nombre": "Camiseta fear the noodle",
    "precio": 5.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
-  },
-  "3ed704638910ec32": {
-   "avisado_precio": 5.99,
-   "descuento": 67,
-   "nombre": "Camiseta logos Springfield",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "404054fbd84b60f8": {
-   "avisado_precio": 5.99,
-   "descuento": 67,
-   "nombre": "Camiseta raya",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "tallas": [
+    [
+     "70",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "XXXL",
+     false
+    ],
+    [
+     "70",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:32:34.284097",
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "404348ac698597ee": {
    "avisado_precio": 5.99,
    "descuento": 70,
    "nombre": "Camiseta crossroad",
    "precio": 5.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
+   "tallas": [
+    [
+     "70",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "70",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:32:34.284097",
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
-  "40950caccff2b40e": {
-   "avisado_precio": 17.99,
-   "descuento": 64,
-   "nombre": "Camiseta manga corta logo",
-   "precio": 17.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "42f81581dc9f7c39": {
-   "avisado_precio": 9.99,
-   "descuento": 67,
-   "nombre": "Camiseta tricot estructura",
-   "precio": 9.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "435b2225bf84137a": {
-   "avisado_precio": 5.99,
-   "descuento": 67,
-   "nombre": "Camiseta textura",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "446ff857cbdc8fc7": {
-   "avisado_precio": 7.99,
-   "descuento": 73,
-   "nombre": "Polo estructura boxy fit",
-   "precio": 7.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "4768fa116c1ff09f": {
-   "avisado_precio": 7.99,
-   "descuento": 76,
-   "nombre": "Polo camisero jacquard regular fit",
-   "precio": 7.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "48866de0962e0c92": {
-   "avisado_precio": 5.99,
-   "descuento": 67,
-   "nombre": "Camiseta luchador",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "48e55eaf900bc541": {
-   "avisado_precio": 5.99,
-   "descuento": 67,
-   "nombre": "Camiseta textura rayas",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "48ffe0ff2c673a08": {
-   "avisado_precio": 5.99,
-   "descuento": 70,
-   "nombre": "Camiseta Chiringuito los Locos",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "494bcf85a7359aca": {
-   "avisado_precio": 5.99,
-   "descuento": 70,
-   "nombre": "Camiseta mucho vibes",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "4ab0cfed73803d74": {
-   "avisado_precio": 9.99,
-   "descuento": 67,
-   "nombre": "Polo piqué cortes regular fit",
-   "precio": 9.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "4ae4f1a9ec42b77c": {
-   "avisado_precio": 5.99,
-   "descuento": 67,
-   "nombre": "Camiseta fairway",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "4aecf217114e95d0": {
-   "avisado_precio": 7.99,
-   "descuento": 60,
-   "nombre": "Camiseta bordado étnico",
-   "precio": 7.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+  "4887269889f42d3d": {
+   "avisado_precio": 12.99,
+   "descuento": 74,
+   "nombre": "Camiseta manga corta print",
+   "precio": 12.99,
+   "tallas": [
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "4XL",
+     false
+    ],
+    [
+     "01",
+     true
+    ],
+    [
+     "01",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:32:34.284097",
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "4b48581da0f3e1f6": {
    "avisado_precio": 5.99,
    "descuento": 70,
    "nombre": "Camiseta bici fuji",
    "precio": 5.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
-  },
-  "4bd546fde1fe34d3": {
-   "avisado_precio": 5.99,
-   "descuento": 67,
-   "nombre": "Camiseta tie & dye",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "tallas": [
+    [
+     "70",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     false
+    ],
+    [
+     "M",
+     false
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     false
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "70",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:32:34.284097",
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "4c8f664bf6b6c0fb": {
    "avisado_precio": 5.99,
    "descuento": 70,
    "nombre": "Camiseta waffle doble",
    "precio": 5.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
-  },
-  "4dca23607ee44f65": {
-   "avisado_precio": 5.99,
-   "descuento": 73,
-   "nombre": "Camiseta Hot Wheels Race team",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "tallas": [
+    [
+     "70",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "70",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:32:34.284097",
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "4de5ffb2f9cddd45": {
    "avisado_precio": 5.99,
    "descuento": 73,
    "nombre": "Camiseta Kodak",
    "precio": 5.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
-  },
-  "4f192e1ce33c61a1": {
-   "avisado_precio": 5.99,
-   "descuento": 73,
-   "nombre": "Camiseta bronwn stickers",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "4f5f2e0a38e3a893": {
-   "avisado_precio": 7.99,
-   "descuento": 84,
-   "nombre": "Camiseta manga corta regular",
-   "precio": 7.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "4f7af5e4b591fbf6": {
-   "avisado_precio": 5.99,
-   "descuento": 60,
-   "nombre": "Camiseta cortes",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "518aa79bcece7f3f": {
-   "avisado_precio": 5.99,
-   "descuento": 70,
-   "nombre": "Camiseta Twin Peaks",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "tallas": [
+    [
+     "73",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "73",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:32:34.284097",
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "54c0cb39a801c00a": {
-   "avisado_precio": 9.99,
+   "avisado_precio": null,
    "descuento": 67,
    "nombre": "Polo cuello resort estructura regular fit",
    "precio": 9.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
-  },
-  "5533b2a312a4aedd": {
-   "avisado_precio": 5.99,
-   "descuento": 70,
-   "nombre": "Camiseta la playa",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "57ae75352d31ff18": {
-   "avisado_precio": 5.99,
+   "avisado_precio": null,
    "descuento": 73,
    "nombre": "Camiseta stickers",
    "precio": 5.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
-  "58618dbe6e10f5af": {
-   "avisado_precio": 5.99,
-   "descuento": 70,
-   "nombre": "Camiseta KUMI Sol",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "592725fd3f43895a": {
-   "avisado_precio": 14.99,
-   "descuento": 70,
-   "nombre": "Camiseta relaxed logo",
-   "precio": 14.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
-  },
-  "5aaf9885970c2510": {
-   "avisado_precio": 5.99,
-   "descuento": 70,
-   "nombre": "Camiseta rústica",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "5c3035d1c008088f": {
-   "avisado_precio": 9.99,
+  "5e232052a566b82b": {
+   "avisado_precio": null,
    "descuento": 67,
-   "nombre": "Polo piqué mao bloque color slim fit",
+   "nombre": "Polo estructura slim fit",
    "precio": 9.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "5cbf4168b46078b8": {
-   "avisado_precio": 39.99,
-   "descuento": 60,
-   "nombre": "Blazer relaxed fit",
-   "precio": 39.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "5d7a8aa57ee3b745": {
-   "avisado_precio": 9.99,
-   "descuento": 71,
-   "nombre": "Camisa manga corta oxford rayas",
-   "precio": 9.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "5f9790d450021f5e": {
    "avisado_precio": 5.99,
    "descuento": 70,
    "nombre": "Camiseta ethnic red",
    "precio": 5.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
+   "tallas": [
+    [
+     "70",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "XXXL",
+     false
+    ],
+    [
+     "70",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:32:34.284097",
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "6029ed47c789e958": {
-   "avisado_precio": 25.9,
+   "avisado_precio": null,
    "descuento": 68,
    "nombre": "Camisa algodón lino cuadros manga corta",
    "precio": 25.9,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "60ddb3cd45439cf6": {
    "avisado_precio": 5.99,
    "descuento": 70,
    "nombre": "Camiseta Pacífico",
    "precio": 5.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
-  },
-  "6109288f97c22b44": {
-   "avisado_precio": null,
-   "descuento": 60,
-   "nombre": "Camiseta slim manga corta",
-   "precio": 19.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
+   "tallas": [
+    [
+     "70",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "70",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:32:34.284097",
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "6113fc614314ed7e": {
    "avisado_precio": 5.99,
    "descuento": 70,
    "nombre": "Camiseta textura",
    "precio": 5.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
+   "tallas": [
+    [
+     "70",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "70",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:32:34.284097",
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
-  "61f744248914307e": {
-   "avisado_precio": 5.99,
-   "descuento": 70,
-   "nombre": "Camiseta ethnic blue",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "6274410d4c5a63b0": {
-   "avisado_precio": 5.99,
-   "descuento": 67,
-   "nombre": "Camiseta regata",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "6339128bd087f6d1": {
-   "avisado_precio": 5.99,
-   "descuento": 70,
-   "nombre": "Camiseta Yellowstone",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "64418d8769db5bc9": {
-   "avisado_precio": 5.99,
-   "descuento": 70,
-   "nombre": "Camiseta Bob Esponja",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "65047f567d61e431": {
-   "avisado_precio": 9.99,
-   "descuento": 70,
-   "nombre": "Cárdigan manga corta raya vertical",
-   "precio": 9.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "653468649074c799": {
-   "avisado_precio": 5.99,
-   "descuento": 70,
-   "nombre": "Camiseta surf",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+  "6647beae0b343d92": {
+   "avisado_precio": null,
+   "descuento": 64,
+   "nombre": "Camiseta relaxed manga corta",
+   "precio": 17.99,
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "6669ad32bdf4f4c8": {
-   "avisado_precio": 5.99,
+   "avisado_precio": null,
    "descuento": 73,
    "nombre": "Camiseta Batman Signal",
    "precio": 5.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
+   "tallas": [
+    [
+     "73",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     false
+    ],
+    [
+     "L",
+     false
+    ],
+    [
+     "XL",
+     false
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "XXXL",
+     false
+    ],
+    [
+     "73",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:32:34.284097",
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
-  "68f76dbaeddcb8e2": {
-   "avisado_precio": 15.98,
-   "descuento": 72,
-   "nombre": "null",
-   "precio": 15.98,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "6abea1f29050aeb1": {
-   "avisado_precio": 5.99,
+  "6a9f1ee61517e259": {
+   "avisado_precio": null,
    "descuento": 60,
-   "nombre": "Camiseta bloques color",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "6b39b58385267bce": {
-   "avisado_precio": 9.99,
-   "descuento": 71,
-   "nombre": "Camisa manga corta estampada",
-   "precio": 9.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "nombre": "Pantalón vaquero regular",
+   "precio": 19.99,
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "6bbad7d7e946eef1": {
-   "avisado_precio": 15.99,
+   "avisado_precio": null,
    "descuento": 60,
    "nombre": "Jersey estructura efecto doble",
    "precio": 15.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
-  "6c86202e411e16ee": {
-   "avisado_precio": 7.99,
-   "descuento": 76,
-   "nombre": "Polo piqué sport corte posicional regular fit",
-   "precio": 7.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+  "6dcef28ca0dd59a6": {
+   "avisado_precio": null,
+   "descuento": 64,
+   "nombre": "Camiseta bordada manga corta",
+   "precio": 17.99,
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
-  "6ebfc00edf2e3ed0": {
-   "avisado_precio": 5.99,
-   "descuento": 70,
-   "nombre": "Camiseta warning zone",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "742085145eb9d725": {
-   "avisado_precio": 5.99,
-   "descuento": 70,
-   "nombre": "Camiseta Japan moto",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "742af3755b7c61ec": {
-   "avisado_precio": 5.99,
-   "descuento": 73,
-   "nombre": "Camiseta Iron Maiden",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "76161591839b0e90": {
-   "avisado_precio": 12.99,
-   "descuento": 74,
-   "nombre": "Camiseta manga corta vintage",
-   "precio": 12.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "76e7d3f763108ac5": {
-   "avisado_precio": 5.99,
-   "descuento": 67,
-   "nombre": "Camiseta talent",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "773bdfdf8aefc6ad": {
-   "avisado_precio": 5.99,
-   "descuento": 70,
-   "nombre": "Camiseta Camarón de la Isla",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "792c9cede601c5b1": {
-   "avisado_precio": 5.99,
-   "descuento": 70,
-   "nombre": "Camiseta my bike",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "79a04b0726aa1bda": {
-   "avisado_precio": 5.99,
+  "6fdd77a2803b6960": {
+   "avisado_precio": null,
    "descuento": 60,
-   "nombre": "Camiseta Aop étnica",
+   "nombre": "Camiseta cortes",
    "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
-  "7c25f14438ea8b4e": {
-   "avisado_precio": 12.99,
-   "descuento": 74,
-   "nombre": "Camiseta manga corta vintage",
-   "precio": 12.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
-  },
-  "7c52477feec4c6db": {
-   "avisado_precio": 15.99,
-   "descuento": 60,
-   "nombre": "Camisa oxford rayas",
-   "precio": 15.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "7c5dad729e09da26": {
-   "avisado_precio": 9.99,
-   "descuento": 71,
-   "nombre": "Camisa bowling estampada",
-   "precio": 9.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "7c906d556e6738e7": {
-   "avisado_precio": 9.99,
-   "descuento": 67,
-   "nombre": "Polo piqué contraste puño slim fit",
-   "precio": 9.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "7cd1e4d535b60799": {
-   "avisado_precio": 9.99,
+  "77a535caed565731": {
+   "avisado_precio": 5.99,
    "descuento": 70,
-   "nombre": "Cárdigan estructura fantasía",
-   "precio": 9.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "nombre": "Camiseta Springfield legends",
+   "precio": 5.99,
+   "tallas": [
+    [
+     "70",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "70",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:32:34.284097",
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
-  "7d9a59171ba5863b": {
-   "avisado_precio": 9.99,
-   "descuento": 73,
-   "nombre": "Bermuda ligera relaxed fit",
-   "precio": 9.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+  "786cfdaba04d9ef4": {
+   "avisado_precio": null,
+   "descuento": 68,
+   "nombre": "Camisa tipo lino",
+   "precio": 12.99,
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
-  "816e87f947da0b36": {
+  "79184e88b45a13fb": {
    "avisado_precio": 14.99,
    "descuento": 70,
-   "nombre": "Camiseta regular bordada",
+   "nombre": "Camiseta manga corta logo",
    "precio": 14.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
+   "tallas": [
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "4XL",
+     false
+    ],
+    [
+     "01",
+     true
+    ],
+    [
+     "01",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:32:34.284097",
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
-  "817cb1325b6dab39": {
-   "avisado_precio": 9.99,
-   "descuento": 73,
-   "nombre": "Bermuda relaxed fit",
+  "7c558b91606a4655": {
+   "avisado_precio": null,
+   "descuento": 67,
+   "nombre": "Polo piqué cuello mao slim fit",
    "precio": 9.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
-  "81e016600cc1552b": {
-   "avisado_precio": 17.99,
+  "7c98d5d53b5de6c7": {
+   "avisado_precio": null,
    "descuento": 64,
-   "nombre": "Camiseta algodón manga larga",
+   "nombre": "Camiseta estampada manga corta",
    "precio": 17.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "83174aff6d265347": {
    "avisado_precio": 9.99,
    "descuento": 75,
    "nombre": "Camisa tipo lino rayas",
    "precio": 9.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
-  },
-  "83241e3efb9fc280": {
-   "avisado_precio": 5.99,
-   "descuento": 60,
-   "nombre": "Camiseta básica Aop",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "tallas": [
+    [
+     "75",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "75",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:32:34.284097",
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "839a09a912933428": {
-   "avisado_precio": 9.99,
+   "avisado_precio": null,
    "descuento": 67,
    "nombre": "Camisa manga corta vuelta",
    "precio": 9.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
-  "845a9aa9b0c7ee70": {
-   "avisado_precio": 5.99,
-   "descuento": 70,
-   "nombre": "Camiseta Ford Bronco 1980",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "8488cc046f17071d": {
-   "avisado_precio": 5.99,
-   "descuento": 67,
-   "nombre": "Camiseta block almost",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "84d3ea871f88da04": {
-   "avisado_precio": 5.99,
-   "descuento": 70,
-   "nombre": "Camiseta Chiringuito Aura & Friends",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "84e3884ad8bebfe7": {
+  "84006d318809b202": {
    "avisado_precio": 9.99,
-   "descuento": 67,
-   "nombre": "Polo mao bloque color slim fit",
+   "descuento": 70,
+   "nombre": "Bermuda ligera comfort fit",
    "precio": 9.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "tallas": [
+    [
+     "70",
+     true
+    ],
+    [
+     "36",
+     true
+    ],
+    [
+     "36",
+     true
+    ],
+    [
+     "36",
+     true
+    ],
+    [
+     "38",
+     true
+    ],
+    [
+     "38",
+     true
+    ],
+    [
+     "38",
+     true
+    ],
+    [
+     "40",
+     false
+    ],
+    [
+     "42",
+     false
+    ],
+    [
+     "44",
+     false
+    ],
+    [
+     "46",
+     false
+    ],
+    [
+     "48",
+     true
+    ],
+    [
+     "48",
+     true
+    ],
+    [
+     "48",
+     true
+    ],
+    [
+     "50",
+     false
+    ],
+    [
+     "70",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:32:34.284097",
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "87aa9f00326d1145": {
-   "avisado_precio": 25.9,
+   "avisado_precio": null,
    "descuento": 68,
    "nombre": "Camisa algodón lino lisa manga larga",
    "precio": 25.9,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
-  },
-  "883a0793ab4acf04": {
-   "avisado_precio": 5.99,
-   "descuento": 70,
-   "nombre": "Camiseta doble interlock",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
-  },
-  "8924d884deaa349d": {
-   "avisado_precio": null,
-   "descuento": 60,
-   "nombre": "Pantalón jogger regular",
-   "precio": 19.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
-  },
-  "8a328cd04b24b883": {
-   "avisado_precio": 5.99,
-   "descuento": 60,
-   "nombre": "Camiseta básica slim fit",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "8abe9d01ee314bdb": {
-   "avisado_precio": 9.99,
+   "avisado_precio": null,
    "descuento": 67,
    "nombre": "Polo estructura cremallera",
    "precio": 9.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
-  },
-  "8b028309b777e9c8": {
-   "avisado_precio": 5.99,
-   "descuento": 67,
-   "nombre": "Camiseta balance",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "8b7f12f65082cfc7": {
-   "avisado_precio": 5.99,
-   "descuento": 70,
-   "nombre": "Camiseta TvBoy Grito",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "8fa8b7454e7c2ea3": {
    "avisado_precio": 5.99,
    "descuento": 70,
    "nombre": "Camiseta aspecto técnico",
    "precio": 5.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
-  },
-  "9059eb064318d81b": {
-   "avisado_precio": 7.99,
-   "descuento": 73,
-   "nombre": "Polo estructura regular fit",
-   "precio": 7.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "91be8915820ea85f": {
-   "avisado_precio": 5.99,
-   "descuento": 67,
-   "nombre": "Camiseta strategy",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "91c3c0509bb2fa4d": {
-   "avisado_precio": 9.99,
-   "descuento": 70,
-   "nombre": "Cárdigan botones estructura",
-   "precio": 9.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "91e82c78c65f4f6f": {
-   "avisado_precio": 29.99,
-   "descuento": 63,
-   "nombre": "Cazadora vaquera bordado en espalda",
-   "precio": 29.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "91ff27c3bd71d0eb": {
-   "avisado_precio": 5.99,
-   "descuento": 70,
-   "nombre": "Camiseta reset",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "92cf50312b1483c3": {
-   "avisado_precio": 7.99,
-   "descuento": 73,
-   "nombre": "Polo piqué corte posicional regular fit",
-   "precio": 7.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "tallas": [
+    [
+     "70",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "70",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:32:34.284097",
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "95164fc77144c7a9": {
-   "avisado_precio": 19.9,
+   "avisado_precio": null,
    "descuento": 67,
    "nombre": "Jersey polo manga corta torzal",
    "precio": 19.9,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
-  },
-  "967f6f112f019a59": {
-   "avisado_precio": 5.99,
-   "descuento": 67,
-   "nombre": "Camiseta geometric",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "9795b25f9d626731": {
-   "avisado_precio": 9.99,
-   "descuento": 70,
-   "nombre": "Polo estructura moulinee",
-   "precio": 9.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "97cde0237f768c70": {
-   "avisado_precio": 17.99,
-   "descuento": 64,
-   "nombre": "Camiseta algodón manga larga",
-   "precio": 17.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
-  },
-  "99bcceb41165da79": {
-   "avisado_precio": 17.99,
-   "descuento": 64,
-   "nombre": "Camiseta de manga corta",
-   "precio": 17.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
-  },
-  "9a50521312f93cb2": {
-   "avisado_precio": 9.99,
-   "descuento": 70,
-   "nombre": "Polo estructura vertical",
-   "precio": 9.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "9b70790742f40dc0": {
-   "avisado_precio": 7.99,
-   "descuento": 60,
-   "nombre": "Camiseta Rbel nativa",
-   "precio": 7.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "9eb059f29ffe4886": {
-   "avisado_precio": 5.99,
-   "descuento": 70,
-   "nombre": "Camiset low battery",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "9f7026b24efc9653": {
-   "avisado_precio": 9.99,
-   "descuento": 67,
-   "nombre": "Polo estructura slim fit",
-   "precio": 9.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "9f7b7c77e1320642": {
-   "avisado_precio": 9.99,
+   "avisado_precio": null,
    "descuento": 73,
    "nombre": "Bermuda comfort fit",
    "precio": 9.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
-  },
-  "9fdd4a45eccd4dd4": {
-   "avisado_precio": 9.99,
-   "descuento": 67,
-   "nombre": "Polo sport jacquard",
-   "precio": 9.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "a0934ef79af0a883": {
-   "avisado_precio": 9.99,
-   "descuento": 67,
-   "nombre": "Polo piqué rayas estampadas regular fit",
-   "precio": 9.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "tallas": [
+    [
+     "73",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     false
+    ],
+    [
+     "XL",
+     false
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "73",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:32:34.284097",
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "a194049b547e7b6d": {
-   "avisado_precio": 25.9,
+   "avisado_precio": null,
    "descuento": 68,
    "nombre": "Camisa algodón lino rayas manga larga",
    "precio": 25.9,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
-  "a47703959817ba1b": {
-   "avisado_precio": 5.99,
-   "descuento": 70,
-   "nombre": "Camiseta fuji",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
+  "a38ca1607b9a8de2": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Vaquero slim cinco bolsillos",
+   "precio": 19.99,
+   "ultima_vez": "2026-10-28T08:32:34.284097"
+  },
+  "a4dc0889f4df1a6d": {
+   "avisado_precio": null,
+   "descuento": 67,
+   "nombre": "Sobrecamisa algodón",
+   "precio": 19.99,
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "a5a45e7312136bb4": {
    "avisado_precio": 5.99,
    "descuento": 73,
    "nombre": "Camiseta Mickey F1 Racing Team",
    "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "a5b8312eebf68cf2": {
-   "avisado_precio": 5.99,
-   "descuento": 67,
-   "nombre": "Camiseta new age",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "a5da3c00c290559e": {
-   "avisado_precio": 5.99,
-   "descuento": 67,
-   "nombre": "Camiseta today's mood",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "a71e32c41a2a0418": {
-   "avisado_precio": 5.99,
-   "descuento": 67,
-   "nombre": "Camiseta tennis paradise",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "a9015f24c821af37": {
-   "avisado_precio": 5.99,
-   "descuento": 70,
-   "nombre": "Camiseta sun bites",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "ab79406372be92fb": {
-   "avisado_precio": null,
-   "descuento": 60,
-   "nombre": "Camiseta manga corta logo",
-   "precio": 19.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
-  },
-  "abb25c5cdf291d1e": {
-   "avisado_precio": 5.99,
-   "descuento": 67,
-   "nombre": "Camiseta 78",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "tallas": [
+    [
+     "73",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "73",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:32:34.284097",
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "abb7ce2e4c427054": {
    "avisado_precio": 9.99,
    "descuento": 73,
    "nombre": "Bermuda técnica wide & relaxed fit",
    "precio": 9.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
+   "tallas": [
+    [
+     "73",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "73",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:32:34.284097",
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
-  "ac7ff3e1079b47ad": {
-   "avisado_precio": 5.99,
-   "descuento": 60,
-   "nombre": "Camiseta básica pico slim fit",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "af56d119d9fb0015": {
-   "avisado_precio": 5.99,
-   "descuento": 67,
-   "nombre": "Camiseta time to play",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "b0bbae96959c2416": {
-   "avisado_precio": 15.99,
-   "descuento": 60,
-   "nombre": "Pantalón ligero lino straight fit",
-   "precio": 15.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "b0cc81bc51934d7c": {
-   "avisado_precio": 9.99,
-   "descuento": 67,
-   "nombre": "Polo liso slim fit",
-   "precio": 9.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "b16ba8e69c4d40ae": {
-   "avisado_precio": 5.99,
-   "descuento": 73,
-   "nombre": "Camiseta Castrol Gtx",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "b27563151fe5a697": {
-   "avisado_precio": 5.99,
-   "descuento": 60,
-   "nombre": "Camiseta bloque color",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "b2ba36c311c11815": {
-   "avisado_precio": 12.99,
-   "descuento": 68,
-   "nombre": "Camisa tipo lino",
-   "precio": 12.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
-  },
-  "b31b6db7378bfb5a": {
-   "avisado_precio": 7.99,
-   "descuento": 64,
-   "nombre": "Camiseta fútbol ohlalá",
-   "precio": 7.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "b3944e2065442d68": {
-   "avisado_precio": 5.99,
-   "descuento": 70,
-   "nombre": "Camiseta Genius",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "b463957a6f0588ed": {
-   "avisado_precio": 12.99,
-   "descuento": 68,
-   "nombre": "Camisa piqué",
-   "precio": 12.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
-  },
-  "b59b8984c0f0ad13": {
-   "avisado_precio": 5.99,
-   "descuento": 70,
-   "nombre": "Camiseta elevation",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "b5a57950200d730f": {
-   "avisado_precio": 7.99,
-   "descuento": 84,
-   "nombre": "Camiseta manga corta regular",
-   "precio": 7.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
-  },
-  "b5e4878124bf3897": {
-   "avisado_precio": 7.99,
-   "descuento": 76,
-   "nombre": "Polo camisero bolsillo regular fit",
-   "precio": 7.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "b717384d6ee9d0f4": {
-   "avisado_precio": 5.99,
-   "descuento": 70,
-   "nombre": "Camiseta team sol",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "b729f4b7f4cfc0b9": {
-   "avisado_precio": 5.99,
-   "descuento": 70,
-   "nombre": "Camiseta Japan Sport",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "b9f54bfab20ea8b5": {
-   "avisado_precio": 9.99,
-   "descuento": 67,
-   "nombre": "Polo piqué bloque color slim fit",
-   "precio": 9.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "ba0b5fdeed079b11": {
-   "avisado_precio": 7.99,
-   "descuento": 76,
-   "nombre": "Polo piqué rayas contraste regular fit",
-   "precio": 7.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "ba6bca8f73a20ed0": {
-   "avisado_precio": 14.99,
-   "descuento": 70,
-   "nombre": "Camiseta print manga corta",
-   "precio": 14.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
-  },
-  "baf9837fa3c6c27a": {
-   "avisado_precio": 17.99,
+  "af81fedd91727780": {
+   "avisado_precio": null,
    "descuento": 64,
    "nombre": "Camiseta manga corta estampada",
    "precio": 17.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
-  "bd3b5c80ea9372d3": {
-   "avisado_precio": 5.99,
-   "descuento": 76,
-   "nombre": "Camiseta fútbol excuses",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+  "b463957a6f0588ed": {
+   "avisado_precio": null,
+   "descuento": 68,
+   "nombre": "Camisa piqué",
+   "precio": 12.99,
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "bdddc5a6ed7324f8": {
    "avisado_precio": 5.99,
    "descuento": 70,
    "nombre": "Camiseta texto japo",
    "precio": 5.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
-  },
-  "be031a383712d782": {
-   "avisado_precio": 7.99,
-   "descuento": 73,
-   "nombre": "Polo cortes regular fit",
-   "precio": 7.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "be5d46ff4b7565f1": {
-   "avisado_precio": 9.99,
-   "descuento": 70,
-   "nombre": "Cárdigan estructura rayas posicionales",
-   "precio": 9.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "tallas": [
+    [
+     "70",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "70",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:32:34.284097",
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "befeaa9500c09946": {
-   "avisado_precio": 9.99,
+   "avisado_precio": null,
    "descuento": 67,
    "nombre": "Polo piqué contrastes slim fit",
    "precio": 9.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "bfa232a556218547": {
    "avisado_precio": 5.99,
    "descuento": 73,
    "nombre": "Camiseta F1 Atlassian Williams",
    "precio": 5.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
-  },
-  "bfa7a06a64fb5830": {
-   "avisado_precio": 5.99,
-   "descuento": 70,
-   "nombre": "Camiseta wave café",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "c00c16e1d25f9ba6": {
-   "avisado_precio": 7.99,
-   "descuento": 64,
-   "nombre": "Camiseta So glad",
-   "precio": 7.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "c08931685a27c800": {
-   "avisado_precio": 9.99,
-   "descuento": 67,
-   "nombre": "Polo piqué cuello mao slim fit",
-   "precio": 9.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
-  },
-  "c303901bde2b3fc1": {
-   "avisado_precio": 5.99,
-   "descuento": 70,
-   "nombre": "Camiseta logo Springfield étnico",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "c38eb37a7c99e441": {
-   "avisado_precio": 5.99,
-   "descuento": 70,
-   "nombre": "Camiseta color block",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "c396cd72dea46bc7": {
-   "avisado_precio": 5.99,
-   "descuento": 67,
-   "nombre": "Camiseta masterpiece",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "c5fb1674cf8a9065": {
-   "avisado_precio": 5.99,
-   "descuento": 73,
-   "nombre": "Camiseta fútbol almost",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "c6a736d25c447609": {
-   "avisado_precio": 9.99,
-   "descuento": 67,
-   "nombre": "Polo piqué mao slim fit",
-   "precio": 9.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "c76da8831cb69a71": {
-   "avisado_precio": 9.99,
-   "descuento": 67,
-   "nombre": "Polo deportivo contraste regular fit",
-   "precio": 9.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "tallas": [
+    [
+     "73",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "73",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:32:34.284097",
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "c8745949ddd3a5a8": {
-   "avisado_precio": 12.99,
+   "avisado_precio": null,
    "descuento": 64,
    "nombre": "Camiseta básica",
    "precio": 12.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
-  },
-  "c8f1864ba51db6e4": {
-   "avisado_precio": 9.99,
-   "descuento": 67,
-   "nombre": "Polo piqué bloques color regular fit",
-   "precio": 9.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "cc13c0d1a1b8a4eb": {
-   "avisado_precio": 5.99,
-   "descuento": 67,
-   "nombre": "Camiseta Springfield studio",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "cd20494295211a80": {
-   "avisado_precio": 19.98,
-   "descuento": 72,
-   "nombre": "Conjunto de camiseta y bermuda",
-   "precio": 19.98,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "cf746e30a9c93e1e": {
-   "avisado_precio": 5.99,
-   "descuento": 67,
-   "nombre": "Camiseta cuello doble",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "cfbb6fe70d41aca0": {
-   "avisado_precio": 5.99,
-   "descuento": 70,
-   "nombre": "Camiseta team sombra",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "cfe8c0a0f345b4a1": {
-   "avisado_precio": 14.99,
-   "descuento": 70,
-   "nombre": "Camiseta manga corta logo",
-   "precio": 14.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
-  },
-  "d26f2a542964fd2c": {
-   "avisado_precio": 5.99,
-   "descuento": 70,
-   "nombre": "Camiseta creator",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "d3b42536a7dc8d25": {
-   "avisado_precio": 5.99,
-   "descuento": 67,
-   "nombre": "Camiseta simple 09",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "d3eb5fdc327d9e16": {
-   "avisado_precio": 9.99,
-   "descuento": 71,
-   "nombre": "Camisa manga corta lino rayon estampada",
-   "precio": 9.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "d3ee28694bb9e2e7": {
-   "avisado_precio": 9.99,
-   "descuento": 71,
-   "nombre": "Camisa bowling manga corta bordado",
-   "precio": 9.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "d60e82aa3e23b40d": {
-   "avisado_precio": 9.99,
+   "avisado_precio": null,
    "descuento": 73,
    "nombre": "Bermuda vaquera baggy fit",
    "precio": 9.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
-  },
-  "d7559fd98b8e824b": {
-   "avisado_precio": 5.99,
-   "descuento": 73,
-   "nombre": "Camiseta take me to the paradise",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "d97d43e281d870ed": {
-   "avisado_precio": 5.99,
-   "descuento": 73,
-   "nombre": "Camiseta fútbol piezas",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "tallas": [
+    [
+     "73",
+     true
+    ],
+    [
+     "26",
+     true
+    ],
+    [
+     "26",
+     true
+    ],
+    [
+     "26",
+     true
+    ],
+    [
+     "28",
+     true
+    ],
+    [
+     "28",
+     true
+    ],
+    [
+     "28",
+     true
+    ],
+    [
+     "30",
+     true
+    ],
+    [
+     "30",
+     true
+    ],
+    [
+     "30",
+     true
+    ],
+    [
+     "32",
+     true
+    ],
+    [
+     "32",
+     true
+    ],
+    [
+     "32",
+     true
+    ],
+    [
+     "34",
+     true
+    ],
+    [
+     "34",
+     true
+    ],
+    [
+     "34",
+     true
+    ],
+    [
+     "36",
+     true
+    ],
+    [
+     "36",
+     true
+    ],
+    [
+     "36",
+     true
+    ],
+    [
+     "38",
+     true
+    ],
+    [
+     "38",
+     true
+    ],
+    [
+     "38",
+     true
+    ],
+    [
+     "40",
+     false
+    ],
+    [
+     "73",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:32:34.284097",
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "dc693495e2a9b868": {
-   "avisado_precio": 9.99,
+   "avisado_precio": null,
    "descuento": 67,
    "nombre": "Polo jersey microraya slim fit",
    "precio": 9.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
-  },
-  "de2520e0079f407f": {
-   "avisado_precio": 5.99,
-   "descuento": 67,
-   "nombre": "Camiseta piqué rayas",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "de72cd49c5e404b8": {
    "avisado_precio": 5.99,
    "descuento": 70,
    "nombre": "Camiseta private security",
    "precio": 5.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
+   "tallas": [
+    [
+     "70",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "70",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:32:34.284097",
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "e0d62b3158022287": {
-   "avisado_precio": 19.99,
+   "avisado_precio": null,
    "descuento": 60,
    "nombre": "Sobrecamisa bolsillos lavada",
    "precio": 19.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "e29cd79e84d7c193": {
-   "avisado_precio": 15.99,
+   "avisado_precio": null,
    "descuento": 64,
    "nombre": "Sobrecamisa oxford viscosa",
    "precio": 15.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
-  },
-  "e3fd443c908ee79d": {
-   "avisado_precio": 5.99,
-   "descuento": 67,
-   "nombre": "Camiseta la fantástica",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "e45c786530fe4e72": {
-   "avisado_precio": 5.99,
-   "descuento": 67,
-   "nombre": "Camiseta waffle",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "e5b2764836d8fa54": {
-   "avisado_precio": 5.99,
-   "descuento": 67,
-   "nombre": "Camiseta Springfield flúor",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "e5d92a6b7fc529f8": {
    "avisado_precio": 19.9,
    "descuento": 72,
    "nombre": "Bermuda ligera popelín regular",
    "precio": 19.9,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
-  },
-  "eaa39d487937cd2e": {
-   "avisado_precio": null,
-   "descuento": 60,
-   "nombre": "Pantalón vaquero regular",
-   "precio": 19.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
-  },
-  "eabfcf4ad842caee": {
-   "avisado_precio": 9.99,
-   "descuento": 70,
-   "nombre": "Cárdigan hojas",
-   "precio": 9.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "eb382514a013d1ba": {
-   "avisado_precio": null,
-   "descuento": 60,
-   "nombre": "Blazer algodón",
-   "precio": 39.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
-  },
-  "ebfde154220924a8": {
-   "avisado_precio": 5.99,
-   "descuento": 73,
-   "nombre": "Camiseta F1 Williams FW18",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "ec9e32f4e425687b": {
-   "avisado_precio": 5.99,
-   "descuento": 67,
-   "nombre": "Camiseta bareto",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "ed4a1c259bed3236": {
-   "avisado_precio": 5.99,
-   "descuento": 73,
-   "nombre": "Camiseta Hot Wheels California Speedway",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "ed7c9635a55b2a47": {
-   "avisado_precio": null,
-   "descuento": 64,
-   "nombre": "Camisa slim de sarga",
-   "precio": 17.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
-  },
-  "ee7848921d77d8dd": {
-   "avisado_precio": 7.99,
-   "descuento": 60,
-   "nombre": "Camiseta parches",
-   "precio": 7.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "ee84752a1c9da9fb": {
-   "avisado_precio": 5.99,
-   "descuento": 70,
-   "nombre": "Camiseta tomorrow",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "ef25a6843539b327": {
-   "avisado_precio": 5.99,
-   "descuento": 73,
-   "nombre": "Camiseta Castrol",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "tallas": [
+    [
+     "72",
+     true
+    ],
+    [
+     "S",
+     false
+    ],
+    [
+     "M",
+     false
+    ],
+    [
+     "L",
+     false
+    ],
+    [
+     "XL",
+     false
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "72",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:32:34.284097",
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "f06f8727d11fa698": {
    "avisado_precio": 5.99,
    "descuento": 70,
    "nombre": "Camiseta ¡qué calor!",
    "precio": 5.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
+   "tallas": [
+    [
+     "70",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "70",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:32:34.284097",
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
-  "f0830aff20f69f24": {
-   "avisado_precio": 5.99,
-   "descuento": 70,
-   "nombre": "Camiseta bordado étnico",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "f250d80a89578907": {
-   "avisado_precio": 14.99,
+  "f0c74167a9f37b49": {
+   "avisado_precio": null,
    "descuento": 70,
    "nombre": "Camiseta regular bordada",
    "precio": 14.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "tallas": [
+    [
+     "S",
+     false
+    ],
+    [
+     "M",
+     false
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     false
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "01",
+     true
+    ],
+    [
+     "01",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:32:34.284097",
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
-  "f27ea83a2016a64f": {
-   "avisado_precio": 17.99,
-   "descuento": 64,
-   "nombre": "Camiseta estampada manga corta",
-   "precio": 17.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
-  },
-  "f2d8d36eca57788c": {
-   "avisado_precio": 5.99,
-   "descuento": 73,
-   "nombre": "Camiseta fútbol victorie",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+  "f1baf7e4bb4a67c3": {
+   "avisado_precio": 9.99,
+   "descuento": 71,
+   "nombre": "Camisa bowling manga corta bordad floral",
+   "precio": 9.99,
+   "tallas": [
+    [
+     "71",
+     true
+    ],
+    [
+     "XS",
+     false
+    ],
+    [
+     "S",
+     false
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     false
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "71",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:32:34.284097",
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "f5297b4ca37cd9c0": {
    "avisado_precio": 5.99,
    "descuento": 70,
    "nombre": "Camiseta my vice",
    "precio": 5.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
-  },
-  "f592f5eacda6795d": {
-   "avisado_precio": 7.99,
-   "descuento": 76,
-   "nombre": "Polo piqué deportivo contraste regular fit",
-   "precio": 7.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "f73a0b582db905b3": {
-   "avisado_precio": 9.99,
-   "descuento": 70,
-   "nombre": "Cárdigan estructura jacquard",
-   "precio": 9.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "f7c9cef9af1f8779": {
-   "avisado_precio": 5.99,
-   "descuento": 67,
-   "nombre": "Camiseta remedios caseros",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "f887213272d77afc": {
-   "avisado_precio": 9.99,
-   "descuento": 67,
-   "nombre": "Polo tricot rayas irregulares",
-   "precio": 9.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "f9040857383cef91": {
-   "avisado_precio": 9.99,
-   "descuento": 67,
-   "nombre": "Polo estructura rayas regular fit",
-   "precio": 9.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "f9373856c4a592a2": {
-   "avisado_precio": 9.99,
-   "descuento": 67,
-   "nombre": "Polo piqué mao contraste slim fit",
-   "precio": 9.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
-  },
-  "fa11d85907aeccfe": {
-   "avisado_precio": 5.99,
-   "descuento": 67,
-   "nombre": "Camiseta branding",
-   "precio": 5.99,
-   "ultima_vez": "2026-10-27T22:53:39.280716"
+   "tallas": [
+    [
+     "70",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "70",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:32:34.284097",
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "fa2164d2b8917f39": {
    "avisado_precio": 5.99,
    "descuento": 70,
    "nombre": "Camiseta business class",
    "precio": 5.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
+   "tallas": [
+    [
+     "70",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "70",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:32:34.284097",
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   },
   "fde641af6d32c7ab": {
-   "avisado_precio": 9.99,
+   "avisado_precio": null,
    "descuento": 73,
    "nombre": "Bermuda vaquera ultra ligera slim fit",
    "precio": 9.99,
-   "ultima_vez": "2026-10-28T02:03:24.150170"
+   "tallas": [
+    [
+     "73",
+     true
+    ],
+    [
+     "26",
+     true
+    ],
+    [
+     "26",
+     true
+    ],
+    [
+     "26",
+     true
+    ],
+    [
+     "28",
+     false
+    ],
+    [
+     "30",
+     false
+    ],
+    [
+     "32",
+     false
+    ],
+    [
+     "34",
+     false
+    ],
+    [
+     "36",
+     false
+    ],
+    [
+     "38",
+     false
+    ],
+    [
+     "40",
+     false
+    ],
+    [
+     "73",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:32:34.284097",
+   "ultima_vez": "2026-10-28T08:32:34.284097"
   }
  }
 }

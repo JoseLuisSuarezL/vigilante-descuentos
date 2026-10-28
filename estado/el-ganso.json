@@ -1,152 +1,47 @@
 {
+ "acumulado": {
+  "top": [],
+  "total": 0
+ },
  "cursores": {},
+ "fase_inicial": false,
+ "version_filtro": 2,
  "vistos": {
-  "0f9529a713b15a7c": {
-   "avisado_precio": 39.9,
-   "descuento": 60,
-   "nombre": "Sobrecamisa Azul",
-   "precio": 39.9,
-   "ultima_vez": "2026-10-28T02:05:20.930247"
-  },
-  "11eb390da2121c8e": {
-   "avisado_precio": 23.9,
-   "descuento": 60,
-   "nombre": "Bañador Liso Azul",
-   "precio": 23.9,
-   "ultima_vez": "2026-10-27T22:55:17.462019"
-  },
-  "13d976647de46854": {
-   "avisado_precio": 71.9,
-   "descuento": 60,
-   "nombre": "Americana Lino Garment Dyed Beige",
-   "precio": 71.9,
-   "ultima_vez": "2026-10-27T22:55:17.462019"
-  },
-  "189053d3d13da29a": {
-   "avisado_precio": 71.9,
-   "descuento": 60,
-   "nombre": "Americana Lino Garment Dyed Tostado",
-   "precio": 71.9,
-   "ultima_vez": "2026-10-28T02:05:20.930247"
-  },
-  "1bb915563fc16176": {
-   "avisado_precio": 23.9,
-   "descuento": 60,
-   "nombre": "Bañador Liso Amarillo",
-   "precio": 23.9,
-   "ultima_vez": "2026-10-27T22:55:17.462019"
-  },
   "213cfe8ac3b158fa": {
-   "avisado_precio": 23.9,
+   "avisado_precio": null,
    "descuento": 60,
    "nombre": "Bañador Liso Burdeos",
    "precio": 23.9,
-   "ultima_vez": "2026-10-28T02:05:20.930247"
-  },
-  "2c460574c43b16a5": {
-   "avisado_precio": 23.9,
-   "descuento": 60,
-   "nombre": "Bañador Liso Marino",
-   "precio": 23.9,
-   "ultima_vez": "2026-10-27T22:55:17.462019"
-  },
-  "3eb0c0ba68048a25": {
-   "avisado_precio": 39.9,
-   "descuento": 60,
-   "nombre": "Sobrecamisa Marino",
-   "precio": 39.9,
-   "ultima_vez": "2026-10-27T22:55:17.462019"
-  },
-  "416127dd68349567": {
-   "avisado_precio": 23.9,
-   "descuento": 60,
-   "nombre": "Bañador Liso Berenjena",
-   "precio": 23.9,
-   "ultima_vez": "2026-10-27T22:55:17.462019"
-  },
-  "612603795b174e55": {
-   "avisado_precio": 75.9,
-   "descuento": 60,
-   "nombre": "Americana Doble Botonadura Lino Marino",
-   "precio": 75.9,
-   "ultima_vez": "2026-10-27T22:55:17.462019"
-  },
-  "9789c0687dc151d1": {
-   "avisado_precio": 23.9,
-   "descuento": 60,
-   "nombre": "Bañador Liso Rojo",
-   "precio": 23.9,
-   "ultima_vez": "2026-10-27T22:55:17.462019"
-  },
-  "a536e59d01b9498d": {
-   "avisado_precio": 23.9,
-   "descuento": 60,
-   "nombre": "Bañador Liso Gris",
-   "precio": 23.9,
-   "ultima_vez": "2026-10-28T02:05:20.930247"
-  },
-  "a5d314c9b45690f8": {
-   "avisado_precio": 75.9,
-   "descuento": 60,
-   "nombre": "Americana Doble Botonadura Lino Crudo",
-   "precio": 75.9,
-   "ultima_vez": "2026-10-27T22:55:17.462019"
-  },
-  "b1dbb395c57fcf4c": {
-   "avisado_precio": 71.9,
-   "descuento": 60,
-   "nombre": "Americana Lino Garment Dyed Verde",
-   "precio": 71.9,
-   "ultima_vez": "2026-10-27T22:55:17.462019"
+   "tallas": [
+    [
+     "12",
+     null
+    ],
+    [
+     "12",
+     null
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:35:01.802421",
+   "ultima_vez": "2026-10-28T08:35:01.802421"
   },
   "b2c557b57148aa46": {
-   "avisado_precio": 39.9,
+   "avisado_precio": null,
    "descuento": 60,
    "nombre": "Pantalón Traje Formal Liso Gris",
    "precio": 39.9,
-   "ultima_vez": "2026-10-28T02:05:20.930247"
-  },
-  "c6bfe82de6ef7bad": {
-   "avisado_precio": 59.9,
-   "descuento": 60,
-   "nombre": "Sahariana Lino Marino",
-   "precio": 59.9,
-   "ultima_vez": "2026-10-28T02:05:20.930247"
-  },
-  "d94fe7e2063b2694": {
-   "avisado_precio": 23.9,
-   "descuento": 60,
-   "nombre": "Bañador Liso Petróleo",
-   "precio": 23.9,
-   "ultima_vez": "2026-10-27T22:55:17.462019"
-  },
-  "d96242f754c94ef7": {
-   "avisado_precio": 59.9,
-   "descuento": 60,
-   "nombre": "Sahariana Lino Beige",
-   "precio": 59.9,
-   "ultima_vez": "2026-10-28T02:05:20.930247"
-  },
-  "e42a5f772837973b": {
-   "avisado_precio": 59.9,
-   "descuento": 60,
-   "nombre": "Sahariana Lino Verde",
-   "precio": 59.9,
-   "ultima_vez": "2026-10-27T22:55:17.462019"
-  },
-  "edcf989ec2faf263": {
-   "avisado_precio": 23.9,
-   "descuento": 60,
-   "nombre": "Bañador Liso Naranja",
-   "precio": 23.9,
-   "ultima_vez": "2026-10-28T02:05:20.930247"
-  },
-  "f023aa40f7c39176": {
-   "avisado_precio": 71.9,
-   "descuento": 60,
-   "nombre": "Americana Lino Garment Dyed Marino",
-   "precio": 71.9,
-   "ultima_vez": "2026-10-27T22:55:17.462019"
+   "tallas": [
+    [
+     "12",
+     null
+    ],
+    [
+     "12",
+     null
+    ]
+   ],
+   "tallas_revisado": "2026-10-28T08:35:01.802421",
+   "ultima_vez": "2026-10-28T08:35:01.802421"
   }
  }
 }
