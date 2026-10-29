@@ -5,15 +5,106 @@
  },
  "cursores": {},
  "fase_inicial": false,
- "ultima_revision": "2026-10-29T22:16:10.601966",
+ "ultima_revision": "2026-10-29T22:31:22.109797",
  "version_filtro": 2,
  "vistos": {
+  "0c268de11687d621": {
+   "avisado_precio": null,
+   "descuento": 74,
+   "nombre": "CHAUSSETTES NIKE EVERYDAY ESSENTIAL NOIRES",
+   "precio": 6.0,
+   "ultima_vez": "2026-10-29T22:31:22.109552"
+  },
+  "18194ea27286276c": {
+   "avisado_precio": null,
+   "descuento": 67,
+   "nombre": "CHAUSSETTES EXTÉRIEUR",
+   "precio": 6.0,
+   "ultima_vez": "2026-10-29T22:31:22.109552"
+  },
+  "19cfff3f9b757c8a": {
+   "avisado_precio": null,
+   "descuento": 86,
+   "nombre": "MAILLOT EXTÉRIEUR ADULTE 23/24",
+   "precio": 12.0,
+   "ultima_vez": "2026-10-29T22:31:22.109552"
+  },
+  "2c55af62915f6515": {
+   "avisado_precio": null,
+   "descuento": 67,
+   "nombre": "CHAUSSETTES DE NOËL",
+   "precio": 5.0,
+   "ultima_vez": "2026-10-29T22:31:22.109552"
+  },
+  "2daccc5eabdda47e": {
+   "avisado_precio": null,
+   "descuento": 71,
+   "nombre": "ÉCHARPE SCO-OM 25/26",
+   "precio": 6.0,
+   "ultima_vez": "2026-10-29T22:31:22.109552"
+  },
+  "31f50c2515af00c2": {
+   "avisado_precio": null,
+   "descuento": 62,
+   "nombre": "PORTE-CLEF DOUDOU SCOTY",
+   "precio": 3.0,
+   "ultima_vez": "2026-10-29T22:31:22.109552"
+  },
+  "45c6086638ae0240": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "BOB NEW ERA ANGERS SCO",
+   "precio": 18.0,
+   "ultima_vez": "2026-10-29T22:31:22.109552"
+  },
+  "5afdbee59622c5c5": {
+   "avisado_precio": null,
+   "descuento": 73,
+   "nombre": "BÉBÉ À BORD",
+   "precio": 3.0,
+   "ultima_vez": "2026-10-29T22:31:22.109552"
+  },
+  "6d678ca32fa7dd6a": {
+   "avisado_precio": null,
+   "descuento": 63,
+   "nombre": "COUPE VENT ADULTE 23/24",
+   "precio": 23.0,
+   "ultima_vez": "2026-10-29T22:31:22.109552"
+  },
+  "7fb53f56b2caf189": {
+   "avisado_precio": null,
+   "descuento": 62,
+   "nombre": "POLAIRE SANS MANCHES NIKE",
+   "precio": 35.0,
+   "ultima_vez": "2026-10-29T22:31:22.109552"
+  },
+  "87e82631821512c2": {
+   "avisado_precio": null,
+   "descuento": 65,
+   "nombre": "PANTALON TRAINING JR 25/26",
+   "precio": 18.0,
+   "ultima_vez": "2026-10-29T22:31:22.109552"
+  },
   "979d0b588019c2e4": {
    "avisado_precio": null,
    "descuento": 80,
    "nombre": "TOUR DE COU",
    "precio": 1.0,
    "ultima_vez": "2026-10-29T22:16:10.601860"
+  },
+  "9fd2e7fb56fa52db": {
+   "avisado_precio": null,
+   "descuento": 77,
+   "nombre": "SHORT DE SORTIE AD 25/26",
+   "precio": 12.0,
+   "ultima_vez": "2026-10-29T22:31:22.109552"
+  },
+  "c91c4c630634710f": {
+   "avisado_precio": null,
+   "descuento": 67,
+   "nombre": "PANTALON SURVÊTEMENT NIKE AIR JR 25/26",
+   "precio": 23.0,
+   "ultima_vez": "2026-10-29T22:31:22.109552"
   }
  }
 }
