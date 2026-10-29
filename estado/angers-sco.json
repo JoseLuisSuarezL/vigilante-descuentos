@@ -1,0 +1,19 @@
+{
+ "acumulado": {
+  "top": [],
+  "total": 0
+ },
+ "cursores": {},
+ "fase_inicial": false,
+ "ultima_revision": "2026-10-29T16:12:52.074752",
+ "version_filtro": 2,
+ "vistos": {
+  "979d0b588019c2e4": {
+   "avisado_precio": null,
+   "descuento": 80,
+   "nombre": "TOUR DE COU",
+   "precio": 1.0,
+   "ultima_vez": "2026-10-29T16:12:52.074633"
+  }
+ }
+}
