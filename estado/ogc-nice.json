@@ -5,7 +5,7 @@
  },
  "cursores": {},
  "fase_inicial": false,
- "ultima_revision": "2026-10-29T21:32:32.738441",
+ "ultima_revision": "2026-10-29T21:47:34.883483",
  "version_filtro": 2,
  "vistos": {
   "1fed0763345b01c3": {
@@ -13,14 +13,14 @@
    "descuento": 60,
    "nombre": "Maillot OGC Nice Home 2024/2025 Le Coq Sportif Enfant",
    "precio": 32.004001,
-   "ultima_vez": "2026-10-29T21:32:32.737824"
+   "ultima_vez": "2026-10-29T21:47:34.882895"
   },
   "43b1a7bc1bc90d12": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Short Match Gardien Vintage Violet OGC Nice Le Coq Sportif",
    "precio": 24.000001,
-   "ultima_vez": "2026-10-29T21:32:32.737824"
+   "ultima_vez": "2026-10-29T21:47:34.882895"
   },
   "503d2b8bc5f9a44a": {
    "avisado_precio": null,
@@ -29,7 +29,7 @@
    "precio": 30.000001,
    "tallas": [],
    "tallas_revisado": "2026-10-29T16:13:58.864397",
-   "ultima_vez": "2026-10-29T21:32:32.737824"
+   "ultima_vez": "2026-10-29T21:47:34.882895"
   },
   "97218e4df125c3c8": {
    "avisado_precio": null,
@@ -38,7 +38,7 @@
    "precio": 30.000001,
    "tallas": [],
    "tallas_revisado": "2026-10-29T16:13:58.864397",
-   "ultima_vez": "2026-10-29T21:32:32.737824"
+   "ultima_vez": "2026-10-29T21:47:34.882895"
   },
   "b7d0eb30bf41cbdd": {
    "avisado_precio": null,
@@ -47,28 +47,28 @@
    "precio": 30.000001,
    "tallas": [],
    "tallas_revisado": "2026-10-29T16:13:58.864397",
-   "ultima_vez": "2026-10-29T21:32:32.737824"
+   "ultima_vez": "2026-10-29T21:47:34.882895"
   },
   "cbd2ef167b1f0d84": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Veste Bomber OGC Nice Fanwear 120 ANS 2024-2025 Homme Noir",
    "precio": 72.000001,
-   "ultima_vez": "2026-10-29T21:32:32.737824"
+   "ultima_vez": "2026-10-29T21:47:34.882895"
   },
   "dc405a11b2ecc39b": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Short Match Gardien Jaune Original OGC Nice Le Coq Sportif",
    "precio": 24.000001,
-   "ultima_vez": "2026-10-29T21:32:32.737824"
+   "ultima_vez": "2026-10-29T21:47:34.882895"
   },
   "e225f154d433861b": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Mini Kit Bébé OGC Nice Domicile",
    "precio": 27.996001,
-   "ultima_vez": "2026-10-29T21:32:32.737824"
+   "ultima_vez": "2026-10-29T21:47:34.882895"
   },
   "f567215e119adeba": {
    "avisado_precio": null,
@@ -77,7 +77,7 @@
    "precio": 39.996001,
    "tallas": [],
    "tallas_revisado": "2026-10-29T16:13:58.864397",
-   "ultima_vez": "2026-10-29T21:32:32.737824"
+   "ultima_vez": "2026-10-29T21:47:34.882895"
   }
  }
 }
