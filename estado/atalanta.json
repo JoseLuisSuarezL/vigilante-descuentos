@@ -5,7 +5,7 @@
  },
  "cursores": {},
  "fase_inicial": false,
- "ultima_revision": "2026-10-29T08:05:19.576803",
+ "ultima_revision": "2026-10-29T09:14:25.692874",
  "version_filtro": 2,
  "vistos": {
   "198c2967a9796c20": {
@@ -14,8 +14,8 @@
    "nombre": "ATALANTA BLACK T-SHIRT - LA DEA",
    "precio": 18.0,
    "tallas": null,
-   "tallas_revisado": "2026-10-28T08:46:50.426098",
-   "ultima_vez": "2026-10-29T08:05:19.576529"
+   "tallas_revisado": "2026-10-29T09:14:23.123438",
+   "ultima_vez": "2026-10-29T09:14:23.123438"
   },
   "22d95d9317d7c2c8": {
    "avisado_precio": null,
@@ -23,8 +23,8 @@
    "nombre": "SANTINI X ATALANTA CYCLING JERSEY",
    "precio": 50.0,
    "tallas": null,
-   "tallas_revisado": "2026-10-28T08:46:50.426098",
-   "ultima_vez": "2026-10-29T08:05:19.576529"
+   "tallas_revisado": "2026-10-29T09:14:23.123438",
+   "ultima_vez": "2026-10-29T09:14:23.123438"
   },
   "5f44968a43c9364d": {
    "avisado_precio": null,
@@ -32,8 +32,8 @@
    "nombre": "ATALANTA CYCLING SALOPETTE",
    "precio": 25.0,
    "tallas": null,
-   "tallas_revisado": "2026-10-28T08:46:50.426098",
-   "ultima_vez": "2026-10-29T08:05:19.576529"
+   "tallas_revisado": "2026-10-29T09:14:23.123438",
+   "ultima_vez": "2026-10-29T09:14:23.123438"
   },
   "626f2449b82d0e16": {
    "avisado_precio": null,
@@ -41,8 +41,8 @@
    "nombre": "ATALANTA BINGO",
    "precio": 8.0,
    "tallas": null,
-   "tallas_revisado": "2026-10-28T08:46:50.426098",
-   "ultima_vez": "2026-10-29T08:05:19.576529"
+   "tallas_revisado": "2026-10-29T09:14:23.123438",
+   "ultima_vez": "2026-10-29T09:14:23.123438"
   },
   "8b0495773d9de60d": {
    "avisado_precio": null,
@@ -50,8 +50,8 @@
    "nombre": "ATALANTA BLUE T-SHIRT LOGO",
    "precio": 18.0,
    "tallas": null,
-   "tallas_revisado": "2026-10-28T08:46:50.426098",
-   "ultima_vez": "2026-10-29T08:05:19.576529"
+   "tallas_revisado": "2026-10-29T09:14:23.123438",
+   "ultima_vez": "2026-10-29T09:14:23.123438"
   }
  }
 }
