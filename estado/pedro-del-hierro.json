@@ -4,10 +4,10 @@
   "total": 0
  },
  "cursores": {
-  "https://pedrodelhierro.com/on/demandware.store/Sites-PDH-Site/es_ES/Search-UpdateGrid?cgid=men&pmin=0%2c01&start={inicio}&sz=120": 1
+  "https://pedrodelhierro.com/on/demandware.store/Sites-PDH-Site/es_ES/Search-UpdateGrid?cgid=men&pmin=0%2c01&start={inicio}&sz=120": 9
  },
  "fase_inicial": false,
- "ultima_revision": "2026-10-29T09:03:57.131673",
+ "ultima_revision": "2026-10-29T09:19:14.396756",
  "version_filtro": 2,
  "vistos": {
   "006b3237fc27851a": {
@@ -573,6 +573,84 @@
    ],
    "tallas_revisado": "2026-10-28T19:03:27.415266",
    "ultima_vez": "2026-10-29T08:32:46.283219"
+  },
+  "2245b8a0dd219f08": {
+   "avisado_precio": 25.9,
+   "descuento": 68,
+   "nombre": "Camisa algodón lino lisa manga corta",
+   "precio": 25.9,
+   "tallas": [
+    [
+     "68",
+     true
+    ],
+    [
+     "S",
+     false
+    ],
+    [
+     "S",
+     false
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "68",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-29T09:18:54.022364",
+   "ultima_vez": "2026-10-29T09:18:54.022364"
   },
   "2706a0573965378a": {
    "avisado_precio": 29.99,
@@ -1535,6 +1613,246 @@
    "tallas_revisado": "2026-10-28T08:34:04.294111",
    "ultima_vez": "2026-10-28T21:02:44.305607"
   },
+  "51ba9d4aa66f74a4": {
+   "avisado_precio": 25.99,
+   "descuento": 71,
+   "nombre": "Bermuda estructura regular",
+   "precio": 25.99,
+   "tallas": [
+    [
+     "71",
+     true
+    ],
+    [
+     "38",
+     false
+    ],
+    [
+     "38",
+     false
+    ],
+    [
+     "38",
+     true
+    ],
+    [
+     "40",
+     true
+    ],
+    [
+     "40",
+     true
+    ],
+    [
+     "40",
+     true
+    ],
+    [
+     "42",
+     true
+    ],
+    [
+     "42",
+     true
+    ],
+    [
+     "42",
+     true
+    ],
+    [
+     "44",
+     true
+    ],
+    [
+     "44",
+     true
+    ],
+    [
+     "44",
+     true
+    ],
+    [
+     "46",
+     true
+    ],
+    [
+     "46",
+     true
+    ],
+    [
+     "46",
+     true
+    ],
+    [
+     "48",
+     true
+    ],
+    [
+     "48",
+     true
+    ],
+    [
+     "48",
+     true
+    ],
+    [
+     "50",
+     true
+    ],
+    [
+     "50",
+     true
+    ],
+    [
+     "50",
+     true
+    ],
+    [
+     "52",
+     false
+    ],
+    [
+     "52",
+     false
+    ],
+    [
+     "52",
+     true
+    ],
+    [
+     "71",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-29T09:18:54.022364",
+   "ultima_vez": "2026-10-29T09:18:54.022364"
+  },
+  "521976943ffbcf6a": {
+   "avisado_precio": 15.99,
+   "descuento": 73,
+   "nombre": "Bermuda básica regular",
+   "precio": 15.99,
+   "tallas": [
+    [
+     "73",
+     true
+    ],
+    [
+     "38",
+     false
+    ],
+    [
+     "38",
+     false
+    ],
+    [
+     "38",
+     true
+    ],
+    [
+     "40",
+     true
+    ],
+    [
+     "40",
+     true
+    ],
+    [
+     "40",
+     true
+    ],
+    [
+     "42",
+     true
+    ],
+    [
+     "42",
+     true
+    ],
+    [
+     "42",
+     true
+    ],
+    [
+     "44",
+     true
+    ],
+    [
+     "44",
+     true
+    ],
+    [
+     "44",
+     true
+    ],
+    [
+     "46",
+     true
+    ],
+    [
+     "46",
+     true
+    ],
+    [
+     "46",
+     true
+    ],
+    [
+     "48",
+     true
+    ],
+    [
+     "48",
+     true
+    ],
+    [
+     "48",
+     true
+    ],
+    [
+     "50",
+     true
+    ],
+    [
+     "50",
+     true
+    ],
+    [
+     "50",
+     true
+    ],
+    [
+     "52",
+     true
+    ],
+    [
+     "52",
+     true
+    ],
+    [
+     "52",
+     true
+    ],
+    [
+     "54",
+     false
+    ],
+    [
+     "54",
+     false
+    ],
+    [
+     "54",
+     true
+    ],
+    [
+     "73",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-29T09:18:54.022364",
+   "ultima_vez": "2026-10-29T09:18:54.022364"
+  },
   "528cde2409485110": {
    "avisado_precio": 19.9,
    "descuento": 72,
@@ -2085,7 +2403,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-29T06:03:07.402473"
+   "ultima_vez": "2026-10-29T09:18:54.022364"
   },
   "6262807032b27820": {
    "avisado_precio": 19.99,
@@ -2254,6 +2572,174 @@
    ],
    "tallas_revisado": "2026-10-28T16:18:47.274599",
    "ultima_vez": "2026-10-29T08:48:33.201970"
+  },
+  "716115b8f519c3fa": {
+   "avisado_precio": 19.99,
+   "descuento": 67,
+   "nombre": "Camiseta punto premium algodón",
+   "precio": 19.99,
+   "tallas": [
+    [
+     "67",
+     true
+    ],
+    [
+     "S",
+     false
+    ],
+    [
+     "S",
+     false
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     false
+    ],
+    [
+     "M",
+     false
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "67",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-29T09:18:54.022364",
+   "ultima_vez": "2026-10-29T09:18:54.022364"
+  },
+  "784f6227212c66ca": {
+   "avisado_precio": 29.99,
+   "descuento": 62,
+   "nombre": "Polo básico slim piqué",
+   "precio": 29.99,
+   "tallas": [
+    [
+     "62",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "62",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-29T09:18:54.022364",
+   "ultima_vez": "2026-10-29T09:18:54.022364"
   },
   "78aac76ab44365e7": {
    "avisado_precio": 19.95,
@@ -2511,7 +2997,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T23:48:00.072156",
-   "ultima_vez": "2026-10-29T01:03:20.719956"
+   "ultima_vez": "2026-10-29T09:18:54.022364"
   },
   "889cbf1e3363b507": {
    "avisado_precio": 15.99,
@@ -2727,7 +3213,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-29T09:03:52.667701"
+   "ultima_vez": "2026-10-29T09:18:54.022364"
   },
   "8c5ab4cd4c9bd2fb": {
    "avisado_precio": 29.99,
@@ -2908,6 +3394,120 @@
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
    "ultima_vez": "2026-10-29T09:03:52.667701"
+  },
+  "999877095f8fa7dc": {
+   "avisado_precio": 25.99,
+   "descuento": 71,
+   "nombre": "Bermuda 5 bolsillos regular",
+   "precio": 25.99,
+   "tallas": [
+    [
+     "71",
+     true
+    ],
+    [
+     "38",
+     false
+    ],
+    [
+     "38",
+     false
+    ],
+    [
+     "38",
+     true
+    ],
+    [
+     "40",
+     true
+    ],
+    [
+     "40",
+     true
+    ],
+    [
+     "40",
+     true
+    ],
+    [
+     "42",
+     true
+    ],
+    [
+     "42",
+     true
+    ],
+    [
+     "42",
+     true
+    ],
+    [
+     "44",
+     true
+    ],
+    [
+     "44",
+     true
+    ],
+    [
+     "44",
+     true
+    ],
+    [
+     "46",
+     true
+    ],
+    [
+     "46",
+     true
+    ],
+    [
+     "46",
+     true
+    ],
+    [
+     "48",
+     true
+    ],
+    [
+     "48",
+     true
+    ],
+    [
+     "48",
+     true
+    ],
+    [
+     "50",
+     true
+    ],
+    [
+     "50",
+     true
+    ],
+    [
+     "50",
+     true
+    ],
+    [
+     "52",
+     false
+    ],
+    [
+     "52",
+     false
+    ],
+    [
+     "52",
+     true
+    ],
+    [
+     "71",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-29T09:18:54.022364",
+   "ultima_vez": "2026-10-29T09:18:54.022364"
   },
   "9ba9a86bdd1eb08f": {
    "avisado_precio": 25.9,
@@ -3165,7 +3765,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-29T09:03:52.667701"
+   "ultima_vez": "2026-10-29T09:18:54.022364"
   },
   "a3e9ab3c1b7f4f6f": {
    "avisado_precio": 15.99,
@@ -3333,7 +3933,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:18:47.274599",
-   "ultima_vez": "2026-10-29T08:48:33.201970"
+   "ultima_vez": "2026-10-29T09:18:54.022364"
   },
   "aa6a3c31371bf867": {
    "avisado_precio": 15.99,
@@ -3627,7 +4227,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-29T09:03:52.667701"
+   "ultima_vez": "2026-10-29T09:18:54.022364"
   },
   "b7aa946481036507": {
    "avisado_precio": 39.95,
@@ -3741,7 +4341,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-29T09:03:52.667701"
+   "ultima_vez": "2026-10-29T09:18:54.022364"
   },
   "b86f7fc20cec075f": {
    "avisado_precio": 29.99,
@@ -3831,7 +4431,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-29T09:03:52.667701"
+   "ultima_vez": "2026-10-29T09:18:54.022364"
   },
   "b8d238fa2ccdb64f": {
    "avisado_precio": 29.9,
@@ -3909,7 +4509,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T18:18:23.978324",
-   "ultima_vez": "2026-10-29T09:03:52.667701"
+   "ultima_vez": "2026-10-29T09:18:54.022364"
   },
   "b9682d839d971f10": {
    "avisado_precio": 25.99,
@@ -4179,7 +4779,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:18:47.274599",
-   "ultima_vez": "2026-10-29T08:48:33.201970"
+   "ultima_vez": "2026-10-29T09:18:54.022364"
   },
   "c72f1bfcddb553f6": {
    "avisado_precio": 15.99,
@@ -4270,6 +4870,96 @@
    ],
    "tallas_revisado": "2026-10-28T16:10:07.820031",
    "ultima_vez": "2026-10-29T08:32:46.283219"
+  },
+  "c957c9c96df9974c": {
+   "avisado_precio": 25.99,
+   "descuento": 74,
+   "nombre": "Camisa de lino algodón manga larga",
+   "precio": 25.99,
+   "tallas": [
+    [
+     "74",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     false
+    ],
+    [
+     "M",
+     false
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     false
+    ],
+    [
+     "XXXL",
+     false
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "74",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-29T09:18:54.022364",
+   "ultima_vez": "2026-10-29T09:18:54.022364"
   },
   "ca961fec0b41b1d6": {
    "avisado_precio": 6.99,
@@ -5057,7 +5747,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:18:47.274599",
-   "ultima_vez": "2026-10-29T08:48:33.201970"
+   "ultima_vez": "2026-10-29T09:18:54.022364"
   },
   "e3e0ae4b9c7afbf9": {
    "avisado_precio": 29.99,
@@ -5441,7 +6131,97 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:18:47.274599",
-   "ultima_vez": "2026-10-29T08:48:33.201970"
+   "ultima_vez": "2026-10-29T09:18:54.022364"
+  },
+  "ec873c46236a0459": {
+   "avisado_precio": 25.99,
+   "descuento": 74,
+   "nombre": "Camisa de lino algodón manga corta",
+   "precio": 25.99,
+   "tallas": [
+    [
+     "74",
+     true
+    ],
+    [
+     "S",
+     false
+    ],
+    [
+     "S",
+     false
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     false
+    ],
+    [
+     "XXXL",
+     false
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "74",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-29T09:18:54.022364",
+   "ultima_vez": "2026-10-29T09:18:54.022364"
   },
   "edf66ee7c9873a12": {
    "avisado_precio": 39.95,
@@ -5532,6 +6312,96 @@
    ],
    "tallas_revisado": "2026-10-28T20:17:13.068846",
    "ultima_vez": "2026-10-29T09:03:52.667701"
+  },
+  "f268613ce50107ad": {
+   "avisado_precio": 29.99,
+   "descuento": 67,
+   "nombre": "Polo punto premium manga corta",
+   "precio": 29.99,
+   "tallas": [
+    [
+     "67",
+     true
+    ],
+    [
+     "S",
+     false
+    ],
+    [
+     "S",
+     false
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     false
+    ],
+    [
+     "M",
+     false
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "67",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-29T09:18:54.022364",
+   "ultima_vez": "2026-10-29T09:18:54.022364"
   },
   "f50b9a5c14885c92": {
    "avisado_precio": 15.99,
@@ -5723,7 +6593,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:18:47.274599",
-   "ultima_vez": "2026-10-29T08:48:33.201970"
+   "ultima_vez": "2026-10-29T09:18:54.022364"
   },
   "fa1637f52f08dc4e": {
    "avisado_precio": 25.99,
