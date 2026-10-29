@@ -5,36 +5,36 @@
  },
  "cursores": {},
  "fase_inicial": false,
- "ultima_revision": "2026-10-29T16:16:09.195705",
+ "ultima_revision": "2026-10-29T16:31:33.367443",
  "version_filtro": 2,
  "vistos": {
   "6d08cffb7a66c476": {
    "avisado_precio": null,
    "descuento": 74,
    "nombre": "CUADERNO ESPIRAL A4 BKN",
-   "precio": 9.0,
-   "ultima_vez": "2026-10-29T16:16:09.195572"
+   "precio": 7.74,
+   "ultima_vez": "2026-10-29T16:31:29.847950"
   },
   "7cc554b5a829395e": {
-   "avisado_precio": 15.0,
-   "descuento": 63,
+   "avisado_precio": 12.95,
+   "descuento": 64,
    "nombre": "CAMISETA AZUL EL GLORIOSO NUNCA SE RINDE X SCALPERS",
-   "precio": 15.0,
-   "ultima_vez": "2026-10-29T16:16:09.195572"
+   "precio": 12.95,
+   "ultima_vez": "2026-10-29T16:31:29.847950"
   },
   "aee95b467c916aa5": {
    "avisado_precio": 15.0,
    "descuento": 78,
    "nombre": "SUDADERA MENDIZORROTZA DEPORTIVO ALAVÉS X SCALPERS",
-   "precio": 15.0,
-   "ultima_vez": "2026-10-29T16:16:09.195572"
+   "precio": 12.95,
+   "ultima_vez": "2026-10-29T16:31:29.847950"
   },
   "c9fcf1f25101fc6a": {
    "avisado_precio": null,
-   "descuento": 80,
+   "descuento": 82,
    "nombre": "POLO MO DA RETRO AZUL 2026 JR",
-   "precio": 8.0,
-   "ultima_vez": "2026-10-29T16:16:09.195572"
+   "precio": 6.3,
+   "ultima_vez": "2026-10-29T16:31:29.847950"
   }
  }
 }
