@@ -4,10 +4,10 @@
   "total": 0
  },
  "cursores": {
-  "https://pedrodelhierro.com/on/demandware.store/Sites-PDH-Site/es_ES/Search-UpdateGrid?cgid=men&pmin=0%2c01&start={inicio}&sz=120": 1
+  "https://pedrodelhierro.com/on/demandware.store/Sites-PDH-Site/es_ES/Search-UpdateGrid?cgid=men&pmin=0%2c01&start={inicio}&sz=120": 9
  },
  "fase_inicial": false,
- "ultima_revision": "2026-10-29T12:47:26.812097",
+ "ultima_revision": "2026-10-29T13:03:12.098896",
  "version_filtro": 2,
  "vistos": {
   "006b3237fc27851a": {
@@ -122,7 +122,97 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:18:47.274599",
-   "ultima_vez": "2026-10-29T12:17:50.834198"
+   "ultima_vez": "2026-10-29T13:03:07.701155"
+  },
+  "0083d0b62deb11e4": {
+   "avisado_precio": 39.99,
+   "descuento": 69,
+   "nombre": "Sobrecamisa lisa tencel lino",
+   "precio": 39.99,
+   "tallas": [
+    [
+     "69",
+     true
+    ],
+    [
+     "S",
+     false
+    ],
+    [
+     "S",
+     false
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     false
+    ],
+    [
+     "XXXL",
+     false
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "69",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-29T13:03:07.701155",
+   "ultima_vez": "2026-10-29T13:03:07.701155"
   },
   "021bf42725344103": {
    "avisado_precio": 19.95,
@@ -212,7 +302,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-29T10:47:54.165159"
+   "ultima_vez": "2026-10-29T13:03:07.701155"
   },
   "0278fe3980bdb8b1": {
    "avisado_precio": 19.99,
@@ -482,7 +572,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:10:07.820031",
-   "ultima_vez": "2026-10-29T12:17:50.834198"
+   "ultima_vez": "2026-10-29T13:03:07.701155"
   },
   "1e6849962ea9a71f": {
    "avisado_precio": 15.99,
@@ -650,7 +740,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T19:03:27.415266",
-   "ultima_vez": "2026-10-29T12:17:50.834198"
+   "ultima_vez": "2026-10-29T13:03:07.701155"
   },
   "2245b8a0dd219f08": {
    "avisado_precio": 25.9,
@@ -818,7 +908,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-29T12:17:50.834198"
+   "ultima_vez": "2026-10-29T13:03:07.701155"
   },
   "29750cb448ef2dd2": {
    "avisado_precio": 19.95,
@@ -993,7 +1083,7 @@
    "descuento": 75,
    "nombre": "Gorra PdH Madring",
    "precio": 9.99,
-   "ultima_vez": "2026-10-29T12:17:50.834198"
+   "ultima_vez": "2026-10-29T13:03:07.701155"
   },
   "36fcca3894eab83a": {
    "avisado_precio": 29.99,
@@ -1161,7 +1251,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-29T12:47:26.811958"
+   "ultima_vez": "2026-10-29T13:03:07.701155"
   },
   "3c0fd46d81260e49": {
    "avisado_precio": 25.9,
@@ -1239,7 +1329,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:18:47.274599",
-   "ultima_vez": "2026-10-29T12:17:50.834198"
+   "ultima_vez": "2026-10-29T13:03:07.701155"
   },
   "3f91822839d59475": {
    "avisado_precio": 19.99,
@@ -1329,7 +1419,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:10:07.820031",
-   "ultima_vez": "2026-10-29T12:17:50.834198"
+   "ultima_vez": "2026-10-29T13:03:07.701155"
   },
   "41a623d844a4264e": {
    "avisado_precio": 29.99,
@@ -1419,7 +1509,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-29T12:17:50.834198"
+   "ultima_vez": "2026-10-29T13:03:07.701155"
   },
   "432b0922030bf8ee": {
    "avisado_precio": 15.99,
@@ -1509,7 +1599,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:10:07.820031",
-   "ultima_vez": "2026-10-29T12:17:50.834198"
+   "ultima_vez": "2026-10-29T13:03:07.701155"
   },
   "453d1ba0785caae6": {
    "avisado_precio": 19.99,
@@ -1599,7 +1689,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-29T12:17:50.834198"
+   "ultima_vez": "2026-10-29T13:03:07.701155"
   },
   "4575081529efb896": {
    "avisado_precio": 15.99,
@@ -2265,7 +2355,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-29T12:47:26.811958"
+   "ultima_vez": "2026-10-29T13:03:07.701155"
   },
   "5a450ee902deeb9f": {
    "avisado_precio": 15.9,
@@ -2421,7 +2511,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:18:47.274599",
-   "ultima_vez": "2026-10-29T12:17:50.834198"
+   "ultima_vez": "2026-10-29T13:03:07.701155"
   },
   "5f9e3303a742c38b": {
    "avisado_precio": 25.99,
@@ -2535,7 +2625,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-29T12:17:50.834198"
+   "ultima_vez": "2026-10-29T13:03:07.701155"
   },
   "62326dedb7620f8d": {
    "avisado_precio": 19.99,
@@ -3153,7 +3243,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-29T12:47:26.811958"
+   "ultima_vez": "2026-10-29T13:03:07.701155"
   },
   "8004652e3a01cdcf": {
    "avisado_precio": 19.99,
@@ -3369,7 +3459,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:18:47.274599",
-   "ultima_vez": "2026-10-29T12:17:50.834198"
+   "ultima_vez": "2026-10-29T13:03:07.701155"
   },
   "89854c0b88091334": {
    "avisado_precio": 15.99,
@@ -3585,7 +3675,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-29T12:47:26.811958"
+   "ultima_vez": "2026-10-29T13:03:07.701155"
   },
   "8c5ab4cd4c9bd2fb": {
    "avisado_precio": 29.99,
@@ -3675,7 +3765,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-29T12:17:50.834198"
+   "ultima_vez": "2026-10-29T13:03:07.701155"
   },
   "8cc11a28811f1eca": {
    "avisado_precio": 15.99,
@@ -3891,7 +3981,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-29T12:17:50.834198"
+   "ultima_vez": "2026-10-29T13:03:07.701155"
   },
   "999877095f8fa7dc": {
    "avisado_precio": 25.99,
@@ -4083,7 +4173,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:18:47.274599",
-   "ultima_vez": "2026-10-29T12:17:50.834198"
+   "ultima_vez": "2026-10-29T13:03:07.701155"
   },
   "9bd043d5358ca7e8": {
    "avisado_precio": 19.95,
@@ -4173,7 +4263,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-29T12:17:50.834198"
+   "ultima_vez": "2026-10-29T13:03:07.701155"
   },
   "a13b30b98943d88e": {
    "avisado_precio": 29.99,
@@ -4263,7 +4353,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-29T12:47:26.811958"
+   "ultima_vez": "2026-10-29T13:03:07.701155"
   },
   "a3e9ab3c1b7f4f6f": {
    "avisado_precio": 15.99,
@@ -4431,7 +4521,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:18:47.274599",
-   "ultima_vez": "2026-10-29T12:17:50.834198"
+   "ultima_vez": "2026-10-29T13:03:07.701155"
   },
   "aa6a3c31371bf867": {
    "avisado_precio": 15.99,
@@ -4521,7 +4611,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:10:07.820031",
-   "ultima_vez": "2026-10-29T12:17:50.834198"
+   "ultima_vez": "2026-10-29T13:03:07.701155"
   },
   "ae4e2aa50b566a69": {
    "avisado_precio": 19.99,
@@ -4635,7 +4725,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-29T05:18:28.272814",
-   "ultima_vez": "2026-10-29T12:17:50.834198"
+   "ultima_vez": "2026-10-29T13:03:07.701155"
   },
   "b6425c2ac6a3c995": {
    "avisado_precio": 15.99,
@@ -4725,7 +4815,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-29T12:47:26.811958"
+   "ultima_vez": "2026-10-29T13:03:07.701155"
   },
   "b7aa946481036507": {
    "avisado_precio": 39.95,
@@ -4839,7 +4929,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-29T12:47:26.811958"
+   "ultima_vez": "2026-10-29T13:03:07.701155"
   },
   "b86f7fc20cec075f": {
    "avisado_precio": 29.99,
@@ -4929,7 +5019,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-29T12:47:26.811958"
+   "ultima_vez": "2026-10-29T13:03:07.701155"
   },
   "b8d238fa2ccdb64f": {
    "avisado_precio": 29.9,
@@ -5097,7 +5187,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-29T12:17:50.834198"
+   "ultima_vez": "2026-10-29T13:03:07.701155"
   },
   "b9a00ff47805d70e": {
    "avisado_precio": 25.99,
@@ -5187,7 +5277,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-29T12:17:50.834198"
+   "ultima_vez": "2026-10-29T13:03:07.701155"
   },
   "c2918890b1ea1b00": {
    "avisado_precio": 19.99,
@@ -5277,7 +5367,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:18:47.274599",
-   "ultima_vez": "2026-10-29T12:17:50.834198"
+   "ultima_vez": "2026-10-29T13:03:07.701155"
   },
   "c72f1bfcddb553f6": {
    "avisado_precio": 15.99,
@@ -5367,7 +5457,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:10:07.820031",
-   "ultima_vez": "2026-10-29T12:17:50.834198"
+   "ultima_vez": "2026-10-29T13:03:07.701155"
   },
   "c957c9c96df9974c": {
    "avisado_precio": 25.99,
@@ -5727,7 +5817,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-29T12:17:50.834198"
+   "ultima_vez": "2026-10-29T13:03:07.701155"
   },
   "cff5b3c4d25ca7a9": {
    "avisado_precio": 79.94,
@@ -6029,7 +6119,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-29T12:17:50.834198"
+   "ultima_vez": "2026-10-29T13:03:07.701155"
   },
   "d5c9fab14cd7149b": {
    "avisado_precio": 39.95,
@@ -6143,7 +6233,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-29T12:17:50.834198"
+   "ultima_vez": "2026-10-29T13:03:07.701155"
   },
   "e2fc6c315f83e15b": {
    "avisado_precio": null,
@@ -6245,7 +6335,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:18:47.274599",
-   "ultima_vez": "2026-10-29T12:17:50.834198"
+   "ultima_vez": "2026-10-29T13:03:07.701155"
   },
   "e3e0ae4b9c7afbf9": {
    "avisado_precio": 29.99,
@@ -6323,7 +6413,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:34:29.019133",
-   "ultima_vez": "2026-10-29T12:17:50.834198"
+   "ultima_vez": "2026-10-29T13:03:07.701155"
   },
   "e776167469bdd7d6": {
    "avisado_precio": 19.9,
@@ -6413,7 +6503,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:18:47.274599",
-   "ultima_vez": "2026-10-29T12:17:50.834198"
+   "ultima_vez": "2026-10-29T13:03:07.701155"
   },
   "e8d51e6c3fcea42e": {
    "avisado_precio": 15.99,
@@ -6503,7 +6593,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:10:07.820031",
-   "ultima_vez": "2026-10-29T12:17:50.834198"
+   "ultima_vez": "2026-10-29T13:03:07.701155"
   },
   "ebb00aa694f2420c": {
    "avisado_precio": 15.99,
@@ -6629,7 +6719,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:18:47.274599",
-   "ultima_vez": "2026-10-29T12:17:50.834198"
+   "ultima_vez": "2026-10-29T13:03:07.701155"
   },
   "ec873c46236a0459": {
    "avisado_precio": 25.99,
@@ -6809,7 +6899,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T20:17:13.068846",
-   "ultima_vez": "2026-10-29T12:17:50.834198"
+   "ultima_vez": "2026-10-29T13:03:07.701155"
   },
   "f268613ce50107ad": {
    "avisado_precio": 29.99,
@@ -7181,7 +7271,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:18:47.274599",
-   "ultima_vez": "2026-10-29T12:17:50.834198"
+   "ultima_vez": "2026-10-29T13:03:07.701155"
   },
   "fa1637f52f08dc4e": {
    "avisado_precio": 25.99,
@@ -7349,14 +7439,14 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-29T12:17:50.834198"
+   "ultima_vez": "2026-10-29T13:03:07.701155"
   },
   "fe85135dfa929d52": {
    "avisado_precio": null,
    "descuento": 68,
    "nombre": "Camisa algodón lino cuadros manga corta",
    "precio": 25.9,
-   "ultima_vez": "2026-10-29T12:17:50.834198"
+   "ultima_vez": "2026-10-29T13:03:07.701155"
   }
  }
 }
