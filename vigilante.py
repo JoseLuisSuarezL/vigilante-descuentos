@@ -870,7 +870,10 @@ PALABRAS_OFERTA = re.compile(
     r"rebajas?|rebaixes|rebaixas|ofertas?|descuentos?|promoci[oó]n|promos?|liquidaci[oó]n|"
     r"saldi|offert[ae]|sconti|promozion[ei]|deskontu|merkealdi|"
     r"precios?[\s-]+especial(?:es)?|special[\s-]+prices?|prezzi[\s-]+speciali|"
-    r"[uú]ltimas[\s-]+unidades|last[\s-]+chance|ultimi[\s-]+pezzi|mid[\s-]+season)\b",
+    r"[uú]ltimas[\s-]+unidades|last[\s-]+chance|ultimi[\s-]+pezzi|mid[\s-]+season|"
+    r"soldes|promotions?|d[ée]stockage|bonnes[\s-]+affaires|r[ée]ductions?|prix[\s-]+barr[ée]s|"
+    r"promo[çc][õo]es|saldos|descontos|campanhas?|angebote?|reduziert|rabatte?|schn[äa]ppchen|"
+    r"sonderangebote?|ausverkauf)\b",
     re.IGNORECASE)
 NO_OFERTA = re.compile(
     r"account|cuenta|login|logon|signin|sign-in|cart|basket|carrito|checkout|faq|help|ayuda|"
@@ -884,6 +887,66 @@ MARCAS_BOT = re.compile(r"api-services-support@amazon|/errors/validateCaptcha|se
 def es_bloqueo(estado, html):
     return (estado in (401, 403, 429, 503) or (estado == 202 and len(html or "") < 500) or
             (html is not None and len(html) < 60000 and bool(MARCAS_BOT.search(html[:60000]))))
+
+
+PALABRAS_TIENDA = re.compile(
+    r"\b(shop|store|boutique|loja|tienda|fan-?shop|onlineshop|online-shop|e-?shop|"
+    r"merchandising|negozio|official[\s-]+store|tienda[\s-]+oficial|loja[\s-]+oficial|"
+    r"boutique[\s-]+officielle)\b", re.IGNORECASE)
+
+
+def _origen(url):
+    u = urlparse(url)
+    return f"{u.scheme}://{u.netloc}"
+
+
+def _catalogo_por_plataforma(url, html):
+    """
+    Si la tienda es Shopify o WooCommerce, se lee su catálogo completo con su
+    API pública (más fiable y trae las tallas). Devuelve None si no lo es.
+    """
+    if "cdn.shopify.com" in html or "Shopify.shop" in html:
+        print(f"  Tienda Shopify detectada: se lee el catálogo completo de {_origen(url)}")
+        return extraer_shopify(_origen(url))
+    if "woocommerce" in html.lower() and "wp-content" in html:
+        try:
+            print(f"  Tienda WooCommerce detectada: {_origen(url)}")
+            productos = extraer_woo(_origen(url))
+            if productos:
+                return productos
+        except Exception as e:
+            print(f"  WooCommerce: error {e}")
+    return None
+
+
+def buscar_enlace_tienda(inicio, html, maximo=2):
+    """Enlaces de la web del club que llevan a su tienda online."""
+    soup = BeautifulSoup(html, "html.parser")
+    base = ".".join(re.sub(r"^www\.", "", urlparse(inicio).netloc).split(".")[-2:])
+    candidatos = []
+    for a in soup.find_all("a", href=True):
+        url = urljoin(inicio, a["href"]).split("#")[0]
+        if not url.startswith("http") or url.rstrip("/") == inicio.rstrip("/"):
+            continue
+        host = urlparse(url).netloc.lower()
+        texto = (a.get_text(" ", strip=True) or "")[:40]
+        en_host = bool(PALABRAS_TIENDA.search(host.replace(".", " ").replace("-", " ")))
+        en_texto = bool(PALABRAS_TIENDA.search(texto))
+        en_ruta = bool(PALABRAS_TIENDA.search(urlparse(url).path.replace("/", " ").replace("-", " ")))
+        if not (en_host or en_texto or en_ruta):
+            continue
+        if NO_OFERTA.search(url) or re.search(r"facebook|instagram|twitter|x\.com|youtube|tiktok|apple|google", host):
+            continue
+        propio = host.endswith(base)
+        puntos = (3 if en_host else 0) + (2 if en_texto else 0) + (1 if en_ruta else 0) + (2 if propio else 0)
+        candidatos.append((puntos, _origen(url) if en_host else url))
+    candidatos.sort(key=lambda x: -x[0])
+    vistos, salida = set(), []
+    for _, u in candidatos:
+        if u not in vistos:
+            vistos.add(u)
+            salida.append(u)
+    return salida[:maximo]
 
 
 def descubrir_secciones(inicio, html, maximo=6, filtro=None):
@@ -989,8 +1052,34 @@ def revisar_auto(tienda, navegador):
         print("  BLOQUEADA: la web tiene una protección antibots que no deja leerla desde GitHub.")
         return []
     if html:
-        encontradas = descubrir_secciones(inicio, html, int(tienda.get("max_secciones", 6)),
-                                          tienda.get("filtro_secciones"))
+        plataforma = _catalogo_por_plataforma(inicio, html)
+        if plataforma is not None:
+            return plataforma
+        es_tienda = len(PRECIO_RE.findall(BeautifulSoup(html, "html.parser").get_text(" "))) >= 5
+        encontradas = (descubrir_secciones(inicio, html, int(tienda.get("max_secciones", 6)),
+                                           tienda.get("filtro_secciones")) if es_tienda else [])
+        if not encontradas and not secciones:
+            # La portada es la web del club: se busca el enlace a su tienda online
+            for url_tienda in buscar_enlace_tienda(inicio, html):
+                try:
+                    est2, html2 = descargar(url_tienda)
+                except Exception as e:
+                    print(f"  Tienda {url_tienda}: error {e}")
+                    continue
+                if es_bloqueo(est2, html2) or est2 >= 400:
+                    print(f"  Tienda {url_tienda}: no se puede leer (HTTP {est2}).")
+                    continue
+                print(f"  Tienda online encontrada: {url_tienda}")
+                plataforma = _catalogo_por_plataforma(url_tienda, html2)
+                if plataforma is not None:
+                    return plataforma
+                encontradas = descubrir_secciones(url_tienda, html2, int(tienda.get("max_secciones", 6)),
+                                                  tienda.get("filtro_secciones"))
+                if encontradas:
+                    break
+        if not encontradas and not es_tienda:
+            encontradas = descubrir_secciones(inicio, html, int(tienda.get("max_secciones", 6)),
+                                              tienda.get("filtro_secciones"))
         for u in encontradas:
             if u not in secciones:
                 secciones.append(u)
@@ -1239,8 +1328,32 @@ NO_ES_ROPA = re.compile(
 NO_ES_HOMBRE_ADULTO = re.compile(
     r"\b(ni[ñn][oa]s?|infantil(?:es)?|junior|juniors|kids?|kid's|youth|baby|babies|beb[eé]s?|"
     r"bambin[oi]|bimb[oi]|ragazz[oi]|toddlers?|infants?|mini\s?kits?|mujer(?:es)?|women'?s?|woman|"
-    r"womens|ladies|lady|donna|femenin[oa]|girls?|boys?|chicas?|juvenil(?:es)?|enfants?|femme)\b",
+    r"womens|ladies|lady|donna|femenin[oa]|girls?|boys?|chicas?|juvenil(?:es)?|enfants?|femmes?|"
+    r"b[ée]b[ée]s?|fille|gar[çc]on|kinder|kids?trikot|damen|frauen|m[äa]dchen|jungen|"
+    r"crian[çc]as?|mulher(?:es)?|senhoras?|menin[oa]s?|j[uú]nior|ni[ñn]os?|infantis?|bambina)\b",
     re.IGNORECASE)
+
+# Camisetas de fútbol (en español, inglés, francés, alemán, portugués e italiano)
+ES_CAMISETA = re.compile(
+    r"(camisetas?|jerseys?|maillots?|trikots?|maglia|maglie|camisolas?|\bshirts?\b|\bkits?\b)",
+    re.IGNORECASE)
+NO_ES_CAMISETA = re.compile(
+    r"(t-?shirts?|\btees?\b|sweat|polo|hoodie|sudadera|chaqueta|jacket|veste|jacke|casaco|"
+    r"maillot\s+de\s+bain|ba[ñn]ador|algod[oó]n|interior|base\s?layer|tirantes|tank|"
+    r"pijama|pyjama|babero|body\b|bodies|mini\s?kit|baby\s?kit|kit\s+(?:bag|de\s+)|"
+    r"shorts?\b|calz|socks|chaussettes|stutzen|meias|pantal|hose\b|cal[çc][õo]es|"
+    r"llavero|keyring|imán|magnet|mini\s?(?:maillot|camiseta|trikot|shirt|jersey)|"
+    r"gorr|cap\b|bufanda|scarf|écharpe|schal|cachecol|mug|taza|tasse|caneca|"
+    r"funda|cover|case\b|frame|cuadro|marco|poster|p[oó]ster|lamina|cromo|sticker|"
+    r"toalla|towel|serviette|handtuch|toalha|peluche|plush|pl[üu]sch|"
+    r"enmarcad|framed|encadr|gerahmt|emoldurad|"
+    r"miniatur|bola|ball|ballon|pallone)",
+    re.IGNORECASE)
+
+
+def es_camiseta_futbol(texto):
+    return bool(ES_CAMISETA.search(texto or "")) and not NO_ES_CAMISETA.search(texto or "")
+
 
 TIPO_PANTALON = re.compile(
     r"\b(pantal\w*|vaquer\w*|jeans?|chinos?|bermudas?|shorts|short(?!\s*-?\s*sleeve)|joggers?|"
@@ -1545,12 +1658,16 @@ def filtrar_por_talla(pendientes, tienda, conf, vistos, moneda, ahora_iso):
     presupuesto = int(conf.get("fichas_por_vez", 15 if navegador else 150))
     horas_cache = float(conf.get("horas_para_revisar_otra_vez", 24))
     si_no_se_sabe = str(conf.get("si_no_se_sabe", "descartar")).lower()
+    solo_camisetas = bool(conf.get("solo_camisetas", False))
     hace = (dt.datetime.fromisoformat(ahora_iso) - dt.timedelta(hours=horas_cache)).isoformat()
     st = {"no_ropa": 0, "sin_talla": 0, "desconocido": 0, "ok": 0, "fichas": 0, "aplazados": 0}
     aprobados, aplazados = [], []
     for d, k, p in pendientes:
         texto = f"{p['nombre']} {p.get('tipo', '')}"
         if NO_ES_ROPA.search(texto) or NO_ES_HOMBRE_ADULTO.search(texto):
+            st["no_ropa"] += 1
+            continue
+        if solo_camisetas and not es_camiseta_futbol(p["nombre"]):
             st["no_ropa"] += 1
             continue
         reg = vistos.get(k, {})
@@ -1571,7 +1688,7 @@ def filtrar_por_talla(pendientes, tienda, conf, vistos, moneda, ahora_iso):
                 st["aplazados"] += 1
                 aplazados.append((d, k, p))
                 continue
-        tipo = tipo_prenda(texto)
+        tipo = "otro" if solo_camisetas else tipo_prenda(texto)
         if de_la_lista and not tallas:
             st["sin_talla"] += 1                    # sin tallas de ropa (talla única, accesorio…)
             continue
@@ -1863,8 +1980,9 @@ def revisar_tienda(tienda, config, accion):
     aplazados = []
     if filtro:
         pendientes, aplazados, st = filtrar_por_talla(pendientes, tienda, filtro, vistos, moneda, ahora_iso)
-        print(f"  Filtro de ropa y tallas: {st['ok']} en tu talla · {st['sin_talla']} sin talla grande "
-              f"disponible · {st['no_ropa']} no son ropa de hombre · {st['desconocido']} sin poder ver "
+        no_ropa_txt = "no son camisetas de hombre" if filtro.get("solo_camisetas") else "no son ropa de hombre"
+        print(f"  Filtro de camisetas y tallas: {st['ok']} en tu talla · {st['sin_talla']} sin talla grande "
+              f"disponible · {st['no_ropa']} {no_ropa_txt} · {st['desconocido']} sin poder ver "
               f"las tallas · {st['fichas']} fichas abiertas · {st['aplazados']} para la próxima vuelta")
         if st["desconocido"] and not st["ok"] and not st["sin_talla"]:
             print("  AVISO: no he podido leer las tallas de esta tienda (pásale este registro a Claude).")
@@ -1898,10 +2016,14 @@ def revisar_tienda(tienda, config, accion):
             estado["fase_inicial"] = False
             resumen_inicial = True
             if acum["total"]:
-                art = "artículo" if acum["total"] == 1 else "artículos"
-                lineas = [f"🆕 {nombre_tienda}: ahora mismo hay {acum['total']} {art} "
-                          + ("de ropa en tu talla " if filtro else "")
-                          + ("rebajado" if acum["total"] == 1 else "rebajados") + f" un {minimo:.0f} % o más."
+                uno = acum["total"] == 1
+                if filtro and filtro.get("solo_camisetas"):
+                    que = ("camiseta" if uno else "camisetas") + " de fútbol en tu talla " + ("rebajada" if uno else "rebajadas")
+                elif filtro:
+                    que = ("artículo" if uno else "artículos") + " de ropa en tu talla " + ("rebajado" if uno else "rebajados")
+                else:
+                    que = ("artículo rebajado" if uno else "artículos rebajados")
+                lineas = [f"🆕 {nombre_tienda}: ahora mismo hay {acum['total']} {que} un {minimo:.0f} % o más."
                           + (" Los 5 mejores:" if acum["total"] > 5 else "")]
                 lineas += [t for _, t in acum["top"]]
                 lineas.append("A partir de ahora solo te avisaré de las ofertas nuevas de esta tienda.")
