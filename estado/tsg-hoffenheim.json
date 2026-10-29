@@ -5,7 +5,7 @@
  },
  "cursores": {},
  "fase_inicial": false,
- "ultima_revision": "2026-10-29T21:47:14.888713",
+ "ultima_revision": "2026-10-29T22:02:56.274388",
  "version_filtro": 2,
  "vistos": {
   "02aba030ccf9938a": {
@@ -13,42 +13,42 @@
    "descuento": 80,
    "nombre": "TSG-Tasse Magic 125 Jahre",
    "precio": 2.0,
-   "ultima_vez": "2026-10-29T21:17:36.197036"
+   "ultima_vez": "2026-10-29T22:02:56.274168"
   },
   "14982b38b847119c": {
    "avisado_precio": null,
    "descuento": 67,
    "nombre": "TSG-Hoodie inspired by Selina Çerçi",
    "precio": 20.0,
-   "ultima_vez": "2026-10-29T21:17:36.197036"
+   "ultima_vez": "2026-10-29T22:02:56.274168"
   },
   "18acfddccd7c6c46": {
    "avisado_precio": null,
    "descuento": 80,
    "nombre": "TSG-Baby-Fleeceanzug",
    "precio": 10.0,
-   "ultima_vez": "2026-10-29T21:17:36.197036"
+   "ultima_vez": "2026-10-29T22:02:56.274168"
   },
   "adf1d0bf9ebd986e": {
    "avisado_precio": null,
    "descuento": 61,
    "nombre": "TSG-Espresso-2er-Set",
    "precio": 5.0,
-   "ultima_vez": "2026-10-29T21:17:36.197036"
+   "ultima_vez": "2026-10-29T22:02:56.274168"
   },
   "e903891cf857575d": {
    "avisado_precio": null,
    "descuento": 64,
    "nombre": "TSG-Beer Pong Set",
    "precio": 9.0,
-   "ultima_vez": "2026-10-29T21:17:36.197036"
+   "ultima_vez": "2026-10-29T22:02:56.274168"
   },
   "f0caa249f4fff7ea": {
    "avisado_precio": null,
    "descuento": 67,
    "nombre": "TSG-Spielesammlung",
    "precio": 10.0,
-   "ultima_vez": "2026-10-29T21:17:36.197036"
+   "ultima_vez": "2026-10-29T22:02:56.274168"
   }
  }
 }
