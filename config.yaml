@@ -1,10 +1,10 @@
 # ============================================================
 #  CONFIGURACIÓN DEL VIGILANTE DE DESCUENTOS
+#  Solo CAMISETAS DE FÚTBOL de las tiendas oficiales de los clubes.
 #  Puedes editar este archivo directamente en GitHub (icono del lápiz).
-#  Lo más habitual es cambiar solo "descuento_minimo".
 # ============================================================
 
-# Te avisa de artículos rebajados este porcentaje o más
+# Te avisa de camisetas rebajadas este porcentaje o más
 descuento_minimo: 60
 
 # Máximo de ofertas por aviso y tienda (las demás llegan en el siguiente)
@@ -18,70 +18,24 @@ resumen_primera_vez: true
 # Si no da tiempo a todo, lo que falte se revisa en la siguiente vuelta.
 minutos_max_por_tarea: 19
 
-# FILTRO DE ROPA Y TALLAS (se aplica a todas las tiendas de ropa y clubes)
-# Solo te avisa de ROPA DE HOMBRE ADULTO que quede disponible en talla
-# XL o mayor (XL, XXL, 3XL…). Descarta gorras, pines, bufandas, calcetines,
-# calzado, balones, tazas… y la ropa de mujer y de niño.
-# En tiendas sin ropa (PcComponentes…) va desactivado con "tallas: false".
+# FILTRO DE CAMISETAS Y TALLAS
+# Solo te avisa de CAMISETAS DE FÚTBOL de hombre adulto (camiseta, jersey,
+# shirt, maillot, trikot, camisola, maglia…) que queden disponibles en talla
+# XL o mayor (XL, XXL, 3XL…). Descarta camisetas de mujer y de niño,
+# camisetas de algodón/casuales, polos, sudaderas, pantalones, gorras,
+# bufandas, tazas, minicamisetas, cuadros…
 tallas:
   activo: true
-  pantalon_desde: 48        # pantalones, vaqueros, bermudas (en pulgadas: W38 o más)
-  americana_desde: 54       # americanas, trajes y abrigos con talla de número (54 = XL)
-  camisa_cuello_desde: 43   # camisas con talla de cuello (43 = XL)
+  solo_camisetas: true
   # Si no se pueden ver las tallas de un artículo: descartar | avisar
   si_no_se_sabe: descartar
 
-# Cada tienda se revisa en paralelo y por separado, cada 15 minutos.
-# Las formas de leer cada web se han elegido tras analizarlas una a una.
-
 tiendas:
-
-  # ZARA · Catálogo completo de HOMBRE (≈3.000 artículos, una sola consulta)
-  # + secciones de ofertas (Special Prices, Rebajas, Black Friday…), que se
-  # detectan solas en cada temporada.
-  - nombre: Zara
-    zara:
-      web: https://www.zara.com
-      ruta: es/es
-      seccion: HOMBRE
-
-  # FIFTY · Todo hombre (≈3.400 artículos), leído en bloques de 120.
-  - nombre: Fifty
-    paginadas:
-      - https://fiftyoutlet.com/on/demandware.store/Sites-FF-Site/es_ES/Search-UpdateGrid?cgid=man&pmin=0%2c01&start={inicio}&sz=120
-    por_pagina: 120
-    paginas_max: 60
-
-  # PCCOMPONENTES · Ofertas TOP y Últimas unidades ordenadas por descuento
-  # (en cada vuelta) + las 520 categorías de la tienda, ordenadas por
-  # descuento, por turnos (vuelta completa cada hora y media aprox.).
-  - nombre: PcComponentes
-    tallas: false
-    paginadas:
-      - https://www.pccomponentes.com/campanas/ofertas-especiales?sort=discount&page={n}
-      - https://www.pccomponentes.com/campanas/ultimas-unidades?sort=discount&page={n}
-    ordenado_por_descuento: true
-    paginas_max: 60
-    categorias:
-      sitemap: https://www.pccomponentes.com/sitemap/sitemap_categories.xml
-      patron: "/categorias/[^/]+$"
-      sufijo: "?sort=discount&page={n}"
-      por_vez: 90
-
-  # LEFTIES · Catálogo de HOMBRE (≈4.000 artículos). Las secciones de
-  # ofertas (Promoción, Rebajas…) se revisan enteras siempre; el resto del
-  # catálogo, por turnos de 250 artículos.
-  - nombre: Lefties
-    inditex:
-      web: https://www.lefties.com
-      store: 94009000
-      catalogo: 90009053
-      seccion: hombre
-      por_vez: 250
 
   # SEVILLA FC · Catálogo completo de la tienda oficial (≈1.400 artículos)
   # + colecciones de ofertas.
   - nombre: Sevilla FC
+    grupo: LaLiga 1
     shopify: https://shop.sevillafc.es
     colecciones:
       - outlet
@@ -89,183 +43,9 @@ tiendas:
       - descuentos-en-productos-seleccionados
       - promociones
 
-  # SILBON · Todo hombre (ropa, calzado, complementos) + rebajas, outlet y
-  # Black Friday de hombre (se llenan en temporada).
-  - nombre: Silbon
-    shopify: https://www.silbonshop.com
-    solo_colecciones: true
-    colecciones:
-      - ver-todo-ropa-hombre
-      - todo-calzado-hombre
-      - todo-complementos-hombre
-      - rebajas-ver-todo-hombre
-      - segundas-rebajas-hasta50-hombre
-      - black-friday-ver-todo-hombre
-
-  # SCALPERS · Todo hombre (≈2.500 artículos) + rebajas, outlet, flash sale,
-  # mid season sale, últimas unidades y marcas invitadas de hombre.
-  - nombre: Scalpers
-    shopify: https://scalperscompany.com
-    solo_colecciones: true
-    colecciones:
-      - hombre-todo-1131
-      - hombre-rebajas-1501
-      - hombre-rebajas-hasta-70-1524
-      - hombre-ultimas-unidades-1599
-      - hombre-flash-sale-1600
-      - hombre-mid-season-sale-1573
-      - invited-brands-hombre-rebajas-ver-todo-5622
-      - invited-brands-hombre-the-outlet-5526
-      - invited-brands-hombre-outlet-5592
-      - invited-brands-hombre-nueva-coleccion-ropa-ver-todo-5012
-      - invited-brands-hombre-nueva-coleccion-calzado-ver-todo-5007
-      - invited-brands-hombre-nueva-coleccion-accesorios-ver-todo-5002
-
-
-  # ---------- MÁS MODA HOMBRE ----------
-  # MASSIMO DUTTI · Catálogo de hombre (API de Inditex). Las secciones de
-  # ofertas (Special Prices, Rebajas…) se revisan enteras siempre; el resto,
-  # por turnos.
-  - nombre: Massimo Dutti
-    grupo: Moda Inditex
-    inditex:
-      web: https://www.massimodutti.com
-      store: 34009450
-      catalogo: 30359536
-      seccion: hombre
-      por_vez: 150
-
-  # PULL&BEAR · Igual que Massimo Dutti. Sus fichas pesan mucho, así que el
-  # catálogo completo va por turnos pequeños.
-  - nombre: Pull&Bear
-    activa: false   # bloquea las visitas automáticas; pon true para probar otra vez
-    grupo: Moda Inditex
-    inditex:
-      web: https://www.pullandbear.com
-      store: 24009400
-      catalogo: 20309459
-      seccion: hombre
-      por_vez: 40
-      patron_ofertas: "promo|rebaj|oferta|special|sale|black|outlet|liquid"
-
-  # SPRINGFIELD y PEDRO DEL HIERRO · Mismo sistema que Fifty: todo hombre por
-  # bloques de 120 (por turnos) + secciones de ofertas de hombre de la portada.
-  - nombre: Springfield
-    grupo: Moda Tendam
-    auto: https://myspringfield.com/es/es/hombre
-    filtro_secciones: "/hombre/"
-    navegador: false
-    paginadas:
-      - https://myspringfield.com/on/demandware.store/Sites-SPF-Site/es_ES/Search-UpdateGrid?cgid=men&pmin=0%2c01&start={inicio}&sz=120
-    por_pagina: 120
-    paginas_por_vez: 10
-    paginas_max: 80
-  - nombre: Pedro del Hierro
-    grupo: Moda Tendam
-    auto: https://pedrodelhierro.com/es/es/hombre
-    filtro_secciones: "/hombre/"
-    navegador: false
-    paginadas:
-      - https://pedrodelhierro.com/on/demandware.store/Sites-PDH-Site/es_ES/Search-UpdateGrid?cgid=men&pmin=0%2c01&start={inicio}&sz=120
-    por_pagina: 120
-    paginas_por_vez: 8
-    paginas_max: 40
-
-  # EL GANSO · Rebajas y precios especiales de hombre. Tiene un cortafuegos
-  # que exige navegador; si en la prueba sale "BLOQUEADA", no se puede leer.
-  - nombre: El Ganso
-    grupo: Moda Tendam
-    auto: https://www.elganso.com/es/
-    filtro_secciones: "hombre|zapatillas"
-    navegador: true
-    urls:
-      - "https://www.elganso.com/es/mid-season-sale/hombre.html"
-      - "https://www.elganso.com/es/precios-especiales/precios-especiales-hombre.html"
-
-  # ---------- EL CORTE INGLÉS ----------
-  # DESACTIVADO: su protección anti-robots bloquea las visitas desde GitHub (error 403).
-  # Cada departamento: su sección "Descuentos TOP" + el departamento entero.
-  # Son miles de productos (12 por página), así que se leen por turnos de 12
-  # páginas en cada vuelta: Descuentos TOP se completa en menos de una hora
-  # y los departamentos enteros, en unas horas.
-  - nombre: El Corte Inglés · Hombre
-    activa: false   # bloquea las visitas automáticas; pon true para probar otra vez
-    grupo: El Corte Inglés
-    paginadas:
-      - https://www.elcorteingles.es/descuentos/moda-hombre/{n}/
-      - https://www.elcorteingles.es/moda-hombre/{n}/
-    paginas_por_vez: 12
-    paginas_max: 420
-  - nombre: El Corte Inglés · Bebés
-    activa: false   # bloquea las visitas automáticas; pon true para probar otra vez
-    tallas: false
-    grupo: El Corte Inglés
-    paginadas:
-      - https://www.elcorteingles.es/descuentos/bebes/{n}/
-      - https://www.elcorteingles.es/bebes/{n}/
-    paginas_por_vez: 12
-    paginas_max: 420
-  - nombre: El Corte Inglés · Electrónica
-    activa: false   # bloquea las visitas automáticas; pon true para probar otra vez
-    tallas: false
-    grupo: El Corte Inglés
-    paginadas:
-      - https://www.elcorteingles.es/descuentos/electronica/{n}/
-      - https://www.elcorteingles.es/electronica/{n}/
-    paginas_por_vez: 12
-    paginas_max: 420
-  - nombre: El Corte Inglés · Electrodomésticos
-    activa: false   # bloquea las visitas automáticas; pon true para probar otra vez
-    tallas: false
-    grupo: El Corte Inglés
-    paginadas:
-      - https://www.elcorteingles.es/descuentos/electrodomesticos/{n}/
-      - https://www.elcorteingles.es/electrodomesticos/{n}/
-    paginas_por_vez: 12
-    paginas_max: 420
-
-  # ---------- AMAZON ----------
-  # DESACTIVADO: Amazon bloquea las visitas desde GitHub (error 503). Usa Keepa.
-  # Búsqueda con el filtro de Amazon "60 % de descuento o más" + "vendido por
-  # Amazon" (sin vendedores externos, que inflan el precio recomendado). El
-  # descuento real se calcula con el precio tachado y se descartan anuncios.
-  # Amazon puede bloquear las visitas desde GitHub: si sale "BLOQUEADA",
-  # usa Keepa (keepa.com) para Amazon.
-  - nombre: Amazon · Hombre
-    activa: false   # bloquea las visitas automáticas; pon true para probar otra vez
-    grupo: Amazon
-    paginadas:
-      - "https://www.amazon.es/s?i=fashion-mens&rh=p_8%3A60-99%2Cp_6%3AA1AT7YVPFBWXBL&page={n}"
-    paginas_por_vez: 4
-    paginas_max: 20
-  - nombre: Amazon · Bebé
-    activa: false   # bloquea las visitas automáticas; pon true para probar otra vez
-    tallas: false
-    grupo: Amazon
-    paginadas:
-      - "https://www.amazon.es/s?i=baby&rh=p_8%3A60-99%2Cp_6%3AA1AT7YVPFBWXBL&page={n}"
-    paginas_por_vez: 4
-    paginas_max: 20
-  - nombre: Amazon · Electrónica
-    activa: false   # bloquea las visitas automáticas; pon true para probar otra vez
-    tallas: false
-    grupo: Amazon
-    paginadas:
-      - "https://www.amazon.es/s?i=electronics&rh=p_8%3A60-99%2Cp_6%3AA1AT7YVPFBWXBL&page={n}"
-    paginas_por_vez: 4
-    paginas_max: 20
-  - nombre: Amazon · Electrodomésticos
-    activa: false   # bloquea las visitas automáticas; pon true para probar otra vez
-    tallas: false
-    grupo: Amazon
-    paginadas:
-      - "https://www.amazon.es/s?i=appliances&rh=p_8%3A60-99%2Cp_6%3AA1AT7YVPFBWXBL&page={n}"
-      - "https://www.amazon.es/s?i=kitchen&rh=p_8%3A60-99%2Cp_6%3AA1AT7YVPFBWXBL&page={n}"
-    paginas_por_vez: 4
-    paginas_max: 20
 
   # ==========================================================
-  #  TIENDAS DE CLUBES · LaLiga, Premier League y Serie A
+  #  LALIGA, PREMIER LEAGUE Y SERIE A
   #  "grupo": se revisan juntas en una misma tarea de GitHub.
   #  "auto":  busca solas las secciones de ofertas de la portada
   #           (Sale, Outlet, Rebajas, Saldi…) y recorre sus páginas.
@@ -428,3 +208,72 @@ tiendas:
   - {nombre: Genoa, grupo: Serie A 3, auto: https://store.genoacfc.it/}
   # Udinese no tiene tienda online propia (solo vende en Amazon).
 
+
+  # ==========================================================
+  #  LIGUE 1 (Francia) · temporada 2026-27
+  #  "auto" con la web del club: busca sola el enlace a su tienda
+  #  online y, dentro, las secciones de ofertas (Soldes, Promotions…).
+  #  Si la tienda es Shopify, lee el catálogo completo con tallas.
+  # ==========================================================
+  - {nombre: Olympique de Marseille, grupo: Ligue 1 A, shopify: https://boutique.om.fr}
+  - {nombre: AJ Auxerre, grupo: Ligue 1 A, shopify: https://boutique.aja.fr}
+  - {nombre: Paris Saint-Germain, grupo: Ligue 1 A, auto: https://store.psg.fr/}
+  - {nombre: Olympique Lyonnais, grupo: Ligue 1 A, auto: https://boutique.ol.fr/}
+  - {nombre: OGC Nice, grupo: Ligue 1 A, auto: https://boutique.ogcnice.com/}
+  - {nombre: RC Lens, grupo: Ligue 1 B, auto: https://www.rclens.fr/}
+  - {nombre: LOSC Lille, grupo: Ligue 1 B, auto: https://www.losc.fr/}
+  - {nombre: AS Monaco, grupo: Ligue 1 B, auto: https://www.asmonaco.com/}
+  - {nombre: Stade Rennais, grupo: Ligue 1 B, auto: https://www.staderennais.com/}
+  - {nombre: RC Strasbourg, grupo: Ligue 1 B, auto: https://www.rcstrasbourgalsace.fr/}
+  - {nombre: Toulouse FC, grupo: Ligue 1 B, auto: https://www.toulousefc.com/}
+  - {nombre: Stade Brestois, grupo: Ligue 1 C, auto: https://www.sb29.bzh/}
+  - {nombre: Angers SCO, grupo: Ligue 1 C, auto: https://www.angers-sco.fr/}
+  - {nombre: FC Lorient, grupo: Ligue 1 C, auto: https://www.fclweb.fr/}
+  - {nombre: Le Havre AC, grupo: Ligue 1 C, auto: https://www.hac-foot.com/}
+  - {nombre: Paris FC, grupo: Ligue 1 C, auto: https://www.parisfc.fr/}
+  - {nombre: ESTAC Troyes, grupo: Ligue 1 C, auto: https://www.estac.fr/}
+  - {nombre: Le Mans FC, grupo: Ligue 1 C, auto: https://www.lemansfc.fr/}
+
+  # ==========================================================
+  #  LIGA PORTUGAL (Portugal) · temporada 2026-27
+  # ==========================================================
+  - {nombre: Sporting CP, grupo: Portugal A, shopify: https://lojaverde.sporting.pt}
+  - {nombre: SL Benfica, grupo: Portugal A, auto: https://www.slbenfica.pt/pt-pt/loja}
+  - {nombre: FC Porto, grupo: Portugal A, auto: https://www.fcporto.pt/}
+  - {nombre: SC Braga, grupo: Portugal A, auto: https://www.scbraga.pt/}
+  - {nombre: Vitória SC, grupo: Portugal A, auto: https://www.vitoriasc.pt/}
+  - {nombre: CD Santa Clara, grupo: Portugal A, woo: https://cdsantaclara.com/loja}
+  - {nombre: FC Famalicão, grupo: Portugal B, auto: https://www.fcfamalicao.pt/}
+  - {nombre: Gil Vicente, grupo: Portugal B, auto: https://www.gilvicentefc.pt/}
+  - {nombre: Rio Ave, grupo: Portugal B, auto: https://www.rioave-fc.pt/}
+  - {nombre: FC Arouca, grupo: Portugal B, auto: https://www.fcarouca.eu/}
+  - {nombre: Estoril Praia, grupo: Portugal B, auto: https://www.estorilpraia.pt/}
+  - {nombre: Moreirense, grupo: Portugal B, auto: https://www.moreirensefc.pt/}
+  - {nombre: Casa Pia, grupo: Portugal C, auto: https://www.casapiaac.pt/}
+  - {nombre: CD Nacional, grupo: Portugal C, auto: https://www.cdnacional.pt/}
+  - {nombre: CS Marítimo, grupo: Portugal C, auto: https://www.csmaritimo.pt/}
+  - {nombre: Estrela da Amadora, grupo: Portugal C, auto: https://www.cfestreladaamadora.pt/}
+  - {nombre: FC Alverca, grupo: Portugal C, auto: https://www.fcalverca.pt/}
+  - {nombre: Académico de Viseu, grupo: Portugal C, auto: https://www.academicodeviseu.pt/}
+
+  # ==========================================================
+  #  BUNDESLIGA (Alemania) · temporada 2026-27
+  # ==========================================================
+  - {nombre: FC Bayern, grupo: Bundesliga A, auto: https://fcbayern.com/shop/de/}
+  - {nombre: Borussia Dortmund, grupo: Bundesliga A, auto: https://shop.bvb.de/}
+  - {nombre: Bayer Leverkusen, grupo: Bundesliga A, auto: https://www.bayer04.de/}
+  - {nombre: Eintracht Frankfurt, grupo: Bundesliga A, auto: https://shop.eintracht.de/}
+  - {nombre: VfB Stuttgart, grupo: Bundesliga A, auto: https://shop.vfb.de/}
+  - {nombre: RB Leipzig, grupo: Bundesliga A, auto: https://www.rbleipzig.com/}
+  - {nombre: SC Freiburg, grupo: Bundesliga B, auto: https://www.scfreiburg.com/}
+  - {nombre: Borussia Mönchengladbach, grupo: Bundesliga B, auto: https://www.borussia.de/}
+  - {nombre: Werder Bremen, grupo: Bundesliga B, auto: https://www.werder.de/}
+  - {nombre: 1. FC Köln, grupo: Bundesliga B, auto: https://fc-shop.de/}
+  - {nombre: Hamburger SV, grupo: Bundesliga B, auto: https://www.hsv.de/}
+  - {nombre: FC Schalke 04, grupo: Bundesliga B, auto: https://www.schalke04.de/}
+  - {nombre: Union Berlin, grupo: Bundesliga C, auto: https://www.fc-union-berlin.de/}
+  - {nombre: Mainz 05, grupo: Bundesliga C, auto: https://www.mainz05.de/}
+  - {nombre: FC Augsburg, grupo: Bundesliga C, auto: https://www.fcaugsburg.de/}
+  - {nombre: TSG Hoffenheim, grupo: Bundesliga C, auto: https://www.tsg-hoffenheim.de/}
+  - {nombre: SC Paderborn, grupo: Bundesliga C, auto: https://www.scp07.de/}
+  - {nombre: SV Elversberg, grupo: Bundesliga C, auto: https://www.sv07elversberg.de/}
