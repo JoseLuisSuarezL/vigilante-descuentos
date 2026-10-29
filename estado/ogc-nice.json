@@ -1,0 +1,83 @@
+{
+ "acumulado": {
+  "top": [],
+  "total": 0
+ },
+ "cursores": {},
+ "fase_inicial": false,
+ "ultima_revision": "2026-10-29T16:14:05.577188",
+ "version_filtro": 2,
+ "vistos": {
+  "1fed0763345b01c3": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Maillot OGC Nice Home 2024/2025 Le Coq Sportif Enfant",
+   "precio": 32.004001,
+   "ultima_vez": "2026-10-29T16:13:58.864397"
+  },
+  "43b1a7bc1bc90d12": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Short Match Gardien Vintage Violet OGC Nice Le Coq Sportif",
+   "precio": 24.000001,
+   "ultima_vez": "2026-10-29T16:13:58.864397"
+  },
+  "503d2b8bc5f9a44a": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Maillot Match Gardien bleu Original OGC Nice - Le Coq Sportif",
+   "precio": 30.000001,
+   "tallas": [],
+   "tallas_revisado": "2026-10-29T16:13:58.864397",
+   "ultima_vez": "2026-10-29T16:13:58.864397"
+  },
+  "97218e4df125c3c8": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Maillot Match Gardien 24 vintage Violet",
+   "precio": 30.000001,
+   "tallas": [],
+   "tallas_revisado": "2026-10-29T16:13:58.864397",
+   "ultima_vez": "2026-10-29T16:13:58.864397"
+  },
+  "b7d0eb30bf41cbdd": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Maillot Match Gardien Jaune Original OGC Nice Le Coq Sportif",
+   "precio": 30.000001,
+   "tallas": [],
+   "tallas_revisado": "2026-10-29T16:13:58.864397",
+   "ultima_vez": "2026-10-29T16:13:58.864397"
+  },
+  "cbd2ef167b1f0d84": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Veste Bomber OGC Nice Fanwear 120 ANS 2024-2025 Homme Noir",
+   "precio": 72.000001,
+   "ultima_vez": "2026-10-29T16:13:58.864397"
+  },
+  "dc405a11b2ecc39b": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Short Match Gardien Jaune Original OGC Nice Le Coq Sportif",
+   "precio": 24.000001,
+   "ultima_vez": "2026-10-29T16:13:58.864397"
+  },
+  "e225f154d433861b": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Mini Kit Bébé OGC Nice Domicile",
+   "precio": 27.996001,
+   "ultima_vez": "2026-10-29T16:13:58.864397"
+  },
+  "f567215e119adeba": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Maillot OGC Nice Home 2024/2025 Le Coq Sportif",
+   "precio": 39.996001,
+   "tallas": [],
+   "tallas_revisado": "2026-10-29T16:13:58.864397",
+   "ultima_vez": "2026-10-29T16:13:58.864397"
+  }
+ }
+}
