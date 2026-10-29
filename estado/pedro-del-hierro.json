@@ -4,10 +4,10 @@
   "total": 0
  },
  "cursores": {
-  "https://pedrodelhierro.com/on/demandware.store/Sites-PDH-Site/es_ES/Search-UpdateGrid?cgid=men&pmin=0%2c01&start={inicio}&sz=120": 9
+  "https://pedrodelhierro.com/on/demandware.store/Sites-PDH-Site/es_ES/Search-UpdateGrid?cgid=men&pmin=0%2c01&start={inicio}&sz=120": 17
  },
  "fase_inicial": false,
- "ultima_revision": "2026-10-29T10:03:20.807479",
+ "ultima_revision": "2026-10-29T10:17:40.777732",
  "version_filtro": 2,
  "vistos": {
   "006b3237fc27851a": {
@@ -484,6 +484,84 @@
    "tallas_revisado": "2026-10-28T16:10:07.820031",
    "ultima_vez": "2026-10-29T10:03:16.031641"
   },
+  "1e6849962ea9a71f": {
+   "avisado_precio": 15.99,
+   "descuento": 76,
+   "nombre": "Bermuda ligera regular",
+   "precio": 15.99,
+   "tallas": [
+    [
+     "76",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     false
+    ],
+    [
+     "M",
+     false
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     false
+    ],
+    [
+     "L",
+     false
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     false
+    ],
+    [
+     "XL",
+     false
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "76",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-29T10:17:33.320686",
+   "ultima_vez": "2026-10-29T10:17:33.320686"
+  },
   "1edc159d9376f99b": {
    "avisado_precio": 19.99,
    "descuento": 64,
@@ -650,7 +728,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-29T09:18:54.022364",
-   "ultima_vez": "2026-10-29T09:18:54.022364"
+   "ultima_vez": "2026-10-29T10:17:33.320686"
   },
   "2706a0573965378a": {
    "avisado_precio": 29.99,
@@ -741,6 +819,84 @@
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
    "ultima_vez": "2026-10-29T10:03:16.031641"
+  },
+  "2dd83a0d854c2d48": {
+   "avisado_precio": 11.9,
+   "descuento": 74,
+   "nombre": "Polo básico piqué lavado",
+   "precio": 11.9,
+   "tallas": [
+    [
+     "74",
+     true
+    ],
+    [
+     "S",
+     false
+    ],
+    [
+     "S",
+     false
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     false
+    ],
+    [
+     "L",
+     false
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     false
+    ],
+    [
+     "XL",
+     false
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "74",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-29T10:17:33.320686",
+   "ultima_vez": "2026-10-29T10:17:33.320686"
   },
   "322c5a3d33a49da6": {
    "avisado_precio": null,
@@ -1929,7 +2085,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:18:47.274599",
-   "ultima_vez": "2026-10-29T08:48:33.201970"
+   "ultima_vez": "2026-10-29T10:17:33.320686"
   },
   "573b8c321fb83a79": {
    "avisado_precio": 29.99,
@@ -2571,7 +2727,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:18:47.274599",
-   "ultima_vez": "2026-10-29T09:33:08.663546"
+   "ultima_vez": "2026-10-29T10:17:33.320686"
   },
   "716115b8f519c3fa": {
    "avisado_precio": 19.99,
@@ -3339,7 +3495,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-29T10:03:16.031641"
+   "ultima_vez": "2026-10-29T10:17:33.320686"
   },
   "8c5ab4cd4c9bd2fb": {
    "avisado_precio": 29.99,
@@ -3430,6 +3586,132 @@
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
    "ultima_vez": "2026-10-29T10:03:16.031641"
+  },
+  "8cc11a28811f1eca": {
+   "avisado_precio": 15.99,
+   "descuento": 73,
+   "nombre": "Bermuda básica regular",
+   "precio": 15.99,
+   "tallas": [
+    [
+     "73",
+     true
+    ],
+    [
+     "38",
+     false
+    ],
+    [
+     "38",
+     false
+    ],
+    [
+     "38",
+     true
+    ],
+    [
+     "40",
+     true
+    ],
+    [
+     "40",
+     true
+    ],
+    [
+     "40",
+     true
+    ],
+    [
+     "42",
+     false
+    ],
+    [
+     "42",
+     false
+    ],
+    [
+     "42",
+     true
+    ],
+    [
+     "44",
+     false
+    ],
+    [
+     "44",
+     false
+    ],
+    [
+     "44",
+     true
+    ],
+    [
+     "46",
+     true
+    ],
+    [
+     "46",
+     true
+    ],
+    [
+     "46",
+     true
+    ],
+    [
+     "48",
+     false
+    ],
+    [
+     "48",
+     false
+    ],
+    [
+     "48",
+     true
+    ],
+    [
+     "50",
+     false
+    ],
+    [
+     "50",
+     false
+    ],
+    [
+     "50",
+     true
+    ],
+    [
+     "52",
+     false
+    ],
+    [
+     "52",
+     false
+    ],
+    [
+     "52",
+     true
+    ],
+    [
+     "54",
+     false
+    ],
+    [
+     "54",
+     false
+    ],
+    [
+     "54",
+     true
+    ],
+    [
+     "73",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-29T10:17:33.320686",
+   "ultima_vez": "2026-10-29T10:17:33.320686"
   },
   "93d3621a2593d930": {
    "avisado_precio": 19.95,
@@ -3891,7 +4173,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-29T10:03:16.031641"
+   "ultima_vez": "2026-10-29T10:17:33.320686"
   },
   "a3e9ab3c1b7f4f6f": {
    "avisado_precio": 15.99,
@@ -4353,7 +4635,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-29T10:03:16.031641"
+   "ultima_vez": "2026-10-29T10:17:33.320686"
   },
   "b7aa946481036507": {
    "avisado_precio": 39.95,
@@ -4467,7 +4749,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-29T10:03:16.031641"
+   "ultima_vez": "2026-10-29T10:17:33.320686"
   },
   "b86f7fc20cec075f": {
    "avisado_precio": 29.99,
@@ -4557,7 +4839,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-29T10:03:16.031641"
+   "ultima_vez": "2026-10-29T10:17:33.320686"
   },
   "b8d238fa2ccdb64f": {
    "avisado_precio": 29.9,
@@ -4635,7 +4917,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T18:18:23.978324",
-   "ultima_vez": "2026-10-29T10:03:16.031641"
+   "ultima_vez": "2026-10-29T10:17:33.320686"
   },
   "b9682d839d971f10": {
    "avisado_precio": 25.99,
@@ -6619,6 +6901,96 @@
    "tallas_revisado": "2026-10-28T16:18:47.274599",
    "ultima_vez": "2026-10-29T09:33:08.663546"
   },
+  "f64a6ea26ffd0fbe": {
+   "avisado_precio": 29.99,
+   "descuento": 62,
+   "nombre": "Polo básico slim piqué",
+   "precio": 29.99,
+   "tallas": [
+    [
+     "62",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "S",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "M",
+     true
+    ],
+    [
+     "L",
+     false
+    ],
+    [
+     "L",
+     false
+    ],
+    [
+     "L",
+     true
+    ],
+    [
+     "XL",
+     false
+    ],
+    [
+     "XL",
+     false
+    ],
+    [
+     "XL",
+     true
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "XXL",
+     false
+    ],
+    [
+     "XXL",
+     true
+    ],
+    [
+     "XXXL",
+     false
+    ],
+    [
+     "XXXL",
+     false
+    ],
+    [
+     "XXXL",
+     true
+    ],
+    [
+     "62",
+     true
+    ]
+   ],
+   "tallas_revisado": "2026-10-29T10:17:33.320686",
+   "ultima_vez": "2026-10-29T10:17:33.320686"
+  },
   "f72126f04df41a0c": {
    "avisado_precio": 19.9,
    "descuento": 72,
@@ -6719,7 +7091,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:18:47.274599",
-   "ultima_vez": "2026-10-29T10:03:16.031641"
+   "ultima_vez": "2026-10-29T10:17:33.320686"
   },
   "fa1637f52f08dc4e": {
    "avisado_precio": 25.99,
