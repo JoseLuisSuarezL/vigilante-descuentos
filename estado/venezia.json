@@ -5,7 +5,15 @@
  },
  "cursores": {},
  "fase_inicial": false,
- "ultima_revision": "2026-10-29T18:01:31.278875",
+ "ultima_revision": "2026-10-29T18:16:01.693875",
  "version_filtro": 2,
- "vistos": {}
+ "vistos": {
+  "90b20c217264cc8d": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Logo Hoodie Green",
+   "precio": 36.0,
+   "ultima_vez": "2026-10-29T18:16:01.693798"
+  }
+ }
 }
