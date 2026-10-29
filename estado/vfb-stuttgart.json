@@ -5,7 +5,7 @@
  },
  "cursores": {},
  "fase_inicial": false,
- "ultima_revision": "2026-10-29T16:17:16.760799",
+ "ultima_revision": "2026-10-29T16:32:10.463738",
  "version_filtro": 2,
  "vistos": {
   "491811453554c036": {
@@ -13,14 +13,14 @@
    "descuento": 62,
    "nombre": "VfB tanktop basketball black-red",
    "precio": 15.0,
-   "ultima_vez": "2026-10-29T16:17:16.760628"
+   "ultima_vez": "2026-10-29T16:32:10.463536"
   },
   "c151c072ff0afd3e": {
    "avisado_precio": null,
    "descuento": 62,
    "nombre": "Best Price in the last 30 days incl. VAT plus shipping costs",
    "precio": 30.0,
-   "ultima_vez": "2026-10-29T16:17:16.760628"
+   "ultima_vez": "2026-10-29T16:32:10.463536"
   }
  }
 }
