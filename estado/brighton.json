@@ -5,7 +5,7 @@
  },
  "cursores": {},
  "fase_inicial": false,
- "ultima_revision": "2026-10-29T08:31:50.975741",
+ "ultima_revision": "2026-10-29T09:05:15.048733",
  "version_filtro": 2,
  "vistos": {
   "7c3865a1b8681c01": {
@@ -14,8 +14,8 @@
    "nombre": "Under",
    "precio": 10.0,
    "tallas": [],
-   "tallas_revisado": "2026-10-28T08:47:53.071636",
-   "ultima_vez": "2026-10-29T08:31:50.975636"
+   "tallas_revisado": "2026-10-29T09:05:14.057234",
+   "ultima_vez": "2026-10-29T09:05:14.057234"
   }
  }
 }
