@@ -4,10 +4,10 @@
   "total": 0
  },
  "cursores": {
-  "https://pedrodelhierro.com/on/demandware.store/Sites-PDH-Site/es_ES/Search-UpdateGrid?cgid=men&pmin=0%2c01&start={inicio}&sz=120": 9
+  "https://pedrodelhierro.com/on/demandware.store/Sites-PDH-Site/es_ES/Search-UpdateGrid?cgid=men&pmin=0%2c01&start={inicio}&sz=120": 17
  },
  "fase_inicial": false,
- "ultima_revision": "2026-10-29T13:03:12.098896",
+ "ultima_revision": "2026-10-29T13:11:22.356703",
  "version_filtro": 2,
  "vistos": {
   "006b3237fc27851a": {
@@ -650,7 +650,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-29T10:17:33.320686",
-   "ultima_vez": "2026-10-29T12:32:41.440706"
+   "ultima_vez": "2026-10-29T13:11:22.356438"
   },
   "1edc159d9376f99b": {
    "avisado_precio": 19.99,
@@ -1076,7 +1076,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-29T10:17:33.320686",
-   "ultima_vez": "2026-10-29T12:32:41.440706"
+   "ultima_vez": "2026-10-29T13:11:22.356438"
   },
   "322c5a3d33a49da6": {
    "avisado_precio": null,
@@ -1251,7 +1251,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-29T13:03:07.701155"
+   "ultima_vez": "2026-10-29T13:11:22.356438"
   },
   "3c0fd46d81260e49": {
    "avisado_precio": 25.9,
@@ -2265,7 +2265,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:18:47.274599",
-   "ultima_vez": "2026-10-29T12:32:41.440706"
+   "ultima_vez": "2026-10-29T13:11:22.356438"
   },
   "573b8c321fb83a79": {
    "avisado_precio": 29.99,
@@ -2355,7 +2355,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-29T13:03:07.701155"
+   "ultima_vez": "2026-10-29T13:11:22.356438"
   },
   "5a450ee902deeb9f": {
    "avisado_precio": 15.9,
@@ -2907,7 +2907,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T16:18:47.274599",
-   "ultima_vez": "2026-10-29T12:32:41.440706"
+   "ultima_vez": "2026-10-29T13:11:22.356438"
   },
   "716115b8f519c3fa": {
    "avisado_precio": 19.99,
@@ -3243,7 +3243,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-29T13:03:07.701155"
+   "ultima_vez": "2026-10-29T13:11:22.356438"
   },
   "8004652e3a01cdcf": {
    "avisado_precio": 19.99,
@@ -3675,7 +3675,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-29T13:03:07.701155"
+   "ultima_vez": "2026-10-29T13:11:22.356438"
   },
   "8c5ab4cd4c9bd2fb": {
    "avisado_precio": 29.99,
@@ -3891,7 +3891,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-29T10:17:33.320686",
-   "ultima_vez": "2026-10-29T12:32:41.440706"
+   "ultima_vez": "2026-10-29T13:11:22.356438"
   },
   "93d3621a2593d930": {
    "avisado_precio": 19.95,
@@ -4353,7 +4353,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-29T13:03:07.701155"
+   "ultima_vez": "2026-10-29T13:11:22.356438"
   },
   "a3e9ab3c1b7f4f6f": {
    "avisado_precio": 15.99,
@@ -4815,7 +4815,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-29T13:03:07.701155"
+   "ultima_vez": "2026-10-29T13:11:22.356438"
   },
   "b7aa946481036507": {
    "avisado_precio": 39.95,
@@ -4929,7 +4929,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-29T13:03:07.701155"
+   "ultima_vez": "2026-10-29T13:11:22.356438"
   },
   "b86f7fc20cec075f": {
    "avisado_precio": 29.99,
@@ -5019,7 +5019,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:34:04.294111",
-   "ultima_vez": "2026-10-29T13:03:07.701155"
+   "ultima_vez": "2026-10-29T13:11:22.356438"
   },
   "b8d238fa2ccdb64f": {
    "avisado_precio": 29.9,
@@ -7169,7 +7169,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-29T10:17:33.320686",
-   "ultima_vez": "2026-10-29T12:32:41.440706"
+   "ultima_vez": "2026-10-29T13:11:22.356438"
   },
   "f72126f04df41a0c": {
    "avisado_precio": 19.9,
@@ -7361,7 +7361,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-29T09:03:52.667701",
-   "ultima_vez": "2026-10-29T12:32:41.440706"
+   "ultima_vez": "2026-10-29T13:11:22.356438"
   },
   "fd2ee802d438f3be": {
    "avisado_precio": 19.99,
