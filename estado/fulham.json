@@ -5,7 +5,7 @@
  },
  "cursores": {},
  "fase_inicial": false,
- "ultima_revision": "2026-10-30T19:37:23.620540",
+ "ultima_revision": "2026-10-30T20:11:35.102270",
  "version_filtro": 2,
  "vistos": {
   "59f3526ac3f858ee": {
@@ -92,7 +92,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:38:57.358296",
-   "ultima_vez": "2026-10-30T19:37:23.620249"
+   "ultima_vez": "2026-10-30T20:11:35.101959"
   },
   "674b4b0358e9c2a9": {
    "avisado_precio": null,
@@ -101,14 +101,14 @@
    "precio": 20.0,
    "tallas": [],
    "tallas_revisado": "2026-10-29T08:56:51.656134",
-   "ultima_vez": "2026-10-30T19:37:23.620249"
+   "ultima_vez": "2026-10-30T20:11:35.101959"
   },
   "6b0f7145cd249021": {
    "avisado_precio": null,
    "descuento": 80,
    "nombre": "25/26 Women's Full Zip Z.N.E Hoody",
    "precio": 30.0,
-   "ultima_vez": "2026-10-30T19:37:23.620249"
+   "ultima_vez": "2026-10-30T20:11:35.101959"
   },
   "82903ea382795a45": {
    "avisado_precio": 30.0,
@@ -206,7 +206,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:38:57.358296",
-   "ultima_vez": "2026-10-30T19:37:23.620249"
+   "ultima_vez": "2026-10-30T20:11:35.101959"
   },
   "85bcb6c9492aed9e": {
    "avisado_precio": 35.0,
@@ -292,14 +292,14 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:38:57.358296",
-   "ultima_vez": "2026-10-30T19:37:23.620249"
+   "ultima_vez": "2026-10-30T20:11:35.101959"
   },
   "87564560ae0ce12e": {
    "avisado_precio": null,
    "descuento": 75,
    "nombre": "25/26 Womens Z.N.E Full Zip Hoody",
    "precio": 35.0,
-   "ultima_vez": "2026-10-30T19:37:23.620249"
+   "ultima_vez": "2026-10-30T20:11:35.101959"
   },
   "91b7601bb30c122e": {
    "avisado_precio": 20.0,
@@ -373,7 +373,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:38:57.358296",
-   "ultima_vez": "2026-10-30T19:37:23.620249"
+   "ultima_vez": "2026-10-30T20:11:35.101959"
   },
   "9493f10ff90dbc3b": {
    "avisado_precio": 15.0,
@@ -459,7 +459,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:38:57.358296",
-   "ultima_vez": "2026-10-30T19:37:23.620249"
+   "ultima_vez": "2026-10-30T20:11:35.101959"
   },
   "9da5ea68b5bb0337": {
    "avisado_precio": null,
@@ -468,14 +468,14 @@
    "precio": 60.0,
    "tallas": [],
    "tallas_revisado": "2026-10-29T08:56:51.656134",
-   "ultima_vez": "2026-10-30T19:37:23.620249"
+   "ultima_vez": "2026-10-30T20:11:35.101959"
   },
   "a5d93c454bfbc977": {
    "avisado_precio": null,
    "descuento": 65,
    "nombre": "25/26 Tiro25 Women's All Weather Jacket",
    "precio": 20.0,
-   "ultima_vez": "2026-10-30T19:37:23.620249"
+   "ultima_vez": "2026-10-30T20:11:35.101959"
   },
   "a62c6138a366800c": {
    "avisado_precio": 20.0,
@@ -573,14 +573,14 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:38:57.358296",
-   "ultima_vez": "2026-10-30T19:37:23.620249"
+   "ultima_vez": "2026-10-30T20:11:35.101959"
   },
   "b729efffcc790b0a": {
    "avisado_precio": null,
    "descuento": 65,
    "nombre": "25/26 Womens Z.N.E Full Zip Track Top",
    "precio": 35.0,
-   "ultima_vez": "2026-10-30T19:37:23.620249"
+   "ultima_vez": "2026-10-30T20:11:35.101959"
   },
   "cd1126c8662f0a5d": {
    "avisado_precio": 60.0,
@@ -678,7 +678,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:38:57.358296",
-   "ultima_vez": "2026-10-30T19:37:23.620249"
+   "ultima_vez": "2026-10-30T20:11:35.101959"
   },
   "f324fbcc4b8f9bda": {
    "avisado_precio": 35.0,
@@ -764,7 +764,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-28T08:38:57.358296",
-   "ultima_vez": "2026-10-30T19:37:23.620249"
+   "ultima_vez": "2026-10-30T20:11:35.101959"
   }
  }
 }
