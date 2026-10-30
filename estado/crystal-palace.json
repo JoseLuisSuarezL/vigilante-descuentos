@@ -5,7 +5,7 @@
  },
  "cursores": {},
  "fase_inicial": false,
- "ultima_revision": "2026-10-30T20:30:35.219138",
+ "ultima_revision": "2026-10-30T20:46:21.258419",
  "version_filtro": 2,
  "vistos": {
   "11b05741d86a1e8c": {
@@ -13,21 +13,21 @@
    "descuento": 67,
    "nombre": "Girls Eagle Long PJ's",
    "precio": 13.0,
-   "ultima_vez": "2026-10-30T20:30:35.219023"
+   "ultima_vez": "2026-10-30T20:46:21.258315"
   },
   "3a7986d83a768a63": {
    "avisado_precio": null,
    "descuento": 67,
    "nombre": "CPFC Pride Bucket Hat",
    "precio": 6.0,
-   "ultima_vez": "2026-10-30T20:30:35.219023"
+   "ultima_vez": "2026-10-30T20:46:21.258315"
   },
   "82f13ea7a5c92ef3": {
    "avisado_precio": null,
    "descuento": 71,
    "nombre": "FA Cup Winners Bucket Hat Red",
    "precio": 6.0,
-   "ultima_vez": "2026-10-30T20:30:35.219023"
+   "ultima_vez": "2026-10-30T20:46:21.258315"
   },
   "a50dfb48f397716f": {
    "avisado_precio": null,
@@ -41,7 +41,7 @@
    "descuento": 70,
    "nombre": "CPFC Socks 2 Pack Youth (4-6)",
    "precio": 3.0,
-   "ultima_vez": "2026-10-30T20:30:35.219023"
+   "ultima_vez": "2026-10-30T20:46:21.258315"
   }
  }
 }
