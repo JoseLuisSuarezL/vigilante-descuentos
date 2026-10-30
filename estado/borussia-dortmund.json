@@ -5,7 +5,15 @@
  },
  "cursores": {},
  "fase_inicial": false,
- "ultima_revision": "2026-10-30T02:46:43.683594",
+ "ultima_revision": "2026-10-30T03:02:01.110623",
  "version_filtro": 2,
- "vistos": {}
+ "vistos": {
+  "0b67133f3ba1dd1b": {
+   "avisado_precio": null,
+   "descuento": 67,
+   "nombre": "BVB Polo Essential grau",
+   "precio": 14.0,
+   "ultima_vez": "2026-10-30T03:02:01.110540"
+  }
+ }
 }
