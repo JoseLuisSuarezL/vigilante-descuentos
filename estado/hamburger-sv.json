@@ -5,7 +5,7 @@
  },
  "cursores": {},
  "fase_inicial": false,
- "ultima_revision": "2026-10-30T22:46:32.551044",
+ "ultima_revision": "2026-10-30T23:02:02.207147",
  "version_filtro": 2,
  "vistos": {
   "ede14e9e538ebf0a": {
@@ -13,7 +13,7 @@
    "descuento": 60,
    "nombre": "DVD/Blu-Ray \"Always Hamburg\"",
    "precio": 10.0,
-   "ultima_vez": "2026-10-30T22:46:32.550924"
+   "ultima_vez": "2026-10-30T23:02:02.207034"
   }
  }
 }
