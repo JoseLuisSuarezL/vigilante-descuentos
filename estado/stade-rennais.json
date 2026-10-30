@@ -5,7 +5,7 @@
  },
  "cursores": {},
  "fase_inicial": false,
- "ultima_revision": "2026-10-30T16:46:12.481143",
+ "ultima_revision": "2026-10-30T17:01:41.951931",
  "version_filtro": 2,
  "vistos": {
   "07f0699624e9fab6": {
@@ -13,56 +13,56 @@
    "descuento": 67,
    "nombre": "MAILLOT GARDIEN JAUNE ADULTE 2023/2024",
    "precio": 30.0,
-   "ultima_vez": "2026-10-30T16:46:12.481016"
+   "ultima_vez": "2026-10-30T17:01:41.951803"
   },
   "4e86fad75e8ccd9b": {
    "avisado_precio": null,
    "descuento": 71,
    "nombre": "T-SHIRT TRUFFERT COLLECTOR",
    "precio": 10.0,
-   "ultima_vez": "2026-10-30T16:46:12.481016"
+   "ultima_vez": "2026-10-30T17:01:41.951803"
   },
   "630d2c501fefb785": {
    "avisado_precio": null,
    "descuento": 71,
    "nombre": "T-SHIRT GOUIRI COLLECTOR",
    "precio": 10.0,
-   "ultima_vez": "2026-10-30T16:46:12.481016"
+   "ultima_vez": "2026-10-30T17:01:41.951803"
   },
   "9c5a78e651de3985": {
    "avisado_precio": null,
    "descuento": 71,
    "nombre": "T-SHIRT MANDANDA COLLECTOR",
    "precio": 10.0,
-   "ultima_vez": "2026-10-30T16:46:12.481016"
+   "ultima_vez": "2026-10-30T17:01:41.951803"
   },
   "b39b24edc8b46dd3": {
    "avisado_precio": null,
    "descuento": 71,
    "nombre": "T-SHIRT JOTA COLLECTOR",
    "precio": 10.0,
-   "ultima_vez": "2026-10-30T16:46:12.481016"
+   "ultima_vez": "2026-10-30T17:01:41.951803"
   },
   "bcecc73731033ccf": {
    "avisado_precio": null,
    "descuento": 71,
    "nombre": "T-SHIRT GRØNBÆK COLLECTOR",
    "precio": 10.0,
-   "ultima_vez": "2026-10-30T16:46:12.481016"
+   "ultima_vez": "2026-10-30T17:01:41.951803"
   },
   "c74aadd4d58c0d9a": {
    "avisado_precio": 30.0,
    "descuento": 67,
    "nombre": "MAILLOT GARDIEN VERT ADULTE 2023/2024",
    "precio": 30.0,
-   "ultima_vez": "2026-10-30T16:46:12.481016"
+   "ultima_vez": "2026-10-30T17:01:41.951803"
   },
   "f955a140d1fe2b78": {
    "avisado_precio": 30.0,
    "descuento": 67,
    "nombre": "MAILLOT GARDIEN BLEU ADULTE 2023/2024",
    "precio": 30.0,
-   "ultima_vez": "2026-10-30T16:46:12.481016"
+   "ultima_vez": "2026-10-30T17:01:41.951803"
   }
  }
 }
