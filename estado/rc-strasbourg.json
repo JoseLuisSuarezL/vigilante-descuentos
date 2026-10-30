@@ -5,7 +5,7 @@
  },
  "cursores": {},
  "fase_inicial": false,
- "ultima_revision": "2026-10-30T02:16:38.758840",
+ "ultima_revision": "2026-10-30T02:31:37.075122",
  "version_filtro": 2,
  "vistos": {
   "13b332f289e7ded0": {
@@ -13,28 +13,28 @@
    "descuento": 64,
    "nombre": "Grande Serviette Logo Bleu",
    "precio": 10.0,
-   "ultima_vez": "2026-10-30T02:16:38.758670"
+   "ultima_vez": "2026-10-30T02:31:37.074965"
   },
   "4172397ab1ecd9c0": {
    "avisado_precio": null,
    "descuento": 64,
    "nombre": "Serviette Marinière",
    "precio": 10.0,
-   "ultima_vez": "2026-10-30T02:16:38.758670"
+   "ultima_vez": "2026-10-30T02:31:37.074965"
   },
   "a84fd7cf0885f4ce": {
    "avisado_precio": null,
    "descuento": 80,
    "nombre": "T-Shirt Europe Célébration - Junior",
    "precio": 5.0,
-   "ultima_vez": "2026-10-30T02:16:38.758670"
+   "ultima_vez": "2026-10-30T02:31:37.074965"
   },
   "c80d2d5d02956186": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Bob Racing x Festival Décibulles",
    "precio": 12.0,
-   "ultima_vez": "2026-10-30T02:16:38.758670"
+   "ultima_vez": "2026-10-30T02:31:37.074965"
   }
  }
 }
