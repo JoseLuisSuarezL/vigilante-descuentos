@@ -5,7 +5,7 @@
  },
  "cursores": {},
  "fase_inicial": false,
- "ultima_revision": "2026-10-30T11:16:49.894635",
+ "ultima_revision": "2026-10-30T11:32:04.049392",
  "version_filtro": 2,
  "vistos": {
   "0869990f16ea7847": {
@@ -13,28 +13,28 @@
    "descuento": 62,
    "nombre": "Details für adidas Heim-Hose 2023/2024",
    "precio": 17.0,
-   "ultima_vez": "2026-10-30T11:16:49.894416"
+   "ultima_vez": "2026-10-30T11:32:04.049169"
   },
   "0f9d4dce6ddf7976": {
    "avisado_precio": null,
    "descuento": 87,
    "nombre": "✓ Offizieller FC Schalke 04 Shop ✓ Mindestbestellwert* ✓ Versandkostenfrei ab *",
    "precio": 10.0,
-   "ultima_vez": "2026-10-30T11:16:49.894416"
+   "ultima_vez": "2026-10-30T11:32:04.049169"
   },
   "3b2dcc81df73f5df": {
    "avisado_precio": null,
    "descuento": 73,
    "nombre": "Details für PS4 Controller Tuning Zubehör Set",
    "precio": 4.0,
-   "ultima_vez": "2026-10-30T11:16:49.894416"
+   "ultima_vez": "2026-10-30T11:32:04.049169"
   },
   "afa1b534eda67312": {
    "avisado_precio": null,
    "descuento": 62,
    "nombre": "Details für adidas Shorts Damen washed blau",
    "precio": 15.0,
-   "ultima_vez": "2026-10-30T11:16:49.894416"
+   "ultima_vez": "2026-10-30T11:32:04.049169"
   }
  }
 }
