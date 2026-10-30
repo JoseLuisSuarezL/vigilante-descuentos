@@ -5,7 +5,7 @@
  },
  "cursores": {},
  "fase_inicial": false,
- "ultima_revision": "2026-10-30T21:31:31.823273",
+ "ultima_revision": "2026-10-30T21:46:11.487908",
  "version_filtro": 2,
  "vistos": {
   "2cdd89e7e6730592": {
@@ -13,35 +13,35 @@
    "descuento": 60,
    "nombre": "MAGLIA GARA THIRD 24/25 NERO",
    "precio": 30.0,
-   "ultima_vez": "2026-10-30T21:31:31.823032"
+   "ultima_vez": "2026-10-30T21:46:11.487739"
   },
   "409c64adcff318b4": {
    "avisado_precio": null,
    "descuento": 70,
    "nombre": "CUSCINO TRAVEL",
    "precio": 6.27,
-   "ultima_vez": "2026-10-30T21:31:31.823032"
+   "ultima_vez": "2026-10-30T21:46:11.487739"
   },
   "49521b32a725720b": {
    "avisado_precio": 30.0,
    "descuento": 60,
    "nombre": "MAGLIA GARA AWAY 24/25 BIANCA",
    "precio": 30.0,
-   "ultima_vez": "2026-10-30T21:31:31.823032"
+   "ultima_vez": "2026-10-30T21:46:11.487739"
   },
   "6dfa679eb8027522": {
    "avisado_precio": null,
    "descuento": 70,
    "nombre": "RACCHETTA PADEL FROSINONE 23/24",
    "precio": 23.97,
-   "ultima_vez": "2026-10-30T21:31:31.823032"
+   "ultima_vez": "2026-10-30T21:46:11.487739"
   },
   "af7d8a1fb328eb46": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "MAGLIA GARA HOME 24/25 GIALLA",
    "precio": 30.0,
-   "ultima_vez": "2026-10-30T21:31:31.823032"
+   "ultima_vez": "2026-10-30T21:46:11.487739"
   }
  }
 }
