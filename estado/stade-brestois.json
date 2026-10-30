@@ -5,7 +5,7 @@
  },
  "cursores": {},
  "fase_inicial": false,
- "ultima_revision": "2026-10-30T22:01:26.760511",
+ "ultima_revision": "2026-10-30T22:16:06.099472",
  "version_filtro": 2,
  "vistos": {
   "126915e41b085148": {
@@ -13,21 +13,21 @@
    "descuento": 60,
    "nombre": "Maillot Pré-match Rouge adulte S2425",
    "precio": 14.0,
-   "ultima_vez": "2026-10-30T22:01:26.759254"
+   "ultima_vez": "2026-10-30T22:16:06.098223"
   },
   "15c699c8168d1aaf": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Pantalon d'entr BM enfant S2425",
    "precio": 23.0,
-   "ultima_vez": "2026-10-30T22:01:26.759254"
+   "ultima_vez": "2026-10-30T22:16:06.098223"
   },
   "1863defbe8cb5542": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Ensemble de Noël bébé",
    "precio": 25.0,
-   "ultima_vez": "2026-10-30T22:01:26.759254"
+   "ultima_vez": "2026-10-30T22:16:06.098223"
   },
   "1a5729f32ba3d57e": {
    "avisado_precio": null,
@@ -55,42 +55,42 @@
    "descuento": 60,
    "nombre": "Hoodie Noir Enfant",
    "precio": 25.0,
-   "ultima_vez": "2026-10-30T22:01:26.759254"
+   "ultima_vez": "2026-10-30T22:16:06.098223"
   },
   "422246d0a7eaee40": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Pantalon de sortie Gris enfant S2526",
    "precio": 23.0,
-   "ultima_vez": "2026-10-30T22:01:26.759254"
+   "ultima_vez": "2026-10-30T22:16:06.098223"
   },
   "4f9382c334bb6ed4": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Short molleton bleu marine",
    "precio": 16.0,
-   "ultima_vez": "2026-10-30T22:01:26.759254"
+   "ultima_vez": "2026-10-30T22:16:06.098223"
   },
   "524b374526691b8e": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Maillot extérieur Blanc enfant 2526",
    "precio": 41.0,
-   "ultima_vez": "2026-10-30T22:01:26.759254"
+   "ultima_vez": "2026-10-30T22:16:06.098223"
   },
   "5bf1118f3190698d": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Veste zippée homme noir",
    "precio": 55.0,
-   "ultima_vez": "2026-10-30T22:01:26.759254"
+   "ultima_vez": "2026-10-30T22:16:06.098223"
   },
   "5ce9c17e132c3cf4": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Pantalon de sortie Noir enfant S2526",
    "precio": 23.0,
-   "ultima_vez": "2026-10-30T22:01:26.759254"
+   "ultima_vez": "2026-10-30T22:16:06.098223"
   },
   "5ed6c8d7ddab1572": {
    "avisado_precio": null,
@@ -104,7 +104,7 @@
    "descuento": 60,
    "nombre": "Maillot extérieur Gris enfant 2526",
    "precio": 41.0,
-   "ultima_vez": "2026-10-30T22:01:26.759254"
+   "ultima_vez": "2026-10-30T22:16:06.098223"
   },
   "7a9da9c9c3b5828d": {
    "avisado_precio": null,
@@ -125,14 +125,14 @@
    "descuento": 60,
    "nombre": "Pantalon de sortie BM enfant S2526",
    "precio": 23.0,
-   "ultima_vez": "2026-10-30T22:01:26.759254"
+   "ultima_vez": "2026-10-30T22:16:06.098223"
   },
   "9ad8b3039198c55d": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Short d'entr BM adulte S2425",
    "precio": 16.0,
-   "ultima_vez": "2026-10-30T22:01:26.759254"
+   "ultima_vez": "2026-10-30T22:16:06.098223"
   },
   "9ae08e9a29b46e28": {
    "avisado_precio": 45.0,
@@ -146,14 +146,14 @@
    "descuento": 60,
    "nombre": "Maillot blanc enfant S2425",
    "precio": 41.0,
-   "ultima_vez": "2026-10-30T22:01:26.759254"
+   "ultima_vez": "2026-10-30T22:16:06.098223"
   },
   "a48d31ca43031574": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Pull de Noël SB29 Enfant",
    "precio": 16.0,
-   "ultima_vez": "2026-10-30T22:01:26.759254"
+   "ultima_vez": "2026-10-30T22:16:06.098223"
   },
   "a93982c00fd04dbd": {
    "avisado_precio": 45.0,
@@ -174,42 +174,42 @@
    "descuento": 60,
    "nombre": "Hoodie Camel Enfant",
    "precio": 25.0,
-   "ultima_vez": "2026-10-30T22:01:26.759254"
+   "ultima_vez": "2026-10-30T22:16:06.098223"
   },
   "c4bf44f1ce4a532f": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Pantalon d'entr BM enfant S2526",
    "precio": 23.0,
-   "ultima_vez": "2026-10-30T22:01:26.759254"
+   "ultima_vez": "2026-10-30T22:16:06.098223"
   },
   "cc270feacb710254": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Maillot bleu enfant S2425",
    "precio": 41.0,
-   "ultima_vez": "2026-10-30T22:01:26.759254"
+   "ultima_vez": "2026-10-30T22:16:06.098223"
   },
   "d13455ec24217a8b": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Maillot domicile enfant 2526",
    "precio": 41.0,
-   "ultima_vez": "2026-10-30T22:01:26.759254"
+   "ultima_vez": "2026-10-30T22:16:06.098223"
   },
   "dc91ae9ee3191f9c": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Short molleton noir",
    "precio": 16.0,
-   "ultima_vez": "2026-10-30T22:01:26.759254"
+   "ultima_vez": "2026-10-30T22:16:06.098223"
   },
   "dffde5354a4acbb1": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Maillot Blanc Coupe d'Europe enfant",
    "precio": 49.0,
-   "ultima_vez": "2026-10-30T22:01:26.759254"
+   "ultima_vez": "2026-10-30T22:16:06.098223"
   }
  }
 }
