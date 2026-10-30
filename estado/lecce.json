@@ -5,7 +5,7 @@
  },
  "cursores": {},
  "fase_inicial": false,
- "ultima_revision": "2026-10-30T02:38:08.470924",
+ "ultima_revision": "2026-10-30T02:46:42.994001",
  "version_filtro": 2,
  "vistos": {
   "955070bc51dc0474": {
@@ -13,56 +13,56 @@
    "descuento": 75,
    "nombre": "Cappellino StoriA",
    "precio": 7.5,
-   "ultima_vez": "2026-10-30T02:38:08.470638"
+   "ultima_vez": "2026-10-30T02:46:42.993669"
   },
   "b4667bce392ed629": {
    "avisado_precio": null,
    "descuento": 75,
    "nombre": "Pantaloni rappresentanza neri",
    "precio": 12.5,
-   "ultima_vez": "2026-10-30T02:38:08.470638"
+   "ultima_vez": "2026-10-30T02:46:42.993669"
   },
   "cb5e07e0110ecd4d": {
    "avisado_precio": null,
    "descuento": 75,
    "nombre": "Felpa nera con cappuccio",
    "precio": 17.5,
-   "ultima_vez": "2026-10-30T02:38:08.470638"
+   "ultima_vez": "2026-10-30T02:46:42.993669"
   },
   "d1aafe2a1b394d1e": {
    "avisado_precio": null,
    "descuento": 75,
    "nombre": "Felpa blu navy con cappuccio",
    "precio": 17.5,
-   "ultima_vez": "2026-10-30T02:38:08.470638"
+   "ultima_vez": "2026-10-30T02:46:42.993669"
   },
   "ea2d8b5226af75c7": {
    "avisado_precio": null,
    "descuento": 75,
    "nombre": "Bomber Uomo US Lecce Black",
    "precio": 25.0,
-   "ultima_vez": "2026-10-30T02:38:08.470638"
+   "ultima_vez": "2026-10-30T02:46:42.993669"
   },
   "f34e0078dc556079": {
    "avisado_precio": null,
    "descuento": 75,
    "nombre": "Pantaloni tuta neri con strisce giallo-rosse",
    "precio": 13.75,
-   "ultima_vez": "2026-10-30T02:38:08.470638"
+   "ultima_vez": "2026-10-30T02:46:42.993669"
   },
   "f627d1f0e7637491": {
    "avisado_precio": null,
    "descuento": 75,
    "nombre": "Felpa con Cappuccio Black",
    "precio": 17.5,
-   "ultima_vez": "2026-10-30T02:38:08.470638"
+   "ultima_vez": "2026-10-30T02:46:42.993669"
   },
   "f9b6f2dd2ad2c53f": {
    "avisado_precio": null,
    "descuento": 75,
    "nombre": "Felpa tuta nera con zip e strisce giallo-rosse",
    "precio": 17.5,
-   "ultima_vez": "2026-10-30T02:38:08.470638"
+   "ultima_vez": "2026-10-30T02:46:42.993669"
   }
  }
 }
