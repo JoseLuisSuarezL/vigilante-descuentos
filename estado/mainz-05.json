@@ -5,7 +5,7 @@
  },
  "cursores": {},
  "fase_inicial": false,
- "ultima_revision": "2026-10-31T22:46:04.505418",
+ "ultima_revision": "2026-10-31T23:02:07.024541",
  "version_filtro": 2,
  "vistos": {
   "03b57f196337adaf": {
@@ -13,14 +13,14 @@
    "descuento": 60,
    "nombre": "Schal Mainz 05",
    "precio": 12.0,
-   "ultima_vez": "2026-10-31T22:46:04.505299"
+   "ultima_vez": "2026-10-31T23:02:07.024431"
   },
   "816ce5c41c537e58": {
    "avisado_precio": null,
    "descuento": 67,
    "nombre": "Poster Legenden",
    "precio": 15.0,
-   "ultima_vez": "2026-10-31T22:46:04.505299"
+   "ultima_vez": "2026-10-31T23:02:07.024431"
   }
  }
 }
