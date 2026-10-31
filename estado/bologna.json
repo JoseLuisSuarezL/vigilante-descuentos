@@ -5,7 +5,7 @@
  },
  "cursores": {},
  "fase_inicial": false,
- "ultima_revision": "2026-10-31T01:13:24.708021",
+ "ultima_revision": "2026-10-31T02:21:43.782575",
  "version_filtro": 2,
  "vistos": {
   "beb2834cf54052d1": {
@@ -13,7 +13,7 @@
    "descuento": 61,
    "nombre": "BOLOGNA FC WHITE AND BLUE FAN SWEATSHIRT 2023/24 - LITTLE KIDS",
    "precio": 22.0,
-   "ultima_vez": "2026-10-31T01:13:24.707752"
+   "ultima_vez": "2026-10-31T02:21:43.782249"
   },
   "fd0a13c9ef182779": {
    "avisado_precio": null,
@@ -22,7 +22,7 @@
    "precio": 10.0,
    "tallas": null,
    "tallas_revisado": "2026-10-28T16:27:23.884717",
-   "ultima_vez": "2026-10-31T01:13:24.707752"
+   "ultima_vez": "2026-10-31T02:21:43.782249"
   }
  }
 }
