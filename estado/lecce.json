@@ -5,7 +5,7 @@
  },
  "cursores": {},
  "fase_inicial": false,
- "ultima_revision": "2026-10-31T11:17:27.498085",
+ "ultima_revision": "2026-10-31T11:32:25.587420",
  "version_filtro": 2,
  "vistos": {
   "09833a98c43a871f": {
@@ -13,539 +13,539 @@
    "descuento": 69,
    "nombre": "Borsone blu extra large",
    "precio": 19.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "0d41c56ff529e7ab": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "T-shirt blu navy con scollo a V",
    "precio": 9.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "0ff89529141cc088": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "T-shirt blu navy Subbuteo",
    "precio": 9.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "15cfddbf2a618d9c": {
    "avisado_precio": null,
    "descuento": 70,
    "nombre": "Cappellino in maglia blu navy con logo",
    "precio": 5.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "1db2fe952484ef6c": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "T-shirt in cotone blu striped",
    "precio": 9.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "1e9ccceb51483bd7": {
    "avisado_precio": null,
    "descuento": 71,
    "nombre": "Shorts Gara Blue 25/26",
    "precio": 9.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "20338d53b2289bc6": {
    "avisado_precio": null,
    "descuento": 67,
    "nombre": "Felpa blu navy US Lecce Heritage",
    "precio": 19.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "208083b8ef438e95": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Pantaloni Training blue 25/26",
    "precio": 19.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "22f14c8430efbf74": {
    "avisado_precio": null,
    "descuento": 70,
    "nombre": "Scaldacollo blu navy con logo",
    "precio": 5.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "23c0844c8a6a6699": {
    "avisado_precio": null,
    "descuento": 70,
    "nombre": "Sciarpa blu navy con logo",
    "precio": 5.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "272073e75bafa9cc": {
    "avisado_precio": null,
    "descuento": 64,
    "nombre": "T-Shirt StoriA",
    "precio": 9.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "2b7adbc061ccb7bf": {
    "avisado_precio": null,
    "descuento": 73,
    "nombre": "Felpa pre-gara Home 25/26",
    "precio": 29.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "2c41293329d2e98d": {
    "avisado_precio": null,
    "descuento": 79,
    "nombre": "Bomber nero",
    "precio": 29.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "2e9344220f8fae96": {
    "avisado_precio": null,
    "descuento": 67,
    "nombre": "Pantaloni tuta neri con tasche",
    "precio": 19.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "32e12531a3d104d7": {
    "avisado_precio": null,
    "descuento": 67,
    "nombre": "Cappellino U.S. Lecce - Stripes Red",
    "precio": 9.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "3772c63c1a8fb03d": {
    "avisado_precio": null,
    "descuento": 70,
    "nombre": "Cappellino in maglia blu navy strisce giallo-rosse",
    "precio": 5.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "385f4aa8a07382e0": {
    "avisado_precio": null,
    "descuento": 80,
    "nombre": "Pantaloncini uomo blu",
    "precio": 9.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "3d898191bdae19f9": {
    "avisado_precio": null,
    "descuento": 67,
    "nombre": "Cappellino U.S. Lecce - Stripes Blue",
    "precio": 9.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "4037ecb7cebb4c0a": {
    "avisado_precio": null,
    "descuento": 67,
    "nombre": "Pantaloni tuta neri rappresentanza 25/26",
    "precio": 19.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "409f015f3335b740": {
    "avisado_precio": null,
    "descuento": 67,
    "nombre": "Felpa blu navy con strisce giallo-rosse",
    "precio": 19.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "4381a44e716c3c00": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "T-shirt college bianca/blu navy",
    "precio": 9.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "49558dc246312243": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "T-shirt nera Subbuteo",
    "precio": 9.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "4b26678a99559479": {
    "avisado_precio": null,
    "descuento": 70,
    "nombre": "Cappellino in maglia nero con strisce giallo-rosse",
    "precio": 5.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "4e0cff8b71811c73": {
    "avisado_precio": null,
    "descuento": 79,
    "nombre": "Bomber blu navy",
    "precio": 29.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "50ec946ba3b96b9e": {
    "avisado_precio": null,
    "descuento": 70,
    "nombre": "Cappellino in maglia nero con logo",
    "precio": 5.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "538601353c408140": {
    "avisado_precio": null,
    "descuento": 70,
    "nombre": "Sciarpa blu navy con strisce giallo-rosse",
    "precio": 5.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "5425f9e4c845c2fb": {
    "avisado_precio": null,
    "descuento": 77,
    "nombre": "Giacca antivento blu",
    "precio": 29.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "547a8ad23d557cb6": {
    "avisado_precio": 29.99,
    "descuento": 65,
    "nombre": "Maglia Gara Away 25/26",
    "precio": 29.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "5a74c0665215c6d5": {
    "avisado_precio": null,
    "descuento": 70,
    "nombre": "Scaldacollo blu navy con strisce giallo-rosse",
    "precio": 5.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "5dd7fbe16badc257": {
    "avisado_precio": null,
    "descuento": 67,
    "nombre": "T-shirt nera",
    "precio": 9.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "5ff4e992ac992e87": {
    "avisado_precio": null,
    "descuento": 80,
    "nombre": "Pantaloncini uomo in cotone blu",
    "precio": 9.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "66fa570b0e562323": {
    "avisado_precio": null,
    "descuento": 65,
    "nombre": "Maglia Gara Home 25/26",
    "precio": 29.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "6a961563bb53d8fd": {
    "avisado_precio": null,
    "descuento": 70,
    "nombre": "Scaldacollo nero con logo",
    "precio": 5.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "6b3861e395c04933": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "T-shirt college yellow/red",
    "precio": 9.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "6c85728da02f3aa1": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "T-shirt in cotone nera striped",
    "precio": 9.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "6e2325a6473e4f5e": {
    "avisado_precio": null,
    "descuento": 73,
    "nombre": "Felpa pre-gara Third 25/26",
    "precio": 29.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "6f75ffeb45cd84f0": {
    "avisado_precio": null,
    "descuento": 72,
    "nombre": "Pantaloncini Training blue 25/26",
    "precio": 9.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "72efaab4395c09fd": {
    "avisado_precio": null,
    "descuento": 71,
    "nombre": "Shorts Gara Third 25/26",
    "precio": 9.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "745f608eaf740b22": {
    "avisado_precio": null,
    "descuento": 77,
    "nombre": "Giacca antivento nera",
    "precio": 29.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "7ba72e2e97b2975c": {
    "avisado_precio": null,
    "descuento": 67,
    "nombre": "Calzettoni bianchi Gara Away 25/26",
    "precio": 5.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "7d95e791c511ca11": {
    "avisado_precio": null,
    "descuento": 67,
    "nombre": "Calzettoni blu navy Gara Home e Third 25/26",
    "precio": 5.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "840d8fe1206a688f": {
    "avisado_precio": null,
    "descuento": 67,
    "nombre": "Cappellino U.S. Lecce - Black",
    "precio": 9.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "88cfde94083f15ff": {
    "avisado_precio": 29.99,
    "descuento": 65,
    "nombre": "Maglia Gara Third 25/26",
    "precio": 29.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "8aafc40297044005": {
    "avisado_precio": null,
    "descuento": 71,
    "nombre": "Shorts Gara Home Red 25/26",
    "precio": 9.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "8f945f0fc0d5ff48": {
    "avisado_precio": null,
    "descuento": 67,
    "nombre": "T-shirt blu navy",
    "precio": 9.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "955070bc51dc0474": {
    "avisado_precio": null,
    "descuento": 75,
    "nombre": "Cappellino StoriA",
    "precio": 7.5,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "972547244f514db2": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Borsone da viaggio blu",
    "precio": 19.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "98b83f45fbeedac7": {
    "avisado_precio": null,
    "descuento": 73,
    "nombre": "Felpa con bottoni e strisce giallo-rosse",
    "precio": 19.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "9f3d1000a2b83cf2": {
    "avisado_precio": null,
    "descuento": 67,
    "nombre": "Cappellino U.S. Lecce - Stripes White",
    "precio": 9.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "a4275d001d1b296c": {
    "avisado_precio": null,
    "descuento": 71,
    "nombre": "Shorts Gara Away 25/26",
    "precio": 9.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "a92130c7415440e4": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "T-shirt college blu",
    "precio": 9.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "ae01ab78881d4a2a": {
    "avisado_precio": null,
    "descuento": 67,
    "nombre": "Cappellino U.S. Lecce - Blue",
    "precio": 9.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "ae5718d5f78b9c94": {
    "avisado_precio": null,
    "descuento": 67,
    "nombre": "Calzettoni rossi Gara Home e Third 25/26",
    "precio": 5.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "b4667bce392ed629": {
    "avisado_precio": null,
    "descuento": 75,
    "nombre": "Pantaloni rappresentanza neri",
    "precio": 12.5,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "b4be76240cf3e46c": {
    "avisado_precio": null,
    "descuento": 71,
    "nombre": "Shorts Gara Coppa Italia",
    "precio": 9.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "b7723c5ab1f3602f": {
    "avisado_precio": null,
    "descuento": 70,
    "nombre": "Scaldacollo nero con strisce giallo-rosse",
    "precio": 5.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "c0f65b6840b7be8c": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Borsone da viaggio nero",
    "precio": 19.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "c54a92449c7f0410": {
    "avisado_precio": 9.99,
    "descuento": 67,
    "nombre": "Maglia Gara Home Replica 25/26",
    "precio": 9.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "c61ce2c927e188a3": {
    "avisado_precio": null,
    "descuento": 75,
    "nombre": "Bermuda training blue",
    "precio": 9.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "cb5e07e0110ecd4d": {
    "avisado_precio": null,
    "descuento": 86,
    "nombre": "Felpa nera con cappuccio",
    "precio": 9.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "d0dc2590b3194e85": {
    "avisado_precio": null,
    "descuento": 64,
    "nombre": "Polo blu scuro 25/26",
    "precio": 19.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "d1001970a27a6652": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "T-shirt college white",
    "precio": 9.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "d1aafe2a1b394d1e": {
    "avisado_precio": null,
    "descuento": 86,
    "nombre": "Felpa blu navy con cappuccio",
    "precio": 9.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "d740ea4c266984d1": {
    "avisado_precio": null,
    "descuento": 72,
    "nombre": "Pantaloncini Training black 25/26",
    "precio": 9.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "d90325b5ce65c25c": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "T-shirt bianca con scollo a V",
    "precio": 9.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "dfcc2f77bf333c0c": {
    "avisado_precio": null,
    "descuento": 71,
    "nombre": "Felpa tuta con zip nera",
    "precio": 19.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "e119d2f3ec5be0e5": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "T-shirt nera con scollo a V",
    "precio": 9.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "e173a6a14a129e42": {
    "avisado_precio": null,
    "descuento": 67,
    "nombre": "Pantaloni tuta blu rappresentanza 25/26",
    "precio": 19.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "ea2d8b5226af75c7": {
    "avisado_precio": null,
    "descuento": 80,
    "nombre": "Bomber Uomo US Lecce Black",
    "precio": 19.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "ecb1ec8ae870ed5e": {
    "avisado_precio": null,
    "descuento": 79,
    "nombre": "Bomber blu navy kids",
    "precio": 29.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "f2dab549d0fccb59": {
    "avisado_precio": null,
    "descuento": 67,
    "nombre": "Cappellino U.S. Lecce - Stripes Black",
    "precio": 9.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "f34e0078dc556079": {
    "avisado_precio": null,
    "descuento": 82,
    "nombre": "Pantaloni tuta neri con strisce giallo-rosse",
    "precio": 9.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "f627d1f0e7637491": {
    "avisado_precio": null,
    "descuento": 86,
    "nombre": "Felpa con Cappuccio Black",
    "precio": 9.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "f9b6f2dd2ad2c53f": {
    "avisado_precio": null,
    "descuento": 86,
    "nombre": "Felpa tuta nera con zip e strisce giallo-rosse",
    "precio": 9.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "fad22487efba946f": {
    "avisado_precio": null,
    "descuento": 67,
    "nombre": "Felpa Training blue 25/26",
    "precio": 19.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "fd983bc553cb1d76": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "T-shirt college blu navy/bianca",
    "precio": 9.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   },
   "ff3f7683815cb93c": {
    "avisado_precio": null,
    "descuento": 71,
    "nombre": "Felpa tuta con zip blu",
    "precio": 19.99,
-   "ultima_vez": "2026-10-31T11:17:27.496467"
+   "ultima_vez": "2026-10-31T11:32:25.586241"
   }
  }
 }
