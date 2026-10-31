@@ -5,7 +5,7 @@
  },
  "cursores": {},
  "fase_inicial": false,
- "ultima_revision": "2026-10-31T10:01:26.822979",
+ "ultima_revision": "2026-10-31T10:16:09.234358",
  "version_filtro": 2,
  "vistos": {
   "1215daf639904221": {
@@ -13,42 +13,42 @@
    "descuento": 67,
    "nombre": "Camisola Principal S/ Estampagem",
    "precio": 20.0,
-   "ultima_vez": "2026-10-31T10:01:26.822798"
+   "ultima_vez": "2026-10-31T10:16:09.234169"
   },
   "450ef969ca9e2b2a": {
    "avisado_precio": null,
    "descuento": 75,
    "nombre": "Lanyard",
    "precio": 1.0,
-   "ultima_vez": "2026-10-31T10:01:26.822798"
+   "ultima_vez": "2026-10-31T10:16:09.234169"
   },
   "582136bc3da50b02": {
    "avisado_precio": null,
    "descuento": 71,
    "nombre": "Mini-lanyard",
    "precio": 1.0,
-   "ultima_vez": "2026-10-31T10:01:26.822798"
+   "ultima_vez": "2026-10-31T10:16:09.234169"
   },
   "5bbae8a6c7e79a64": {
    "avisado_precio": null,
    "descuento": 67,
    "nombre": "Camisola Suplente S/ Estampagem",
    "precio": 20.0,
-   "ultima_vez": "2026-10-31T10:01:26.822798"
+   "ultima_vez": "2026-10-31T10:16:09.234169"
   },
   "745327f87f97985e": {
    "avisado_precio": null,
    "descuento": 64,
    "nombre": "Camisola Principal 25-26 &#8211; Criança",
    "precio": 20.0,
-   "ultima_vez": "2026-10-31T10:01:26.822798"
+   "ultima_vez": "2026-10-31T10:16:09.234169"
   },
   "b2389ad36338f424": {
    "avisado_precio": null,
    "descuento": 64,
    "nombre": "Camisola Suplente 25-26 &#8211; Criança",
    "precio": 20.0,
-   "ultima_vez": "2026-10-31T10:01:26.822798"
+   "ultima_vez": "2026-10-31T10:16:09.234169"
   }
  }
 }
