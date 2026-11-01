@@ -5,7 +5,7 @@
  },
  "cursores": {},
  "fase_inicial": false,
- "ultima_revision": "2026-11-01T11:01:40.840389",
+ "ultima_revision": "2026-11-01T11:16:14.060851",
  "version_filtro": 2,
  "vistos": {
   "0e4294f309d6684a": {
@@ -13,56 +13,56 @@
    "descuento": 78,
    "nombre": "T-shirt 1906 Navy - Junior",
    "precio": 5.0,
-   "ultima_vez": "2026-11-01T11:01:40.840116"
+   "ultima_vez": "2026-11-01T11:16:14.060619"
   },
   "13b332f289e7ded0": {
    "avisado_precio": null,
    "descuento": 64,
    "nombre": "Grande Serviette Logo Bleu",
    "precio": 10.0,
-   "ultima_vez": "2026-11-01T11:01:40.840116"
+   "ultima_vez": "2026-11-01T11:16:14.060619"
   },
   "25e8e03ec2eacd5a": {
    "avisado_precio": null,
    "descuento": 78,
    "nombre": "T-shirt Tag - Junior",
    "precio": 5.0,
-   "ultima_vez": "2026-11-01T11:01:40.840116"
+   "ultima_vez": "2026-11-01T11:16:14.060619"
   },
   "4172397ab1ecd9c0": {
    "avisado_precio": null,
    "descuento": 64,
    "nombre": "Serviette Marinière",
    "precio": 10.0,
-   "ultima_vez": "2026-11-01T11:01:40.840116"
+   "ultima_vez": "2026-11-01T11:16:14.060619"
   },
   "9758a907efd00f11": {
    "avisado_precio": null,
    "descuento": 78,
    "nombre": "T-shirt Marker Blanc - Junior",
    "precio": 5.0,
-   "ultima_vez": "2026-11-01T11:01:40.840116"
+   "ultima_vez": "2026-11-01T11:16:14.060619"
   },
   "a84fd7cf0885f4ce": {
    "avisado_precio": null,
    "descuento": 80,
    "nombre": "T-Shirt Europe Célébration - Junior",
    "precio": 5.0,
-   "ultima_vez": "2026-11-01T11:01:40.840116"
+   "ultima_vez": "2026-11-01T11:16:14.060619"
   },
   "c80d2d5d02956186": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Bob Racing x Festival Décibulles",
    "precio": 12.0,
-   "ultima_vez": "2026-11-01T11:01:40.840116"
+   "ultima_vez": "2026-11-01T11:16:14.060619"
   },
   "d1513a118605664e": {
    "avisado_precio": null,
    "descuento": 78,
    "nombre": "T-shirt Tag Blanc - Junior",
    "precio": 5.0,
-   "ultima_vez": "2026-11-01T11:01:40.840116"
+   "ultima_vez": "2026-11-01T11:16:14.060619"
   }
  }
 }
