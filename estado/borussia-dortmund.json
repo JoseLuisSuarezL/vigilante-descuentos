@@ -5,29 +5,29 @@
  },
  "cursores": {},
  "fase_inicial": false,
- "ultima_revision": "2026-11-01T00:46:58.195744",
+ "ultima_revision": "2026-11-01T01:04:23.921667",
  "version_filtro": 2,
  "vistos": {
   "0b67133f3ba1dd1b": {
    "avisado_precio": null,
-   "descuento": 70,
+   "descuento": 67,
    "nombre": "BVB Polo Essential grau",
-   "precio": 12.0,
-   "ultima_vez": "2026-11-01T00:46:58.195584"
+   "precio": 14.0,
+   "ultima_vez": "2026-11-01T01:04:23.921529"
   },
   "1d6e2f6c319a26c9": {
    "avisado_precio": null,
-   "descuento": 70,
+   "descuento": 67,
    "nombre": "BVB Stutzen 24/25 schwarz",
-   "precio": 6.0,
-   "ultima_vez": "2026-11-01T00:46:58.195584"
+   "precio": 7.0,
+   "ultima_vez": "2026-11-01T01:04:23.921529"
   },
   "c7d85feb1c5c349d": {
    "avisado_precio": null,
-   "descuento": 70,
+   "descuento": 67,
    "nombre": "BVB Stutzen 24/25 gelb",
-   "precio": 6.0,
-   "ultima_vez": "2026-11-01T00:46:58.195584"
+   "precio": 7.0,
+   "ultima_vez": "2026-11-01T01:04:23.921529"
   }
  }
 }
