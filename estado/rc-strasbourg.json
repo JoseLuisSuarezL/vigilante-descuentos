@@ -5,7 +5,7 @@
  },
  "cursores": {},
  "fase_inicial": false,
- "ultima_revision": "2026-11-01T14:16:29.648252",
+ "ultima_revision": "2026-11-01T14:31:39.881197",
  "version_filtro": 2,
  "vistos": {
   "0e4294f309d6684a": {
@@ -13,63 +13,63 @@
    "descuento": 78,
    "nombre": "T-shirt 1906 Navy - Junior",
    "precio": 5.0,
-   "ultima_vez": "2026-11-01T14:16:29.647929"
+   "ultima_vez": "2026-11-01T14:31:39.880903"
   },
   "13b332f289e7ded0": {
    "avisado_precio": null,
    "descuento": 64,
    "nombre": "Grande Serviette Logo Bleu",
    "precio": 10.0,
-   "ultima_vez": "2026-11-01T14:16:29.647929"
+   "ultima_vez": "2026-11-01T14:31:39.880903"
   },
   "25e8e03ec2eacd5a": {
    "avisado_precio": null,
    "descuento": 78,
    "nombre": "T-shirt Tag - Junior",
    "precio": 5.0,
-   "ultima_vez": "2026-11-01T14:16:29.647929"
+   "ultima_vez": "2026-11-01T14:31:39.880903"
   },
   "4172397ab1ecd9c0": {
    "avisado_precio": null,
    "descuento": 64,
    "nombre": "Serviette Marinière",
    "precio": 10.0,
-   "ultima_vez": "2026-11-01T14:16:29.647929"
+   "ultima_vez": "2026-11-01T14:31:39.880903"
   },
   "9758a907efd00f11": {
    "avisado_precio": null,
    "descuento": 78,
    "nombre": "T-shirt Marker Blanc - Junior",
    "precio": 5.0,
-   "ultima_vez": "2026-11-01T14:16:29.647929"
+   "ultima_vez": "2026-11-01T14:31:39.880903"
   },
   "a1dc8e670d03c620": {
    "avisado_precio": null,
    "descuento": 82,
    "nombre": "Veste de Sortie",
    "precio": 15.0,
-   "ultima_vez": "2026-11-01T14:16:29.647929"
+   "ultima_vez": "2026-11-01T14:31:39.880903"
   },
   "a84fd7cf0885f4ce": {
    "avisado_precio": null,
    "descuento": 80,
    "nombre": "T-Shirt Europe Célébration - Junior",
    "precio": 5.0,
-   "ultima_vez": "2026-11-01T14:16:29.647929"
+   "ultima_vez": "2026-11-01T14:31:39.880903"
   },
   "c80d2d5d02956186": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Bob Racing x Festival Décibulles",
    "precio": 12.0,
-   "ultima_vez": "2026-11-01T14:16:29.647929"
+   "ultima_vez": "2026-11-01T14:31:39.880903"
   },
   "d1513a118605664e": {
    "avisado_precio": null,
    "descuento": 78,
    "nombre": "T-shirt Tag Blanc - Junior",
    "precio": 5.0,
-   "ultima_vez": "2026-11-01T14:16:29.647929"
+   "ultima_vez": "2026-11-01T14:31:39.880903"
   }
  }
 }
