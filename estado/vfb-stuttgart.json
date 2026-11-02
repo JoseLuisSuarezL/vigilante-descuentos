@@ -5,7 +5,7 @@
  },
  "cursores": {},
  "fase_inicial": false,
- "ultima_revision": "2026-11-02T09:02:35.858731",
+ "ultima_revision": "2026-11-02T09:17:04.835074",
  "version_filtro": 2,
  "vistos": {
   "05648cc5fdfaa25e": {
@@ -27,14 +27,14 @@
    "descuento": 62,
    "nombre": "VfB tanktop basketball black-red",
    "precio": 15.0,
-   "ultima_vez": "2026-11-02T09:02:35.858510"
+   "ultima_vez": "2026-11-02T09:17:04.834848"
   },
   "85b815e0872ed6df": {
    "avisado_precio": null,
    "descuento": 67,
    "nombre": "Black November VfB women GYM leggings If you're looking for the perfect outfit for the gym",
    "precio": 20.0,
-   "ultima_vez": "2026-11-02T09:02:35.858510"
+   "ultima_vez": "2026-11-02T09:17:04.834848"
   },
   "c151c072ff0afd3e": {
    "avisado_precio": null,
@@ -48,7 +48,7 @@
    "descuento": 60,
    "nombre": "VfB Kleinigkeit sweatpants emblem",
    "precio": 30.0,
-   "ultima_vez": "2026-11-02T09:02:35.858510"
+   "ultima_vez": "2026-11-02T09:17:04.834848"
   }
  }
 }
