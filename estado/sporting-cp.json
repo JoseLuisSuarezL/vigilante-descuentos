@@ -5,7 +5,36 @@
  },
  "cursores": {},
  "fase_inicial": false,
- "ultima_revision": "2026-11-02T00:01:34.252257",
+ "ultima_revision": "2026-11-02T00:16:13.854193",
  "version_filtro": 2,
- "vistos": {}
+ "vistos": {
+  "473a110c617d5109": {
+   "avisado_precio": null,
+   "descuento": 70,
+   "nombre": "Puzzle Camisola de Madeira 270 peças",
+   "precio": 20.1,
+   "ultima_vez": "2026-11-02T00:16:13.854094"
+  },
+  "d2609c92802e99bc": {
+   "avisado_precio": null,
+   "descuento": 70,
+   "nombre": "Puzzle Camisola de Madeira 500 peças",
+   "precio": 28.2,
+   "ultima_vez": "2026-11-02T00:16:13.854094"
+  },
+  "d9cd09f0db8eaf7f": {
+   "avisado_precio": null,
+   "descuento": 70,
+   "nombre": "Puzzle Madeira Jogadores 270 peças",
+   "precio": 20.39,
+   "ultima_vez": "2026-11-02T00:16:13.854094"
+  },
+  "e63d2eba9df653e9": {
+   "avisado_precio": null,
+   "descuento": 70,
+   "nombre": "Puzzle Madeira Jogadores 500 Peças",
+   "precio": 29.39,
+   "ultima_vez": "2026-11-02T00:16:13.854094"
+  }
+ }
 }
