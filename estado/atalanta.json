@@ -5,7 +5,7 @@
  },
  "cursores": {},
  "fase_inicial": false,
- "ultima_revision": "2026-11-02T07:07:51.654953",
+ "ultima_revision": "2026-11-02T08:16:34.667122",
  "version_filtro": 2,
  "vistos": {
   "198c2967a9796c20": {
@@ -15,7 +15,7 @@
    "precio": 18.0,
    "tallas": null,
    "tallas_revisado": "2026-10-29T09:14:23.123438",
-   "ultima_vez": "2026-11-02T07:07:51.654733"
+   "ultima_vez": "2026-11-02T08:16:34.666833"
   },
   "22d95d9317d7c2c8": {
    "avisado_precio": null,
@@ -24,7 +24,7 @@
    "precio": 50.0,
    "tallas": null,
    "tallas_revisado": "2026-11-01T11:28:30.421778",
-   "ultima_vez": "2026-11-02T07:07:51.654733"
+   "ultima_vez": "2026-11-02T08:16:34.666833"
   },
   "5f44968a43c9364d": {
    "avisado_precio": null,
@@ -33,7 +33,7 @@
    "precio": 25.0,
    "tallas": null,
    "tallas_revisado": "2026-10-29T09:14:23.123438",
-   "ultima_vez": "2026-11-02T07:07:51.654733"
+   "ultima_vez": "2026-11-02T08:16:34.666833"
   },
   "626f2449b82d0e16": {
    "avisado_precio": null,
@@ -42,7 +42,7 @@
    "precio": 8.0,
    "tallas": null,
    "tallas_revisado": "2026-10-29T09:14:23.123438",
-   "ultima_vez": "2026-11-02T07:07:51.654733"
+   "ultima_vez": "2026-11-02T08:16:34.666833"
   },
   "8b0495773d9de60d": {
    "avisado_precio": null,
@@ -51,7 +51,7 @@
    "precio": 18.0,
    "tallas": null,
    "tallas_revisado": "2026-10-29T09:14:23.123438",
-   "ultima_vez": "2026-11-02T07:07:51.654733"
+   "ultima_vez": "2026-11-02T08:16:34.666833"
   }
  }
 }
