@@ -5,22 +5,43 @@
  },
  "cursores": {},
  "fase_inicial": false,
- "ultima_revision": "2026-11-02T19:32:45.363143",
+ "ultima_revision": "2026-11-02T19:48:21.799888",
  "version_filtro": 2,
  "vistos": {
+  "0436cc7a3cce9648": {
+   "avisado_precio": null,
+   "descuento": 75,
+   "nombre": "Manchester United x adidas Kids Future Icons Short Black",
+   "precio": 7.0,
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
   "0d06ad7450542e8b": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Manchester United 25/26 Anthem Jacket Womens",
    "precio": 34.0,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "0dbc668bbcb88b99": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Manchester United 25/26 Third Kids Jersey with Yoro 15 Club Printing",
    "precio": 32.0,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
+  "0ddb67016acc1ff7": {
+   "avisado_precio": null,
+   "descuento": 70,
+   "nombre": "Manchester United x adidas Womens City Escape Doubleknit Sweatshirt Black",
+   "precio": 18.0,
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
+  "0ec18b1d7bf10405": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "4.9 Manchester United x adidas Bring Back 1991 T-Shirt White",
+   "precio": 14.0,
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "1000e0bb98e67400": {
    "avisado_precio": null,
@@ -29,14 +50,14 @@
    "precio": 19.5,
    "tallas": [],
    "tallas_revisado": "2026-10-29T05:17:14.291730",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "10b4d7cf92535273": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "5.0 Manchester United 25/26 Third Mini Kit Kids",
    "precio": 20.0,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "11a7648d8c2bb166": {
    "avisado_precio": null,
@@ -70,21 +91,28 @@
     ]
    ],
    "tallas_revisado": "2026-10-29T05:17:14.291730",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "12d19218c96727e6": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Manchester United 25/26 Home Jersey with Yoro 15 EPL Printing & Badge",
    "precio": 46.0,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "13f4f62697cae556": {
    "avisado_precio": null,
    "descuento": 70,
    "nombre": "Manchester United Tiro 25 Competition Training Shorts Kids",
    "precio": 9.0,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
+  "149eabb475b743a9": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Manchester United Womens Varsity Back Print T-Shirt White",
+   "precio": 10.0,
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "15df4e785d0c8e34": {
    "avisado_precio": null,
@@ -114,21 +142,28 @@
     ]
    ],
    "tallas_revisado": "2026-10-29T05:17:14.291730",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "160e448778e1b8e8": {
    "avisado_precio": null,
    "descuento": 70,
    "nombre": "4.7 Manchester United x adidas Womens Terrex CLIMAWARM Hooded Jacket Purple",
    "precio": 42.0,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "161fe57d0ca695d5": {
    "avisado_precio": null,
    "descuento": 70,
    "nombre": "Manchester United Womens Tiro 25 Competition Training Top Purple",
    "precio": 19.5,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
+  "18f47edddf5ed4dc": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "5.0 Manchester United VRCT T-Shirt Black",
+   "precio": 14.0,
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "1936841d47be42b2": {
    "avisado_precio": 34.0,
@@ -166,14 +201,14 @@
     ]
    ],
    "tallas_revisado": "2026-10-29T05:17:14.291730",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "19d0f2f30754001d": {
    "avisado_precio": null,
    "descuento": 70,
    "nombre": "Manchester United x adidas Womens Terrex Xperior Light Fleece Hooded Jacket Green",
    "precio": 28.5,
-   "ultima_vez": "2026-10-29T13:11:28.470771"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "1a2ae25cb64cf136": {
    "avisado_precio": null,
@@ -202,8 +237,8 @@
      false
     ]
    ],
-   "tallas_revisado": "2026-11-01T05:32:45.894850",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "tallas_revisado": "2026-11-02T19:47:45.251049",
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "1c7eb244682ee872": {
    "avisado_precio": null,
@@ -241,14 +276,14 @@
     ]
    ],
    "tallas_revisado": "2026-10-29T05:17:14.291730",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "1d249ba6f9fab398": {
    "avisado_precio": null,
    "descuento": 80,
    "nombre": "Manchester United 25/26 Womens Away Authentic Short Purple",
    "precio": 9.0,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "1d6751c2e697f8c8": {
    "avisado_precio": null,
@@ -282,28 +317,56 @@
     ]
    ],
    "tallas_revisado": "2026-10-29T05:17:14.291730",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
+  "1dc5ce2f79efdf0c": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "5.0 Manchester United x adidas Womens Terrace Icons Track Pants Black",
+   "precio": 34.0,
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
+  "1f6113b557a17673": {
+   "avisado_precio": null,
+   "descuento": 75,
+   "nombre": "Manchester United Womens Training Tiro 24 Jersey White",
+   "precio": 11.25,
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "1fa571f1055209d7": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Manchester United 25/26 Kids Home Jersey with Amad 16 EPL Printing & Badge",
    "precio": 36.0,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "225b250482a401eb": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Manchester United 25/26 Away Kids Jersey with Yoro 15 Club Printing",
    "precio": 32.0,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "22b1cfa4c0863b1d": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Manchester United Terrace Icons Track Top Kids",
    "precio": 30.0,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
+  "23b13527630907aa": {
+   "avisado_precio": null,
+   "descuento": 70,
+   "nombre": "Manchester United Tiro 24 Pro Pants Black",
+   "precio": 22.5,
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
+  "248303f554aa07ab": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Manchester United Womens Varsity Sweatshirt Green",
+   "precio": 16.0,
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "264f8735c93acf9a": {
    "avisado_precio": 32.0,
@@ -348,49 +411,70 @@
    "descuento": 75,
    "nombre": "Manchester United Womens Tiro 25 Competition Training Jersey Purple",
    "precio": 11.25,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
+  "29ecd833d4a94b3c": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "4.8 Manchester United x adidas Urban Purist T-Shirt Blue",
+   "precio": 15.2,
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "2a1404201a197233": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "4.7 Manchester United Kids 25/26 Home Jersey",
    "precio": 24.0,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "2abdf33ed75705c6": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Manchester United 25/26 Home Kids Jersey with Martinez 6 EPL Printing & Badge",
    "precio": 36.0,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
+  "2b40f65d70c7be7a": {
+   "avisado_precio": null,
+   "descuento": 70,
+   "nombre": "Manchester United x adidas Womens City Escape Cargo Pant Grey",
+   "precio": 16.5,
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
+  "2b8584e483fa3ebd": {
+   "avisado_precio": null,
+   "descuento": 70,
+   "nombre": "Manchester United Tiro 24 Pro Shorts Black",
+   "precio": 19.5,
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "2e6b6f6e74d56b19": {
    "avisado_precio": null,
    "descuento": 75,
    "nombre": "4.8 Manchester United Womens 25/26 Home Jersey",
    "precio": 21.25,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "2fc5ee24a3b23c97": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Manchester United 25/26 Away Kids Jersey with Yoro 15 EPL Printing & Badge",
    "precio": 44.0,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "2feb7d3ef9910a50": {
    "avisado_precio": null,
    "descuento": 70,
    "nombre": "Manchester United x adidas Kids Golf AEROREADY Graphics Shorts Red",
    "precio": 11.4,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "2ff34adab4d4fa3d": {
    "avisado_precio": null,
    "descuento": 65,
    "nombre": "5.0 Manchester United 25/26 Away Socks White",
    "precio": 7.0,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "2ff5bf8733b50b33": {
    "avisado_precio": null,
@@ -428,7 +512,14 @@
     ]
    ],
    "tallas_revisado": "2026-10-29T05:17:14.291730",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
+  "31df0335ed6508da": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Manchester United Womens Varsity Back Print Sweatshirt Red",
+   "precio": 16.0,
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "356b0aeb9a396b9c": {
    "avisado_precio": null,
@@ -472,8 +563,8 @@
      false
     ]
    ],
-   "tallas_revisado": "2026-11-01T05:32:45.894850",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "tallas_revisado": "2026-11-02T19:47:45.251049",
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "3930d8fc086c7226": {
    "avisado_precio": null,
@@ -513,12 +604,19 @@
    "tallas_revisado": "2026-10-29T05:17:14.291730",
    "ultima_vez": "2026-10-31T10:32:36.126009"
   },
+  "398d1337c0010af5": {
+   "avisado_precio": null,
+   "descuento": 75,
+   "nombre": "Manchester United x adidas Mens Lunar New Year Pants Black",
+   "precio": 16.25,
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
   "3a07a11b677208d1": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Manchester United x adidas Kids US Pack Hoodie Red",
    "precio": 18.0,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "3bbb2cb69213f86f": {
    "avisado_precio": null,
@@ -556,21 +654,21 @@
     ]
    ],
    "tallas_revisado": "2026-10-29T05:17:14.291730",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "3c33c5f0f7be5455": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Manchester United 25/26 Home Jersey with Amad 16 EPL Printing & Badge",
    "precio": 46.0,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "3c7c1e4caba11a8c": {
    "avisado_precio": null,
    "descuento": 70,
    "nombre": "4.5 Manchester United x adidas Womens Golf Ultimate365 Solid Ankle Trousers Green",
    "precio": 18.0,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "3d0445e663dad3ae": {
    "avisado_precio": null,
@@ -603,15 +701,22 @@
      false
     ]
    ],
-   "tallas_revisado": "2026-11-01T05:32:45.894850",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "tallas_revisado": "2026-11-02T19:47:45.251049",
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
+  "3e4a954f6dadb29b": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "5.0 Manchester United Tiro 24 Competition Vis Tech Travel Pants Blue",
+   "precio": 26.0,
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "40f155ea591a438e": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Manchester United 25/26 Away Kids Jersey with Amad 16 Club Printing",
    "precio": 32.0,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "426fa52f4e6ac2ce": {
    "avisado_precio": null,
@@ -649,7 +754,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-29T05:17:14.291730",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "43d5400422048491": {
    "avisado_precio": null,
@@ -657,6 +762,13 @@
    "nombre": "Manchester United Kids Pique T-Shirt White",
    "precio": 8.8,
    "ultima_vez": "2026-11-01T23:47:40.124006"
+  },
+  "462fb1f2b4dfc354": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Manchester United Kids Tiro 24 Competition Vis Tech Travel Pants Blue",
+   "precio": 18.0,
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "469181936d54e8c1": {
    "avisado_precio": null,
@@ -685,15 +797,15 @@
      false
     ]
    ],
-   "tallas_revisado": "2026-11-01T05:32:45.894850",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "tallas_revisado": "2026-11-02T19:47:45.251049",
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "46d6d01c6885b3a4": {
    "avisado_precio": null,
    "descuento": 70,
    "nombre": "4.8 Manchester United x adidas Womens ALL SZN Loose Joggers Black",
    "precio": 13.5,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "4736d59eb4ac6b02": {
    "avisado_precio": null,
@@ -731,7 +843,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-29T05:17:14.291730",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "48bdc6587005bf9d": {
    "avisado_precio": null,
@@ -740,7 +852,7 @@
    "precio": 19.5,
    "tallas": [],
    "tallas_revisado": "2026-10-29T05:17:14.291730",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "4b134ec57bd0e9b5": {
    "avisado_precio": null,
@@ -778,14 +890,21 @@
     ]
    ],
    "tallas_revisado": "2026-10-29T05:17:14.291730",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "4fe51ca7d4e013a6": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Manchester United Kids 1878 T-Shirt Cream",
    "precio": 8.0,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
+  "4ffad2cddbd15cbc": {
+   "avisado_precio": null,
+   "descuento": 75,
+   "nombre": "Manchester United Kids 25/26 Goalkeeper Mini Kit",
+   "precio": 12.5,
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "50396842854709ca": {
    "avisado_precio": null,
@@ -815,14 +934,35 @@
     ]
    ],
    "tallas_revisado": "2026-10-29T05:17:14.291730",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "51dbb26410e09452": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Manchester United 25/26 Away Kids Jersey with Cunha 10 EPL Printing & Badge",
    "precio": 36.0,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
+  "52cb567583db4656": {
+   "avisado_precio": null,
+   "descuento": 70,
+   "nombre": "4.8 Manchester United x adidas Golf Go-To Printed Mesh Polo Shirt Black",
+   "precio": 19.5,
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
+  "5353f98051d44745": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "4.2 Manchester United x adidas Youth Manchester United Hoodie Kids Dark Grey",
+   "precio": 15.2,
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
+  "543da4460a252387": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Manchester United 25/26 Away Baby Kit Kids",
+   "precio": 16.0,
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "54c3e4edcc219d61": {
    "avisado_precio": null,
@@ -856,35 +996,56 @@
     ]
    ],
    "tallas_revisado": "2026-10-29T05:17:14.291730",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "54f53e1773a153fc": {
    "avisado_precio": null,
    "descuento": 75,
    "nombre": "Manchester United 25/26 Home Socks White",
    "precio": 5.0,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "5532e90698d3e9a5": {
    "avisado_precio": null,
    "descuento": 75,
    "nombre": "Manchester United 25/26 Away Socks Purple",
    "precio": 5.0,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
+  "57642504ff5b7d63": {
+   "avisado_precio": null,
+   "descuento": 75,
+   "nombre": "4.9 Manchester United 25/26 Home Shorts White",
+   "precio": 9.5,
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "588425a0fd9eb1dc": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Manchester United 25/26 Long Sleeve Third Jersey Kids",
    "precio": 26.0,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "58a3f8a7b2749914": {
    "avisado_precio": null,
    "descuento": 70,
    "nombre": "4.8 Manchester United Womens 25/26 Away Jersey",
    "precio": 25.5,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
+  "5ad4a88fbe44eb87": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "5.0 Manchester United 25/26 Third Shorts Kids",
+   "precio": 12.0,
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
+  "5b4b9f9bc8384216": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Manchester United Kids 25/26 Home Baby Kit",
+   "precio": 16.0,
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "5d262b78a516caf3": {
    "avisado_precio": null,
@@ -922,7 +1083,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-29T05:17:14.291730",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "5f61d9092233caf7": {
    "avisado_precio": null,
@@ -956,14 +1117,21 @@
     ]
    ],
    "tallas_revisado": "2026-10-29T05:17:14.291730",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "5fbb381252ce2361": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Manchester United 25/26 Home Kids Jersey with Yoro 15 EPL Printing & Badge",
    "precio": 36.0,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
+  "669a2f5da3eaf7c9": {
+   "avisado_precio": null,
+   "descuento": 75,
+   "nombre": "Manchester United Womens Pre-Match Jersey Black",
+   "precio": 15.0,
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "67e7bb4ec6f0ac57": {
    "avisado_precio": null,
@@ -1008,7 +1176,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-31T07:17:18.844955",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "6c90b263caa6bb44": {
    "avisado_precio": 36.0,
@@ -1038,7 +1206,14 @@
     ]
    ],
    "tallas_revisado": "2026-10-29T05:17:14.291730",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
+  "6dc530cab3bf9f32": {
+   "avisado_precio": null,
+   "descuento": 75,
+   "nombre": "Manchester United Mens Training Tiro 24 Shorts Black",
+   "precio": 9.5,
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "700766f4b0e1ed6e": {
    "avisado_precio": null,
@@ -1075,22 +1250,67 @@
      false
     ]
    ],
-   "tallas_revisado": "2026-11-01T05:32:45.894850",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "tallas_revisado": "2026-11-02T19:47:45.251049",
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
+  "72e28256ccaeddff": {
+   "avisado_precio": null,
+   "descuento": 70,
+   "nombre": "4.9 Manchester United x adidas Womens City Escape Cropped Gilet Black",
+   "precio": 19.5,
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "7324e94266f0d86e": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "4.5 Manchester United x adidas Urban Purist Track Top Blue",
    "precio": 32.0,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "737f174f1d946fc5": {
    "avisado_precio": null,
    "descuento": 75,
    "nombre": "5.0 Manchester United 25/26 Third Socks Black",
    "precio": 5.0,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
+  "75275af6fa73bea1": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "4.7 Manchester United x adidas Lunar New Year Jersey Black",
+   "precio": 32.0,
+   "tallas": [
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     false
+    ],
+    [
+     "M",
+     false
+    ],
+    [
+     "L",
+     false
+    ],
+    [
+     "XL",
+     false
+    ],
+    [
+     "2XL",
+     false
+    ],
+    [
+     "3XL",
+     false
+    ]
+   ],
+   "tallas_revisado": "2026-11-02T19:47:45.251049",
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "75457845bf5946cb": {
    "avisado_precio": null,
@@ -1128,21 +1348,66 @@
     ]
    ],
    "tallas_revisado": "2026-10-29T05:17:14.291730",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
+  "775b64e8eeb65154": {
+   "avisado_precio": null,
+   "descuento": 70,
+   "nombre": "Manchester United Tiro 25 Competition Training Shorts Womens",
+   "precio": 11.4,
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
+  "786aed6c51bcd447": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "4.8 Manchester United x adidas Terrace Icons Jersey Red",
+   "precio": 28.0,
+   "tallas": [
+    [
+     "XS",
+     true
+    ],
+    [
+     "S",
+     false
+    ],
+    [
+     "M",
+     false
+    ],
+    [
+     "L",
+     false
+    ],
+    [
+     "XL",
+     false
+    ],
+    [
+     "2XL",
+     false
+    ],
+    [
+     "3XL",
+     false
+    ]
+   ],
+   "tallas_revisado": "2026-11-02T19:47:45.251049",
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "786d234622ae2b7c": {
    "avisado_precio": null,
    "descuento": 80,
    "nombre": "4.8 Manchester United Kids 25/26 Home Mini Kit",
    "precio": 10.0,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "79fd72ce9d715675": {
    "avisado_precio": null,
    "descuento": 75,
    "nombre": "Manchester United 25/26 Third Socks Yellow",
    "precio": 5.0,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "7aae64eb8194ce50": {
    "avisado_precio": null,
@@ -1180,21 +1445,21 @@
     ]
    ],
    "tallas_revisado": "2026-10-29T05:17:14.291730",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "7c6a8a0b5bbc2103": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "2.3 Manchester United DNA Tracksuit Bottoms Black",
    "precio": 22.0,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "8285fc40d7679637": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Manchester United Womens Tiro 25 Competition Training Shorts Black",
    "precio": 15.2,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "837ffac2a71eb3f5": {
    "avisado_precio": null,
@@ -1232,7 +1497,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-29T05:17:14.291730",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "845723d5d1457520": {
    "avisado_precio": 34.0,
@@ -1277,7 +1542,7 @@
    "descuento": 70,
    "nombre": "4.5 Manchester United x adidas Women's Golf Beyond Twist knit Polo Shirt Navy",
    "precio": 13.5,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "85f44ee188b52d76": {
    "avisado_precio": null,
@@ -1314,42 +1579,63 @@
     ]
    ],
    "tallas_revisado": "2026-10-29T05:17:14.291730",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "869ad1d3e171b6b6": {
    "avisado_precio": null,
    "descuento": 75,
    "nombre": "Manchester United 25/26 Womens Third Authentic Jersey",
    "precio": 30.0,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "8916ed6a9d358fe6": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Manchester United 25/26 Home Kids Jersey with Amad 16 Club Priniting",
    "precio": 32.0,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "8a0acc69b86332cc": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Manchester United 25/26 Away Kids Jersey with Fernandes 8 Club Printing",
    "precio": 36.0,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
+  "8a573f4a5a4e5d83": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Manchester United Womens Training Tiro 24 Pants Black",
+   "precio": 22.0,
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "8a740501966994c7": {
    "avisado_precio": null,
    "descuento": 70,
    "nombre": "Manchester United Tiro 25 Competition Training Womens Jersey",
    "precio": 13.5,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "8c6bfb7a53686194": {
    "avisado_precio": null,
    "descuento": 75,
    "nombre": "Manchester United Womens 25/26 Pre-Match Jersey",
    "precio": 15.0,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
+  "8ed04b28d51a0a95": {
+   "avisado_precio": null,
+   "descuento": 75,
+   "nombre": "Manchester United x adidas Traveer COLD.RDY Jacket Black",
+   "precio": 47.5,
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
+  "8f07e0a7d5956a62": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "4.5 Manchester United x adidas LFSTLR Track Pant Black",
+   "precio": 36.0,
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "909a772063bfc9be": {
    "avisado_precio": null,
@@ -1401,7 +1687,14 @@
     ]
    ],
    "tallas_revisado": "2026-10-29T05:17:14.291730",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
+  "92521843f99f2376": {
+   "avisado_precio": null,
+   "descuento": 70,
+   "nombre": "4.7 Manchester United x adidas Golf Ultimate365 Anorak Black",
+   "precio": 24.0,
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "92ecde22d1c0ac64": {
    "avisado_precio": null,
@@ -1410,26 +1703,61 @@
    "precio": 14.0,
    "ultima_vez": "2026-11-01T23:47:40.124006"
   },
+  "936730c33c27d871": {
+   "avisado_precio": null,
+   "descuento": 75,
+   "nombre": "4.7 Manchester United x adidas City Escape Full Zip Hoodie Black",
+   "precio": 21.25,
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
+  "95c99ca744009b5c": {
+   "avisado_precio": null,
+   "descuento": 75,
+   "nombre": "4.7 Manchester United x adidas Womens Z.N.E. Tracksuit Bottoms",
+   "precio": 20.0,
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
   "974688caae88889d": {
    "avisado_precio": null,
    "descuento": 70,
    "nombre": "4.7 Manchester United x adidas Womens Z.N.E. Tracksuit Bottoms Pink",
    "precio": 24.0,
-   "ultima_vez": "2026-10-29T13:11:28.470771"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "97ce54f8a40a537b": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Manchester United 25/26 Third Kids Jersey with Cunha 10 EPL Printing & Badge",
    "precio": 36.0,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "9b256f83889f6e62": {
    "avisado_precio": null,
    "descuento": 70,
    "nombre": "Manchester United x adidas Kids City Tech Winterised Pants Blue",
    "precio": 12.9,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
+  "9c83091349b69aab": {
+   "avisado_precio": null,
+   "descuento": 70,
+   "nombre": "Manchester United x adidas City Tech Softshell 1/2-Zip Hoodie Black",
+   "precio": 21.0,
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
+  "9ee66d529b04051e": {
+   "avisado_precio": null,
+   "descuento": 70,
+   "nombre": "4.7 Manchester United x adidas Womens Z.N.E. Tracksuit Bottoms",
+   "precio": 24.0,
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
+  "9f59d153ec7ae639": {
+   "avisado_precio": null,
+   "descuento": 70,
+   "nombre": "Manchester United Kids Tiro 25 Competition Training Jersey Black",
+   "precio": 10.5,
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "a20bd07739e3b363": {
    "avisado_precio": null,
@@ -1463,7 +1791,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-29T05:17:14.291730",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "a26d9f42a0ab19cb": {
    "avisado_precio": null,
@@ -1501,7 +1829,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-29T05:17:14.291730",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "a2b11febbc301c8c": {
    "avisado_precio": null,
@@ -1535,7 +1863,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-29T05:17:14.291730",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "a4ea65b236ac7458": {
    "avisado_precio": null,
@@ -1580,7 +1908,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-29T05:17:14.291730",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "a5e20c17b6ba7f8a": {
    "avisado_precio": null,
@@ -1589,7 +1917,14 @@
    "precio": 5.4,
    "tallas": [],
    "tallas_revisado": "2026-10-29T05:17:14.291730",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
+  "a6cd9cad6d8ae100": {
+   "avisado_precio": null,
+   "descuento": 70,
+   "nombre": "Manchester United x adidas Womens City Escape Hoodie Grey",
+   "precio": 15.0,
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "aa76507d2f602b56": {
    "avisado_precio": null,
@@ -1626,36 +1961,36 @@
      false
     ]
    ],
-   "tallas_revisado": "2026-11-01T05:32:45.894850",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "tallas_revisado": "2026-11-02T19:47:45.251049",
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "ab8d015bd11d2e12": {
    "avisado_precio": null,
    "descuento": 70,
    "nombre": "4.9 Manchester United x adidas Kids Future Icons Camo Print Joggers Black",
    "precio": 12.0,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "abf5d2ca5bf79762": {
    "avisado_precio": null,
    "descuento": 70,
    "nombre": "4.5 Manchester United x adidas Womens Golf Ultimate365 Solid Short Sleeve Polo Shirt Red",
    "precio": 12.0,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "aeafb44f9506df15": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Manchester United 25/26 Third Baby Kit",
    "precio": 16.0,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "af2d95f3128a02bc": {
    "avisado_precio": null,
    "descuento": 75,
    "nombre": "4.8 Manchester United 25/26 Womens Third Jersey",
    "precio": 21.25,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "af5aa0ec620dcd02": {
    "avisado_precio": null,
@@ -1684,8 +2019,8 @@
      false
     ]
    ],
-   "tallas_revisado": "2026-11-01T05:32:45.894850",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "tallas_revisado": "2026-11-02T19:47:45.251049",
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "b1b7fe4e67acd780": {
    "avisado_precio": null,
@@ -1723,7 +2058,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-29T05:17:14.291730",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "b79eee78751120e4": {
    "avisado_precio": null,
@@ -1753,21 +2088,35 @@
     ]
    ],
    "tallas_revisado": "2026-10-29T05:17:14.291730",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "b91b6a1996a77bc0": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "5.0 Manchester United Kids 25/26 Home Shorts White",
    "precio": 12.0,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
+  "b944612f77b124af": {
+   "avisado_precio": null,
+   "descuento": 70,
+   "nombre": "Manchester United x adidas City Escape Fleece Hoodie Red",
+   "precio": 15.0,
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "bc52adf0b6c79432": {
    "avisado_precio": null,
    "descuento": 70,
    "nombre": "5.0 Manchester United x adidas Womens Golf Pocket Leggings Black",
    "precio": 19.5,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
+  "befd1041315076ec": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Manchester United Womens Varsity Joggers Grey",
+   "precio": 16.0,
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "bf2bbb21a9577e36": {
    "avisado_precio": null,
@@ -1804,15 +2153,15 @@
      false
     ]
    ],
-   "tallas_revisado": "2026-11-01T05:32:45.894850",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "tallas_revisado": "2026-11-02T19:47:45.251049",
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "c3b8efa76e078550": {
    "avisado_precio": null,
    "descuento": 65,
    "nombre": "Manchester United 25/26 Long Sleeve Away Jersey Kids",
    "precio": 22.75,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "c44c94757b8261f9": {
    "avisado_precio": null,
@@ -1841,50 +2190,57 @@
      true
     ]
    ],
-   "tallas_revisado": "2026-11-01T05:32:45.894850",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "tallas_revisado": "2026-11-02T19:47:45.251049",
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "c591ebe27168b654": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Manchester United 25/26 Away Kids Jersey with Martinez 6 EPL Printing & Badge",
    "precio": 36.0,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "c8ab9f03f9befa92": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "4.9 Manchester United 25/26 Third Jersey Kids",
    "precio": 24.0,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "c8af63e6a6999f60": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "5.0 Manchester United 25/26 Away Jersey Kids",
    "precio": 24.0,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "c91123569b4287c1": {
    "avisado_precio": null,
    "descuento": 75,
    "nombre": "4.7 Manchester United 25/26 Home Socks Black",
    "precio": 5.0,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "ce5f8c5e4e781100": {
    "avisado_precio": null,
    "descuento": 70,
    "nombre": "Manchester United x adidas Womens SZN Windbreaker Jacket Blue",
    "precio": 25.5,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
+  "d227789b696ffe4e": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "4.9 Manchester United x adidas Infant Essentials CLIMACOOL Tracksuit Black/Gold",
+   "precio": 14.0,
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "d41901f9f913a401": {
    "avisado_precio": null,
    "descuento": 70,
    "nombre": "Manchester United x adidas Bring Back 1991 Away Jersey Kids White",
    "precio": 22.5,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "d698a07dcd1e4c12": {
    "avisado_precio": null,
@@ -1922,7 +2278,7 @@
     ]
    ],
    "tallas_revisado": "2026-10-29T05:17:14.291730",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "d71ba9c3446c0cad": {
    "avisado_precio": null,
@@ -1960,14 +2316,14 @@
     ]
    ],
    "tallas_revisado": "2026-10-29T05:17:14.291730",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "d75277dd66612fdb": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Manchester United 25/26 Away Kids Jersey with Amad 16 EPL Printing & Badge",
    "precio": 36.0,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "d7a0a8ecd7dc3ef8": {
    "avisado_precio": null,
@@ -2000,8 +2356,15 @@
      false
     ]
    ],
-   "tallas_revisado": "2026-11-01T05:32:45.894850",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "tallas_revisado": "2026-11-02T19:47:45.251049",
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
+  "d7e132f3a2c65fbd": {
+   "avisado_precio": null,
+   "descuento": 75,
+   "nombre": "Manchester United Tiro 24 Presentation Jacket Top White",
+   "precio": 18.75,
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "d86220957e2790c7": {
    "avisado_precio": null,
@@ -2039,14 +2402,21 @@
     ]
    ],
    "tallas_revisado": "2026-10-29T05:17:14.291730",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "db17f9fdbe644d71": {
    "avisado_precio": null,
    "descuento": 70,
    "nombre": "4.8 Manchester United x adidas Womens Golf Ultimate365 Textured Jacket Navy",
    "precio": 18.0,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
+  "db56573ed21be37d": {
+   "avisado_precio": null,
+   "descuento": 70,
+   "nombre": "Manchester United Tiro 24 Pro Top White",
+   "precio": 27.0,
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "dd29aebe4ed3e2f9": {
    "avisado_precio": null,
@@ -2090,8 +2460,8 @@
      false
     ]
    ],
-   "tallas_revisado": "2026-11-01T05:32:45.894850",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "tallas_revisado": "2026-11-02T19:47:45.251049",
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "e0b6d0c96dd26350": {
    "avisado_precio": null,
@@ -2135,8 +2505,8 @@
      false
     ]
    ],
-   "tallas_revisado": "2026-11-01T05:32:45.894850",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "tallas_revisado": "2026-11-02T19:47:45.251049",
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "e2ae53c741e6dadf": {
    "avisado_precio": null,
@@ -2169,8 +2539,8 @@
      false
     ]
    ],
-   "tallas_revisado": "2026-11-01T05:32:45.894850",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "tallas_revisado": "2026-11-02T19:47:45.251049",
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "e5cb523074522bdc": {
    "avisado_precio": null,
@@ -2204,14 +2574,14 @@
     ]
    ],
    "tallas_revisado": "2026-10-29T05:17:14.291730",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "e7af8d3603c24d04": {
    "avisado_precio": null,
    "descuento": 75,
    "nombre": "Manchester United Womens 25/26 Home Authentic Jersey",
    "precio": 30.0,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "ec03146ee1acff89": {
    "avisado_precio": null,
@@ -2247,8 +2617,29 @@
      false
     ]
    ],
-   "tallas_revisado": "2026-11-01T05:32:45.894850",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "tallas_revisado": "2026-11-02T19:47:45.251049",
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
+  "ecf6ac35a4fb174e": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "3.9 Manchester United x adidas Bring Back 1991 Track Pants Black",
+   "precio": 34.0,
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
+  "ee4a2e7dfba66c2a": {
+   "avisado_precio": null,
+   "descuento": 70,
+   "nombre": "4.6 Manchester United x adidas Golf Rain.Rdy Jacket Black",
+   "precio": 46.5,
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
+  "ef5d38c41f5b0fd1": {
+   "avisado_precio": null,
+   "descuento": 75,
+   "nombre": "Manchester United 25/26 Away Shorts Kids",
+   "precio": 7.5,
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "f259adc27ffb28a6": {
    "avisado_precio": null,
@@ -2282,21 +2673,42 @@
     ]
    ],
    "tallas_revisado": "2026-10-29T05:17:14.291730",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "f38032ecb157450e": {
    "avisado_precio": null,
    "descuento": 70,
    "nombre": "Manchester United Pre-Match Jersey Womens",
    "precio": 18.0,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "f8610789cac3f002": {
    "avisado_precio": null,
    "descuento": 70,
    "nombre": "Manchester United Womens 25/26 Pre-Match Warm Top",
    "precio": 27.0,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
+  "f89638e94c038eaa": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "4.9 Manchester United x adidas Mens Terrace Icons Track Pants Black",
+   "precio": 34.0,
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
+  "f986693319e9608b": {
+   "avisado_precio": null,
+   "descuento": 70,
+   "nombre": "Manchester United 25/26 Anthem Jacket Red",
+   "precio": 25.5,
+   "ultima_vez": "2026-11-02T19:47:45.251049"
+  },
+  "fc336329ac469182": {
+   "avisado_precio": null,
+   "descuento": 75,
+   "nombre": "Manchester United Pre-Match Warm Top Black",
+   "precio": 22.5,
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "fec81e39a2a6b8ee": {
    "avisado_precio": null,
@@ -2334,14 +2746,14 @@
     ]
    ],
    "tallas_revisado": "2026-10-29T05:17:14.291730",
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   },
   "fff4491f774a640d": {
    "avisado_precio": null,
    "descuento": 70,
    "nombre": "Manchester United Womens 25/26 Away Authentic Jersey",
    "precio": 36.0,
-   "ultima_vez": "2026-11-01T23:47:40.124006"
+   "ultima_vez": "2026-11-02T19:47:45.251049"
   }
  }
 }
