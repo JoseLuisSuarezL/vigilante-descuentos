@@ -5,7 +5,7 @@
  },
  "cursores": {},
  "fase_inicial": false,
- "ultima_revision": "2026-11-03T12:17:10.784172",
+ "ultima_revision": "2026-11-03T12:32:00.513635",
  "version_filtro": 2,
  "vistos": {
   "05648cc5fdfaa25e": {
@@ -27,7 +27,7 @@
    "descuento": 62,
    "nombre": "VfB tanktop basketball black-red",
    "precio": 15.0,
-   "ultima_vez": "2026-11-03T12:17:10.783959"
+   "ultima_vez": "2026-11-03T12:32:00.513463"
   },
   "85b815e0872ed6df": {
    "avisado_precio": null,
@@ -55,7 +55,7 @@
    "descuento": 60,
    "nombre": "VfB hoody emblem used black",
    "precio": 20.0,
-   "ultima_vez": "2026-11-03T12:17:10.783959"
+   "ultima_vez": "2026-11-03T12:32:00.513463"
   }
  }
 }
