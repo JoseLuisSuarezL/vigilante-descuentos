@@ -5,7 +5,7 @@
  },
  "cursores": {},
  "fase_inicial": false,
- "ultima_revision": "2026-11-03T11:32:10.329881",
+ "ultima_revision": "2026-11-03T11:46:51.813534",
  "version_filtro": 2,
  "vistos": {
   "05648cc5fdfaa25e": {
@@ -27,7 +27,7 @@
    "descuento": 62,
    "nombre": "VfB tanktop basketball black-red",
    "precio": 15.0,
-   "ultima_vez": "2026-11-03T11:32:10.329763"
+   "ultima_vez": "2026-11-03T11:46:51.813369"
   },
   "85b815e0872ed6df": {
    "avisado_precio": null,
@@ -49,6 +49,13 @@
    "nombre": "VfB Kleinigkeit sweatpants emblem",
    "precio": 30.0,
    "ultima_vez": "2026-11-02T09:17:04.834848"
+  },
+  "d93cf655ba0ce6f0": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "VfB hoody emblem used black",
+   "precio": 20.0,
+   "ultima_vez": "2026-11-03T11:46:51.813369"
   }
  }
 }
