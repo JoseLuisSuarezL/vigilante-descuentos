@@ -5,7 +5,7 @@
  },
  "cursores": {},
  "fase_inicial": false,
- "ultima_revision": "2026-11-03T08:46:19.620329",
+ "ultima_revision": "2026-11-03T09:01:44.390421",
  "version_filtro": 2,
  "vistos": {
   "0c268de11687d621": {
@@ -90,7 +90,7 @@
    "descuento": 80,
    "nombre": "TOUR DE COU",
    "precio": 1.0,
-   "ultima_vez": "2026-11-03T08:46:19.620243"
+   "ultima_vez": "2026-11-03T09:01:44.390309"
   },
   "9fd2e7fb56fa52db": {
    "avisado_precio": null,
