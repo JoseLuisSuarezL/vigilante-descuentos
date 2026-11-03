@@ -5,7 +5,7 @@
  },
  "cursores": {},
  "fase_inicial": false,
- "ultima_revision": "2026-11-03T05:28:05.659392",
+ "ultima_revision": "2026-11-03T06:06:02.722233",
  "version_filtro": 2,
  "vistos": {
   "af0f32ca6dba2c88": {
@@ -13,14 +13,14 @@
    "descuento": 75,
    "nombre": "1889 Collection Womens 36mm Fan Watch",
    "precio": 120.0,
-   "ultima_vez": "2026-11-03T05:28:05.659095"
+   "ultima_vez": "2026-11-03T06:06:02.722046"
   },
   "b168328f55d364cb": {
    "avisado_precio": null,
    "descuento": 90,
    "nombre": "Brentford X Stubble & Co Weekender",
    "precio": 75.0,
-   "ultima_vez": "2026-11-03T05:28:05.659095"
+   "ultima_vez": "2026-11-03T06:06:02.722046"
   }
  }
 }
