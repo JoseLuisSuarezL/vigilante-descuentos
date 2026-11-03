@@ -5,7 +5,7 @@
  },
  "cursores": {},
  "fase_inicial": false,
- "ultima_revision": "2026-11-03T20:17:14.834933",
+ "ultima_revision": "2026-11-03T21:31:33.800634",
  "version_filtro": 2,
  "vistos": {
   "8adf3b02767de86e": {
@@ -13,21 +13,21 @@
    "descuento": 60,
    "nombre": "SS LAZIO MINI BALL - AWAY JERSEY DESIGN",
    "precio": 5.6,
-   "ultima_vez": "2026-11-03T20:17:14.834712"
+   "ultima_vez": "2026-11-03T21:31:33.800429"
   },
   "ab172dd8104c0121": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "SS LAZIO AWAY JERSEY 2024/25 - KIDS",
    "precio": 32.0,
-   "ultima_vez": "2026-11-03T20:17:14.834712"
+   "ultima_vez": "2026-11-03T21:31:33.800429"
   },
   "bf21002d1c17f17f": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "SS LAZIO AWAY JERSEY 2024/25 - WOMEN",
    "precio": 39.2,
-   "ultima_vez": "2026-11-03T20:17:14.834712"
+   "ultima_vez": "2026-11-03T21:31:33.800429"
   }
  }
 }
