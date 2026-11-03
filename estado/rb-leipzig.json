@@ -5,7 +5,15 @@
  },
  "cursores": {},
  "fase_inicial": false,
- "ultima_revision": "2026-11-03T09:16:50.271631",
+ "ultima_revision": "2026-11-03T09:32:18.215694",
  "version_filtro": 2,
- "vistos": {}
+ "vistos": {
+  "640bc5dad2e1b1c3": {
+   "avisado_precio": null,
+   "descuento": 75,
+   "nombre": "RBL Advent Candle Holders (RBL20252): RB Leipzig",
+   "precio": 4.95,
+   "ultima_vez": "2026-11-03T09:32:18.215558"
+  }
+ }
 }
