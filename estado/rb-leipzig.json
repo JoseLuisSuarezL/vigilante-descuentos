@@ -5,7 +5,7 @@
  },
  "cursores": {},
  "fase_inicial": false,
- "ultima_revision": "2026-11-04T22:16:56.753075",
+ "ultima_revision": "2026-11-04T22:32:15.982533",
  "version_filtro": 2,
  "vistos": {
   "640bc5dad2e1b1c3": {
@@ -13,14 +13,14 @@
    "descuento": 75,
    "nombre": "RBL Advent Candle Holders (RBL20252): RB Leipzig",
    "precio": 4.95,
-   "ultima_vez": "2026-11-04T22:16:56.752924"
+   "ultima_vez": "2026-11-04T22:32:15.982322"
   },
   "ca814faee241341f": {
    "avisado_precio": null,
    "descuento": 62,
    "nombre": "RBL Club Cruet Set (RBL21132): RB Leipzig",
    "precio": 4.95,
-   "ultima_vez": "2026-11-04T22:16:56.752924"
+   "ultima_vez": "2026-11-04T22:32:15.982322"
   }
  }
 }
