@@ -5,7 +5,7 @@
  },
  "cursores": {},
  "fase_inicial": false,
- "ultima_revision": "2026-11-04T13:32:05.925242",
+ "ultima_revision": "2026-11-04T13:46:49.298307",
  "version_filtro": 2,
  "vistos": {
   "05648cc5fdfaa25e": {
@@ -14,6 +14,13 @@
    "nombre": "VfB women GYM leggings",
    "precio": 20.0,
    "ultima_vez": "2026-11-02T09:02:35.858510"
+  },
+  "07db597f5ee3233f": {
+   "avisado_precio": null,
+   "descuento": 88,
+   "nombre": "VfB LED real wax candle projector",
+   "precio": 3.0,
+   "ultima_vez": "2026-11-04T13:46:49.298126"
   },
   "21c5d3fd305d0d89": {
    "avisado_precio": null,
@@ -27,7 +34,7 @@
    "descuento": 62,
    "nombre": "VfB tanktop basketball black-red",
    "precio": 15.0,
-   "ultima_vez": "2026-11-04T13:32:05.925111"
+   "ultima_vez": "2026-11-04T13:46:49.298126"
   },
   "85b815e0872ed6df": {
    "avisado_precio": null,
