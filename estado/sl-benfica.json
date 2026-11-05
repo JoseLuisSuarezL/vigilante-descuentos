@@ -5,106 +5,274 @@
  },
  "cursores": {},
  "fase_inicial": false,
- "ultima_revision": "2026-11-05T03:48:51.751900",
+ "ultima_revision": "2026-11-05T04:07:12.913866",
  "version_filtro": 2,
  "vistos": {
+  "019a6ec040c3ac96": {
+   "avisado_precio": null,
+   "descuento": 67,
+   "nombre": "3, Adepto Desconto em cartão em todas as transações entre e",
+   "precio": 50.01,
+   "ultima_vez": "2026-11-05T04:07:12.910246"
+  },
   "07ec9cbd8102f737": {
    "avisado_precio": null,
    "descuento": 95,
    "nombre": "Cachecol Vermelho Benfica Campus 1904",
    "precio": 0.6,
-   "ultima_vez": "2026-11-05T03:48:51.750846"
+   "ultima_vez": "2026-11-05T04:07:12.910246"
+  },
+  "0bb17b350ab0a500": {
+   "avisado_precio": null,
+   "descuento": 87,
+   "nombre": "2, Adepto Desconto em Cartão em todas as transações entre e",
+   "precio": 101.0,
+   "ultima_vez": "2026-11-05T04:07:12.910246"
+  },
+  "118c5bf697b1d141": {
+   "avisado_precio": null,
+   "descuento": 90,
+   "nombre": "Desconto em Cartão em todas as transações entre e",
+   "precio": 100.0,
+   "ultima_vez": "2026-11-05T04:07:12.910246"
+  },
+  "1384ddd9ec7fc3ed": {
+   "avisado_precio": null,
+   "descuento": 67,
+   "nombre": "Desconto em Cartão em todas as transações entre e",
+   "precio": 50.01,
+   "ultima_vez": "2026-11-05T04:07:12.910246"
   },
   "170489e8e4f5caa8": {
    "avisado_precio": null,
    "descuento": 90,
    "nombre": "2, Adepto Desconto em cartão em todas as transações entre e",
    "precio": 100.0,
-   "ultima_vez": "2026-11-04T20:50:11.662697"
+   "ultima_vez": "2026-11-05T04:07:12.910246"
+  },
+  "18fec05a7a1bc6e8": {
+   "avisado_precio": null,
+   "descuento": 75,
+   "nombre": "Desconto em Cartão em todas as transações entre e",
+   "precio": 50.0,
+   "ultima_vez": "2026-11-05T04:07:12.910246"
   },
   "190b612d1902d1a0": {
    "avisado_precio": null,
    "descuento": 95,
    "nombre": "Cachecol Vermelho e Branco E Pluribus Unum",
    "precio": 0.6,
-   "ultima_vez": "2026-11-05T03:48:51.750846"
+   "ultima_vez": "2026-11-05T04:07:12.910246"
+  },
+  "197ac3632d98b332": {
+   "avisado_precio": null,
+   "descuento": 80,
+   "nombre": "Desconto em cartão em todas as transações entre e",
+   "precio": 200.0,
+   "ultima_vez": "2026-11-05T04:07:12.910246"
   },
   "1ab4e31da52abaca": {
    "avisado_precio": null,
    "descuento": 70,
    "nombre": "Adepto Desconto em cartão em todas as transações entre e",
    "precio": 300.01,
-   "ultima_vez": "2026-11-04T20:50:11.662697"
+   "ultima_vez": "2026-11-05T04:07:12.910246"
+  },
+  "223380d2818b8d6c": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Desconto em cartão em todas as transações entre e",
+   "precio": 100.0,
+   "ultima_vez": "2026-11-05T04:07:12.910246"
+  },
+  "2552db2423a15586": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Desconto em cartão em todas as transações entre e",
+   "precio": 20.0,
+   "ultima_vez": "2026-11-05T04:07:12.910246"
+  },
+  "295a76aaefdbd6da": {
+   "avisado_precio": null,
+   "descuento": 80,
+   "nombre": "1, Adepto Desconto em Cartão em transações entre e",
+   "precio": 100.01,
+   "ultima_vez": "2026-11-05T04:07:12.910246"
   },
   "2c0cd8bc5cdb8fec": {
    "avisado_precio": null,
    "descuento": 95,
    "nombre": "Sweatshirt Bege E Pluribus Unum SL Benfica",
    "precio": 4.5,
-   "ultima_vez": "2026-11-05T03:48:51.750846"
+   "ultima_vez": "2026-11-05T04:07:12.910246"
   },
   "2c9f9f6ae09f256d": {
    "avisado_precio": null,
    "descuento": 95,
    "nombre": "Polo Vermelho E Pluribus Unum SL Benfica",
    "precio": 3.0,
-   "ultima_vez": "2026-11-05T03:48:51.750846"
+   "ultima_vez": "2026-11-05T04:07:12.910246"
+  },
+  "35845edf75d20ebb": {
+   "avisado_precio": null,
+   "descuento": 80,
+   "nombre": "Desconto em cartão em todas as transações entre e",
+   "precio": 10.0,
+   "ultima_vez": "2026-11-05T04:07:12.910246"
+  },
+  "35d09aaa080e26d2": {
+   "avisado_precio": null,
+   "descuento": 83,
+   "nombre": "Desconto em cartão em todas as transações entre e",
+   "precio": 250.0,
+   "ultima_vez": "2026-11-05T04:07:12.910246"
   },
   "3e240b2e095cc2a0": {
    "avisado_precio": null,
    "descuento": 95,
    "nombre": "Lenço de Cetim E Pluribus Unum 1904",
    "precio": 1.0,
-   "ultima_vez": "2026-11-05T03:48:51.750846"
+   "ultima_vez": "2026-11-05T04:07:12.910246"
+  },
+  "5397d7b14aada767": {
+   "avisado_precio": null,
+   "descuento": 90,
+   "nombre": "Adepto Desconto em cartão em todas as transações superiores a",
+   "precio": 25.0,
+   "ultima_vez": "2026-11-05T04:07:12.910246"
+  },
+  "542446e252928a56": {
+   "avisado_precio": null,
+   "descuento": 67,
+   "nombre": "Desconto em cartão em todas as transações entre e",
+   "precio": 100.0,
+   "ultima_vez": "2026-11-05T04:07:12.910246"
   },
   "548738b0c908cf6c": {
    "avisado_precio": null,
    "descuento": 95,
    "nombre": "T-shirt Bege SL Benfica Papoilas Saltitantes para Criança",
    "precio": 2.0,
-   "ultima_vez": "2026-11-05T03:48:51.750846"
+   "ultima_vez": "2026-11-05T04:07:12.910246"
+  },
+  "557f844906b7e417": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Adepto Desconto em cartão em todas as transações entre e",
+   "precio": 20.0,
+   "ultima_vez": "2026-11-05T04:07:12.910246"
+  },
+  "57b6e8ea0e627072": {
+   "avisado_precio": null,
+   "descuento": 67,
+   "nombre": "Desconto em Cartão em todas as transações entre e *",
+   "precio": 100.0,
+   "ultima_vez": "2026-11-05T04:07:12.910246"
+  },
+  "57e928ec6823fe86": {
+   "avisado_precio": null,
+   "descuento": 67,
+   "nombre": "Adepto Desconto em cartão em todas as transações entre até",
+   "precio": 100.0,
+   "ultima_vez": "2026-11-05T04:07:12.910246"
+  },
+  "5994971d348e3483": {
+   "avisado_precio": null,
+   "descuento": 80,
+   "nombre": "Adepto Desconto em cartão em todas as transações entre e",
+   "precio": 100.01,
+   "ultima_vez": "2026-11-05T04:07:12.910246"
+  },
+  "5d56c18443085ac1": {
+   "avisado_precio": null,
+   "descuento": 80,
+   "nombre": "Desconto em Cartão em todas as transações superiores a e até",
+   "precio": 30.0,
+   "ultima_vez": "2026-11-05T04:07:12.910246"
+  },
+  "63fb5ef1a37e8780": {
+   "avisado_precio": null,
+   "descuento": 94,
+   "nombre": "Desconto em cartão em todas as transações entre e",
+   "precio": 15.0,
+   "ultima_vez": "2026-11-05T04:07:12.910246"
   },
   "64d24f65f3b010b2": {
    "avisado_precio": null,
    "descuento": 98,
    "nombre": "Adepto Desconto em cartão em todas as transações a partir de",
    "precio": 25.0,
-   "ultima_vez": "2026-11-04T20:50:11.662697"
+   "ultima_vez": "2026-11-05T04:07:12.910246"
+  },
+  "6566d3c89bd3c310": {
+   "avisado_precio": null,
+   "descuento": 67,
+   "nombre": "Desconto em Cartão em todas as transações acima de e até",
+   "precio": 18.0,
+   "ultima_vez": "2026-11-05T04:07:12.910246"
   },
   "684e44501d734094": {
    "avisado_precio": null,
    "descuento": 95,
    "nombre": "Almofada de Praia Vermelha e Branca E Pluribus Unum",
    "precio": 3.0,
-   "ultima_vez": "2026-11-05T03:48:51.750846"
+   "ultima_vez": "2026-11-05T04:07:12.910246"
+  },
+  "692fd8a4f90d9fb3": {
+   "avisado_precio": null,
+   "descuento": 75,
+   "nombre": "Desconto em Cartão em todas as transações entre e",
+   "precio": 25.0,
+   "ultima_vez": "2026-11-05T04:07:12.910246"
   },
   "6934d6e18d66c902": {
    "avisado_precio": null,
    "descuento": 95,
    "nombre": "Casaco Branco SL Benfica Papoilas Saltitantes",
    "precio": 5.0,
-   "ultima_vez": "2026-11-05T03:48:51.750846"
+   "ultima_vez": "2026-11-05T04:07:12.910246"
   },
   "6ae5dbb6bfcdb704": {
    "avisado_precio": null,
    "descuento": 95,
    "nombre": "T-shirt Bege SL Benfica Papoilas Saltitantes",
    "precio": 2.0,
-   "ultima_vez": "2026-11-05T03:48:51.750846"
+   "ultima_vez": "2026-11-05T04:07:12.910246"
   },
   "6ef220ea916ba467": {
    "avisado_precio": null,
    "descuento": 95,
    "nombre": "Vestido Vermelho E Pluribus Unum 1904 para Mulher",
    "precio": 2.5,
-   "ultima_vez": "2026-11-05T03:48:51.750846"
+   "ultima_vez": "2026-11-05T04:07:12.910246"
   },
   "72414233511809da": {
    "avisado_precio": null,
    "descuento": 68,
    "nombre": "2, Adepto Desconto em cartão em todas as transações entre e",
    "precio": 40.01,
-   "ultima_vez": "2026-11-04T20:50:11.662697"
+   "ultima_vez": "2026-11-05T04:07:12.910246"
+  },
+  "76e10e87a66051cb": {
+   "avisado_precio": null,
+   "descuento": 90,
+   "nombre": "Desconto em todas as transações inferiores a e superiores a",
+   "precio": 100.0,
+   "ultima_vez": "2026-11-05T04:07:12.910246"
+  },
+  "78f1882f7e4f876d": {
+   "avisado_precio": null,
+   "descuento": 67,
+   "nombre": "2, Adepto Desconto em Cartão em todas as transações entre e",
+   "precio": 500.01,
+   "ultima_vez": "2026-11-05T04:07:12.910246"
+  },
+  "7bb01e468d95d6e0": {
+   "avisado_precio": null,
+   "descuento": 70,
+   "nombre": "2, Adepto Desconto em cartão em todas as transações superiores a e até",
+   "precio": 15.0,
+   "ultima_vez": "2026-11-05T04:07:12.910246"
   },
   "83264a702ee6d26e": {
    "avisado_precio": null,
@@ -113,33 +281,75 @@
    "precio": 0.6,
    "ultima_vez": "2026-10-30T10:47:41.177467"
   },
+  "843c307ba4f2bff9": {
+   "avisado_precio": null,
+   "descuento": 77,
+   "nombre": "De desconto em cartão, na primeira transação se esta for entre e",
+   "precio": 70.0,
+   "ultima_vez": "2026-11-05T04:07:12.910246"
+  },
+  "8b2a8af7005c2d36": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Desconto em cartão em todas as transações entre e",
+   "precio": 20.0,
+   "ultima_vez": "2026-11-05T04:07:12.910246"
+  },
   "9827ebcff8389f60": {
    "avisado_precio": null,
    "descuento": 95,
    "nombre": "Polo Bege E Pluribus Unum SL Benfica",
    "precio": 3.0,
-   "ultima_vez": "2026-11-05T03:48:51.750846"
+   "ultima_vez": "2026-11-05T04:07:12.910246"
+  },
+  "99b142f1e5c8e9a2": {
+   "avisado_precio": null,
+   "descuento": 90,
+   "nombre": "2, Adepto Desconto em cartão em todas as transações entre e",
+   "precio": 50.0,
+   "ultima_vez": "2026-11-05T04:07:12.910246"
+  },
+  "9d6ea3128dea0d26": {
+   "avisado_precio": null,
+   "descuento": 64,
+   "nombre": "Desconto em cartão para todas as transações superiores a e até",
+   "precio": 900.0,
+   "ultima_vez": "2026-11-05T04:07:12.910246"
   },
   "a0433ac57aca02cc": {
    "avisado_precio": null,
    "descuento": 95,
    "nombre": "T-shirt Vermelha SL Benfica Papoilas Saltitantes para Mulher",
    "precio": 1.5,
-   "ultima_vez": "2026-11-05T03:48:51.750846"
+   "ultima_vez": "2026-11-05T04:07:12.910246"
+  },
+  "a1d65853418cfbba": {
+   "avisado_precio": null,
+   "descuento": 62,
+   "nombre": "Desconto em Cartão em todas as transações entre e",
+   "precio": 15.0,
+   "ultima_vez": "2026-11-05T04:07:12.910246"
   },
   "a376a417b5a5cab2": {
    "avisado_precio": null,
    "descuento": 95,
    "nombre": "Sweatshirt Branca SL Benfica Papoilas Saltitantes",
    "precio": 3.0,
-   "ultima_vez": "2026-11-05T03:48:51.750846"
+   "ultima_vez": "2026-11-05T04:07:12.910246"
   },
   "a3cfcbb5d2872375": {
    "avisado_precio": null,
    "descuento": 95,
    "nombre": "Sweatshirt Bege SL Benfica 1904",
    "precio": 4.5,
-   "ultima_vez": "2026-11-05T03:48:51.750846"
+   "ultima_vez": "2026-11-05T04:07:12.910246"
+  },
+  "a81771fb23aae966": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Desconto em cartão em todas as transações entre e",
+   "precio": 200.0,
+   "ultima_vez": "2026-11-05T04:07:12.910246"
   },
   "b00725c347ad20fb": {
    "avisado_precio": null,
@@ -153,84 +363,182 @@
    "descuento": 95,
    "nombre": "Cachecol Vermelho São Papoilas Saltitantes",
    "precio": 0.75,
-   "ultima_vez": "2026-11-05T03:48:51.750846"
+   "ultima_vez": "2026-11-05T04:07:12.910246"
   },
   "b4e5aacdd02f2bd4": {
    "avisado_precio": null,
    "descuento": 95,
    "nombre": "T-shirt Branca e Vermelha E Pluribus Unum SL Benfica",
    "precio": 2.0,
-   "ultima_vez": "2026-11-05T03:48:51.750846"
+   "ultima_vez": "2026-11-05T04:07:12.910246"
   },
   "bad93ff1affda309": {
    "avisado_precio": null,
    "descuento": 95,
    "nombre": "Saco de Praia Bege E Pluribus Unum",
    "precio": 2.0,
-   "ultima_vez": "2026-11-05T03:48:51.750846"
+   "ultima_vez": "2026-11-05T04:07:12.910246"
+  },
+  "bc3bea2455f6e278": {
+   "avisado_precio": null,
+   "descuento": 98,
+   "nombre": "Desconto em Cartão em todas as transações entre e",
+   "precio": 100.0,
+   "ultima_vez": "2026-11-05T04:07:12.910246"
+  },
+  "c69dc58dd62cf27c": {
+   "avisado_precio": null,
+   "descuento": 67,
+   "nombre": "Desconto em cartão em todas as transações a partir de até",
+   "precio": 500.0,
+   "ultima_vez": "2026-11-05T04:07:12.910246"
+  },
+  "cee236c9ff8a192c": {
+   "avisado_precio": null,
+   "descuento": 81,
+   "nombre": "Desconto em Cartão em todas as transações entre e",
+   "precio": 30.0,
+   "ultima_vez": "2026-11-05T04:07:12.910246"
   },
   "d28fe87c1807d490": {
    "avisado_precio": null,
    "descuento": 95,
    "nombre": "Toalha de Praia São Papoilas Saltitantes",
    "precio": 1.5,
-   "ultima_vez": "2026-11-05T03:48:51.750846"
+   "ultima_vez": "2026-11-05T04:07:12.910246"
   },
   "d430d039612ed54c": {
    "avisado_precio": null,
    "descuento": 95,
    "nombre": "Body Branco E Pluribus Unum SL Benfica",
    "precio": 1.5,
-   "ultima_vez": "2026-11-05T03:48:51.750846"
+   "ultima_vez": "2026-11-05T04:07:12.910246"
   },
   "d59d20249b764055": {
    "avisado_precio": null,
    "descuento": 95,
    "nombre": "Sweatshirt Bege E Pluribus Unum 1904",
    "precio": 4.0,
-   "ultima_vez": "2026-11-05T03:48:51.750846"
+   "ultima_vez": "2026-11-05T04:07:12.910246"
   },
   "d602f5c93c4a5d17": {
    "avisado_precio": null,
    "descuento": 95,
    "nombre": "Polo Vermelho E Pluribus Unum SL Benfica para Mulher",
    "precio": 2.25,
-   "ultima_vez": "2026-11-05T03:48:51.750846"
+   "ultima_vez": "2026-11-05T04:07:12.910246"
+  },
+  "d8f7e3b2f92d05ed": {
+   "avisado_precio": null,
+   "descuento": 67,
+   "nombre": "Desconto em Cartão em todas as transações entre e",
+   "precio": 20.0,
+   "ultima_vez": "2026-11-05T04:07:12.910246"
+  },
+  "d9d47def3a714e2e": {
+   "avisado_precio": null,
+   "descuento": 67,
+   "nombre": "Desconto em Cartão em todas as transações entre e",
+   "precio": 25.0,
+   "ultima_vez": "2026-11-05T04:07:12.910246"
+  },
+  "dc99e2a439c82444": {
+   "avisado_precio": null,
+   "descuento": 95,
+   "nombre": "Adepto Desconto em todas as transações superiores a",
+   "precio": 5.0,
+   "ultima_vez": "2026-11-05T04:07:12.910246"
+  },
+  "e4a10ba5cb727136": {
+   "avisado_precio": null,
+   "descuento": 98,
+   "nombre": "Desconto em cartão em todas as transações superiores a até",
+   "precio": 100.0,
+   "ultima_vez": "2026-11-05T04:07:12.910246"
+  },
+  "e526c0b8bbcf0bc4": {
+   "avisado_precio": null,
+   "descuento": 87,
+   "nombre": "7, Adepto Desconto em cartão em todas as transações entre e",
+   "precio": 41.01,
+   "ultima_vez": "2026-11-05T04:07:12.910246"
+  },
+  "e5b122de29debd74": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Desconto em Cartão em todas as transações a partir de até",
+   "precio": 100.0,
+   "ultima_vez": "2026-11-05T04:07:12.910246"
+  },
+  "e6cf1f5cd76636fc": {
+   "avisado_precio": null,
+   "descuento": 98,
+   "nombre": "Adepto Desconto em Cartão em todas as transações superiores a",
+   "precio": 2.0,
+   "ultima_vez": "2026-11-05T04:07:12.910246"
   },
   "e7ab164bc9fd0f37": {
    "avisado_precio": null,
    "descuento": 95,
    "nombre": "Toalha de Praia Bege E Pluribus Unum",
    "precio": 1.5,
-   "ultima_vez": "2026-11-05T03:48:51.750846"
+   "ultima_vez": "2026-11-05T04:07:12.910246"
   },
   "e87fee43ed825fc8": {
    "avisado_precio": null,
    "descuento": 95,
    "nombre": "T-shirt Bege Emblema SL Benfica",
    "precio": 2.0,
-   "ultima_vez": "2026-11-05T03:48:51.750846"
+   "ultima_vez": "2026-11-05T04:07:12.910246"
+  },
+  "e9dbfcaff67f5792": {
+   "avisado_precio": null,
+   "descuento": 70,
+   "nombre": "Desconto em Cartão em todas as transações entre e",
+   "precio": 15.0,
+   "ultima_vez": "2026-11-05T04:07:12.910246"
+  },
+  "ea323e4302a7da1c": {
+   "avisado_precio": null,
+   "descuento": 67,
+   "nombre": "Desconto em cartão em todas as transações entre e , mediante pagamento com QR Code via MB ",
+   "precio": 50.0,
+   "ultima_vez": "2026-11-05T04:07:12.910246"
+  },
+  "eb67402d20fe39bc": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Adepto Desconto em Cartão em todas as transações superiores a e até",
+   "precio": 10.0,
+   "ultima_vez": "2026-11-05T04:07:12.910246"
+  },
+  "f307319be89841b2": {
+   "avisado_precio": null,
+   "descuento": 80,
+   "nombre": "Desconto em cartão em todas as transações entre e",
+   "precio": 100.0,
+   "ultima_vez": "2026-11-05T04:07:12.910246"
   },
   "f391eb77c38e8542": {
    "avisado_precio": null,
    "descuento": 95,
    "nombre": "Saia Branca SL Benfica 1904",
    "precio": 2.0,
-   "ultima_vez": "2026-11-05T03:48:51.750846"
+   "ultima_vez": "2026-11-05T04:07:12.910246"
   },
   "f507ec669429dec2": {
    "avisado_precio": null,
    "descuento": 95,
    "nombre": "Calções Beges SL Benfica 1904",
    "precio": 2.5,
-   "ultima_vez": "2026-11-05T03:48:51.750846"
+   "ultima_vez": "2026-11-05T04:07:12.910246"
   },
   "fb2aef91bcb03121": {
    "avisado_precio": null,
    "descuento": 95,
    "nombre": "Cachecol Branco SL Benfica Papoilas Saltitantes",
    "precio": 0.75,
-   "ultima_vez": "2026-11-05T03:48:51.750846"
+   "ultima_vez": "2026-11-05T04:07:12.910246"
   }
  }
 }
