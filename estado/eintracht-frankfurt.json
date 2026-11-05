@@ -5,7 +5,7 @@
  },
  "cursores": {},
  "fase_inicial": false,
- "ultima_revision": "2026-11-05T16:46:54.272850",
+ "ultima_revision": "2026-11-05T17:02:12.653102",
  "version_filtro": 2,
  "vistos": {
   "15b211874d1482de": {
@@ -20,7 +20,7 @@
    "descuento": 60,
    "nombre": "Schräg von links: Eine schwarze Eintracht Frankfurt Beanie mit geripptem Umschlag und klei",
    "precio": 10.0,
-   "ultima_vez": "2026-11-05T16:46:54.271720"
+   "ultima_vez": "2026-11-05T17:02:11.991744"
   },
   "16d5096cd2a7ecaf": {
    "avisado_precio": null,
@@ -36,6 +36,13 @@
    "precio": 5.0,
    "ultima_vez": "2026-10-30T15:16:50.728637"
   },
+  "1a22f2582fba2f38": {
+   "avisado_precio": null,
+   "descuento": 77,
+   "nombre": "Schwarzes Kinder-T-Shirt mit roten Raglanärmeln, zentralem Eintracht Frankfurt Logo und ad",
+   "precio": 5.0,
+   "ultima_vez": "2026-11-05T17:02:11.991744"
+  },
   "245705d5c602c142": {
    "avisado_precio": null,
    "descuento": 70,
@@ -50,12 +57,70 @@
    "precio": 35.0,
    "ultima_vez": "2026-11-03T09:16:42.497711"
   },
+  "301e67bb61d5c46c": {
+   "avisado_precio": null,
+   "descuento": 75,
+   "nombre": "Vorderansicht des schwarzen adidas Eintracht Frankfurt T-Shirts mit Rundhalsausschnitt. Au",
+   "precio": 10.0,
+   "ultima_vez": "2026-11-05T17:02:11.991744"
+  },
   "31c01074d63c9a57": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Bild schräg von rechts: Eine schwarze Eintracht Frankfurt Waldstadion Beanie, mit weißem R",
    "precio": 10.0,
-   "ultima_vez": "2026-11-05T16:46:54.271720"
+   "ultima_vez": "2026-11-05T17:02:11.991744"
+  },
+  "364aee5c2fca0016": {
+   "avisado_precio": null,
+   "descuento": 86,
+   "nombre": "Schwarzes ärmelloses Shirt mit Rundhalsausschnitt, kleinem Adler-Logo rechts und adidas Lo",
+   "precio": 5.0,
+   "tallas": [
+    [
+     "S",
+     false
+    ],
+    [
+     "M",
+     false
+    ],
+    [
+     "L",
+     false
+    ],
+    [
+     "XL",
+     false
+    ],
+    [
+     "2XL",
+     false
+    ]
+   ],
+   "tallas_revisado": "2026-11-05T17:02:11.991744",
+   "ultima_vez": "2026-11-05T17:02:11.991744"
+  },
+  "370d7a65ccf989d7": {
+   "avisado_precio": null,
+   "descuento": 60,
+   "nombre": "Schwarzes Eintracht Frankfurt T-Shirt für Kinder, geometrisches Muster mit verschiedenen a",
+   "precio": 10.0,
+   "ultima_vez": "2026-11-05T17:02:11.991744"
+  },
+  "3daa458b418832b8": {
+   "avisado_precio": null,
+   "descuento": 89,
+   "nombre": "Weißes Eintracht Frankfurt T-Shirt mit dem Eintracht-Wappen und dem schwarzen Adidas-Logo ",
+   "precio": 5.0,
+   "ultima_vez": "2026-11-05T17:02:11.991744"
+  },
+  "4cb6acb559f273c2": {
+   "avisado_precio": null,
+   "descuento": 88,
+   "nombre": "Schwarzes adidas T-Shirt aus atmungsaktivem Material. Von vorne abgebildet mit weißem klei",
+   "precio": 5.0,
+   "ultima_vez": "2026-11-05T17:02:11.991744"
   },
   "4da1216266829f4d": {
    "avisado_precio": null,
@@ -76,28 +141,35 @@
    "descuento": 60,
    "nombre": "Bild 1 Sweater Attila Am Spargel",
    "precio": 30.0,
-   "ultima_vez": "2026-11-05T16:46:54.271720"
+   "ultima_vez": "2026-11-05T17:02:11.991744"
   },
   "66d71d99e7698daa": {
    "avisado_precio": null,
    "descuento": 75,
    "nombre": "Schwarzes Shirt für Kids mit Logo und Schriftzügen über die Ärmel und Brust. Rechts sind N",
    "precio": 5.0,
-   "ultima_vez": "2026-11-05T16:46:54.271720"
+   "ultima_vez": "2026-11-05T17:02:11.991744"
   },
   "6cba3275ac54ec12": {
    "avisado_precio": null,
    "descuento": 70,
    "nombre": "Bild Vorderseite: Schwarze Short mit Gerippte Muster und Eintracht-Logo. Rechts abgebildet",
    "precio": 15.0,
-   "ultima_vez": "2026-11-05T16:46:54.271720"
+   "ultima_vez": "2026-11-05T17:02:11.991744"
+  },
+  "75ce1fa15967d14f": {
+   "avisado_precio": null,
+   "descuento": 65,
+   "nombre": "Schwarze Eintracht Frankfurt Winter-Kinderjacke von adidas in der Vorderansicht mit Verein",
+   "precio": 30.0,
+   "ultima_vez": "2026-11-05T17:02:11.991744"
   },
   "76bb0a121370a96b": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Rechte 45 Grad -Ansicht der schwarzen Kappe mit Retro-Logo und Waldstadion Schriftzug auf ",
    "precio": 10.0,
-   "ultima_vez": "2026-11-05T16:46:54.271720"
+   "ultima_vez": "2026-11-05T17:02:11.991744"
   },
   "772b1a66ccec2598": {
    "avisado_precio": null,
@@ -111,7 +183,7 @@
    "descuento": 60,
    "nombre": "Vorderansicht eines schwarzen Babyshirts mit großem weißem adidas-Logo und dem Schriftzug ",
    "precio": 8.0,
-   "ultima_vez": "2026-11-05T16:46:54.271720"
+   "ultima_vez": "2026-11-05T17:02:11.991744"
   },
   "8fce02761c9584b3": {
    "avisado_precio": null,
@@ -120,19 +192,26 @@
    "precio": 5.0,
    "ultima_vez": "2026-11-04T12:02:07.331753"
   },
+  "948c2369d931f3f4": {
+   "avisado_precio": null,
+   "descuento": 78,
+   "nombre": "Eintracht Frankfurt Jogginganzug für Kleinkinder als Zweiteiler mit Rundhalssweatshirt und",
+   "precio": 10.0,
+   "ultima_vez": "2026-11-05T17:02:11.991744"
+  },
   "9564be183a2c7451": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Vorderansicht des schwarzen adidas Polo-Shirts. Auf der Brust sind das adidas Logo und der",
    "precio": 20.0,
-   "ultima_vez": "2026-11-05T16:46:54.271720"
+   "ultima_vez": "2026-11-05T17:02:11.991744"
   },
   "a1c0aba4d59daaa7": {
    "avisado_precio": null,
    "descuento": 62,
    "nombre": "Bild Vorderseite: Schwarze Jogginghose mit Gerippte Muster und Logo in Weiß. Rechts abgebi",
    "precio": 25.0,
-   "ultima_vez": "2026-11-05T16:46:54.271720"
+   "ultima_vez": "2026-11-05T17:02:11.991744"
   },
   "b0ca98d4380bb8fe": {
    "avisado_precio": null,
@@ -141,40 +220,61 @@
    "precio": 5.0,
    "ultima_vez": "2026-11-04T12:02:07.331753"
   },
+  "b21bccf7d553ed87": {
+   "avisado_precio": null,
+   "descuento": 80,
+   "nombre": "adidas Damen Zip Jacke von vorne in glänzendem Hellgrau. Auf der Brust Eintracht- und adid",
+   "precio": 15.0,
+   "ultima_vez": "2026-11-05T17:02:11.991744"
+  },
   "b597def6c13cc189": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Graue Babyhose mit Rautenmuster von vorne mit roten Details an den Bündchen und rotem Kord",
    "precio": 8.0,
-   "ultima_vez": "2026-11-05T16:46:54.271720"
+   "ultima_vez": "2026-11-05T17:02:11.991744"
+  },
+  "ce528f12f770edb3": {
+   "avisado_precio": null,
+   "descuento": 82,
+   "nombre": "Schwarze Eintracht Frankfurt Adidas Steppjacke Vorderseite mit Adler-Logo und Kapuze.",
+   "precio": 30.0,
+   "ultima_vez": "2026-11-05T17:02:11.991744"
   },
   "dbb692cd9adc2c61": {
    "avisado_precio": null,
    "descuento": 64,
    "nombre": "adidas Damen Jogger von vorne in glänzendem Hellgrau. Auf den Oberschenkeln Eintracht- und",
    "precio": 25.0,
-   "ultima_vez": "2026-11-05T16:46:54.271720"
+   "ultima_vez": "2026-11-05T17:02:11.991744"
+  },
+  "e8d3fb9153dccf34": {
+   "avisado_precio": null,
+   "descuento": 78,
+   "nombre": "Schwarze adidas Shorts mit weißem adidas Performance Logo auf dem rechten Bein und Eintrac",
+   "precio": 10.0,
+   "ultima_vez": "2026-11-05T17:02:11.991744"
   },
   "f9046098180198c1": {
    "avisado_precio": null,
    "descuento": 78,
    "nombre": "Schwarzer Kapuzenpullover für Kids mit Logo und Schriftzügen über die Ärmel und Brust. Rec",
    "precio": 10.0,
-   "ultima_vez": "2026-11-05T16:46:54.271720"
+   "ultima_vez": "2026-11-05T17:02:11.991744"
   },
   "fac31f0ada48cd25": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Schwarzes Kids T-Shirt mit „Bobbelsche”-Schriftzug und Gerippte Muster. Rechts sind Nachha",
    "precio": 6.0,
-   "ultima_vez": "2026-11-05T16:46:54.271720"
+   "ultima_vez": "2026-11-05T17:02:11.991744"
   },
   "fb7171ead0a7d667": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "Schräg von rechts: Schwarze Eintracht Frankfurt Fisherman Beanie mit rotem \"1899\" Stick am",
    "precio": 10.0,
-   "ultima_vez": "2026-11-05T16:46:54.271720"
+   "ultima_vez": "2026-11-05T17:02:11.991744"
   },
   "fe700900d6b6fc51": {
    "avisado_precio": null,
