@@ -5,7 +5,7 @@
  },
  "cursores": {},
  "fase_inicial": false,
- "ultima_revision": "2026-11-05T12:17:36.079207",
+ "ultima_revision": "2026-11-05T12:32:46.161276",
  "version_filtro": 2,
  "vistos": {
   "019a6ec040c3ac96": {
@@ -20,7 +20,7 @@
    "descuento": 95,
    "nombre": "Cachecol Vermelho Benfica Campus 1904",
    "precio": 0.6,
-   "ultima_vez": "2026-11-05T12:17:36.078367"
+   "ultima_vez": "2026-11-05T12:32:46.160287"
   },
   "0bb17b350ab0a500": {
    "avisado_precio": null,
@@ -62,7 +62,7 @@
    "descuento": 95,
    "nombre": "Cachecol Vermelho e Branco E Pluribus Unum",
    "precio": 0.6,
-   "ultima_vez": "2026-11-05T12:17:36.078367"
+   "ultima_vez": "2026-11-05T12:32:46.160287"
   },
   "197ac3632d98b332": {
    "avisado_precio": null,
@@ -104,14 +104,14 @@
    "descuento": 95,
    "nombre": "Sweatshirt Bege E Pluribus Unum SL Benfica",
    "precio": 4.5,
-   "ultima_vez": "2026-11-05T12:17:36.078367"
+   "ultima_vez": "2026-11-05T12:32:46.160287"
   },
   "2c9f9f6ae09f256d": {
    "avisado_precio": null,
    "descuento": 95,
    "nombre": "Polo Vermelho E Pluribus Unum SL Benfica",
    "precio": 3.0,
-   "ultima_vez": "2026-11-05T12:17:36.078367"
+   "ultima_vez": "2026-11-05T12:32:46.160287"
   },
   "35845edf75d20ebb": {
    "avisado_precio": null,
@@ -132,7 +132,7 @@
    "descuento": 95,
    "nombre": "Lenço de Cetim E Pluribus Unum 1904",
    "precio": 1.0,
-   "ultima_vez": "2026-11-05T12:17:36.078367"
+   "ultima_vez": "2026-11-05T12:32:46.160287"
   },
   "5397d7b14aada767": {
    "avisado_precio": null,
@@ -153,7 +153,7 @@
    "descuento": 95,
    "nombre": "T-shirt Bege SL Benfica Papoilas Saltitantes para Criança",
    "precio": 2.0,
-   "ultima_vez": "2026-11-05T12:17:36.078367"
+   "ultima_vez": "2026-11-05T12:32:46.160287"
   },
   "557f844906b7e417": {
    "avisado_precio": null,
@@ -216,7 +216,7 @@
    "descuento": 95,
    "nombre": "Almofada de Praia Vermelha e Branca E Pluribus Unum",
    "precio": 3.0,
-   "ultima_vez": "2026-11-05T12:17:36.078367"
+   "ultima_vez": "2026-11-05T12:32:46.160287"
   },
   "692fd8a4f90d9fb3": {
    "avisado_precio": null,
@@ -230,21 +230,21 @@
    "descuento": 95,
    "nombre": "Casaco Branco SL Benfica Papoilas Saltitantes",
    "precio": 5.0,
-   "ultima_vez": "2026-11-05T12:17:36.078367"
+   "ultima_vez": "2026-11-05T12:32:46.160287"
   },
   "6ae5dbb6bfcdb704": {
    "avisado_precio": null,
    "descuento": 95,
    "nombre": "T-shirt Bege SL Benfica Papoilas Saltitantes",
    "precio": 2.0,
-   "ultima_vez": "2026-11-05T12:17:36.078367"
+   "ultima_vez": "2026-11-05T12:32:46.160287"
   },
   "6ef220ea916ba467": {
    "avisado_precio": null,
    "descuento": 95,
    "nombre": "Vestido Vermelho E Pluribus Unum 1904 para Mulher",
    "precio": 2.5,
-   "ultima_vez": "2026-11-05T12:17:36.078367"
+   "ultima_vez": "2026-11-05T12:32:46.160287"
   },
   "72414233511809da": {
    "avisado_precio": null,
@@ -300,7 +300,7 @@
    "descuento": 95,
    "nombre": "Polo Bege E Pluribus Unum SL Benfica",
    "precio": 3.0,
-   "ultima_vez": "2026-11-05T12:17:36.078367"
+   "ultima_vez": "2026-11-05T12:32:46.160287"
   },
   "99b142f1e5c8e9a2": {
    "avisado_precio": null,
@@ -321,7 +321,7 @@
    "descuento": 95,
    "nombre": "T-shirt Vermelha SL Benfica Papoilas Saltitantes para Mulher",
    "precio": 1.5,
-   "ultima_vez": "2026-11-05T12:17:36.078367"
+   "ultima_vez": "2026-11-05T12:32:46.160287"
   },
   "a1d65853418cfbba": {
    "avisado_precio": null,
@@ -335,14 +335,14 @@
    "descuento": 95,
    "nombre": "Sweatshirt Branca SL Benfica Papoilas Saltitantes",
    "precio": 3.0,
-   "ultima_vez": "2026-11-05T12:17:36.078367"
+   "ultima_vez": "2026-11-05T12:32:46.160287"
   },
   "a3cfcbb5d2872375": {
    "avisado_precio": null,
    "descuento": 95,
    "nombre": "Sweatshirt Bege SL Benfica 1904",
    "precio": 4.5,
-   "ultima_vez": "2026-11-05T12:17:36.078367"
+   "ultima_vez": "2026-11-05T12:32:46.160287"
   },
   "a81771fb23aae966": {
    "avisado_precio": null,
@@ -363,21 +363,21 @@
    "descuento": 95,
    "nombre": "Cachecol Vermelho São Papoilas Saltitantes",
    "precio": 0.75,
-   "ultima_vez": "2026-11-05T12:17:36.078367"
+   "ultima_vez": "2026-11-05T12:32:46.160287"
   },
   "b4e5aacdd02f2bd4": {
    "avisado_precio": null,
    "descuento": 95,
    "nombre": "T-shirt Branca e Vermelha E Pluribus Unum SL Benfica",
    "precio": 2.0,
-   "ultima_vez": "2026-11-05T12:17:36.078367"
+   "ultima_vez": "2026-11-05T12:32:46.160287"
   },
   "bad93ff1affda309": {
    "avisado_precio": null,
    "descuento": 95,
    "nombre": "Saco de Praia Bege E Pluribus Unum",
    "precio": 2.0,
-   "ultima_vez": "2026-11-05T12:17:36.078367"
+   "ultima_vez": "2026-11-05T12:32:46.160287"
   },
   "bc3bea2455f6e278": {
    "avisado_precio": null,
@@ -405,28 +405,28 @@
    "descuento": 95,
    "nombre": "Toalha de Praia São Papoilas Saltitantes",
    "precio": 1.5,
-   "ultima_vez": "2026-11-05T12:17:36.078367"
+   "ultima_vez": "2026-11-05T12:32:46.160287"
   },
   "d430d039612ed54c": {
    "avisado_precio": null,
    "descuento": 95,
    "nombre": "Body Branco E Pluribus Unum SL Benfica",
    "precio": 1.5,
-   "ultima_vez": "2026-11-05T12:17:36.078367"
+   "ultima_vez": "2026-11-05T12:32:46.160287"
   },
   "d59d20249b764055": {
    "avisado_precio": null,
    "descuento": 95,
    "nombre": "Sweatshirt Bege E Pluribus Unum 1904",
    "precio": 4.0,
-   "ultima_vez": "2026-11-05T12:17:36.078367"
+   "ultima_vez": "2026-11-05T12:32:46.160287"
   },
   "d602f5c93c4a5d17": {
    "avisado_precio": null,
    "descuento": 95,
    "nombre": "Polo Vermelho E Pluribus Unum SL Benfica para Mulher",
    "precio": 2.25,
-   "ultima_vez": "2026-11-05T12:17:36.078367"
+   "ultima_vez": "2026-11-05T12:32:46.160287"
   },
   "d8f7e3b2f92d05ed": {
    "avisado_precio": null,
@@ -482,14 +482,14 @@
    "descuento": 95,
    "nombre": "Toalha de Praia Bege E Pluribus Unum",
    "precio": 1.5,
-   "ultima_vez": "2026-11-05T12:17:36.078367"
+   "ultima_vez": "2026-11-05T12:32:46.160287"
   },
   "e87fee43ed825fc8": {
    "avisado_precio": null,
    "descuento": 95,
    "nombre": "T-shirt Bege Emblema SL Benfica",
    "precio": 2.0,
-   "ultima_vez": "2026-11-05T12:17:36.078367"
+   "ultima_vez": "2026-11-05T12:32:46.160287"
   },
   "e9dbfcaff67f5792": {
    "avisado_precio": null,
@@ -524,21 +524,21 @@
    "descuento": 95,
    "nombre": "Saia Branca SL Benfica 1904",
    "precio": 2.0,
-   "ultima_vez": "2026-11-05T12:17:36.078367"
+   "ultima_vez": "2026-11-05T12:32:46.160287"
   },
   "f507ec669429dec2": {
    "avisado_precio": null,
    "descuento": 95,
    "nombre": "Calções Beges SL Benfica 1904",
    "precio": 2.5,
-   "ultima_vez": "2026-11-05T12:17:36.078367"
+   "ultima_vez": "2026-11-05T12:32:46.160287"
   },
   "fb2aef91bcb03121": {
    "avisado_precio": null,
    "descuento": 95,
    "nombre": "Cachecol Branco SL Benfica Papoilas Saltitantes",
    "precio": 0.75,
-   "ultima_vez": "2026-11-05T12:17:36.078367"
+   "ultima_vez": "2026-11-05T12:32:46.160287"
   }
  }
 }
