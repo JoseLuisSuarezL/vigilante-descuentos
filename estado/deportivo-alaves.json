@@ -5,7 +5,7 @@
  },
  "cursores": {},
  "fase_inicial": false,
- "ultima_revision": "2026-11-05T16:01:47.406859",
+ "ultima_revision": "2026-11-05T16:16:13.800966",
  "version_filtro": 2,
  "vistos": {
   "6d08cffb7a66c476": {
@@ -20,21 +20,21 @@
    "descuento": 64,
    "nombre": "CAMISETA AZUL EL GLORIOSO NUNCA SE RINDE X SCALPERS",
    "precio": 15.0,
-   "ultima_vez": "2026-11-05T16:01:47.406741"
+   "ultima_vez": "2026-11-05T16:16:13.800854"
   },
   "aee95b467c916aa5": {
    "avisado_precio": 15.0,
    "descuento": 78,
    "nombre": "SUDADERA MENDIZORROTZA DEPORTIVO ALAVÉS X SCALPERS",
    "precio": 15.0,
-   "ultima_vez": "2026-11-05T16:01:47.406741"
+   "ultima_vez": "2026-11-05T16:16:13.800854"
   },
   "c9fcf1f25101fc6a": {
    "avisado_precio": null,
    "descuento": 80,
    "nombre": "POLO MO DA RETRO AZUL 2026 JR",
    "precio": 8.0,
-   "ultima_vez": "2026-11-05T16:01:47.406741"
+   "ultima_vez": "2026-11-05T16:16:13.800854"
   }
  }
 }
