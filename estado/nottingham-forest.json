@@ -5,7 +5,7 @@
  },
  "cursores": {},
  "fase_inicial": false,
- "ultima_revision": "2026-11-05T04:31:14.604020",
+ "ultima_revision": "2026-11-05T04:46:02.655062",
  "version_filtro": 2,
  "vistos": {
   "108bd62772b45331": {
@@ -34,35 +34,35 @@
    "descuento": 70,
    "nombre": "NFFC Flagstone Button Through Knit Polo",
    "precio": 25.0,
-   "ultima_vez": "2026-11-05T04:31:14.603205"
+   "ultima_vez": "2026-11-05T04:46:02.653829"
   },
   "16bf29cd11e3b71e": {
    "avisado_precio": null,
    "descuento": 81,
    "nombre": "NFFC Coaches Presentation Pants 25/26",
    "precio": 17.0,
-   "ultima_vez": "2026-11-05T04:31:14.603205"
+   "ultima_vez": "2026-11-05T04:46:02.653829"
   },
   "183b2c434c7deee4": {
    "avisado_precio": 23.0,
    "descuento": 60,
    "nombre": "NFFC Flagstone Knit Shorts",
    "precio": 23.0,
-   "ultima_vez": "2026-11-05T04:31:14.603205"
+   "ultima_vez": "2026-11-05T04:46:02.653829"
   },
   "19461f5c90db4385": {
    "avisado_precio": null,
    "descuento": 61,
    "nombre": "NFFC Women's Away Shirt 25/26",
    "precio": 49.0,
-   "ultima_vez": "2026-11-05T04:31:14.603205"
+   "ultima_vez": "2026-11-05T04:46:02.653829"
   },
   "27eb25693cbcab38": {
    "avisado_precio": null,
    "descuento": 60,
    "nombre": "NFFC 2 Pack Metal Cups",
    "precio": 9.99,
-   "ultima_vez": "2026-11-05T04:31:14.603205"
+   "ultima_vez": "2026-11-05T04:46:02.653829"
   },
   "2903fcf960ababb2": {
    "avisado_precio": null,
@@ -76,7 +76,7 @@
    "descuento": 61,
    "nombre": "NFFC 12\" Robot Plush Toy",
    "precio": 7.0,
-   "ultima_vez": "2026-11-05T04:31:14.603205"
+   "ultima_vez": "2026-11-05T04:46:02.653829"
   },
   "32f806e500937b6e": {
    "avisado_precio": null,
@@ -97,21 +97,21 @@
    "descuento": 61,
    "nombre": "NFFC Junior Navy Essential T- Shirt",
    "precio": 8.99,
-   "ultima_vez": "2026-11-05T04:31:14.603205"
+   "ultima_vez": "2026-11-05T04:46:02.653829"
   },
   "41573b1b28f215b8": {
    "avisado_precio": 22.0,
    "descuento": 61,
    "nombre": "NFFC Sand Legacy Waffle Polo",
    "precio": 22.0,
-   "ultima_vez": "2026-11-05T04:31:14.603205"
+   "ultima_vez": "2026-11-05T04:46:02.653829"
   },
   "4f19d57ffe30f102": {
    "avisado_precio": null,
    "descuento": 61,
    "nombre": "NFFC 9\" Giraffe Plush Toy",
    "precio": 7.0,
-   "ultima_vez": "2026-11-05T04:31:14.603205"
+   "ultima_vez": "2026-11-05T04:46:02.653829"
   },
   "50fcccd7576b2ac6": {
    "avisado_precio": null,
@@ -160,14 +160,14 @@
    "descuento": 68,
    "nombre": "NFFC Heritage Ecru Bubble Knit Polo",
    "precio": 18.0,
-   "ultima_vez": "2026-11-05T04:31:14.603205"
+   "ultima_vez": "2026-11-05T04:46:02.653829"
   },
   "8469b0443973a1e9": {
    "avisado_precio": null,
    "descuento": 81,
    "nombre": "NFFC Women's Player Training Pants 25/26",
    "precio": 17.0,
-   "ultima_vez": "2026-11-05T04:31:14.603205"
+   "ultima_vez": "2026-11-05T04:46:02.653829"
   },
   "90161db5feade660": {
    "avisado_precio": null,
@@ -181,14 +181,14 @@
    "descuento": 61,
    "nombre": "NFFC Burgundy Legacy Drop Needle Polo",
    "precio": 22.0,
-   "ultima_vez": "2026-11-05T04:31:14.603205"
+   "ultima_vez": "2026-11-05T04:46:02.653829"
   },
   "9e23687b0b8edc5d": {
    "avisado_precio": null,
    "descuento": 61,
    "nombre": "NFFC Home Shirt 25/26",
    "precio": 49.0,
-   "ultima_vez": "2026-11-05T04:31:14.603205"
+   "ultima_vez": "2026-11-05T04:46:02.653829"
   },
   "9eb8e85421a76052": {
    "avisado_precio": null,
@@ -230,14 +230,14 @@
    "descuento": 70,
    "nombre": "NFFC Away Shorts 25/26",
    "precio": 17.0,
-   "ultima_vez": "2026-11-05T04:31:14.603205"
+   "ultima_vez": "2026-11-05T04:46:02.653829"
   },
   "c8fc978601d1c7d5": {
    "avisado_precio": 49.0,
    "descuento": 61,
    "nombre": "NFFC Home Shirt 24/25",
    "precio": 49.0,
-   "ultima_vez": "2026-11-05T04:31:14.603205"
+   "ultima_vez": "2026-11-05T04:46:02.653829"
   },
   "cf05810d3f974a32": {
    "avisado_precio": null,
@@ -279,21 +279,21 @@
    "descuento": 86,
    "nombre": "NFFC UEL 25/26 Nottingham Forest vs Malmö FF Pin Badge",
    "precio": 1.99,
-   "ultima_vez": "2026-11-05T04:31:14.603205"
+   "ultima_vez": "2026-11-05T04:46:02.653829"
   },
   "e833312c44245efb": {
    "avisado_precio": 4.99,
    "descuento": 88,
    "nombre": "NFFC Aloha Hawaiian Shorts",
    "precio": 4.99,
-   "ultima_vez": "2026-11-05T04:31:14.603205"
+   "ultima_vez": "2026-11-05T04:46:02.653829"
   },
   "e83fb374e91a4b7f": {
    "avisado_precio": null,
    "descuento": 86,
    "nombre": "NFFC 23-24 Blue Goalkeeper Shirt",
    "precio": 17.0,
-   "ultima_vez": "2026-11-05T04:31:14.603205"
+   "ultima_vez": "2026-11-05T04:46:02.653829"
   },
   "f442aff52238e1c8": {
    "avisado_precio": null,
@@ -307,7 +307,7 @@
    "descuento": 61,
    "nombre": "NFFC Away Shirt 25/26",
    "precio": 49.0,
-   "ultima_vez": "2026-11-05T04:31:14.603205"
+   "ultima_vez": "2026-11-05T04:46:02.653829"
   },
   "fe36b79696bddb12": {
    "avisado_precio": null,
